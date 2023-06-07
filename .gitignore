@@ -1,0 +1,69 @@
+# .gitignore
+/vendor
+/node_modules
+/public/storage
+/storage/backups
+Homestead.yaml
+Homestead.json
+public/packages/
+.env
+.idea
+.DS_Store
+.packages
+.quarantine
+.tmb
+## Laravel specific
+/vendor/
+.env
+.env.*
+.env.*.local
+config/packages/
+public/packages/
+# storage/framework/cache/
+# storage/framework/sessions/
+# storage/framework/views/
+# public/hot
+# public/storage
+# public/.htaccess
+# public/mix-manifest.json
+# resources/css/compiled/**/*.css
+# resources/js/compiled/**/*.js
+# /resources/vendor/compiled/**
+/.phpunit.result.cache
+
+## Fly specific
+/flyfile.lock
+
+## Docker specific
+# .dockerignore
+# Dockerfile*
+# docker-compose*
+# docker-sync*
+# docker-compose.override.yml
+
+## OS & Editor specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*_cache/
+#__pycache__/
+*.py[cod]
+*.pyo
+*.rbc
+*.sass-cache/
+*.webpack.js
+*.web-server-pid
+logs
+/*.tm_properties
+/tags
+.tmtags
+
+## Logs archives
+*.log
+
+## Deploy
+settings/server-config.json
+!.gitkeep
