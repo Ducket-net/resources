@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hween10_tree_32_a_0_0" x="30" y="106"/>
+  <asset name="hween10_tree_32_b_0_1" flipH="1" x="8" y="78"/>
+  <asset name="hween10_tree_32_b_0_0" x="-8" y="44"/>
+  <asset name="hween10_tree_64_a_0_0" x="56" y="212"/>
+  <asset name="hween10_tree_64_b_0_0" x="-14" y="110"/>
+  <asset name="hween10_tree_64_b_0_1" x="18" y="151"/>
+  <asset name="hween10_tree_icon_a" x="8" y="20"/>
+  <asset name="hween10_tree_32_a_6_0" flipH="1" source="hween10_tree_32_a_0_0" x="30" y="106"/>
+  <asset name="hween10_tree_32_b_6_1" flipH="1" source="hween10_tree_32_b_0_1" x="8" y="78"/>
+  <asset name="hween10_tree_32_b_6_0" flipH="1" source="hween10_tree_32_b_0_0" x="-8" y="44"/>
+  <asset name="hween10_tree_64_a_6_0" flipH="1" source="hween10_tree_64_a_0_0" x="56" y="212"/>
+  <asset name="hween10_tree_64_b_6_0" flipH="1" source="hween10_tree_64_b_0_0" x="-14" y="110"/>
+  <asset name="hween10_tree_64_b_6_1" flipH="1" source="hween10_tree_64_b_0_1" x="18" y="151"/>
+  <asset name="hween10_tree_64_a_0_1" source="hween10_tree_64_a_0_0" x="56" y="212"/>
+  <asset name="hween10_tree_64_a_6_1" flipH="1" source="hween10_tree_64_a_0_0" x="56" y="212"/>
+  <asset name="hween10_tree_32_a_0_1" source="hween10_tree_32_a_0_0" x="30" y="106"/>
+</assets>

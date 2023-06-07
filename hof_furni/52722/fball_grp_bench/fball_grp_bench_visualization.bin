@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="fball_grp_bench">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+      <layers>
+        <layer id="0" tag="COLOR1"/>
+      </layers>
+    </visualization>
+    <visualization size="32" layerCount="6" angle="45">
+      <layers>
+        <layer id="0" tag="COLOR1"/>
+        <layer id="1" z="1020" tag="COLOR1"/>
+        <layer id="2" z="2020" tag="COLOR1"/>
+        <layer id="3" z="600" tag="COLOR1"/>
+        <layer id="4" z="1600" tag="COLOR1"/>
+        <layer id="5" z="2600" tag="COLOR1"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="4"/>
+        <direction id="6"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="6" angle="45">
+      <layers>
+        <layer id="0" tag="COLOR1"/>
+        <layer id="1" tag="COLOR1" z="1020"/>
+        <layer id="2" tag="COLOR1" z="2020"/>
+        <layer id="3" tag="COLOR1" z="600"/>
+        <layer id="4" tag="COLOR1" z="1600"/>
+        <layer id="5" tag="COLOR1" z="2600"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="4"/>
+        <direction id="6"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

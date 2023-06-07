@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="xm09_bauble_21_64_a_2_0" x="7" y="1"/>
+   <asset name="xm09_bauble_21_64_b_2_0" x="7" y="22"/>
+   <asset name="xm09_bauble_21_64_a_4_0" flipH="1" source="xm09_bauble_21_64_a_2_0" x="7" y="1"/>
+   <asset name="xm09_bauble_21_64_b_4_0" flipH="1" source="xm09_bauble_21_64_b_2_0" x="7" y="22"/>
+   <asset name="xm09_bauble_21_32_a_2_0" x="4" y="1"/>
+   <asset name="xm09_bauble_21_32_b_2_0" x="4" y="11"/>
+   <asset name="xm09_bauble_21_32_a_4_0" flipH="1" source="xm09_bauble_21_32_a_2_0" x="4" y="1"/>
+   <asset name="xm09_bauble_21_32_b_4_0" flipH="1" source="xm09_bauble_21_32_b_2_0" x="4" y="11"/>
+   <asset name="xm09_bauble_21_icon_a" x="7" y="15"/>
+</assets>

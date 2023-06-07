@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="rare_icecream"><graphics>
+   <visualization size="32" layerCount="5" angle="45">
+      <layers>
+         <layer id="2" ink="ADD"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4">
+            <layer id="0" x="10" y="3" z="10"/>
+            <layer id="3" x="6" y="4"/>
+            <layer id="4" x="-5" y="-3"/>
+         </direction>
+      </directions>
+      <animations>
+      	<animation id="0">
+      		<animationLayer id="0">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="1">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="2">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="3">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      	</animation>
+      	<animation id="1">
+      		<animationLayer id="0" frameRepeat="2">
+	      		<frameSequence>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="1">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="2">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="3" frameRepeat="2">
+	      		<frameSequence>
+      				<frame id="1"/>
+      				<frame id="2"/>
+      				<frame id="3"/>
+      				<frame id="4"/>
+      				<frame id="5"/>
+      				<frame id="5"/>
+      				<frame id="6"/>
+      			</frameSequence>
+      		</animationLayer>
+      	</animation>
+      </animations>
+      <colors>
+         <color id="0">
+            <colorLayer id="1" color="F43100"/>
+         </color>
+         <color id="1">
+            <colorLayer id="1" color="3C75FF"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="55CD01"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="C05DFF"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FF9898"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="E1CC00"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="FF8000"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="97420C"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="00E5E2"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="FF60B0"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="FFFFFF"/>
+         </color>
+         <color id="11">
+            <colorLayer id="1" color="9c0247"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="5" angle="45">
+      <layers>
+         <layer id="2" ink="ADD"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4">
+            <layer id="0" x="26" y="13" z="10"/>
+            <layer id="3" x="12" y="6"/>
+            <layer id="4" x="-12" y="-6"/>
+         </direction>
+      </directions>
+      <animations>
+      	<animation id="0">
+      		<animationLayer id="0">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="1">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="2">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="3">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      	</animation>
+      	<animation id="1">
+      		<animationLayer id="0" frameRepeat="2">
+	      		<frameSequence>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="1"/>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="1">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="2">
+	      		<frameSequence>
+      				<frame id="0"/>
+      			</frameSequence>
+      		</animationLayer>
+      		<animationLayer id="3" frameRepeat="2">
+	      		<frameSequence>
+      				<frame id="1"/>
+      				<frame id="2"/>
+      				<frame id="3"/>
+      				<frame id="4"/>
+      				<frame id="5"/>
+      				<frame id="5"/>
+      				<frame id="6"/>
+      			</frameSequence>
+      		</animationLayer>
+      	</animation>
+      </animations>
+      <colors>
+         <color id="0">
+            <colorLayer id="1" color="F43100"/>
+         </color>
+         <color id="1">
+            <colorLayer id="1" color="3C75FF"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="55CD01"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="C05DFF"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FF9898"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="E1CC00"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="FF8000"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="97420C"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="00E5E2"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="FF60B0"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="FFFFFF"/>
+         </color>
+         <color id="11">
+            <colorLayer id="1" color="9c0247"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="0">
+            <colorLayer id="1" color="F43100"/>
+         </color>
+         <color id="1">
+            <colorLayer id="1" color="3C75FF"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="55CD01"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="C05DFF"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FF9898"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="E1CC00"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="FF8000"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="97420C"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="00E5E2"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="FF60B0"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="FFFFFF"/>
+         </color>
+         <color id="11">
+            <colorLayer id="1" color="9c0247"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

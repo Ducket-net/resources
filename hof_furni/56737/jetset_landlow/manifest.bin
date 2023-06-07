@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="jetset_landlow" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="jetset_landlow_visualization" mimeType="text/xml"/>
+      <asset name="jetset_landlow_assets" mimeType="text/xml"/>
+      <asset name="jetset_landlow_logic" mimeType="text/xml"/>
+      <asset name="jetset_landlow_32_a_0_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_a_2_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_a_4_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_b_0_1" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_b_0_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_b_2_1" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_b_2_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_b_4_1" mimeType="image/png"/>
+      <asset name="jetset_landlow_32_b_4_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_a_0_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_a_2_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_a_4_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_b_0_1" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_b_0_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_b_2_1" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_b_2_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_b_4_1" mimeType="image/png"/>
+      <asset name="jetset_landlow_64_b_4_0" mimeType="image/png"/>
+      <asset name="jetset_landlow_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

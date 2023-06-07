@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cine_glass_64_a_4_0" x="34" y="117"/>
+  <asset name="cine_glass_64_b_4_0" x="25" y="107"/>
+  <asset name="cine_glass_32_a_4_0" x="17" y="58"/>
+  <asset name="cine_glass_32_b_4_0" x="12" y="52"/>
+  <asset name="cine_glass_icon_a" x="3" y="24"/>
+  <asset name="cine_glass_64_a_0_0" source="cine_glass_64_a_4_0" x="2" y="133"/>
+  <asset name="cine_glass_64_b_0_0" source="cine_glass_64_b_4_0" x="-7" y="122"/>
+  <asset name="cine_glass_32_a_0_0" source="cine_glass_32_a_4_0" x="1" y="66"/>
+  <asset name="cine_glass_32_b_0_0" source="cine_glass_32_b_4_0" x="-4" y="60"/>
+  <asset name="cine_glass_64_a_2_0" flipH="1" source="cine_glass_64_a_4_0" x="35" y="117"/>
+  <asset name="cine_glass_64_b_2_0" flipH="1" source="cine_glass_64_b_4_0" x="26" y="107"/>
+  <asset name="cine_glass_32_a_2_0" flipH="1" source="cine_glass_32_a_4_0" x="17" y="58"/>
+  <asset name="cine_glass_32_b_2_0" flipH="1" source="cine_glass_32_b_4_0" x="12" y="52"/>
+  <asset name="cine_glass_64_a_6_0" flipH="1" source="cine_glass_64_a_4_0" x="2" y="133"/>
+  <asset name="cine_glass_64_b_6_0" flipH="1" source="cine_glass_64_b_4_0" x="-7" y="123"/>
+  <asset name="cine_glass_32_a_6_0" flipH="1" source="cine_glass_32_a_4_0" x="1" y="66"/>
+  <asset name="cine_glass_32_b_6_0" flipH="1" source="cine_glass_32_b_4_0" x="-4" y="60"/>
+</assets>

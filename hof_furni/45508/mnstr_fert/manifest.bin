@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="mnstr_fert" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="mnstr_fert_visualization" mimeType="text/xml"/>
+      <asset name="mnstr_fert_assets" mimeType="text/xml"/>
+      <asset name="mnstr_fert_logic" mimeType="text/xml"/>
+      <asset name="mnstr_fert_64_sd_0_0" mimeType="image/png"/>
+      <asset name="mnstr_fert_64_a_0_0" mimeType="image/png"/>
+      <asset name="mnstr_fert_32_sd_0_0" mimeType="image/png"/>
+      <asset name="mnstr_fert_32_a_0_0" mimeType="image/png"/>
+      <asset name="mnstr_fert_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

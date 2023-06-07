@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hs_stage_long_blue_32_sd_0_0" x="16" y="8"/>
+  <asset name="hs_stage_long_blue_32_a_0_0" x="18" y="19"/>
+  <asset name="hs_stage_long_blue_32_a_0_1" x="18" y="29"/>
+  <asset name="hs_stage_long_blue_32_a_0_2" x="18" y="39"/>
+  <asset name="hs_stage_long_blue_32_d_0_0" x="17" y="22"/>
+  <asset name="hs_stage_long_blue_32_e_0_0" x="1" y="14"/>
+  <asset name="hs_stage_long_blue_32_e_2_0" x="33" y="14"/>
+  <asset name="hs_stage_long_blue_64_sd_0_0" x="33" y="16"/>
+  <asset name="hs_stage_long_blue_64_a_0_0" x="35" y="39"/>
+  <asset name="hs_stage_long_blue_64_a_0_1" x="35" y="59"/>
+  <asset name="hs_stage_long_blue_64_a_0_2" x="35" y="79"/>
+  <asset name="hs_stage_long_blue_64_d_0_0" x="33" y="43"/>
+  <asset name="hs_stage_long_blue_64_e_0_0" x="1" y="27"/>
+  <asset name="hs_stage_long_blue_64_e_2_0" x="65" y="27"/>
+  <asset name="hs_stage_long_blue_icon_a" x="14" y="10"/>
+  <asset name="hs_stage_long_blue_32_sd_2_0" flipH="1" source="hs_stage_long_blue_32_sd_0_0" x="18" y="8"/>
+  <asset name="hs_stage_long_blue_32_b_0_0" source="hs_stage_long_blue_32_a_0_0" x="2" y="11"/>
+  <asset name="hs_stage_long_blue_32_c_0_0" source="hs_stage_long_blue_32_a_0_0" x="-14" y="3"/>
+  <asset name="hs_stage_long_blue_32_a_2_0" source="hs_stage_long_blue_32_a_0_0" x="18" y="19"/>
+  <asset name="hs_stage_long_blue_32_b_2_0" source="hs_stage_long_blue_32_a_0_0" x="34" y="11"/>
+  <asset name="hs_stage_long_blue_32_c_2_0" source="hs_stage_long_blue_32_a_0_0" x="50" y="3"/>
+  <asset name="hs_stage_long_blue_32_b_0_1" source="hs_stage_long_blue_32_a_0_1" x="2" y="21"/>
+  <asset name="hs_stage_long_blue_32_c_0_1" source="hs_stage_long_blue_32_a_0_1" x="-14" y="13"/>
+  <asset name="hs_stage_long_blue_32_a_2_1" source="hs_stage_long_blue_32_a_0_1" x="18" y="29"/>
+  <asset name="hs_stage_long_blue_32_b_2_1" source="hs_stage_long_blue_32_a_0_1" x="34" y="21"/>
+  <asset name="hs_stage_long_blue_32_c_2_1" source="hs_stage_long_blue_32_a_0_1" x="50" y="13"/>
+  <asset name="hs_stage_long_blue_32_b_0_2" source="hs_stage_long_blue_32_a_0_2" x="2" y="31"/>
+  <asset name="hs_stage_long_blue_32_c_0_2" source="hs_stage_long_blue_32_a_0_2" x="-14" y="23"/>
+  <asset name="hs_stage_long_blue_32_a_2_2" source="hs_stage_long_blue_32_a_0_2" x="18" y="39"/>
+  <asset name="hs_stage_long_blue_32_b_2_2" source="hs_stage_long_blue_32_a_0_2" x="34" y="31"/>
+  <asset name="hs_stage_long_blue_32_c_2_2" source="hs_stage_long_blue_32_a_0_2" x="50" y="23"/>
+  <asset name="hs_stage_long_blue_32_f_0_0" source="hs_stage_long_blue_32_e_0_0" x="-15" y="6"/>
+  <asset name="hs_stage_long_blue_32_d_2_0" source="hs_stage_long_blue_32_d_0_0" x="17" y="22"/>
+  <asset name="hs_stage_long_blue_32_f_2_0" source="hs_stage_long_blue_32_e_2_0" x="49" y="6"/>
+  <asset name="hs_stage_long_blue_32_d_0_1" source="hs_stage_long_blue_32_d_0_0" x="17" y="32"/>
+  <asset name="hs_stage_long_blue_32_e_0_1" source="hs_stage_long_blue_32_e_0_0" x="1" y="24"/>
+  <asset name="hs_stage_long_blue_32_f_0_1" source="hs_stage_long_blue_32_e_0_0" x="-15" y="16"/>
+  <asset name="hs_stage_long_blue_32_d_2_1" source="hs_stage_long_blue_32_d_0_0" x="17" y="32"/>
+  <asset name="hs_stage_long_blue_32_e_2_1" source="hs_stage_long_blue_32_e_2_0" x="33" y="24"/>
+  <asset name="hs_stage_long_blue_32_f_2_1" source="hs_stage_long_blue_32_e_2_0" x="49" y="16"/>
+  <asset name="hs_stage_long_blue_32_d_0_2" source="hs_stage_long_blue_32_d_0_0" x="17" y="42"/>
+  <asset name="hs_stage_long_blue_32_e_0_2" source="hs_stage_long_blue_32_e_0_0" x="1" y="34"/>
+  <asset name="hs_stage_long_blue_32_f_0_2" source="hs_stage_long_blue_32_e_0_0" x="-15" y="26"/>
+  <asset name="hs_stage_long_blue_32_d_2_2" source="hs_stage_long_blue_32_d_0_0" x="17" y="42"/>
+  <asset name="hs_stage_long_blue_32_e_2_2" source="hs_stage_long_blue_32_e_2_0" x="33" y="34"/>
+  <asset name="hs_stage_long_blue_32_f_2_2" source="hs_stage_long_blue_32_e_2_0" x="49" y="26"/>
+  <asset name="hs_stage_long_blue_64_sd_2_0" flipH="1" source="hs_stage_long_blue_64_sd_0_0" x="33" y="16"/>
+  <asset name="hs_stage_long_blue_64_b_0_0" source="hs_stage_long_blue_64_a_0_0" x="3" y="23"/>
+  <asset name="hs_stage_long_blue_64_c_0_0" source="hs_stage_long_blue_64_a_0_0" x="-29" y="7"/>
+  <asset name="hs_stage_long_blue_64_a_2_0" source="hs_stage_long_blue_64_a_0_0" x="35" y="39"/>
+  <asset name="hs_stage_long_blue_64_b_2_0" source="hs_stage_long_blue_64_a_0_0" x="67" y="23"/>
+  <asset name="hs_stage_long_blue_64_c_2_0" source="hs_stage_long_blue_64_a_0_0" x="99" y="7"/>
+  <asset name="hs_stage_long_blue_64_b_0_1" source="hs_stage_long_blue_64_a_0_1" x="3" y="43"/>
+  <asset name="hs_stage_long_blue_64_c_0_1" source="hs_stage_long_blue_64_a_0_1" x="-29" y="27"/>
+  <asset name="hs_stage_long_blue_64_a_2_1" source="hs_stage_long_blue_64_a_0_1" x="35" y="59"/>
+  <asset name="hs_stage_long_blue_64_b_2_1" source="hs_stage_long_blue_64_a_0_1" x="67" y="43"/>
+  <asset name="hs_stage_long_blue_64_c_2_1" source="hs_stage_long_blue_64_a_0_1" x="99" y="27"/>
+  <asset name="hs_stage_long_blue_64_b_0_2" source="hs_stage_long_blue_64_a_0_2" x="3" y="63"/>
+  <asset name="hs_stage_long_blue_64_c_0_2" source="hs_stage_long_blue_64_a_0_2" x="-29" y="47"/>
+  <asset name="hs_stage_long_blue_64_a_2_2" source="hs_stage_long_blue_64_a_0_2" x="35" y="79"/>
+  <asset name="hs_stage_long_blue_64_b_2_2" source="hs_stage_long_blue_64_a_0_2" x="67" y="63"/>
+  <asset name="hs_stage_long_blue_64_c_2_2" source="hs_stage_long_blue_64_a_0_2" x="99" y="47"/>
+  <asset name="hs_stage_long_blue_64_f_0_0" source="hs_stage_long_blue_64_e_0_0" x="-31" y="11"/>
+  <asset name="hs_stage_long_blue_64_d_2_0" source="hs_stage_long_blue_64_d_0_0" x="33" y="43"/>
+  <asset name="hs_stage_long_blue_64_f_2_0" source="hs_stage_long_blue_64_e_2_0" x="97" y="11"/>
+  <asset name="hs_stage_long_blue_64_d_0_1" source="hs_stage_long_blue_64_d_0_0" x="33" y="63"/>
+  <asset name="hs_stage_long_blue_64_e_0_1" source="hs_stage_long_blue_64_e_0_0" x="1" y="47"/>
+  <asset name="hs_stage_long_blue_64_f_0_1" source="hs_stage_long_blue_64_e_0_0" x="-31" y="31"/>
+  <asset name="hs_stage_long_blue_64_d_2_1" source="hs_stage_long_blue_64_d_0_0" x="33" y="63"/>
+  <asset name="hs_stage_long_blue_64_e_2_1" source="hs_stage_long_blue_64_e_2_0" x="65" y="47"/>
+  <asset name="hs_stage_long_blue_64_f_2_1" source="hs_stage_long_blue_64_e_2_0" x="97" y="31"/>
+  <asset name="hs_stage_long_blue_64_d_0_2" source="hs_stage_long_blue_64_d_0_0" x="33" y="83"/>
+  <asset name="hs_stage_long_blue_64_e_0_2" source="hs_stage_long_blue_64_e_0_0" x="1" y="67"/>
+  <asset name="hs_stage_long_blue_64_f_0_2" source="hs_stage_long_blue_64_e_0_0" x="-31" y="51"/>
+  <asset name="hs_stage_long_blue_64_d_2_2" source="hs_stage_long_blue_64_d_0_0" x="33" y="83"/>
+  <asset name="hs_stage_long_blue_64_e_2_2" source="hs_stage_long_blue_64_e_2_0" x="65" y="67"/>
+  <asset name="hs_stage_long_blue_64_f_2_2" source="hs_stage_long_blue_64_e_2_0" x="97" y="51"/>
+</assets>

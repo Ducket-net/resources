@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nypartyhorn4" version="0.1">
+    <assets>
+      <asset name="h_std_fa_4738_2_0" mimeType="image/png">
+        <param key="offset" value="-38,50"/>
+      </asset>
+      <asset name="h_std_fa_4738_3_0" mimeType="image/png">
+        <param key="offset" value="-30,48"/>
+      </asset>
+      <asset name="h_std_fa_4738_1_0" mimeType="image/png">
+        <param key="offset" value="-42,56"/>
+      </asset>
+      <asset name="h_std_fa_4738_0_0" mimeType="image/png">
+        <param key="offset" value="-43,60"/>
+      </asset>
+      <asset name="h_spk_fa_4738_2_0" mimeType="image/png">
+        <param key="offset" value="-38,50"/>
+      </asset>
+      <asset name="h_spk_fa_4738_3_0" mimeType="image/png">
+        <param key="offset" value="-30,48"/>
+      </asset>
+      <asset name="h_spk_fa_4738_1_0" mimeType="image/png">
+        <param key="offset" value="-42,53"/>
+      </asset>
+      <asset name="h_spk_fa_4738_0_0" mimeType="image/png">
+        <param key="offset" value="-43,61"/>
+      </asset>
+      <asset name="h_lay_fa_4738_2_0" mimeType="image/png">
+        <param key="offset" value="-4,33"/>
+      </asset>
+      <asset name="h_lsp_fa_4738_2_0" mimeType="image/png">
+        <param key="offset" value="-68,-126"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

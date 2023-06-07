@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<visualizationData type="rare_colourable_sleepingbag">
+  <graphics>
+    <visualization size="1" layerCount="2" angle="360">
+      
+      <postures/>
+      <gestures/>
+      <layers>
+        <layer id="0"/>
+      </layers>
+    
+<colors>
+<color id="0">
+  <colorLayer id="0" color="FFFFFF"/>
+</color>
+<color id="2">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="00700D"/>
+</color>
+<color id="3">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="7CDED4"/>
+</color>
+</colors>
+</visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="6" angle="45">
+      <layers>
+        <layer id="0" z="-100"/>
+        <layer id="1" z="-99"/>
+        <layer id="2" z="1000"/>
+        <layer id="3" z="1895"/>
+        <layer id="4" z="1895"/>
+        <layer id="5" z="1896"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors>
+<color id="2">
+  <colorLayer id="0" color="00700D"/>
+  <colorLayer id="1" color="FFFFFF"/>
+  <colorLayer id="2" color="00700D"/>
+  <colorLayer id="3" color="FFFFFF"/>
+  <colorLayer id="4" color="00700D"/>
+  <colorLayer id="5" color="FFFFFF"/>
+</color>
+<color id="3">
+  <colorLayer id="0" color="7CDED4"/>
+  <colorLayer id="1" color="FFFFFF"/>
+  <colorLayer id="2" color="7CDED4"/>
+  <colorLayer id="3" color="FFFFFF"/>
+  <colorLayer id="4" color="7CDED4"/>
+  <colorLayer id="5" color="FFFFFF"/>
+</color>
+</colors>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

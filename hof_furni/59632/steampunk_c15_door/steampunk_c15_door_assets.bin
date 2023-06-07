@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="steampunk_c15_door_64_sd_4_0" x="9" y="18"/>
+  <asset name="steampunk_c15_door_64_a_4_0" x="9" y="113"/>
+  <asset name="steampunk_c15_door_64_b_4_0" x="-36" y="54"/>
+  <asset name="steampunk_c15_door_64_a_4_1" x="9" y="112"/>
+  <asset name="steampunk_c15_door_64_b_4_1" x="6" y="113"/>
+  <asset name="steampunk_c15_door_icon_a" x="8" y="14"/>
+  <asset name="steampunk_c15_door_64_sd_2_0" flipH="1" source="steampunk_c15_door_64_sd_4_0" x="9" y="18"/>
+  <asset name="steampunk_c15_door_64_a_2_0" flipH="1" source="steampunk_c15_door_64_a_4_0" x="9" y="113"/>
+  <asset name="steampunk_c15_door_64_b_2_0" flipH="1" source="steampunk_c15_door_64_b_4_0" x="-36" y="54"/>
+  <asset name="steampunk_c15_door_64_a_2_1" flipH="1" source="steampunk_c15_door_64_a_4_1" x="9" y="112"/>
+  <asset name="steampunk_c15_door_64_b_2_1" flipH="1" source="steampunk_c15_door_64_b_4_1" x="6" y="113"/>
+</assets>

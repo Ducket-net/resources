@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="christmas_sleigh"><graphics>
+   <visualization size="32" layerCount="7" angle="45">
+      <layers>
+         <layer id="0" z="-10"/>
+         <layer id="1" z="500"/>
+         <layer id="2" z="1700"/>
+         <layer id="3" z="900"/>
+         <layer id="4" z="1200"/>
+         <layer id="5" z="1200"/>
+         <layer id="6" z="2120"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+   </visualization>
+   <visualization size="64" layerCount="10" angle="45">
+      <layers>
+         <layer id="0" z="-10"/>
+         <layer id="1" z="400"/>
+         <layer id="2" z="1200"/>
+         <layer id="3" z="100"/>
+         <layer id="4" z="950"/>
+         <layer id="5" z="1200"/>
+         <layer id="6" z="1200"/>
+         <layer id="7" z="1950"/>
+         <layer id="8" z="2110"/>
+         <layer id="9" z="1990"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

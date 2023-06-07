@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hween12_costume_hopper_32_sd_2_" x="16" y="9"/>
+  <asset name="hween12_costume_hopper_32_a_2_0" x="-2" y="40"/>
+  <asset name="hween12_costume_hopper_32_b_2_1" x="21" y="71"/>
+  <asset name="hween12_costume_hopper_32_c_2_0" x="-2" y="43"/>
+  <asset name="hween12_costume_hopper_32_c_2_1" x="-2" y="45"/>
+  <asset name="hween12_costume_hopper_32_c_2_2" x="-2" y="46"/>
+  <asset name="hween12_costume_hopper_32_c_2_3" x="-2" y="45"/>
+  <asset name="hween12_costume_hopper_32_c_2_4" x="-2" y="46"/>
+  <asset name="hween12_costume_hopper_32_d_2_0" x="16" y="68"/>
+  <asset name="hween12_costume_hopper_64_sd_2_" x="33" y="20"/>
+  <asset name="hween12_costume_hopper_64_a_2_0" x="-3" y="82"/>
+  <asset name="hween12_costume_hopper_64_b_2_0" x="-2" y="71"/>
+  <asset name="hween12_costume_hopper_64_b_2_1" x="43" y="143"/>
+  <asset name="hween12_costume_hopper_64_c_2_0" x="-3" y="85"/>
+  <asset name="hween12_costume_hopper_64_c_2_1" x="-3" y="89"/>
+  <asset name="hween12_costume_hopper_64_c_2_2" x="-3" y="90"/>
+  <asset name="hween12_costume_hopper_64_c_2_3" x="-3" y="88"/>
+  <asset name="hween12_costume_hopper_64_c_2_4" x="-3" y="90"/>
+  <asset name="hween12_costume_hopper_64_d_2_0" x="33" y="135"/>
+  <asset name="hween12_costume_hopper_icon_a" x="8" y="15"/>
+  <asset name="hween12_costume_hopper_32_b_2_0" flipH="1" source="hween12_costume_hopper_64_b_2_0" x="2" y="36"/>
+  <asset name="hween12_costume_hopper_32_sd_4_" flipH="1" source="hween12_costume_hopper_32_sd_2_" x="18" y="9"/>
+  <asset name="hween12_costume_hopper_32_a_4_0" flipH="1" source="hween12_costume_hopper_32_a_2_0" x="0" y="40"/>
+  <asset name="hween12_costume_hopper_32_b_4_0" flipH="1" source="hween12_costume_hopper_64_b_2_0" x="1" y="36"/>
+  <asset name="hween12_costume_hopper_32_b_4_1" flipH="1" source="hween12_costume_hopper_32_b_2_1" x="23" y="71"/>
+  <asset name="hween12_costume_hopper_32_c_4_0" flipH="1" source="hween12_costume_hopper_32_c_2_0" x="0" y="43"/>
+  <asset name="hween12_costume_hopper_32_c_4_1" flipH="1" source="hween12_costume_hopper_32_c_2_1" x="0" y="45"/>
+  <asset name="hween12_costume_hopper_32_c_4_2" flipH="1" source="hween12_costume_hopper_32_c_2_2" x="0" y="46"/>
+  <asset name="hween12_costume_hopper_32_c_4_3" flipH="1" source="hween12_costume_hopper_32_c_2_3" x="0" y="45"/>
+  <asset name="hween12_costume_hopper_32_c_4_4" flipH="1" source="hween12_costume_hopper_32_c_2_4" x="0" y="46"/>
+  <asset name="hween12_costume_hopper_32_d_4_0" flipH="1" source="hween12_costume_hopper_32_d_2_0" x="18" y="68"/>
+  <asset name="hween12_costume_hopper_64_sd_4_" flipH="1" source="hween12_costume_hopper_64_sd_2_" x="33" y="20"/>
+  <asset name="hween12_costume_hopper_64_a_4_0" flipH="1" source="hween12_costume_hopper_64_a_2_0" x="-3" y="82"/>
+  <asset name="hween12_costume_hopper_64_b_4_0" flipH="1" source="hween12_costume_hopper_64_b_2_0" x="-2" y="71"/>
+  <asset name="hween12_costume_hopper_64_b_4_1" flipH="1" source="hween12_costume_hopper_64_b_2_1" x="43" y="143"/>
+  <asset name="hween12_costume_hopper_64_c_4_0" flipH="1" source="hween12_costume_hopper_64_c_2_0" x="-3" y="85"/>
+  <asset name="hween12_costume_hopper_64_c_4_1" flipH="1" source="hween12_costume_hopper_64_c_2_1" x="-3" y="89"/>
+  <asset name="hween12_costume_hopper_64_c_4_2" flipH="1" source="hween12_costume_hopper_64_c_2_2" x="-3" y="90"/>
+  <asset name="hween12_costume_hopper_64_c_4_3" flipH="1" source="hween12_costume_hopper_64_c_2_3" x="-3" y="88"/>
+  <asset name="hween12_costume_hopper_64_c_4_4" flipH="1" source="hween12_costume_hopper_64_c_2_4" x="-3" y="90"/>
+  <asset name="hween12_costume_hopper_64_d_4_0" flipH="1" source="hween12_costume_hopper_64_d_2_0" x="33" y="135"/>
+</assets>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wintercabin_c19_cabinrug" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wintercabin_c19_cabinrug_visualization" mimeType="text/xml"/>
+      <asset name="wintercabin_c19_cabinrug_assets" mimeType="text/xml"/>
+      <asset name="wintercabin_c19_cabinrug_logic" mimeType="text/xml"/>
+      <asset name="wintercabin_c19_cabinrug_64_a_0_0" mimeType="image/png"/>
+      <asset name="wintercabin_c19_cabinrug_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

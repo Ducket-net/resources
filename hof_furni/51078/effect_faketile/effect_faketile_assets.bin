@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="effect_faketile_64_a_0_0" x="33" y="16"/>
+  <asset name="effect_faketile_32_a_0_0" x="17" y="8"/>
+  <asset name="effect_faketile_icon_a" x="13" y="13"/>
+  <asset name="effect_faketile_64_a_0_1" flipH="1" source="effect_faketile_64_a_0_0" x="33" y="16"/>
+  <asset name="effect_faketile_32_a_0_1" flipH="1" source="effect_faketile_32_a_0_0" x="17" y="8"/>
+  <asset name="effect_faketile_64_a_0_1" flipH="1" source="effect_faketile_64_a_0_0" x="33" y="16"/>
+  <asset name="effect_faketile_32_a_0_1" flipH="1" source="effect_faketile_32_a_0_0" x="17" y="8"/>
+</assets>

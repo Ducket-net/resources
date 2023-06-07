@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wf_maze_64_a_2_0" x="30" y="29"/>
+  <asset name="wf_maze_64_a_0_0" x="27" y="29"/>
+  <asset name="wf_maze_64_a_0_1" x="30" y="29"/>
+  <asset name="wf_maze_64_a_2_1" x="30" y="29"/>
+  <asset name="wf_maze_64_a_4_1" x="16" y="29"/>
+  <asset name="wf_maze_64_a_6_1" x="27" y="21"/>
+  <asset name="wf_maze_64_a_0_2" x="30" y="29"/>
+  <asset name="wf_maze_64_a_0_3" x="30" y="29"/>
+  <asset name="wf_maze_64_a_2_3" x="30" y="29"/>
+  <asset name="wf_maze_64_a_4_3" x="27" y="29"/>
+  <asset name="wf_maze_64_a_6_3" x="30" y="29"/>
+  <asset name="wf_maze_32_a_0_0" x="15" y="13"/>
+  <asset name="wf_maze_icon_a" x="14" y="11"/>
+  <asset name="wf_maze_64_a_6_0" source="wf_maze_64_a_2_0" x="30" y="29"/>
+  <asset name="wf_maze_64_a_4_0" source="wf_maze_64_a_0_0" x="27" y="29"/>
+  <asset name="wf_maze_64_a_2_2" source="wf_maze_64_a_0_2" x="30" y="27"/>
+  <asset name="wf_maze_64_a_4_2" source="wf_maze_64_a_0_2" x="30" y="27"/>
+  <asset name="wf_maze_64_a_6_2" source="wf_maze_64_a_0_2" x="30" y="27"/>
+  <asset name="wf_maze_32_a_2_0" x="16" y="13"/>
+  <asset name="wf_maze_32_a_0_1" x="16" y="13"/>
+  <asset name="wf_maze_32_a_2_1" x="16" y="13"/>
+  <asset name="wf_maze_32_a_4_1" x="8" y="13"/>
+  <asset name="wf_maze_32_a_6_1" x="15" y="9"/>
+  <asset name="wf_maze_32_a_0_2" x="16" y="13"/>
+  <asset name="wf_maze_32_a_0_3" x="16" y="13"/>
+  <asset name="wf_maze_32_a_2_3" x="16" y="13"/>
+  <asset name="wf_maze_32_a_4_3" x="15" y="13"/>
+  <asset name="wf_maze_32_a_6_3" x="16" y="13"/>
+  <asset name="wf_maze_32_a_6_0" source="wf_maze_32_a_2_0" x="16" y="13"/>
+  <asset name="wf_maze_32_a_4_0" source="wf_maze_32_a_0_0" x="15" y="13"/>
+  <asset name="wf_maze_32_a_2_2" source="wf_maze_32_a_0_2" x="16" y="13"/>
+  <asset name="wf_maze_32_a_4_2" source="wf_maze_32_a_0_2" x="16" y="13"/>
+  <asset name="wf_maze_32_a_6_2" source="wf_maze_32_a_0_2" x="16" y="13"/>
+</assets>

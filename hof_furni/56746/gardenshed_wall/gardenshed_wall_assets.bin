@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="gardenshed_wall_icon_a" x="9" y="16"/>
+   <asset name="gardenshed_wall_64_a_2_0" x="41" y="89"/>
+   <asset name="gardenshed_wall_64_a_2_1" x="41" y="89"/>
+   <asset name="gardenshed_wall_64_a_2_2" x="41" y="89"/>
+   <asset name="gardenshed_wall_64_a_4_0" flipH="1" source="gardenshed_wall_64_a_2_0" x="41" y="89"/>
+   <asset name="gardenshed_wall_64_a_4_1" flipH="1" source="gardenshed_wall_64_a_2_1" x="41" y="89"/>
+   <asset name="gardenshed_wall_64_a_4_2" flipH="1" source="gardenshed_wall_64_a_2_2" x="41" y="89"/>
+   <asset name="gardenshed_wall_32_a_2_0" x="20" y="45"/>
+   <asset name="gardenshed_wall_32_a_2_1" x="20" y="45"/>
+   <asset name="gardenshed_wall_32_a_2_2" x="20" y="45"/>
+   <asset name="gardenshed_wall_32_a_4_0" flipH="1" source="gardenshed_wall_32_a_2_0" x="20" y="45"/>
+   <asset name="gardenshed_wall_32_a_4_1" flipH="1" source="gardenshed_wall_32_a_2_1" x="20" y="45"/>
+   <asset name="gardenshed_wall_32_a_4_2" flipH="1" source="gardenshed_wall_32_a_2_2" x="20" y="45"/>
+</assets>

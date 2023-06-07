@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="valentinescreen_32_a_2_0" x="2" y="44"/>
+   <asset name="valentinescreen_32_a_4_0" flipH="1" source="valentinescreen_32_a_2_0" x="2" y="44"/>
+   <asset name="valentinescreen_32_b_2_0" x="29" y="46"/>
+   <asset name="valentinescreen_32_b_4_0" flipH="1" source="valentinescreen_32_b_2_0" x="29" y="46"/>
+   <asset name="valentinescreen_32_c_2_0" x="15" y="26"/>
+   <asset name="valentinescreen_32_c_4_0" flipH="1" source="valentinescreen_32_c_2_0" x="15" y="26"/>
+   <asset name="valentinescreen_32_d_2_0" x="0" y="33"/>
+   <asset name="valentinescreen_32_d_4_0" flipH="1" source="valentinescreen_32_d_2_0" x="0" y="33"/>
+   <asset name="valentinescreen_32_sd_2_0" x="36" y="0"/>
+   <asset name="valentinescreen_32_sd_4_0" flipH="1" source="valentinescreen_32_sd_2_0" x="36" y="0"/>
+   <asset name="valentinescreen_64_a_2_0" x="1" y="89"/>
+   <asset name="valentinescreen_64_a_4_0" flipH="1" source="valentinescreen_64_a_2_0" x="1" y="89"/>
+   <asset name="valentinescreen_64_b_2_0" x="54" y="91"/>
+   <asset name="valentinescreen_64_b_4_0" flipH="1" source="valentinescreen_64_b_2_0" x="54" y="91"/>
+   <asset name="valentinescreen_64_c_2_0" x="28" y="50"/>
+   <asset name="valentinescreen_64_c_4_0" flipH="1" source="valentinescreen_64_c_2_0" x="28" y="50"/>
+   <asset name="valentinescreen_64_d_2_0" x="-4" y="66"/>
+   <asset name="valentinescreen_64_d_4_0" flipH="1" source="valentinescreen_64_d_2_0" x="-4" y="66"/>
+   <asset name="valentinescreen_64_sd_2_0" x="74" y="0"/>
+   <asset name="valentinescreen_64_sd_4_0" flipH="1" source="valentinescreen_64_sd_2_0" x="74" y="0"/>
+   <asset name="valentinescreen_icon_a" x="11" y="15"/>
+</assets>

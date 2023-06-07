@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="theatre_lights_32_a_2_0" x="20" y="111"/>  <asset name="theatre_lights_32_b_2_0" source="theatre_lights_64_b_2_0" x="0" y="0"/>
+  <asset name="theatre_lights_32_b_2_1" x="2" y="102"/>  <asset name="theatre_lights_32_c_2_0" source="theatre_lights_64_b_2_0" x="0" y="0"/>  <asset name="theatre_lights_32_c_2_1" source="theatre_lights_64_b_2_0" x="0" y="0"/>  <asset name="theatre_lights_32_a_6_0" x="99" y="175"/>  <asset name="theatre_lights_32_b_6_0" source="theatre_lights_64_b_2_0" x="0" y="0"/>  <asset name="theatre_lights_32_b_6_1" x="34" y="116"/>  <asset name="theatre_lights_32_c_6_0" x="116" y="172"/>  <asset name="theatre_lights_32_c_6_1" source="theatre_lights_64_b_2_0" x="0" y="0"/>
+  <asset name="theatre_lights_64_a_2_0" x="41" y="225"/>
+  <asset name="theatre_lights_64_b_2_0" x="0" y="0"/>
+  <asset name="theatre_lights_64_b_2_1" x="5" y="204"/>  <asset name="theatre_lights_64_c_2_0" x="-48" y="201"/>  <asset name="theatre_lights_64_c_2_1" source="theatre_lights_64_b_2_0" x="0" y="0"/>
+  <asset name="theatre_lights_64_a_6_0" x="199" y="351"/>  <asset name="theatre_lights_64_b_6_0" source="theatre_lights_64_b_2_0" x="0" y="0"/>
+  <asset name="theatre_lights_64_b_6_1" x="69" y="236"/>  <asset name="theatre_lights_64_c_6_0" x="240" y="345"/>  <asset name="theatre_lights_64_c_6_1" source="theatre_lights_64_b_2_0" x="0" y="0"/>
+  <asset name="theatre_lights_icon_a" x="7" y="12"/>
+</assets>

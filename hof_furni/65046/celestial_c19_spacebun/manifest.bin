@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="celestial_c19_spacebun" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="celestial_c19_spacebun_visualization" mimeType="text/xml"/>
+      <asset name="celestial_c19_spacebun_assets" mimeType="text/xml"/>
+      <asset name="celestial_c19_spacebun_logic" mimeType="text/xml"/>
+      <asset name="celestial_c19_spacebun_64_sd_0_0" mimeType="image/png"/>
+      <asset name="celestial_c19_spacebun_64_a_0_0" mimeType="image/png"/>
+      <asset name="celestial_c19_spacebun_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

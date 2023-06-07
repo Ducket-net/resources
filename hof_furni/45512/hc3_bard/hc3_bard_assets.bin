@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hc3_bard_64_a_0_0" x="31" y="50"/>
+   <asset name="hc3_bard_64_a_0_1" x="31" y="50"/>
+   <asset name="hc3_bard_64_a_2_0" flipH="1" source="hc3_bard_64_a_0_0" x="31" y="50"/>
+   <asset name="hc3_bard_64_a_2_1" flipH="1" source="hc3_bard_64_a_0_1" x="31" y="50"/>
+   <asset name="hc3_bard_64_b_0_0" x="-2" y="34"/>
+   <asset name="hc3_bard_64_b_0_1" x="-2" y="34"/>
+   <asset name="hc3_bard_64_b_2_0" flipH="1" source="hc3_bard_64_b_0_0" x="-2" y="34"/>
+   <asset name="hc3_bard_64_b_2_1" flipH="1" source="hc3_bard_64_b_0_1" x="-2" y="34"/>
+   <asset name="hc3_bard_64_c_0_0" x="5" y="-11"/>
+   <asset name="hc3_bard_64_c_0_1" x="46" y="40"/>
+   <asset name="hc3_bard_64_c_2_0" flipH="1" source="hc3_bard_64_c_0_0" x="5" y="-11"/>
+   <asset name="hc3_bard_64_c_2_1" flipH="1" source="hc3_bard_64_c_0_1" x="46" y="40"/>
+   <asset name="hc3_bard_64_d_0_0" x="1" y="-12"/>
+   <asset name="hc3_bard_64_d_0_1" x="4" y="40"/>
+   <asset name="hc3_bard_64_d_2_0" flipH="1" source="hc3_bard_64_d_0_0" x="1" y="-12"/>
+   <asset name="hc3_bard_64_d_2_1" flipH="1" source="hc3_bard_64_d_0_1" x="4" y="40"/>
+   <asset name="hc3_bard_icon_a" x="14" y="13"/>
+   <asset name="hc3_bard_32_a_0_0" x="15" y="24"/>
+   <asset name="hc3_bard_32_a_0_1" x="15" y="24"/>
+   <asset name="hc3_bard_32_a_2_0" flipH="1" source="hc3_bard_32_a_0_0" x="15" y="24"/>
+   <asset name="hc3_bard_32_a_2_1" flipH="1" source="hc3_bard_32_a_0_1" x="15" y="24"/>
+   <asset name="hc3_bard_32_b_0_0" x="-2" y="15"/>
+   <asset name="hc3_bard_32_b_0_1" x="-2" y="15"/>
+   <asset name="hc3_bard_32_b_2_0" flipH="1" source="hc3_bard_32_b_0_0" x="-2" y="15"/>
+   <asset name="hc3_bard_32_b_2_1" flipH="1" source="hc3_bard_32_b_0_1" x="-2" y="15"/>
+   <asset name="hc3_bard_32_c_0_0" x="-14" y="16"/>
+   <asset name="hc3_bard_32_c_0_1" x="21" y="19"/>
+   <asset name="hc3_bard_32_c_2_0" flipH="1" source="hc3_bard_32_c_0_0" x="-14" y="16"/>
+   <asset name="hc3_bard_32_c_2_1" flipH="1" source="hc3_bard_32_c_0_1" x="21" y="19"/>
+   <asset name="hc3_bard_32_d_0_0" x="-14" y="16"/>
+   <asset name="hc3_bard_32_d_0_1" x="-1" y="19"/>
+   <asset name="hc3_bard_32_d_2_0" flipH="1" source="hc3_bard_32_d_0_0" x="-14" y="16"/>
+   <asset name="hc3_bard_32_d_2_1" flipH="1" source="hc3_bard_32_d_0_1" x="-1" y="19"/>
+</assets>

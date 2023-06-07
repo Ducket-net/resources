@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="bolly_lotus_pool"><graphics>
+   <visualization size="32" layerCount="3" angle="45">
+      <directions>
+         <direction id="0">
+            <layer id="1" z="1000"/>
+            <layer id="2" z="2000"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="2">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="64" layerCount="3" angle="45">
+      <directions>
+         <direction id="0">
+            <layer id="1" z="1000"/>
+            <layer id="2" z="2000"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="2">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

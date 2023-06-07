@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="bling_sofa_64_a_2_0" x="77" y="55"/>
+   <asset name="bling_sofa_64_a_2_1" x="69" y="56"/>
+   <asset name="bling_sofa_64_a_4_0" flipH="1" source="bling_sofa_64_a_2_0" x="77" y="55"/>
+   <asset name="bling_sofa_64_a_4_1" flipH="1" source="bling_sofa_64_a_2_1" x="69" y="56"/>
+   <asset name="bling_sofa_64_b_2_0" x="37" y="72"/>
+   <asset name="bling_sofa_64_b_4_0" flipH="1" source="bling_sofa_64_b_2_0" x="37" y="72"/>
+   <asset name="bling_sofa_64_sd_2_0" x="60" y="20"/>
+   <asset name="bling_sofa_64_sd_4_0" flipH="1" source="bling_sofa_64_sd_2_0" x="60" y="20"/>
+   <asset name="bling_sofa_icon_a" x="14" y="13"/>
+   <asset name="bling_sofa_32_a_2_0" x="39" y="23"/>
+   <asset name="bling_sofa_32_a_2_1" x="36" y="24"/>
+   <asset name="bling_sofa_32_a_4_0" flipH="1" source="bling_sofa_32_a_2_0" x="39" y="23"/>
+   <asset name="bling_sofa_32_a_4_1" flipH="1" source="bling_sofa_32_a_2_1" x="36" y="24"/>
+   <asset name="bling_sofa_32_b_2_0" x="20" y="32"/>
+   <asset name="bling_sofa_32_b_4_0" flipH="1" source="bling_sofa_32_b_2_0" x="20" y="32"/>
+   <asset name="bling_sofa_32_sd_2_0" x="28" y="7"/>
+   <asset name="bling_sofa_32_sd_4_0" flipH="1" source="bling_sofa_32_sd_2_0" x="28" y="7"/>
+</assets>

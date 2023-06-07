@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="party_seat"><graphics>
+   <visualization size="32" layerCount="5" angle="45">
+      <layers>
+         <layer id="1" alpha="204"/>
+         <layer id="2" z="210"/>
+         <layer id="3" alpha="204" z="210"/>
+         <layer id="4" ink="ADD"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+         <direction id="4"/>
+         <direction id="6"/>
+      </directions>
+   </visualization>
+   <visualization size="64" layerCount="5" angle="45">
+      <layers>
+         <layer id="1" alpha="204"/>
+         <layer id="2" z="210"/>
+         <layer id="3" alpha="204" z="210"/>
+         <layer id="4" ink="ADD"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+         <direction id="4"/>
+         <direction id="6"/>
+      </directions>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

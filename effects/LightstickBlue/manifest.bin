@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <library name="fx207" version="0.1">
+    <assets>
+        <asset name="h_std_fx207_1_1_0_0" mimeType="image/png">
+        <param key="offset" value="-48,52"/>
+      </asset>
+      <asset name="h_std_fx207_2_1_0_0" mimeType="image/png">
+        <param key="offset" value="-44,55"/>
+      </asset>
+      <asset name="h_std_fx207_2_1_0_1" mimeType="image/png">
+        <param key="offset" value="-44,55"/>
+      </asset>
+      <asset name="h_std_fx207_2_1_0_2" mimeType="image/png">
+        <param key="offset" value="-56,34"/>
+      </asset>
+      <asset name="h_std_fx207_2_1_0_3" mimeType="image/png">
+        <param key="offset" value="-44,55"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_1_0" mimeType="image/png">
+        <param key="offset" value="-42,47"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_2_0" mimeType="image/png">
+        <param key="offset" value="-29,42"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_3_0" mimeType="image/png">
+        <param key="offset" value="-23,44"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_4_0" mimeType="image/png">
+        <param key="offset" value="-4,49"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_5_0" mimeType="image/png">
+        <param key="offset" value="-11,49"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_7_0" mimeType="image/png">
+        <param key="offset" value="-33,53"/>
+      </asset>
+      <asset name="h_std_fx207_1_1_6_0" mimeType="image/png">
+        <param key="offset" value="-24,56"/>
+      </asset>
+    </assets>
+  <aliases>
+    <alias name="h_crr_ri_fx207_1_0_0" link="h_std_fx207_1_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx207_1_1_0" link="h_std_fx207_1_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx207_1_2_0" link="h_std_fx207_1_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx207_1_3_0" link="h_std_fx207_1_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx207_1_4_0" link="h_std_fx207_1_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx207_1_5_0" link="h_std_fx207_1_1_5_0" fliph="0" flipv="0"/>
+  </aliases>
+  </library>
+</manifest>

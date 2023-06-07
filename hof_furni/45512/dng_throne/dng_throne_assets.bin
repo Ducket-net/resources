@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="dng_throne_64_a_4_0" x="51" y="202"/>
+  <asset name="dng_throne_64_b_4_0" x="9" y="56"/>
+  <asset name="dng_throne_64_c_4_0" x="7" y="165"/>
+  <asset name="dng_throne_64_c_4_1" x="27" y="182"/>
+  <asset name="dng_throne_64_c_4_2" x="28" y="183"/>
+  <asset name="dng_throne_64_c_4_3" x="29" y="184"/>
+  <asset name="dng_throne_64_c_4_4" x="29" y="184"/>
+  <asset name="dng_throne_32_a_4_0" x="25" y="102"/>
+  <asset name="dng_throne_32_b_4_0" x="6" y="31"/>
+  <asset name="dng_throne_32_c_4_0" x="7" y="83"/>
+  <asset name="dng_throne_32_c_4_1" x="16" y="93"/>
+  <asset name="dng_throne_32_c_4_2" x="16" y="93"/>
+  <asset name="dng_throne_32_c_4_3" x="17" y="94"/>
+  <asset name="dng_throne_32_c_4_4" x="17" y="94"/>
+  <asset name="dng_throne_icon_a" x="9" y="17"/>
+  <asset name="dng_throne_64_a_2_0" flipH="1" source="dng_throne_64_a_4_0" x="51" y="202"/>
+  <asset name="dng_throne_64_b_2_0" flipH="1" source="dng_throne_64_b_4_0" x="9" y="56"/>
+  <asset name="dng_throne_64_c_2_0" flipH="1" source="dng_throne_64_c_4_0" x="7" y="165"/>
+  <asset name="dng_throne_64_c_2_1" flipH="1" source="dng_throne_64_c_4_1" x="27" y="182"/>
+  <asset name="dng_throne_64_c_2_2" flipH="1" source="dng_throne_64_c_4_2" x="28" y="183"/>
+  <asset name="dng_throne_64_c_2_3" flipH="1" source="dng_throne_64_c_4_3" x="29" y="184"/>
+  <asset name="dng_throne_64_c_2_4" flipH="1" source="dng_throne_64_c_4_4" x="29" y="184"/>
+  <asset name="dng_throne_32_a_2_0" flipH="1" source="dng_throne_32_a_4_0" x="25" y="102"/>
+  <asset name="dng_throne_32_b_2_0" flipH="1" source="dng_throne_32_b_4_0" x="6" y="31"/>
+  <asset name="dng_throne_32_c_2_0" flipH="1" source="dng_throne_32_c_4_0" x="7" y="83"/>
+  <asset name="dng_throne_32_c_2_1" flipH="1" source="dng_throne_32_c_4_1" x="16" y="93"/>
+  <asset name="dng_throne_32_c_2_2" flipH="1" source="dng_throne_32_c_4_2" x="16" y="93"/>
+  <asset name="dng_throne_32_c_2_3" flipH="1" source="dng_throne_32_c_4_3" x="17" y="94"/>
+  <asset name="dng_throne_32_c_2_4" flipH="1" source="dng_throne_32_c_4_4" x="17" y="94"/>
+  <asset name="dng_throne_64_d_4_0" x="51" y="17"/>
+  <asset name="dng_throne_32_d_4_0" x="25" y="10"/>
+  <asset name="dng_throne_64_e_4_0" x="11" y="-12"/>
+  <asset name="dng_throne_32_e_4_0" x="5" y="-5"/>
+  <asset name="dng_throne_64_e_2_0" flipH="1" source="dng_throne_64_e_4_0" x="11" y="-12"/>
+  <asset name="dng_throne_32_e_2_0" flipH="1" source="dng_throne_32_e_4_0" x="5" y="-5"/>
+  <asset name="dng_throne_64_d_2_0" flipH="1" source="dng_throne_64_d_4_0" x="51" y="17"/>
+  <asset name="dng_throne_32_d_2_0" flipH="1" source="dng_throne_32_d_4_0" x="25" y="10"/>
+</assets>

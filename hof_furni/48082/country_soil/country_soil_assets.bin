@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="country_soil_64_a_0_0" x="64" y="21"/>
+   <asset name="country_soil_64_a_2_0" x="64" y="21"/>
+   <asset name="country_soil_64_a_4_0" x="64" y="21"/>
+   <asset name="country_soil_64_a_6_0" x="64" y="21"/>
+   <asset name="country_soil_64_b_0_0" x="63" y="20"/>
+   <asset name="country_soil_64_b_2_0" x="63" y="20"/>
+   <asset name="country_soil_64_b_4_0" x="63" y="20"/>
+   <asset name="country_soil_64_b_6_0" x="63" y="20"/>
+   <asset name="country_soil_64_c_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_c_0_1" x="58" y="15"/>
+   <asset name="country_soil_64_c_2_0" source="country_soil_64_c_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_c_2_1" x="52" y="9"/>
+   <asset name="country_soil_64_c_4_0" source="country_soil_64_c_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_c_4_1" flipH="1" source="country_soil_64_c_0_1" x="58" y="15"/>
+   <asset name="country_soil_64_c_6_0" source="country_soil_64_c_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_c_6_1" flipH="1" source="country_soil_64_c_2_1" x="52" y="9"/>
+   <asset name="country_soil_64_d_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_d_0_1" x="50" y="14"/>
+   <asset name="country_soil_64_d_0_2" flipH="1" source="country_soil_64_d_2_2" x="56" y="17"/>
+   <asset name="country_soil_64_d_0_3" flipH="1" source="country_soil_64_d_2_3" x="56" y="20"/>
+   <asset name="country_soil_64_d_2_0" source="country_soil_64_d_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_d_2_1" x="49" y="16"/>
+   <asset name="country_soil_64_d_2_2" x="56" y="17"/>
+   <asset name="country_soil_64_d_2_3" x="56" y="20"/>
+   <asset name="country_soil_64_d_4_0" source="country_soil_64_d_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_d_4_1" flipH="1" source="country_soil_64_d_0_1" x="50" y="14"/>
+   <asset name="country_soil_64_d_4_2" flipH="1" source="country_soil_64_d_2_2" x="56" y="17"/>
+   <asset name="country_soil_64_d_4_3" flipH="1" source="country_soil_64_d_2_3" x="56" y="20"/>
+   <asset name="country_soil_64_d_6_0" source="country_soil_64_d_0_0" x="2" y="-48"/>
+   <asset name="country_soil_64_d_6_1" flipH="1" source="country_soil_64_d_2_1" x="49" y="16"/>
+   <asset name="country_soil_64_d_6_2" source="country_soil_64_d_2_2" x="56" y="17"/>
+   <asset name="country_soil_64_d_6_3" source="country_soil_64_d_2_3" x="56" y="20"/>
+   <asset name="country_soil_icon_a" x="14" y="8"/>
+   <asset name="country_soil_32_a_0_0" x="31" y="10"/>
+   <asset name="country_soil_32_a_2_0" x="31" y="10"/>
+   <asset name="country_soil_32_a_4_0" x="31" y="10"/>
+   <asset name="country_soil_32_a_6_0" x="31" y="10"/>
+   <asset name="country_soil_32_b_0_0" x="30" y="9"/>
+   <asset name="country_soil_32_b_2_0" x="30" y="9"/>
+   <asset name="country_soil_32_b_4_0" x="30" y="9"/>
+   <asset name="country_soil_32_b_6_0" x="30" y="9"/>
+   <asset name="country_soil_32_c_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_c_0_1" x="28" y="7"/>
+   <asset name="country_soil_32_c_2_0" source="country_soil_32_c_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_c_2_1" x="25" y="5"/>
+   <asset name="country_soil_32_c_4_0" source="country_soil_32_c_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_c_4_1" flipH="1" source="country_soil_32_c_0_1" x="28" y="7"/>
+   <asset name="country_soil_32_c_6_0" source="country_soil_32_c_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_c_6_1" flipH="1" source="country_soil_32_c_2_1" x="25" y="5"/>
+   <asset name="country_soil_32_d_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_d_0_1" x="21" y="9"/>
+   <asset name="country_soil_32_d_0_2" flipH="1" source="country_soil_32_d_2_2" x="27" y="8"/>
+   <asset name="country_soil_32_d_0_3" flipH="1" source="country_soil_32_d_2_3" x="27" y="9"/>
+   <asset name="country_soil_32_d_2_0" source="country_soil_32_d_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_d_2_1" x="26" y="6"/>
+   <asset name="country_soil_32_d_2_2" x="27" y="8"/>
+   <asset name="country_soil_32_d_2_3" x="27" y="9"/>
+   <asset name="country_soil_32_d_4_0" source="country_soil_32_d_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_d_4_1" flipH="1" source="country_soil_32_d_0_1" x="21" y="9"/>
+   <asset name="country_soil_32_d_4_2" flipH="1" source="country_soil_32_d_2_2" x="27" y="8"/>
+   <asset name="country_soil_32_d_4_3" flipH="1" source="country_soil_32_d_2_3" x="27" y="9"/>
+   <asset name="country_soil_32_d_6_0" source="country_soil_32_d_0_0" x="1" y="-25"/>
+   <asset name="country_soil_32_d_6_1" flipH="1" source="country_soil_32_d_2_1" x="26" y="6"/>
+   <asset name="country_soil_32_d_6_2" source="country_soil_32_d_2_2" x="27" y="8"/>
+   <asset name="country_soil_32_d_6_3" source="country_soil_32_d_2_3" x="27" y="9"/>
+</assets>

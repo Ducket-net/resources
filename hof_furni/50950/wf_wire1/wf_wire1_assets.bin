@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wf_wire1_32_a_0_0" x="11" y="6"/>
+  <asset name="wf_wire1_32_a_0_1" x="12" y="6"/>
+  <asset name="wf_wire1_32_a_0_2" x="12" y="6"/>
+  <asset name="wf_wire1_32_a_0_3" x="12" y="6"/>
+  <asset name="wf_wire1_64_a_0_0" x="21" y="11"/>
+  <asset name="wf_wire1_64_a_0_1" x="21" y="11"/>
+  <asset name="wf_wire1_64_a_0_2" x="21" y="11"/>
+  <asset name="wf_wire1_64_a_0_3" x="21" y="11"/>
+  <asset name="wf_wire1_icon_a" x="14" y="7"/>
+  <asset name="wf_wire1_64_a_6_0" flipH="1" source="wf_wire1_64_a_0_0" x="23" y="12"/>
+  <asset name="wf_wire1_32_a_6_0" flipH="1" source="wf_wire1_32_a_0_0" x="12" y="6"/>
+  <asset name="wf_wire1_32_a_6_1" flipH="1" source="wf_wire1_32_a_0_1" x="12" y="6"/>
+  <asset name="wf_wire1_32_a_6_2" flipH="1" source="wf_wire1_32_a_0_2" x="12" y="6"/>
+  <asset name="wf_wire1_32_a_6_3" flipH="1" source="wf_wire1_32_a_0_3" x="12" y="6"/>
+  <asset name="wf_wire1_64_a_6_1" flipH="1" source="wf_wire1_64_a_0_1" x="23" y="12"/>
+  <asset name="wf_wire1_64_a_6_2" flipH="1" source="wf_wire1_64_a_0_2" x="23" y="12"/>
+  <asset name="wf_wire1_64_a_6_3" flipH="1" source="wf_wire1_64_a_0_3" x="23" y="12"/>
+</assets>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="waasa_ship2_64_b_2_0" x="71" y="92"/>
+  <asset name="waasa_ship2_64_a_2_0" x="3" y="86"/>
+  <asset name="waasa_ship2_64_b_2_1" x="71" y="92"/>
+  <asset name="waasa_ship2_64_a_2_1" x="3" y="86"/>
+  <asset name="waasa_ship2_64_b_2_2" x="71" y="93"/>
+  <asset name="waasa_ship2_64_a_2_2" x="3" y="87"/>
+  <asset name="waasa_ship2_32_b_2_0" x="40" y="47"/>
+  <asset name="waasa_ship2_32_a_2_0" x="4" y="43"/>
+  <asset name="waasa_ship2_32_b_2_1" x="40" y="47"/>
+  <asset name="waasa_ship2_32_a_2_1" x="4" y="43"/>
+  <asset name="waasa_ship2_icon_a" x="14" y="15"/>
+  <asset name="waasa_ship2_64_b_4_0" flipH="1" source="waasa_ship2_64_b_2_0" x="71" y="92"/>
+  <asset name="waasa_ship2_64_a_4_0" flipH="1" source="waasa_ship2_64_a_2_0" x="3" y="86"/>
+  <asset name="waasa_ship2_64_b_4_1" flipH="1" source="waasa_ship2_64_b_2_1" x="71" y="92"/>
+  <asset name="waasa_ship2_64_a_4_1" flipH="1" source="waasa_ship2_64_a_2_1" x="3" y="86"/>
+  <asset name="waasa_ship2_64_b_4_2" flipH="1" source="waasa_ship2_64_b_2_2" x="71" y="93"/>
+  <asset name="waasa_ship2_64_a_4_2" flipH="1" source="waasa_ship2_64_a_2_2" x="3" y="87"/>
+  <asset name="waasa_ship2_32_b_4_0" flipH="1" source="waasa_ship2_32_b_2_0" x="40" y="47"/>
+  <asset name="waasa_ship2_32_a_4_0" flipH="1" source="waasa_ship2_32_a_2_0" x="4" y="43"/>
+  <asset name="waasa_ship2_32_b_4_1" flipH="1" source="waasa_ship2_32_b_2_1" x="40" y="47"/>
+  <asset name="waasa_ship2_32_a_4_1" flipH="1" source="waasa_ship2_32_a_2_1" x="4" y="43"/>
+</assets>

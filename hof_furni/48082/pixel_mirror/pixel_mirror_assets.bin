@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pixel_mirror_64_sd_2_0" x="19" y="18"/>
+  <asset name="pixel_mirror_64_a_2_0" x="17" y="34"/>
+  <asset name="pixel_mirror_32_sd_2_0" x="10" y="9"/>
+  <asset name="pixel_mirror_32_a_2_0" x="9" y="17"/>
+  <asset name="pixel_mirror_64_sd_4_0" flipH="1" source="pixel_mirror_64_sd_2_0" x="19" y="18"/>
+  <asset name="pixel_mirror_64_a_4_0" flipH="1" source="pixel_mirror_64_a_2_0" x="17" y="34"/>
+  <asset name="pixel_mirror_32_sd_4_0" flipH="1" source="pixel_mirror_32_sd_2_0" x="10" y="9"/>
+  <asset name="pixel_mirror_32_a_4_0" flipH="1" source="pixel_mirror_32_a_2_0" x="9" y="17"/>
+  <asset name="pixel_mirror_icon_a" x="8" y="14"/>
+</assets>

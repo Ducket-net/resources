@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="anc_waterfall_64_a_4_0" x="30" y="645"/>
+  <asset name="anc_waterfall_64_a_4_1" x="32" y="645"/>
+  <asset name="anc_waterfall_64_a_4_2" x="33" y="645"/>
+  <asset name="anc_waterfall_64_a_4_3" x="34" y="645"/>
+  <asset name="anc_waterfall_32_a_4_0" x="16" y="322"/>
+  <asset name="anc_waterfall_32_a_4_1" x="16" y="322"/>
+  <asset name="anc_waterfall_32_a_4_2" x="16" y="322"/>
+  <asset name="anc_waterfall_32_a_4_3" x="17" y="323"/>
+  <asset name="anc_waterfall_icon_a" x="11" y="15"/>
+  <asset name="anc_waterfall_64_a_2_0" flipH="1" source="anc_waterfall_64_a_4_0" x="30" y="645"/>
+  <asset name="anc_waterfall_64_a_2_1" flipH="1" source="anc_waterfall_64_a_4_1" x="32" y="645"/>
+  <asset name="anc_waterfall_64_a_2_2" flipH="1" source="anc_waterfall_64_a_4_2" x="33" y="645"/>
+  <asset name="anc_waterfall_64_a_2_3" flipH="1" source="anc_waterfall_64_a_4_3" x="34" y="645"/>
+  <asset name="anc_waterfall_32_a_2_0" flipH="1" source="anc_waterfall_32_a_4_0" x="16" y="322"/>
+  <asset name="anc_waterfall_32_a_2_1" flipH="1" source="anc_waterfall_32_a_4_1" x="16" y="322"/>
+  <asset name="anc_waterfall_32_a_2_2" flipH="1" source="anc_waterfall_32_a_4_2" x="16" y="322"/>
+  <asset name="anc_waterfall_32_a_2_3" flipH="1" source="anc_waterfall_32_a_4_3" x="17" y="323"/>
+</assets>

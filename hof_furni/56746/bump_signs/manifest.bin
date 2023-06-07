@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="bump_signs" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="bump_signs_visualization" mimeType="text/xml"/>
+         <asset name="bump_signs_assets" mimeType="text/xml"/>
+         <asset name="bump_signs_logic" mimeType="text/xml"/>
+         <asset name="bump_signs_64_a_0_0" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_0_1" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_0_2" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_0_3" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_0_4" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_0_5" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_0_6" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_2_1" mimeType="image/png"/>
+         <asset name="bump_signs_64_a_2_2" mimeType="image/png"/>
+         <asset name="bump_signs_icon_a" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_0" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_1" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_2" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_3" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_4" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_5" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_0_6" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_2_1" mimeType="image/png"/>
+         <asset name="bump_signs_32_a_2_2" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

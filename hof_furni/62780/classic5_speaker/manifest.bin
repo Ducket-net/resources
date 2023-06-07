@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="classic5_speaker" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="classic5_speaker_visualization" mimeType="text/xml"/>
+      <asset name="classic5_speaker_assets" mimeType="text/xml"/>
+      <asset name="classic5_speaker_logic" mimeType="text/xml"/>
+      <asset name="classic5_speaker_64_sd_4_0" mimeType="image/png"/>
+      <asset name="classic5_speaker_64_a_4_0" mimeType="image/png"/>
+      <asset name="classic5_speaker_64_a_4_1" mimeType="image/png"/>
+      <asset name="classic5_speaker_64_a_4_2" mimeType="image/png"/>
+      <asset name="classic5_speaker_64_a_4_3" mimeType="image/png"/>
+      <asset name="classic5_speaker_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

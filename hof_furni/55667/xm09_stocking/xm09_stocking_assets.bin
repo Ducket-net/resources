@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="xm09_stocking_64_a_2_0" x="15" y="30"/>
+   <asset name="xm09_stocking_64_a_2_1" x="6" y="27"/>
+   <asset name="xm09_stocking_64_b_2_0" x="16" y="23"/>
+   <asset name="xm09_stocking_64_b_2_1" x="15" y="23"/>
+   <asset name="xm09_stocking_64_b_2_2" x="15" y="23"/>
+   <asset name="xm09_stocking_64_b_2_3" x="6" y="23"/>
+   <asset name="xm09_stocking_64_c_2_0" x="15" y="24"/>
+   <asset name="xm09_stocking_64_c_2_1" x="15" y="24"/>
+   <asset name="xm09_stocking_64_c_2_2" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_2_3" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_2_4" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_2_5" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_2_6" x="5" y="24"/>
+   <asset name="xm09_stocking_64_a_4_0" flipH="1" source="xm09_stocking_64_a_2_0" x="15" y="30"/>
+   <asset name="xm09_stocking_64_a_4_1" flipH="1" source="xm09_stocking_64_a_2_1" x="6" y="27"/>
+   <asset name="xm09_stocking_64_b_4_0" flipH="1" source="xm09_stocking_64_b_2_0" x="16" y="23"/>
+   <asset name="xm09_stocking_64_b_4_1" flipH="1" source="xm09_stocking_64_b_2_1" x="15" y="23"/>
+   <asset name="xm09_stocking_64_b_4_2" flipH="1" source="xm09_stocking_64_b_2_2" x="15" y="23"/>
+   <asset name="xm09_stocking_64_b_4_3" flipH="1" source="xm09_stocking_64_b_2_3" x="6" y="23"/>
+   <asset name="xm09_stocking_64_c_4_0" flipH="1" source="xm09_stocking_64_c_2_0" x="15" y="24"/>
+   <asset name="xm09_stocking_64_c_4_1" flipH="1" source="xm09_stocking_64_c_2_1" x="15" y="24"/>
+   <asset name="xm09_stocking_64_c_4_2" flipH="1" source="xm09_stocking_64_c_2_2" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_4_3" flipH="1" source="xm09_stocking_64_c_2_3" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_4_4" flipH="1" source="xm09_stocking_64_c_2_4" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_4_5" flipH="1" source="xm09_stocking_64_c_2_5" x="14" y="24"/>
+   <asset name="xm09_stocking_64_c_4_6" flipH="1" source="xm09_stocking_64_c_2_6" x="5" y="24"/>
+   <asset name="xm09_stocking_32_a_2_0" x="9" y="14"/>
+   <asset name="xm09_stocking_32_a_2_1" x="3" y="14"/>
+   <asset name="xm09_stocking_32_b_2_0" x="9" y="12"/>
+   <asset name="xm09_stocking_32_b_2_1" x="9" y="12"/>
+   <asset name="xm09_stocking_32_b_2_2" x="9" y="12"/>
+   <asset name="xm09_stocking_32_b_2_3" x="4" y="11"/>
+   <asset name="xm09_stocking_32_c_2_0" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_2_1" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_2_2" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_2_3" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_2_4" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_2_5" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_2_6" x="3" y="12"/>
+   <asset name="xm09_stocking_32_a_4_0" flipH="1" source="xm09_stocking_32_a_2_0" x="9" y="14"/>
+   <asset name="xm09_stocking_32_a_4_1" flipH="1" source="xm09_stocking_32_a_2_1" x="3" y="14"/>
+   <asset name="xm09_stocking_32_b_4_0" flipH="1" source="xm09_stocking_32_b_2_0" x="9" y="12"/>
+   <asset name="xm09_stocking_32_b_4_1" flipH="1" source="xm09_stocking_32_b_2_1" x="9" y="12"/>
+   <asset name="xm09_stocking_32_b_4_2" flipH="1" source="xm09_stocking_32_b_2_2" x="9" y="12"/>
+   <asset name="xm09_stocking_32_b_4_3" flipH="1" source="xm09_stocking_32_b_2_3" x="4" y="11"/>
+   <asset name="xm09_stocking_32_c_4_0" flipH="1" source="xm09_stocking_32_c_2_0" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_4_1" flipH="1" source="xm09_stocking_32_c_2_1" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_4_2" flipH="1" source="xm09_stocking_32_c_2_2" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_4_3" flipH="1" source="xm09_stocking_32_c_2_3" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_4_4" flipH="1" source="xm09_stocking_32_c_2_4" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_4_5" flipH="1" source="xm09_stocking_32_c_2_5" x="8" y="13"/>
+   <asset name="xm09_stocking_32_c_4_6" flipH="1" source="xm09_stocking_32_c_2_6" x="3" y="12"/>
+   <asset name="xm09_stocking_icon_a" x="11" y="15"/>
+</assets>

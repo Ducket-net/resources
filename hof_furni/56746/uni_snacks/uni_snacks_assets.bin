@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="uni_snacks_64_a_2_0" x="26" y="13"/>
+  <asset name="uni_snacks_64_a_2_1" x="22" y="19"/>
+  <asset name="uni_snacks_64_a_2_2" x="18" y="15"/>
+  <asset name="uni_snacks_64_a_2_3" x="17" y="30"/>
+  <asset name="uni_snacks_32_a_2_0" x="13" y="8"/>
+  <asset name="uni_snacks_32_a_2_1" x="10" y="10"/>
+  <asset name="uni_snacks_32_a_2_2" x="9" y="8"/>
+  <asset name="uni_snacks_32_a_2_3" x="9" y="16"/>
+  <asset name="uni_snacks_icon_a" x="13" y="6"/>
+  <asset name="uni_snacks_64_a_4_0" flipH="1" source="uni_snacks_64_a_2_0" x="26" y="13"/>
+  <asset name="uni_snacks_64_a_4_1" flipH="1" source="uni_snacks_64_a_2_1" x="22" y="19"/>
+  <asset name="uni_snacks_64_a_4_2" flipH="1" source="uni_snacks_64_a_2_2" x="18" y="15"/>
+  <asset name="uni_snacks_64_a_4_3" flipH="1" source="uni_snacks_64_a_2_3" x="17" y="30"/>
+  <asset name="uni_snacks_32_a_4_0" flipH="1" source="uni_snacks_32_a_2_0" x="13" y="8"/>
+  <asset name="uni_snacks_32_a_4_1" flipH="1" source="uni_snacks_32_a_2_1" x="10" y="10"/>
+  <asset name="uni_snacks_32_a_4_2" flipH="1" source="uni_snacks_32_a_2_2" x="9" y="8"/>
+  <asset name="uni_snacks_32_a_4_3" flipH="1" source="uni_snacks_32_a_2_3" x="9" y="16"/>
+  <asset name="uni_snacks_64_a_1_0" source="uni_snacks_64_a_2_0" x="26" y="13"/>
+  <asset name="uni_snacks_64_a_1_1" source="uni_snacks_64_a_2_1" x="22" y="19"/>
+  <asset name="uni_snacks_64_a_1_2" source="uni_snacks_64_a_2_2" x="18" y="15"/>
+  <asset name="uni_snacks_64_a_1_3" source="uni_snacks_64_a_2_3" x="17" y="30"/>
+  <asset name="uni_snacks_32_a_1_0" source="uni_snacks_32_a_2_0" x="13" y="8"/>
+  <asset name="uni_snacks_32_a_1_1" source="uni_snacks_32_a_2_1" x="10" y="10"/>
+  <asset name="uni_snacks_32_a_1_2" source="uni_snacks_32_a_2_2" x="9" y="8"/>
+  <asset name="uni_snacks_32_a_1_3" source="uni_snacks_32_a_2_3" x="9" y="16"/>
+</assets>

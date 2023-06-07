@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="st_palooza_pool">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="9" angle="45">
+      <layers>
+        <layer id="0" z="-60"/>
+        <layer id="1" z="1060"/>
+        <layer id="2" z="1060"/>
+        <layer id="3" z="2061"/>
+        <layer id="4" z="1000"/>
+        <layer id="5" alpha="204"/>
+        <layer id="6" alpha="204" z="1000"/>
+        <layer id="7" alpha="204" z="1060"/>
+        <layer id="8" alpha="204" z="2060"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="6"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="9" angle="45">
+      <layers>
+        <layer id="0" z="-60"/>
+        <layer id="1" z="1060"/>
+        <layer id="2" z="1060"/>
+        <layer id="3" z="2061"/>
+        <layer id="4" z="1000"/>
+        <layer id="5" alpha="204"/>
+        <layer id="6" alpha="204" z="1000"/>
+        <layer id="7" alpha="204" z="1060"/>
+        <layer id="8" alpha="204" z="2060"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="6"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

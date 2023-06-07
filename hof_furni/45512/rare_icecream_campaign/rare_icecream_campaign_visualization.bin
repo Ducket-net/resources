@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="rare_icecream_campaign"><graphics>
+   <visualization size="32" layerCount="5" angle="45">
+      <layers>
+         <layer id="2" alpha="179" z="150"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="3">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="4">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="5">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="3" frameRepeat="3">
+               <frameSequence>
+                  <frame id="1"/>
+                  <frame id="2"/>
+                  <frame id="3"/>
+                  <frame id="4"/>
+                  <frame id="5"/>
+                  <frame id="6"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="64" layerCount="5" angle="45">
+      <layers>
+         <layer id="2" alpha="179" z="150"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4">
+            <layer id="0" x="26" y="13" z="10"/>
+            <layer id="3" x="12" y="6"/>
+            <layer id="4" x="-12" y="-6"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="2">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="3">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="4">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="5">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="3" frameRepeat="3">
+               <frameSequence>
+                  <frame id="1"/>
+                  <frame id="2"/>
+                  <frame id="3"/>
+                  <frame id="4"/>
+                  <frame id="5"/>
+                  <frame id="6"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

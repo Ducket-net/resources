@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="CF_500_vikings_64_sd_0_0" x="27" y="15"/>
+  <asset name="CF_500_vikings_64_a_0_0" x="29" y="56"/>
+  <asset name="CF_500_vikings_32_sd_0_0" x="14" y="8"/>
+  <asset name="CF_500_vikings_32_a_0_0" x="16" y="28"/>
+  <asset name="CF_500_vikings_icon_a" x="14" y="14"/>
+  <asset name="CF_500_vikings_64_sd_2_0" flipH="1" source="CF_500_vikings_64_sd_0_0" x="27" y="15"/>
+  <asset name="CF_500_vikings_64_a_2_0" flipH="1" source="CF_500_vikings_64_a_0_0" x="29" y="56"/>
+  <asset name="CF_500_vikings_32_sd_2_0" flipH="1" source="CF_500_vikings_32_sd_0_0" x="14" y="8"/>
+  <asset name="CF_500_vikings_32_a_2_0" flipH="1" source="CF_500_vikings_32_a_0_0" x="16" y="28"/>
+</assets>

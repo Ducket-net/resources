@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="hween08_curtain"><graphics>
+   <visualization size="32" layerCount="3" angle="45">
+      <layers>
+         <layer id="1" z="1000"/>
+         <layer id="2" z="2000"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="6"/>
+      </directions>
+   </visualization>
+   <visualization size="64" layerCount="5" angle="45">
+      <layers>
+         <layer id="2" z="1000"/>
+         <layer id="3" z="2000"/>
+         <layer id="4" z="2000"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="6"/>
+      </directions>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

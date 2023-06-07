@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="ads_igor_wall_icon_a" x="28" y="19"/>
+   <asset name="ads_igor_wall_64_a_2_0" x="42" y="64"/>
+   <asset name="ads_igor_wall_64_b_2_0" x="42" y="64"/>
+   <asset name="ads_igor_wall_64_c_2_0" x="45" y="70"/>
+   <asset name="ads_igor_wall_64_d_2_0" x="-11" y="31"/>
+   <asset name="ads_igor_wall_64_d_2_1" x="-12" y="31"/>
+   <asset name="ads_igor_wall_64_d_2_2" x="-12" y="30"/>
+   <asset name="ads_igor_wall_64_d_2_3" x="-12" y="30"/>
+   <asset name="ads_igor_wall_64_a_4_0" flipH="1" source="ads_igor_wall_64_a_2_0" x="42" y="64"/>
+   <asset name="ads_igor_wall_64_b_4_0" flipH="1" source="ads_igor_wall_64_b_2_0" x="42" y="64"/>
+   <asset name="ads_igor_wall_64_c_4_0" flipH="1" source="ads_igor_wall_64_c_2_0" x="45" y="70"/>
+   <asset name="ads_igor_wall_64_d_4_0" flipH="1" source="ads_igor_wall_64_d_2_0" x="-11" y="31"/>
+   <asset name="ads_igor_wall_64_d_4_1" flipH="1" source="ads_igor_wall_64_d_2_1" x="-12" y="31"/>
+   <asset name="ads_igor_wall_64_d_4_2" flipH="1" source="ads_igor_wall_64_d_2_2" x="-12" y="30"/>
+   <asset name="ads_igor_wall_64_d_4_3" flipH="1" source="ads_igor_wall_64_d_2_3" x="-12" y="30"/>
+   <asset name="ads_igor_wall_32_a_2_0" x="20" y="32"/>
+   <asset name="ads_igor_wall_32_b_2_0" x="20" y="32"/>
+   <asset name="ads_igor_wall_32_c_2_0" x="23" y="35"/>
+   <asset name="ads_igor_wall_32_d_2_0" x="-5" y="11"/>
+   <asset name="ads_igor_wall_32_d_2_1" x="-6" y="10"/>
+   <asset name="ads_igor_wall_32_d_2_2" x="-4" y="10"/>
+   <asset name="ads_igor_wall_32_a_4_0" flipH="1" source="ads_igor_wall_32_a_2_0" x="20" y="32"/>
+   <asset name="ads_igor_wall_32_b_4_0" flipH="1" source="ads_igor_wall_32_b_2_0" x="20" y="32"/>
+   <asset name="ads_igor_wall_32_c_4_0" flipH="1" source="ads_igor_wall_32_c_2_0" x="23" y="35"/>
+   <asset name="ads_igor_wall_32_d_4_0" flipH="1" source="ads_igor_wall_32_d_2_0" x="-5" y="11"/>
+   <asset name="ads_igor_wall_32_d_4_1" flipH="1" source="ads_igor_wall_32_d_2_1" x="-6" y="10"/>
+   <asset name="ads_igor_wall_32_d_4_2" flipH="1" source="ads_igor_wall_32_d_2_2" x="-4" y="10"/>
+</assets>

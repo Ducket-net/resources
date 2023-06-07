@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="plant_mazegate_64_a_2_0" x="15" y="69"/>
+   <asset name="plant_mazegate_64_a_2_1" x="15" y="69"/>
+   <asset name="plant_mazegate_64_a_4_0" x="33" y="69"/>
+   <asset name="plant_mazegate_64_a_4_1" x="33" y="69"/>
+   <asset name="plant_mazegate_64_b_2_0" x="65" y="41"/>
+   <asset name="plant_mazegate_64_b_2_1" x="65" y="41"/>
+   <asset name="plant_mazegate_64_b_4_0" x="-16" y="41"/>
+   <asset name="plant_mazegate_64_b_4_1" x="-16" y="41"/>
+   <asset name="plant_mazegate_64_sd_0_0" flipH="1" source="plant_mazegate_64_sd_4_0" x="35" y="17"/>
+   <asset name="plant_mazegate_64_sd_2_0" x="67" y="17"/>
+   <asset name="plant_mazegate_64_sd_4_0" x="35" y="17"/>
+   <asset name="plant_mazegate_64_sd_6_0" flipH="1" source="plant_mazegate_64_sd_2_0" x="67" y="17"/>
+   <asset name="plant_mazegate_icon_a" x="16" y="16"/>
+   <asset name="plant_mazegate_32_a_2_0" x="8" y="35"/>
+   <asset name="plant_mazegate_32_a_2_1" x="8" y="35"/>
+   <asset name="plant_mazegate_32_a_4_0" x="17" y="34"/>
+   <asset name="plant_mazegate_32_a_4_1" x="17" y="34"/>
+   <asset name="plant_mazegate_32_b_2_0" x="33" y="20"/>
+   <asset name="plant_mazegate_32_b_2_1" x="33" y="20"/>
+   <asset name="plant_mazegate_32_b_4_0" x="-9" y="21"/>
+   <asset name="plant_mazegate_32_b_4_1" x="-9" y="21"/>
+   <asset name="plant_mazegate_32_sd_0_0" flipH="1" source="plant_mazegate_32_sd_4_0" x="17" y="9"/>
+   <asset name="plant_mazegate_32_sd_2_0" x="33" y="9"/>
+   <asset name="plant_mazegate_32_sd_4_0" x="17" y="9"/>
+   <asset name="plant_mazegate_32_sd_6_0" flipH="1" source="plant_mazegate_32_sd_2_0" x="33" y="9"/>
+</assets>

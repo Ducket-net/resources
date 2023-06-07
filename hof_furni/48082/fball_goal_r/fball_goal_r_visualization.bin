@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="fball_goal_r"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="4" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="900"/>
+      <layer id="2" z="1900"/>
+      <layer id="3" z="2100"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+     <direction id="6">
+            <layer id="0"/>
+            <layer id="1" z="10"/>
+            <layer id="2" z="1100"/>
+            <layer id="3" z="2100"/>
+			</direction>
+      <direction id="4"/>
+        <direction id="0">
+            <layer id="0"/>
+            <layer id="1" z="10"/>
+            <layer id="2" z="1100"/>
+            <layer id="3" z="2100"/>
+			</direction>
+			
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="-1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+  </visualization>
+  <visualization size="64" layerCount="4" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="900"/>
+      <layer id="2" z="1900"/>
+      <layer id="3" z="2100"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+       <direction id="6">
+            <layer id="0"/>
+            <layer id="1" z="10"/>
+            <layer id="2" z="1100"/>
+            <layer id="3" z="2100"/>
+			</direction>
+      <direction id="4"/>
+      <direction id="0">
+            <layer id="0"/>
+            <layer id="1" z="10"/>
+            <layer id="2" z="1100"/>
+            <layer id="3" z="2100"/>
+			</direction>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="-1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+  </visualization>
+</graphics></visualizationData>

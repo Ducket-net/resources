@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hc22_1" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hc22_1_visualization" mimeType="text/xml"/>
+      <asset name="hc22_1_assets" mimeType="text/xml"/>
+      <asset name="hc22_1_logic" mimeType="text/xml"/>
+      <asset name="hc22_1_64_sd_6_0" mimeType="image/png"/>
+      <asset name="hc22_1_64_a_2_0" mimeType="image/png"/>
+      <asset name="hc22_1_64_b_2_0" mimeType="image/png"/>
+      <asset name="hc22_1_64_a_6_0" mimeType="image/png"/>
+      <asset name="hc22_1_64_b_6_0" mimeType="image/png"/>
+      <asset name="hc22_1_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

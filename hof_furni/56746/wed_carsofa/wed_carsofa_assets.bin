@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wed_carsofa_32_sd_2_0" x="29" y="0"/>
+  <asset name="wed_carsofa_32_a_2_0" x="25" y="23"/>
+  <asset name="wed_carsofa_32_b_2_0" x="11" y="52"/>
+  <asset name="wed_carsofa_32_c_2_0" x="34" y="42"/>
+  <asset name="wed_carsofa_32_d_2_0" x="31" y="-8"/>
+  <asset name="wed_carsofa_32_sd_6_0" x="31" y="0"/>
+  <asset name="wed_carsofa_32_a_6_0" x="19" y="19"/>
+  <asset name="wed_carsofa_32_b_6_0" x="1" y="27"/>
+  <asset name="wed_carsofa_32_c_6_0" x="32" y="38"/>
+  <asset name="wed_carsofa_32_d_6_0" x="0" y="46"/>
+  <asset name="wed_carsofa_64_sd_2_0" x="62" y="2"/>
+  <asset name="wed_carsofa_64_a_2_0" x="52" y="46"/>
+  <asset name="wed_carsofa_64_b_2_0" x="22" y="103"/>
+  <asset name="wed_carsofa_64_c_2_0" x="69" y="84"/>
+  <asset name="wed_carsofa_64_d_2_0" x="64" y="-16"/>
+  <asset name="wed_carsofa_64_sd_6_0" x="63" y="-4"/>
+  <asset name="wed_carsofa_64_a_6_0" x="41" y="39"/>
+  <asset name="wed_carsofa_64_b_6_0" x="4" y="54"/>
+  <asset name="wed_carsofa_64_c_6_0" x="67" y="76"/>
+  <asset name="wed_carsofa_64_d_6_0" x="0" y="92"/>
+  <asset name="wed_carsofa_icon_a" x="14" y="14"/>
+  <asset name="wed_carsofa_32_sd_4_0" flipH="1" source="wed_carsofa_32_sd_2_0" x="29" y="0"/>
+  <asset name="wed_carsofa_32_a_4_0" flipH="1" source="wed_carsofa_32_a_2_0" x="25" y="23"/>
+  <asset name="wed_carsofa_32_b_4_0" flipH="1" source="wed_carsofa_32_b_2_0" x="11" y="52"/>
+  <asset name="wed_carsofa_32_c_4_0" flipH="1" source="wed_carsofa_32_c_2_0" x="34" y="42"/>
+  <asset name="wed_carsofa_32_d_4_0" flipH="1" source="wed_carsofa_32_d_2_0" x="31" y="-8"/>
+  <asset name="wed_carsofa_32_sd_0_0" flipH="1" source="wed_carsofa_32_sd_6_0" x="31" y="0"/>
+  <asset name="wed_carsofa_32_a_0_0" flipH="1" source="wed_carsofa_32_a_6_0" x="19" y="19"/>
+  <asset name="wed_carsofa_32_b_0_0" flipH="1" source="wed_carsofa_32_b_6_0" x="1" y="27"/>
+  <asset name="wed_carsofa_32_c_0_0" flipH="1" source="wed_carsofa_32_c_6_0" x="32" y="38"/>
+  <asset name="wed_carsofa_32_d_0_0" flipH="1" source="wed_carsofa_32_d_6_0" x="0" y="46"/>
+  <asset name="wed_carsofa_64_sd_4_0" flipH="1" source="wed_carsofa_64_sd_2_0" x="62" y="2"/>
+  <asset name="wed_carsofa_64_a_4_0" flipH="1" source="wed_carsofa_64_a_2_0" x="52" y="46"/>
+  <asset name="wed_carsofa_64_b_4_0" flipH="1" source="wed_carsofa_64_b_2_0" x="22" y="103"/>
+  <asset name="wed_carsofa_64_c_4_0" flipH="1" source="wed_carsofa_64_c_2_0" x="69" y="84"/>
+  <asset name="wed_carsofa_64_d_4_0" flipH="1" source="wed_carsofa_64_d_2_0" x="64" y="-16"/>
+  <asset name="wed_carsofa_64_sd_0_0" flipH="1" source="wed_carsofa_64_sd_6_0" x="63" y="-4"/>
+  <asset name="wed_carsofa_64_a_0_0" flipH="1" source="wed_carsofa_64_a_6_0" x="41" y="39"/>
+  <asset name="wed_carsofa_64_b_0_0" flipH="1" source="wed_carsofa_64_b_6_0" x="4" y="54"/>
+  <asset name="wed_carsofa_64_c_0_0" flipH="1" source="wed_carsofa_64_c_6_0" x="67" y="76"/>
+  <asset name="wed_carsofa_64_d_0_0" flipH="1" source="wed_carsofa_64_d_6_0" x="0" y="92"/>
+</assets>

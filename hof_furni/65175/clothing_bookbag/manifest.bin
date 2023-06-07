@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_bookbag" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_bookbag_visualization" mimeType="text/xml"/>
+      <asset name="clothing_bookbag_assets" mimeType="text/xml"/>
+      <asset name="clothing_bookbag_logic" mimeType="text/xml"/>
+      <asset name="clothing_bookbag_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_bookbag_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

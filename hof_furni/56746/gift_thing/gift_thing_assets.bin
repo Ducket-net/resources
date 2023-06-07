@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="gift_thing_32_sd_0_0" x="3" y="1"/>
+  <asset name="gift_thing_32_a_0_0" x="9" y="15"/>
+  <asset name="gift_thing_32_a_0_1" x="9" y="16"/>
+  <asset name="gift_thing_32_a_0_2" x="9" y="16"/>
+  <asset name="gift_thing_64_sd_0_0" x="10" y="5"/>
+  <asset name="gift_thing_64_a_0_0" x="19" y="31"/>
+  <asset name="gift_thing_64_a_0_1" x="19" y="32"/>
+  <asset name="gift_thing_64_a_0_2" x="19" y="32"/>
+  <asset name="gift_thing_icon_a" x="12" y="14"/>
+  <asset name="gift_thing_32_sd_2_0" flipH="1" source="gift_thing_32_sd_0_0" x="3" y="1"/>
+  <asset name="gift_thing_32_a_2_0" flipH="1" source="gift_thing_32_a_0_0" x="9" y="15"/>
+  <asset name="gift_thing_32_a_2_1" flipH="1" source="gift_thing_32_a_0_1" x="9" y="16"/>
+  <asset name="gift_thing_32_a_2_2" flipH="1" source="gift_thing_32_a_0_2" x="9" y="16"/>
+  <asset name="gift_thing_64_sd_2_0" flipH="1" source="gift_thing_64_sd_0_0" x="10" y="5"/>
+  <asset name="gift_thing_64_a_2_0" flipH="1" source="gift_thing_64_a_0_0" x="19" y="31"/>
+  <asset name="gift_thing_64_a_2_1" flipH="1" source="gift_thing_64_a_0_1" x="19" y="32"/>
+  <asset name="gift_thing_64_a_2_2" flipH="1" source="gift_thing_64_a_0_2" x="19" y="32"/>
+</assets>

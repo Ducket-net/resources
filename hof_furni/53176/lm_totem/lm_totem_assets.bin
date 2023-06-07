@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="lm_totem_32_a_0_0" x="12" y="24"/>
+  <asset name="lm_totem_32_a_0_1" x="15" y="43"/>
+  <asset name="lm_totem_32_a_0_2" x="15" y="62"/>
+  <asset name="lm_totem_64_a_0_0" x="23" y="45"/>
+  <asset name="lm_totem_64_a_0_1" x="25" y="79"/>
+  <asset name="lm_totem_64_a_0_2" x="25" y="114"/>
+  <asset name="lm_totem_icon_a" x="9" y="13"/>
+  <asset name="lm_totem_32_a_2_0" flipH="1" source="lm_totem_32_a_0_0" x="12" y="24"/>
+  <asset name="lm_totem_32_a_2_1" flipH="1" source="lm_totem_32_a_0_1" x="15" y="43"/>
+  <asset name="lm_totem_32_a_2_2" flipH="1" source="lm_totem_32_a_0_2" x="15" y="62"/>
+  <asset name="lm_totem_64_a_2_0" flipH="1" source="lm_totem_64_a_0_0" x="23" y="45"/>
+  <asset name="lm_totem_64_a_2_1" flipH="1" source="lm_totem_64_a_0_1" x="25" y="79"/>
+  <asset name="lm_totem_64_a_2_2" flipH="1" source="lm_totem_64_a_0_2" x="25" y="114"/>
+</assets>

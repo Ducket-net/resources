@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="hween09_ghost"><graphics>
+   <visualization size="32" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" z="50"/>
+         <layer id="1" ink="ADD" ignoreMouse="1"/>
+      </layers>
+      <directions>
+         <direction id="0">
+            <layer id="1" z="2000"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1" loopCount="0" frameRepeat="2" random="1">
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="1"/>
+                  <frame id="2"/>
+                  <frame id="3"/>
+                  <frame id="4"/>
+                  <frame id="5"/>
+                  <frame id="6"/>
+                  <frame id="7"/>
+                  <frame id="8"/>
+                  <frame id="9"/>
+                  <frame id="10"/>
+                  <frame id="11"/>
+                  <frame id="12"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="14"/>
+                  <frame id="15"/>
+                  <frame id="16"/>
+                  <frame id="17"/>
+                  <frame id="18"/>
+                  <frame id="19"/>
+                  <frame id="20"/>
+                  <frame id="21"/>
+                  <frame id="22"/>
+                  <frame id="23"/>
+                  <frame id="24"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="45"/>
+                  <frame id="46"/>
+                  <frame id="47"/>
+                  <frame id="48"/>
+                  <frame id="49"/>
+                  <frame id="50"/>
+                  <frame id="51"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="53"/>
+                  <frame id="54"/>
+                  <frame id="55"/>
+                  <frame id="56"/>
+                  <frame id="57"/>
+                  <frame id="58"/>
+                  <frame id="59"/>
+                  <frame id="60"/>
+                  <frame id="61"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="26"/>
+                  <frame id="27"/>
+                  <frame id="28"/>
+                  <frame id="29"/>
+                  <frame id="30"/>
+                  <frame id="31"/>
+                  <frame id="32"/>
+                  <frame id="33"/>
+                  <frame id="34"/>
+                  <frame id="35"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="37"/>
+                  <frame id="38"/>
+                  <frame id="39"/>
+                  <frame id="40"/>
+                  <frame id="41"/>
+                  <frame id="42"/>
+                  <frame id="43"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="64" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" z="50"/>
+         <layer id="1" ink="ADD" ignoreMouse="1"/>
+      </layers>
+      <directions>
+         <direction id="0">
+            <layer id="1" z="2000"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1" loopCount="0" frameRepeat="2" random="1">
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="1"/>
+                  <frame id="2"/>
+                  <frame id="3"/>
+                  <frame id="4"/>
+                  <frame id="5"/>
+                  <frame id="6"/>
+                  <frame id="7"/>
+                  <frame id="8"/>
+                  <frame id="9"/>
+                  <frame id="10"/>
+                  <frame id="11"/>
+                  <frame id="12"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="14"/>
+                  <frame id="15"/>
+                  <frame id="16"/>
+                  <frame id="17"/>
+                  <frame id="18"/>
+                  <frame id="19"/>
+                  <frame id="20"/>
+                  <frame id="21"/>
+                  <frame id="22"/>
+                  <frame id="23"/>
+                  <frame id="24"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="45"/>
+                  <frame id="46"/>
+                  <frame id="47"/>
+                  <frame id="48"/>
+                  <frame id="49"/>
+                  <frame id="50"/>
+                  <frame id="51"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="53"/>
+                  <frame id="54"/>
+                  <frame id="55"/>
+                  <frame id="56"/>
+                  <frame id="57"/>
+                  <frame id="58"/>
+                  <frame id="59"/>
+                  <frame id="60"/>
+                  <frame id="61"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="26"/>
+                  <frame id="27"/>
+                  <frame id="28"/>
+                  <frame id="29"/>
+                  <frame id="30"/>
+                  <frame id="31"/>
+                  <frame id="32"/>
+                  <frame id="33"/>
+                  <frame id="34"/>
+                  <frame id="35"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="37"/>
+                  <frame id="38"/>
+                  <frame id="39"/>
+                  <frame id="40"/>
+                  <frame id="41"/>
+                  <frame id="42"/>
+                  <frame id="43"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+               <frameSequence>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

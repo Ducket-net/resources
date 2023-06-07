@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc_bigvase_32_sd_0_0" x="6" y="2"/>
+  <asset name="hc_bigvase_32_a_0_0" x="12" y="38"/>
+  <asset name="hc_bigvase_32_a_0_1" x="12" y="38"/>
+  <asset name="hc_bigvase_64_sd_0_0" x="12" y="7"/>
+  <asset name="hc_bigvase_64_a_0_0" x="24" y="76"/>
+  <asset name="hc_bigvase_64_a_0_1" x="24" y="76"/>
+  <asset name="hc_bigvase_icon_a" x="11" y="13"/>
+  <asset name="hc_bigvase_32_sd_2_0" flipH="1" source="hc_bigvase_32_sd_0_0" x="6" y="2"/>
+  <asset name="hc_bigvase_32_a_2_0" flipH="1" source="hc_bigvase_32_a_0_0" x="12" y="38"/>
+  <asset name="hc_bigvase_32_a_2_1" flipH="1" source="hc_bigvase_32_a_0_1" x="12" y="38"/>
+  <asset name="hc_bigvase_64_sd_2_0" flipH="1" source="hc_bigvase_64_sd_0_0" x="12" y="7"/>
+  <asset name="hc_bigvase_64_a_2_0" flipH="1" source="hc_bigvase_64_a_0_0" x="24" y="76"/>
+  <asset name="hc_bigvase_64_a_2_1" flipH="1" source="hc_bigvase_64_a_0_1" x="24" y="76"/>
+</assets>

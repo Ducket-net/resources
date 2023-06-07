@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<manifest>
+  <library name="ads_mall_winspo" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ads_mall_winspo_visualization" mimeType="text/xml"/>
+      <asset name="ads_mall_winspo_assets" mimeType="text/xml"/>
+      <asset name="ads_mall_winspo_logic" mimeType="text/xml"/>
+      <asset name="ads_mall_winspo_icon_a" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_a_2_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_b_2_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_c_2_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_d_2_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_e_2_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_a_4_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_b_4_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_c_4_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_d_4_0" mimeType="image/png"/>
+      <asset name="ads_mall_winspo_64_e_4_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

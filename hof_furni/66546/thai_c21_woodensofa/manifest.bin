@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="thai_c21_woodensofa" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="thai_c21_woodensofa_visualization" mimeType="text/xml"/>
+      <asset name="thai_c21_woodensofa_assets" mimeType="text/xml"/>
+      <asset name="thai_c21_woodensofa_logic" mimeType="text/xml"/>
+      <asset name="thai_c21_woodensofa_64_sd_6_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_b_6_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_d_6_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_a_6_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_c_6_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_a_2_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_b_2_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_c_2_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_64_d_2_0" mimeType="image/png"/>
+      <asset name="thai_c21_woodensofa_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

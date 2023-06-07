@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="gothic_sofa"><graphics>
+   <visualization size="32" layerCount="6" angle="45">
+      <layers>
+         <layer id="2" z="303"/>
+         <layer id="3" z="1000"/>
+         <layer id="4" z="1000"/>
+         <layer id="5" z="1303"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+         <direction id="4"/>
+         <direction id="6"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="ff9999"/>
+            <colorLayer id="4" color="ff9999"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="ff9900"/>
+            <colorLayer id="4" color="ff9900"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="dd0000"/>
+            <colorLayer id="4" color="dd0000"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="555555"/>
+            <colorLayer id="4" color="555555"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="666600"/>
+            <colorLayer id="4" color="666600"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="336666"/>
+            <colorLayer id="4" color="336666"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="6" angle="45">
+      <layers>
+         <layer id="2" z="303"/>
+         <layer id="3" z="1000"/>
+         <layer id="4" z="1000"/>
+         <layer id="5" z="1303"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+         <direction id="4"/>
+         <direction id="6"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="ff9999"/>
+            <colorLayer id="4" color="ff9999"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="ff9900"/>
+            <colorLayer id="4" color="ff9900"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="dd0000"/>
+            <colorLayer id="4" color="dd0000"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="555555"/>
+            <colorLayer id="4" color="555555"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="666600"/>
+            <colorLayer id="4" color="666600"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="336666"/>
+            <colorLayer id="4" color="336666"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="ff9999"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="ff9900"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="dd0000"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="555555"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="666600"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="336666"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc_knight_1_32_sd_0_0" x="8" y="2"/>
+  <asset name="hc_knight_1_32_a_0_0" x="12" y="44"/>
+  <asset name="hc_knight_1_64_sd_0_0" x="16" y="5"/>
+  <asset name="hc_knight_1_64_a_0_0" x="22" y="88"/>
+  <asset name="hc_knight_1_icon_a" x="10" y="14"/>
+  <asset name="hc_knight_1_32_sd_2_0" flipH="1" source="hc_knight_1_32_sd_0_0" x="8" y="2"/>
+  <asset name="hc_knight_1_32_a_2_0" flipH="1" source="hc_knight_1_32_a_0_0" x="12" y="44"/>
+  <asset name="hc_knight_1_64_sd_2_0" flipH="1" source="hc_knight_1_64_sd_0_0" x="16" y="5"/>
+  <asset name="hc_knight_1_64_a_2_0" flipH="1" source="hc_knight_1_64_a_0_0" x="22" y="88"/>
+</assets>

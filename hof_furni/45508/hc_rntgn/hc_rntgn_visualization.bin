@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="hc_rntgn"><graphics>
+   <visualization size="32" layerCount="8" angle="45">
+      <layers>
+         <layer id="1" ink="ADD" z="1"/>
+         <layer id="2" ink="SUBTRACT" z="2"/>
+         <layer id="3" z="1000"/>
+         <layer id="4" ink="ADD" z="1001"/>
+         <layer id="5" ink="SUBTRACT" z="1002"/>
+         <layer id="6" ink="ADD" z="3"/>
+         <layer id="7" ink="ADD" z="1003"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+   </visualization>
+   <visualization size="64" layerCount="8" angle="45">
+      <layers>
+         <layer id="1" ink="ADD" z="1"/>
+         <layer id="2" ink="SUBTRACT" z="2"/>
+         <layer id="3" z="1000"/>
+         <layer id="4" ink="ADD" z="1001"/>
+         <layer id="5" ink="SUBTRACT" z="1002"/>
+         <layer id="6" ink="ADD" z="3"/>
+         <layer id="7" ink="ADD" z="1003"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

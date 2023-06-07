@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="cpunk15_robofrank" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="cpunk15_robofrank_visualization" mimeType="text/xml"/>
+      <asset name="cpunk15_robofrank_assets" mimeType="text/xml"/>
+      <asset name="cpunk15_robofrank_logic" mimeType="text/xml"/>
+      <asset name="cpunk15_robofrank_64_sd_2_0" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_a_2_0" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_b_2_0" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_b_2_1" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_b_2_2" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_b_2_3" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_c_2_0" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_c_2_1" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_c_2_2" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_a_2_1" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_a_2_2" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_a_2_3" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_c_2_3" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_c_2_4" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_64_c_2_5" mimeType="image/png"/>
+      <asset name="cpunk15_robofrank_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

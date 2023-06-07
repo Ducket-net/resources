@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="shirt_F_gothicdress" version="0.1">
+    <assets>
+      <asset name="h_lay_ls_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-13,26"/>
+      </asset>
+      <asset name="h_lay_ch_4608_2_0" mimeType="image/png">
+        <param key="offset" value="4,23"/>
+      </asset>
+      <asset name="h_lay_rs_4608_2_0" mimeType="image/png">
+        <param key="offset" value="6,16"/>
+      </asset>
+      <asset name="h_std_ch_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_std_ch_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-11,49"/>
+      </asset>
+      <asset name="h_std_ch_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-16,48"/>
+      </asset>
+      <asset name="h_std_ch_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_std_ch_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-15,47"/>
+      </asset>
+      <asset name="h_std_ls_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_std_rs_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-16,46"/>
+      </asset>
+      <asset name="h_std_rs_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-13,48"/>
+      </asset>
+      <asset name="h_std_ls_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-42,48"/>
+      </asset>
+      <asset name="h_std_ls_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_std_rs_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-42,46"/>
+      </asset>
+      <asset name="h_std_rs_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_std_ls_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_std_ls_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-14,45"/>
+      </asset>
+      <asset name="h_std_rs_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-36,43"/>
+      </asset>
+      <asset name="h_std_ch_4609_1_0" mimeType="image/png">
+        <param key="offset" value="-29,-6"/>
+      </asset>
+      <asset name="h_std_ch_4609_3_0" mimeType="image/png">
+        <param key="offset" value="-27,38"/>
+      </asset>
+      <asset name="h_std_ch_4609_2_0" mimeType="image/png">
+        <param key="offset" value="-30,37"/>
+      </asset>
+      <asset name="h_std_ch_4609_7_0" mimeType="image/png">
+        <param key="offset" value="-41,-3"/>
+      </asset>
+      <asset name="h_std_ch_4609_0_0" mimeType="image/png">
+        <param key="offset" value="-43,-4"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_1_1" mimeType="image/png">
+        <param key="offset" value="-10,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_1_2" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_1_3" mimeType="image/png">
+        <param key="offset" value="-10,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-11,49"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_2_1" mimeType="image/png">
+        <param key="offset" value="-9,49"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_2_2" mimeType="image/png">
+        <param key="offset" value="-11,49"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_2_3" mimeType="image/png">
+        <param key="offset" value="-10,49"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_7_1" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-16,48"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_3_1" mimeType="image/png">
+        <param key="offset" value="-16,48"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_3_2" mimeType="image/png">
+        <param key="offset" value="-16,48"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_3_3" mimeType="image/png">
+        <param key="offset" value="-16,48"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_7_2" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-15,47"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_0_1" mimeType="image/png">
+        <param key="offset" value="-14,47"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_0_2" mimeType="image/png">
+        <param key="offset" value="-15,47"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_0_3" mimeType="image/png">
+        <param key="offset" value="-15,47"/>
+      </asset>
+      <asset name="h_wlk_ch_4608_7_3" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-16,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-13,48"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-42,48"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-42,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-15,45"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-34,43"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_2_1" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_2_1" mimeType="image/png">
+        <param key="offset" value="-15,47"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_3_1" mimeType="image/png">
+        <param key="offset" value="-13,49"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_3_1" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_7_1" mimeType="image/png">
+        <param key="offset" value="-13,47"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_7_1" mimeType="image/png">
+        <param key="offset" value="-42,45"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_1_1" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_1_1" mimeType="image/png">
+        <param key="offset" value="-25,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_0_1" mimeType="image/png">
+        <param key="offset" value="-16,47"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_0_1" mimeType="image/png">
+        <param key="offset" value="-33,43"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_2_2" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_2_2" mimeType="image/png">
+        <param key="offset" value="-16,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_3_2" mimeType="image/png">
+        <param key="offset" value="-13,48"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_3_2" mimeType="image/png">
+        <param key="offset" value="-42,48"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_7_2" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_7_2" mimeType="image/png">
+        <param key="offset" value="-42,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_1_2" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_1_2" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_0_2" mimeType="image/png">
+        <param key="offset" value="-15,45"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_0_2" mimeType="image/png">
+        <param key="offset" value="-34,43"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_2_3" mimeType="image/png">
+        <param key="offset" value="-41,48"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_2_3" mimeType="image/png">
+        <param key="offset" value="-18,46"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_3_3" mimeType="image/png">
+        <param key="offset" value="-13,47"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_3_3" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_7_3" mimeType="image/png">
+        <param key="offset" value="-13,45"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_7_3" mimeType="image/png">
+        <param key="offset" value="-42,47"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_1_3" mimeType="image/png">
+        <param key="offset" value="-26,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_1_3" mimeType="image/png">
+        <param key="offset" value="-21,46"/>
+      </asset>
+      <asset name="h_wlk_ls_4608_0_3" mimeType="image/png">
+        <param key="offset" value="-14,44"/>
+      </asset>
+      <asset name="h_wlk_rs_4608_0_3" mimeType="image/png">
+        <param key="offset" value="-35,43"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_2_0" mimeType="image/png">
+        <param key="offset" value="-30,37"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_2_1" mimeType="image/png">
+        <param key="offset" value="-29,37"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_2_2" mimeType="image/png">
+        <param key="offset" value="-30,37"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_2_3" mimeType="image/png">
+        <param key="offset" value="-29,37"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_0_0" mimeType="image/png">
+        <param key="offset" value="-43,-4"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_0_1" mimeType="image/png">
+        <param key="offset" value="-43,19"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_0_2" mimeType="image/png">
+        <param key="offset" value="-43,-4"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_0_3" mimeType="image/png">
+        <param key="offset" value="-43,-4"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_1_0" mimeType="image/png">
+        <param key="offset" value="-37,-6"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_1_1" mimeType="image/png">
+        <param key="offset" value="-40,18"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_1_2" mimeType="image/png">
+        <param key="offset" value="-37,-6"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_1_3" mimeType="image/png">
+        <param key="offset" value="-40,19"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_7_0" mimeType="image/png">
+        <param key="offset" value="-41,-3"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_7_1" mimeType="image/png">
+        <param key="offset" value="-41,-3"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_7_2" mimeType="image/png">
+        <param key="offset" value="-41,-3"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_7_3" mimeType="image/png">
+        <param key="offset" value="-41,-3"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_3_0" mimeType="image/png">
+        <param key="offset" value="-27,38"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_3_1" mimeType="image/png">
+        <param key="offset" value="-24,38"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_3_2" mimeType="image/png">
+        <param key="offset" value="-27,38"/>
+      </asset>
+      <asset name="h_wlk_ch_4609_3_3" mimeType="image/png">
+        <param key="offset" value="-27,38"/>
+      </asset>
+      <asset name="h_drk_rs_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-16,46"/>
+      </asset>
+      <asset name="h_drk_rs_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-15,49"/>
+      </asset>
+      <asset name="h_drk_rs_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-39,47"/>
+      </asset>
+      <asset name="h_drk_rs_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,48"/>
+      </asset>
+      <asset name="h_drk_rs_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-35,45"/>
+      </asset>
+      <asset name="h_crr_ls_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-42,49"/>
+      </asset>
+      <asset name="h_crr_rs_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-16,47"/>
+      </asset>
+      <asset name="h_crr_rs_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-13,48"/>
+      </asset>
+      <asset name="h_crr_ls_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-41,48"/>
+      </asset>
+      <asset name="h_crr_ls_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-13,46"/>
+      </asset>
+      <asset name="h_crr_rs_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-42,46"/>
+      </asset>
+      <asset name="h_crr_rs_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_crr_ls_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_crr_ls_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-14,45"/>
+      </asset>
+      <asset name="h_crr_rs_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-34,44"/>
+      </asset>
+      <asset name="h_wav_ls_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-39,51"/>
+      </asset>
+      <asset name="h_wav_ls_4608_3_0" mimeType="image/png">
+        <param key="offset" value="-38,51"/>
+      </asset>
+      <asset name="h_wav_ls_4608_7_0" mimeType="image/png">
+        <param key="offset" value="-18,49"/>
+      </asset>
+      <asset name="h_wav_ls_4608_1_0" mimeType="image/png">
+        <param key="offset" value="-30,50"/>
+      </asset>
+      <asset name="h_wav_ls_4608_6_0" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_wav_ls_4608_4_0" mimeType="image/png">
+        <param key="offset" value="-38,48"/>
+      </asset>
+      <asset name="h_wav_ls_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-15,51"/>
+      </asset>
+      <asset name="h_wav_ls_4608_5_0" mimeType="image/png">
+        <param key="offset" value="-27,46"/>
+      </asset>
+      <asset name="h_wav_ls_4608_2_1" mimeType="image/png">
+        <param key="offset" value="-39,51"/>
+      </asset>
+      <asset name="h_wav_ls_4608_3_1" mimeType="image/png">
+        <param key="offset" value="-38,51"/>
+      </asset>
+      <asset name="h_wav_ls_4608_4_1" mimeType="image/png">
+        <param key="offset" value="-38,48"/>
+      </asset>
+      <asset name="h_wav_ls_4608_7_1" mimeType="image/png">
+        <param key="offset" value="-18,49"/>
+      </asset>
+      <asset name="h_wav_ls_4608_6_1" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_wav_ls_4608_5_1" mimeType="image/png">
+        <param key="offset" value="-27,46"/>
+      </asset>
+      <asset name="h_wav_ls_4608_1_1" mimeType="image/png">
+        <param key="offset" value="-30,50"/>
+      </asset>
+      <asset name="h_wav_ls_4608_0_1" mimeType="image/png">
+        <param key="offset" value="-15,51"/>
+      </asset>
+      <asset name="h_sit_ch_4608_2_0" mimeType="image/png">
+        <param key="offset" value="-22,49"/>
+      </asset>
+      <asset name="h_sit_ch_4608_0_0" mimeType="image/png">
+        <param key="offset" value="-19,47"/>
+      </asset>
+      <asset name="h_sit_ch_4609_2_0" mimeType="image/png">
+        <param key="offset" value="-33,37"/>
+      </asset>
+      <asset name="h_sit_ch_4609_0_0" mimeType="image/png">
+        <param key="offset" value="-44,32"/>
+      </asset>
+      <asset name="h_lay_ch_4609_2_0" mimeType="image/png">
+        <param key="offset" value="-13,19"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

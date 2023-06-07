@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hologram_64_a_0_0" x="21" y="21"/>
+   <asset name="hologram_64_a_0_1" x="21" y="21"/>
+   <asset name="hologram_64_b_0_0" x="0" y="0"/>
+   <asset name="hologram_64_b_0_1" x="8" y="47"/>
+   <asset name="hologram_64_b_0_2" x="8" y="47"/>
+   <asset name="hologram_64_b_0_3" x="8" y="47"/>
+   <asset name="hologram_64_b_0_4" x="9" y="47"/>
+   <asset name="hologram_64_b_0_5" x="8" y="47"/>
+   <asset name="hologram_64_b_0_6" x="8" y="47"/>
+   <asset name="hologram_64_b_0_7" x="8" y="47"/>
+   <asset name="hologram_64_b_0_8" x="9" y="47"/>   
+   <asset name="hologram_64_c_0_0" source="hologram_64_b_0_0" x="0" y="0"/>
+   <asset name="hologram_64_c_0_1" x="9" y="48"/>
+   <asset name="hologram_64_c_0_2" x="9" y="48"/>
+   <asset name="hologram_64_c_0_3" x="9" y="48"/>
+   <asset name="hologram_64_c_0_4" x="10" y="48"/>
+   <asset name="hologram_64_c_0_5" x="9" y="48"/>
+   <asset name="hologram_64_c_0_6" x="9" y="48"/>
+   <asset name="hologram_64_c_0_7" x="9" y="48"/>
+   <asset name="hologram_64_c_0_8" x="10" y="48"/>
+   <asset name="hologram_64_d_0_0" source="hologram_64_b_0_0" x="0" y="0"/>
+   <asset name="hologram_64_d_0_1" x="18" y="68"/>
+   <asset name="hologram_icon_a" x="10" y="14"/>
+   <asset name="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_0_1" x="11" y="10"/>
+   <asset name="hologram_32_a_1_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_2_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_3_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_4_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_5_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_6_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_a_7_0" source="hologram_32_a_0_0" x="11" y="10"/>
+   <asset name="hologram_32_b_0_0" x="16" y="0"/>
+   <asset name="hologram_32_b_0_1" x="4" y="24"/>
+   <asset name="hologram_32_b_0_2" x="4" y="24"/>
+   <asset name="hologram_32_b_0_3" x="4" y="24"/>
+   <asset name="hologram_32_b_0_4" x="5" y="24"/>
+   <asset name="hologram_32_b_0_5" x="4" y="24"/>
+   <asset name="hologram_32_b_0_6" x="5" y="24"/>
+   <asset name="hologram_32_b_0_7" x="4" y="24"/>
+   <asset name="hologram_32_b_0_8" x="4" y="24"/>
+   <asset name="hologram_32_c_0_0" x="16" y="0"/>
+   <asset name="hologram_32_c_0_1" x="5" y="25"/>
+   <asset name="hologram_32_c_0_2" x="5" y="25"/>
+   <asset name="hologram_32_c_0_3" x="5" y="25"/>
+   <asset name="hologram_32_c_0_4" x="5" y="25"/>
+   <asset name="hologram_32_c_0_5" x="5" y="25"/>
+   <asset name="hologram_32_c_0_6" x="6" y="25"/>
+   <asset name="hologram_32_c_0_7" x="5" y="25"/>
+   <asset name="hologram_32_c_0_8" x="5" y="25"/>
+   <asset name="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_0_1" x="10" y="33"/>
+   <asset name="hologram_32_d_1_0" source="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_2_0" source="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_3_0" source="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_4_0" source="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_5_0" source="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_6_0" source="hologram_32_d_0_0" x="16" y="0"/>
+   <asset name="hologram_32_d_7_0" source="hologram_32_d_0_0" x="16" y="0"/>
+</assets>

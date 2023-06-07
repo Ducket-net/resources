@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="bench_buffet_sd_0" x="63" y="16"/>
+   <asset name="bench_buffet_sd_4" flipH="1" source="bench_buffet_sd_0" x="63" y="16"/>
+   <asset name="bench_buffet_sd_6" source="bench_buffet_sd_0" x="63" y="16"/>
+   <asset name="bench_puffet_64_a_0_0" flipH="1" source="bench_puffet_64_a_2_0" x="31" y="31"/>
+   <asset name="bench_puffet_64_a_2_0" x="31" y="31"/>
+   <asset name="bench_puffet_64_a_4_0" flipH="1" source="bench_puffet_64_a_2_0" x="31" y="31"/>
+   <asset name="bench_puffet_64_a_6_0" source="bench_puffet_64_a_2_0" x="31" y="31"/>
+   <asset name="bench_puffet_64_b_0_0" flipH="1" source="bench_puffet_64_b_6_0" x="11" y="42"/>
+   <asset name="bench_puffet_64_b_2_0" x="31" y="53"/>
+   <asset name="bench_puffet_64_b_4_0" x="8" y="54"/>
+   <asset name="bench_puffet_64_b_6_0" x="11" y="42"/>
+   <asset name="bench_puffet_64_c_0_0" flipH="1" source="bench_puffet_64_c_2_0" x="62" y="15"/>
+   <asset name="bench_puffet_64_c_2_0" x="62" y="15"/>
+   <asset name="bench_puffet_64_c_4_0" flipH="1" source="bench_puffet_64_c_2_0" x="62" y="15"/>
+   <asset name="bench_puffet_64_c_6_0" source="bench_puffet_64_c_2_0" x="62" y="15"/>
+   <asset name="bench_puffet_64_d_0_0" flipH="1" source="bench_puffet_64_d_6_0" x="41" y="25"/>
+   <asset name="bench_puffet_64_d_2_0" x="61" y="36"/>
+   <asset name="bench_puffet_64_d_4_0" x="-26" y="37"/>
+   <asset name="bench_puffet_64_d_6_0" x="41" y="25"/>
+   <asset name="bench_puffet_icon_a" x="15" y="13"/>
+   <asset name="s_bench_buffet_sd_0" x="32" y="9"/>
+   <asset name="s_bench_buffet_sd_4" flipH="1" source="s_bench_buffet_sd_0" x="32" y="9"/>
+   <asset name="s_bench_buffet_sd_6" source="s_bench_buffet_sd_0" x="32" y="9"/>
+   <asset name="bench_puffet_32_a_0_0" flipH="1" source="bench_puffet_32_a_2_0" x="14" y="15"/>
+   <asset name="bench_puffet_32_a_2_0" x="14" y="15"/>
+   <asset name="bench_puffet_32_a_4_0" flipH="1" source="bench_puffet_32_a_2_0" x="14" y="15"/>
+   <asset name="bench_puffet_32_a_6_0" source="bench_puffet_32_a_2_0" x="14" y="15"/>
+   <asset name="bench_puffet_32_b_0_0" flipH="1" source="bench_puffet_32_b_6_0" x="4" y="21"/>
+   <asset name="bench_puffet_32_b_2_0" x="14" y="27"/>
+   <asset name="bench_puffet_32_b_4_0" x="6" y="27"/>
+   <asset name="bench_puffet_32_b_6_0" x="4" y="21"/>
+   <asset name="bench_puffet_32_c_0_0" flipH="1" source="bench_puffet_32_c_2_0" x="31" y="7"/>
+   <asset name="bench_puffet_32_c_2_0" x="31" y="7"/>
+   <asset name="bench_puffet_32_c_4_0" flipH="1" source="bench_puffet_32_c_2_0" x="31" y="7"/>
+   <asset name="bench_puffet_32_c_6_0" source="bench_puffet_32_c_2_0" x="31" y="7"/>
+   <asset name="bench_puffet_32_d_0_0" flipH="1" source="bench_puffet_32_d_6_0" x="20" y="12"/>
+   <asset name="bench_puffet_32_d_2_0" x="30" y="18"/>
+   <asset name="bench_puffet_32_d_4_0" x="-10" y="18"/>
+   <asset name="bench_puffet_32_d_6_0" x="20" y="12"/>
+</assets>

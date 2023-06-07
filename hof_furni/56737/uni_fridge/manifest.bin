@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="uni_fridge" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="uni_fridge_visualization" mimeType="text/xml"/>
+      <asset name="uni_fridge_assets" mimeType="text/xml"/>
+      <asset name="uni_fridge_logic" mimeType="text/xml"/>
+      <asset name="uni_fridge_64_sd_0_0" mimeType="image/png"/>
+      <asset name="uni_fridge_64_a_0_0" mimeType="image/png"/>
+      <asset name="uni_fridge_64_a_0_1" mimeType="image/png"/>
+      <asset name="uni_fridge_32_sd_0_0" mimeType="image/png"/>
+      <asset name="uni_fridge_32_a_0_0" mimeType="image/png"/>
+      <asset name="uni_fridge_32_a_0_1" mimeType="image/png"/>
+      <asset name="uni_fridge_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

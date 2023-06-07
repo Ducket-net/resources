@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pcnc_tilestone_32_a_0_0" x="17" y="8"/>
+  <asset name="pcnc_tilestone_32_a_0_1" x="17" y="8"/>
+  <asset name="pcnc_tilestone_32_a_0_2" x="17" y="8"/>
+  <asset name="pcnc_tilestone_64_a_0_0" x="33" y="16"/>
+  <asset name="pcnc_tilestone_64_a_0_1" x="33" y="16"/>
+  <asset name="pcnc_tilestone_64_a_0_2" x="33" y="16"/>
+  <asset name="pcnc_tilestone_icon_a" x="14" y="7"/>
+  <asset name="pcnc_tilestone_64_a_0_3" flipH="1" source="pcnc_tilestone_64_a_0_1" x="33" y="16"/>
+  <asset name="pcnc_tilestone_32_a_0_3" flipH="1" source="pcnc_tilestone_32_a_0_1" x="17" y="8"/>
+</assets>

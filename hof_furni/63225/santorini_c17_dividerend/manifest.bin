@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="santorini_c17_dividerend" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="santorini_c17_dividerend_visualization" mimeType="text/xml"/>
+      <asset name="santorini_c17_dividerend_assets" mimeType="text/xml"/>
+      <asset name="santorini_c17_dividerend_logic" mimeType="text/xml"/>
+      <asset name="santorini_c17_dividerend_64_a_0_0" mimeType="image/png"/>
+      <asset name="santorini_c17_dividerend_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pet_toy_ball_32_sd_2_0" x="0" y="-1"/>
+  <asset name="pet_toy_ball_32_a_2_0" x="1" y="6"/>
+  <asset name="pet_toy_ball_32_a_2_1" x="1" y="9"/>
+  <asset name="pet_toy_ball_32_a_2_4" x="2" y="5"/>
+  <asset name="pet_toy_ball_32_a_2_5" x="1" y="6"/>
+  <asset name="pet_toy_ball_64_sd_2_0" x="-1" y="0"/>
+  <asset name="pet_toy_ball_64_a_2_0" x="0" y="14"/>
+  <asset name="pet_toy_ball_64_a_2_1" x="-1" y="17"/>
+  <asset name="pet_toy_ball_64_a_2_4" x="2" y="8"/>
+  <asset name="pet_toy_ball_64_a_2_5" x="1" y="14"/>
+  <asset name="pet_toy_ball_icon_a" x="10" y="11"/>
+  <asset name="pet_toy_ball_32_a_2_2" source="pet_toy_ball_32_a_2_1" x="1" y="12"/>
+  <asset name="pet_toy_ball_32_a_2_3" source="pet_toy_ball_32_a_2_0" x="1" y="9"/>
+  <asset name="pet_toy_ball_64_a_2_2" source="pet_toy_ball_64_a_2_1" x="-1" y="27"/>
+  <asset name="pet_toy_ball_64_a_2_3" source="pet_toy_ball_icon_a" x="0" y="24"/>
+  <asset name="pet_toy_ball_32_sd_4_0" flipH="1" source="pet_toy_ball_32_sd_2_0" x="0" y="-1"/>
+  <asset name="pet_toy_ball_32_a_4_0" flipH="1" source="pet_toy_ball_32_a_2_0" x="1" y="6"/>
+  <asset name="pet_toy_ball_32_a_4_1" flipH="1" source="pet_toy_ball_32_a_2_1" x="1" y="9"/>
+  <asset name="pet_toy_ball_32_a_4_4" flipH="1" source="pet_toy_ball_32_a_2_4" x="2" y="5"/>
+  <asset name="pet_toy_ball_32_a_4_5" flipH="1" source="pet_toy_ball_32_a_2_5" x="1" y="6"/>
+  <asset name="pet_toy_ball_64_sd_4_0" flipH="1" source="pet_toy_ball_64_sd_2_0" x="-1" y="0"/>
+  <asset name="pet_toy_ball_64_a_4_0" flipH="1" source="pet_toy_ball_64_a_2_0" x="0" y="14"/>
+  <asset name="pet_toy_ball_64_a_4_1" flipH="1" source="pet_toy_ball_64_a_2_1" x="-1" y="17"/>
+  <asset name="pet_toy_ball_64_a_4_4" flipH="1" source="pet_toy_ball_64_a_2_4" x="2" y="8"/>
+  <asset name="pet_toy_ball_64_a_4_5" flipH="1" source="pet_toy_ball_64_a_2_5" x="1" y="14"/>
+  <asset name="pet_toy_ball_32_a_4_2" flipH="1" source="pet_toy_ball_32_a_2_1" x="1" y="12"/>
+  <asset name="pet_toy_ball_32_a_4_3" flipH="1" source="pet_toy_ball_32_a_2_0" x="1" y="9"/>
+  <asset name="pet_toy_ball_64_a_4_2" flipH="1" source="pet_toy_ball_64_a_2_1" x="-1" y="27"/>
+  <asset name="pet_toy_ball_64_a_4_3" flipH="1" source="pet_toy_ball_icon_a" x="0" y="24"/>
+</assets>

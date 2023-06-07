@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="china_rooster" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="china_rooster_visualization" mimeType="text/xml"/>
+      <asset name="china_rooster_assets" mimeType="text/xml"/>
+      <asset name="china_rooster_logic" mimeType="text/xml"/>
+      <asset name="china_rooster_64_sd_0_0" mimeType="image/png"/>
+      <asset name="china_rooster_64_a_0_0" mimeType="image/png"/>
+      <asset name="china_rooster_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

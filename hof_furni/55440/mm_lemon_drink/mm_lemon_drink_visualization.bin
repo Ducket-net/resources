@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="mm_lemon_drink"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="4" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1"/>
+      <layer id="2"/>
+      <layer id="3"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+	  </animation>
+      <animation id="1">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <colors/>
+  </visualization>
+  <visualization size="64" layerCount="5" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1"/>
+      <layer id="2"/>
+      <layer id="3"/>
+      <layer id="4"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1" loopCount="0" frameRepeat="9">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="2"/> 
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="2"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2" loopCount="0" frameRepeat="5">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="2"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="4">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+	  </animation>
+      <animation id="1">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1" loopCount="0" frameRepeat="9">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="2"/> 
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="2"/>
+            <frame id="2"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2" loopCount="0" frameRepeat="5">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="2"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="4">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <colors/>
+  </visualization>
+</graphics></visualizationData>

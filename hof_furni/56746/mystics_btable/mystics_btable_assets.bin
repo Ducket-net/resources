@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="mystics_btable_32_a_0_0" x="17" y="33"/>
+  <asset name="mystics_btable_32_b_0_0" x="-1" y="15"/>
+  <asset name="mystics_btable_32_c_0_0" x="-16" y="7"/>
+  <asset name="mystics_btable_32_d_0_0" x="18" y="34"/>
+  <asset name="mystics_btable_32_e_0_0" x="-40" y="0"/>
+  <asset name="mystics_btable_32_f_0_0" x="13" y="17"/>
+  <asset name="mystics_btable_32_f_0_1" x="12" y="34"/>
+  <asset name="mystics_btable_32_g_0_0" x="-19" y="13"/>
+  <asset name="mystics_btable_32_g_0_1" x="-3" y="17"/>
+  <asset name="mystics_btable_32_h_0_0" x="-41" y="2"/>
+  <asset name="mystics_btable_32_h_0_1" x="-19" y="11"/>
+  <asset name="mystics_btable_32_h_0_2" x="-19" y="11"/>
+  <asset name="mystics_btable_32_i_0_0" x="13" y="17"/>
+  <asset name="mystics_btable_32_i_0_1" x="5" y="39"/>
+  <asset name="mystics_btable_32_i_0_2" x="5" y="39"/>
+  <asset name="mystics_btable_32_i_0_3" x="6" y="40"/>
+  <asset name="mystics_btable_32_i_0_4" x="6" y="41"/>
+  <asset name="mystics_btable_32_j_0_0" x="-41" y="2"/>
+  <asset name="mystics_btable_32_j_0_1" x="-28" y="10"/>
+  <asset name="mystics_btable_32_j_0_2" x="-27" y="10"/>
+  <asset name="mystics_btable_32_j_0_3" x="-26" y="13"/>
+  <asset name="mystics_btable_32_j_0_4" x="-23" y="16"/>
+  <asset name="mystics_btable_32_j_0_5" x="-21" y="21"/>
+  <asset name="mystics_btable_32_j_0_6" x="-19" y="24"/>
+  <asset name="mystics_btable_32_j_0_7" x="-16" y="26"/>
+  <asset name="mystics_btable_32_j_0_8" x="-15" y="27"/>
+  <asset name="mystics_btable_64_a_0_0" x="32" y="66"/>
+  <asset name="mystics_btable_64_b_0_0" x="0" y="29"/>
+  <asset name="mystics_btable_64_c_0_0" x="-32" y="13"/>
+  <asset name="mystics_btable_64_d_0_0" x="34" y="68"/>
+  <asset name="mystics_btable_64_e_0_0" x="-81" y="0"/>
+  <asset name="mystics_btable_64_f_0_0" x="26" y="32"/>
+  <asset name="mystics_btable_64_f_0_1" x="21" y="67"/>
+  <asset name="mystics_btable_64_g_0_0" x="-48" y="20"/>
+  <asset name="mystics_btable_64_g_0_1" x="-7" y="32"/>
+  <asset name="mystics_btable_64_h_0_0" x="-78" y="5"/>
+  <asset name="mystics_btable_64_h_0_1" x="-40" y="20"/>
+  <asset name="mystics_btable_64_h_0_2" x="-40" y="20"/>
+  <asset name="mystics_btable_64_i_0_0" x="27" y="31"/>
+  <asset name="mystics_btable_64_i_0_1" x="10" y="78"/>
+  <asset name="mystics_btable_64_i_0_2" x="10" y="78"/>
+  <asset name="mystics_btable_64_i_0_3" x="13" y="80"/>
+  <asset name="mystics_btable_64_i_0_4" x="12" y="82"/>
+  <asset name="mystics_btable_64_j_0_0" x="-80" y="4"/>
+  <asset name="mystics_btable_64_j_0_1" x="-58" y="19"/>
+  <asset name="mystics_btable_64_j_0_2" x="-55" y="19"/>
+  <asset name="mystics_btable_64_j_0_3" x="-53" y="24"/>
+  <asset name="mystics_btable_64_j_0_4" x="-48" y="30"/>
+  <asset name="mystics_btable_64_j_0_5" x="-43" y="40"/>
+  <asset name="mystics_btable_64_j_0_6" x="-39" y="46"/>
+  <asset name="mystics_btable_64_j_0_7" x="-33" y="51"/>
+  <asset name="mystics_btable_64_j_0_8" x="-31" y="53"/>
+  <asset name="mystics_btable_icon_a" x="13" y="14"/>
+  <asset name="mystics_btable_32_a_2_0" flipH="1" source="mystics_btable_32_a_0_0" x="17" y="33"/>
+  <asset name="mystics_btable_32_b_2_0" flipH="1" source="mystics_btable_32_b_0_0" x="-1" y="15"/>
+  <asset name="mystics_btable_32_c_2_0" flipH="1" source="mystics_btable_32_c_0_0" x="-16" y="7"/>
+  <asset name="mystics_btable_32_d_2_0" flipH="1" source="mystics_btable_32_d_0_0" x="18" y="34"/>
+  <asset name="mystics_btable_32_e_2_0" flipH="1" source="mystics_btable_32_e_0_0" x="-40" y="0"/>
+  <asset name="mystics_btable_32_f_2_0" flipH="1" source="mystics_btable_32_f_0_0" x="13" y="17"/>
+  <asset name="mystics_btable_32_f_2_1" flipH="1" source="mystics_btable_32_f_0_1" x="12" y="34"/>
+  <asset name="mystics_btable_32_g_2_0" flipH="1" source="mystics_btable_32_g_0_0" x="-19" y="13"/>
+  <asset name="mystics_btable_32_g_2_1" flipH="1" source="mystics_btable_32_g_0_1" x="-3" y="17"/>
+  <asset name="mystics_btable_32_h_2_0" flipH="1" source="mystics_btable_32_h_0_0" x="-41" y="2"/>
+  <asset name="mystics_btable_32_h_2_1" flipH="1" source="mystics_btable_32_h_0_1" x="-19" y="11"/>
+  <asset name="mystics_btable_32_h_2_2" flipH="1" source="mystics_btable_32_h_0_2" x="-19" y="11"/>
+  <asset name="mystics_btable_32_i_2_0" flipH="1" source="mystics_btable_32_i_0_0" x="13" y="17"/>
+  <asset name="mystics_btable_32_i_2_1" flipH="1" source="mystics_btable_32_i_0_1" x="5" y="39"/>
+  <asset name="mystics_btable_32_i_2_2" flipH="1" source="mystics_btable_32_i_0_2" x="5" y="39"/>
+  <asset name="mystics_btable_32_i_2_3" flipH="1" source="mystics_btable_32_i_0_3" x="6" y="40"/>
+  <asset name="mystics_btable_32_i_2_4" flipH="1" source="mystics_btable_32_i_0_4" x="6" y="41"/>
+  <asset name="mystics_btable_32_j_2_0" flipH="1" source="mystics_btable_32_j_0_0" x="-41" y="2"/>
+  <asset name="mystics_btable_32_j_2_1" flipH="1" source="mystics_btable_32_j_0_1" x="-28" y="10"/>
+  <asset name="mystics_btable_32_j_2_2" flipH="1" source="mystics_btable_32_j_0_2" x="-27" y="10"/>
+  <asset name="mystics_btable_32_j_2_3" flipH="1" source="mystics_btable_32_j_0_3" x="-26" y="13"/>
+  <asset name="mystics_btable_32_j_2_4" flipH="1" source="mystics_btable_32_j_0_4" x="-23" y="16"/>
+  <asset name="mystics_btable_32_j_2_5" flipH="1" source="mystics_btable_32_j_0_5" x="-21" y="21"/>
+  <asset name="mystics_btable_32_j_2_6" flipH="1" source="mystics_btable_32_j_0_6" x="-19" y="24"/>
+  <asset name="mystics_btable_32_j_2_7" flipH="1" source="mystics_btable_32_j_0_7" x="-16" y="26"/>
+  <asset name="mystics_btable_32_j_2_8" flipH="1" source="mystics_btable_32_j_0_8" x="-15" y="27"/>
+  <asset name="mystics_btable_64_a_2_0" flipH="1" source="mystics_btable_64_a_0_0" x="32" y="66"/>
+  <asset name="mystics_btable_64_b_2_0" flipH="1" source="mystics_btable_64_b_0_0" x="0" y="29"/>
+  <asset name="mystics_btable_64_c_2_0" flipH="1" source="mystics_btable_64_c_0_0" x="-32" y="13"/>
+  <asset name="mystics_btable_64_d_2_0" flipH="1" source="mystics_btable_64_d_0_0" x="34" y="68"/>
+  <asset name="mystics_btable_64_e_2_0" flipH="1" source="mystics_btable_64_e_0_0" x="-81" y="0"/>
+  <asset name="mystics_btable_64_f_2_0" flipH="1" source="mystics_btable_64_f_0_0" x="26" y="32"/>
+  <asset name="mystics_btable_64_f_2_1" flipH="1" source="mystics_btable_64_f_0_1" x="21" y="67"/>
+  <asset name="mystics_btable_64_g_2_0" flipH="1" source="mystics_btable_64_g_0_0" x="-48" y="20"/>
+  <asset name="mystics_btable_64_g_2_1" flipH="1" source="mystics_btable_64_g_0_1" x="-7" y="32"/>
+  <asset name="mystics_btable_64_h_2_0" flipH="1" source="mystics_btable_64_h_0_0" x="-78" y="5"/>
+  <asset name="mystics_btable_64_h_2_1" flipH="1" source="mystics_btable_64_h_0_1" x="-40" y="20"/>
+  <asset name="mystics_btable_64_h_2_2" flipH="1" source="mystics_btable_64_h_0_2" x="-40" y="20"/>
+  <asset name="mystics_btable_64_i_2_0" flipH="1" source="mystics_btable_64_i_0_0" x="27" y="31"/>
+  <asset name="mystics_btable_64_i_2_1" flipH="1" source="mystics_btable_64_i_0_1" x="10" y="78"/>
+  <asset name="mystics_btable_64_i_2_2" flipH="1" source="mystics_btable_64_i_0_2" x="10" y="78"/>
+  <asset name="mystics_btable_64_i_2_3" flipH="1" source="mystics_btable_64_i_0_3" x="13" y="80"/>
+  <asset name="mystics_btable_64_i_2_4" flipH="1" source="mystics_btable_64_i_0_4" x="12" y="82"/>
+  <asset name="mystics_btable_64_j_2_0" flipH="1" source="mystics_btable_64_j_0_0" x="-80" y="4"/>
+  <asset name="mystics_btable_64_j_2_1" flipH="1" source="mystics_btable_64_j_0_1" x="-58" y="19"/>
+  <asset name="mystics_btable_64_j_2_2" flipH="1" source="mystics_btable_64_j_0_2" x="-55" y="19"/>
+  <asset name="mystics_btable_64_j_2_3" flipH="1" source="mystics_btable_64_j_0_3" x="-53" y="24"/>
+  <asset name="mystics_btable_64_j_2_4" flipH="1" source="mystics_btable_64_j_0_4" x="-48" y="30"/>
+  <asset name="mystics_btable_64_j_2_5" flipH="1" source="mystics_btable_64_j_0_5" x="-43" y="40"/>
+  <asset name="mystics_btable_64_j_2_6" flipH="1" source="mystics_btable_64_j_0_6" x="-39" y="46"/>
+  <asset name="mystics_btable_64_j_2_7" flipH="1" source="mystics_btable_64_j_0_7" x="-33" y="51"/>
+  <asset name="mystics_btable_64_j_2_8" flipH="1" source="mystics_btable_64_j_0_8" x="-31" y="53"/>
+</assets>

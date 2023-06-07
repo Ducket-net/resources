@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="bonusrare20_1a">
+  <graphics>
+    <visualization size="1" layerCount="2" angle="360">
+      <postures/>
+      <gestures/>
+      <layers>
+        <layer id="0"/>
+      </layers>
+      <colors>
+        <color id="1">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="f26946"/>
+        </color>
+        <color id="2">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="6171c1"/>
+        </color>
+        <color id="3">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="ffb45c"/>
+        </color>
+        <color id="4">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="84ffce"/>
+        </color>
+        <color id="5">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="8d4be0"/>
+        </color>
+        <color id="6">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="ff8aa5"/>
+        </color>
+      </colors>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="3" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" ink="COPY"/>
+        <layer id="2" ink="ADD"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors>
+        <color id="1">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="f26946"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="2">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="6171c1"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="3">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="ffb45c"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="4">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="84ffce"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="5">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="8d4be0"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="6">
+          <colorLayer id="0" color="FFFFFF"/>
+          <colorLayer id="1" color="ff8aa5"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+      </colors>
+      <animations>
+        <animation id="1">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1"/>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

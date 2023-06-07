@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hs_stairs_blue_32_sd_2_0" x="16" y="8"/>
+  <asset name="hs_stairs_blue_32_a_2_0" x="17" y="18"/>
+  <asset name="hs_stairs_blue_32_a_2_1" x="17" y="28"/>
+  <asset name="hs_stairs_blue_32_a_2_2" x="17" y="38"/>
+  <asset name="hs_stairs_blue_32_b_2_0" x="17" y="21"/>
+  <asset name="hs_stairs_blue_32_a_4_0" x="16" y="11"/>
+  <asset name="hs_stairs_blue_32_a_4_1" x="16" y="21"/>
+  <asset name="hs_stairs_blue_32_a_4_2" x="16" y="31"/>
+  <asset name="hs_stairs_blue_32_b_4_0" x="16" y="14"/>
+  <asset name="hs_stairs_blue_32_c_4_0" x="5" y="15"/>
+  <asset name="hs_stairs_blue_64_sd_0_0" x="33" y="16"/>
+  <asset name="hs_stairs_blue_64_a_0_0" x="34" y="37"/>
+  <asset name="hs_stairs_blue_64_a_0_1" x="34" y="57"/>
+  <asset name="hs_stairs_blue_64_a_0_2" x="34" y="77"/>
+  <asset name="hs_stairs_blue_64_b_0_0" x="34" y="41"/>
+  <asset name="hs_stairs_blue_64_c_0_0" x="0" y="-16"/>
+  <asset name="hs_stairs_blue_64_a_4_0" x="34" y="21"/>
+  <asset name="hs_stairs_blue_64_a_4_1" x="34" y="41"/>
+  <asset name="hs_stairs_blue_64_a_4_2" x="34" y="61"/>
+  <asset name="hs_stairs_blue_64_b_4_0" x="34" y="29"/>
+  <asset name="hs_stairs_blue_64_c_4_0" x="12" y="30"/>
+  <asset name="hs_stairs_blue_icon_a" x="14" y="14"/>
+  <asset name="hs_stairs_blue_32_b_2_1" source="hs_stairs_blue_32_b_2_0" x="17" y="31"/>
+  <asset name="hs_stairs_blue_32_b_2_2" source="hs_stairs_blue_32_b_2_0" x="17" y="41"/>
+  <asset name="hs_stairs_blue_32_c_2_0" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_32_c_2_1" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_32_c_2_2" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_32_sd_0_0" flipH="1" source="hs_stairs_blue_32_sd_2_0" x="18" y="8"/>
+  <asset name="hs_stairs_blue_32_a_0_0" flipH="1" source="hs_stairs_blue_32_a_2_0" x="19" y="18"/>
+  <asset name="hs_stairs_blue_32_a_0_1" flipH="1" source="hs_stairs_blue_32_a_2_1" x="19" y="28"/>
+  <asset name="hs_stairs_blue_32_a_0_2" flipH="1" source="hs_stairs_blue_32_a_2_2" x="19" y="38"/>
+  <asset name="hs_stairs_blue_32_b_0_0" flipH="1" source="hs_stairs_blue_32_b_2_0" x="19" y="21"/>
+  <asset name="hs_stairs_blue_32_b_0_1" flipH="1" source="hs_stairs_blue_32_b_2_0" x="19" y="31"/>
+  <asset name="hs_stairs_blue_32_b_0_2" flipH="1" source="hs_stairs_blue_32_b_2_0" x="19" y="41"/>
+  <asset name="hs_stairs_blue_32_c_0_0" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_32_c_0_1" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_32_c_0_2" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_32_sd_4_0" flipH="1" source="hs_stairs_blue_32_sd_2_0" x="18" y="8"/>
+  <asset name="hs_stairs_blue_32_b_4_1" source="hs_stairs_blue_32_b_4_0" x="16" y="24"/>
+  <asset name="hs_stairs_blue_32_c_4_1" source="hs_stairs_blue_32_c_4_0" x="5" y="25"/>
+  <asset name="hs_stairs_blue_32_b_4_2" source="hs_stairs_blue_32_b_4_0" x="16" y="34"/>
+  <asset name="hs_stairs_blue_32_c_4_2" source="hs_stairs_blue_32_c_4_0" x="5" y="35"/>
+  <asset name="hs_stairs_blue_32_sd_6_0" flipH="1" source="hs_stairs_blue_32_sd_2_0" x="18" y="8"/>
+  <asset name="hs_stairs_blue_32_a_6_0" flipH="1" source="hs_stairs_blue_32_a_4_0" x="18" y="11"/>
+  <asset name="hs_stairs_blue_32_a_6_1" flipH="1" source="hs_stairs_blue_32_a_4_1" x="18" y="21"/>
+  <asset name="hs_stairs_blue_32_a_6_2" flipH="1" source="hs_stairs_blue_32_a_4_2" x="18" y="31"/>
+  <asset name="hs_stairs_blue_32_b_6_0" flipH="1" source="hs_stairs_blue_32_b_4_0" x="18" y="14"/>
+  <asset name="hs_stairs_blue_32_c_6_0" flipH="1" source="hs_stairs_blue_32_c_4_0" x="7" y="15"/>
+  <asset name="hs_stairs_blue_32_b_6_1" flipH="1" source="hs_stairs_blue_32_b_4_0" x="18" y="24"/>
+  <asset name="hs_stairs_blue_32_c_6_1" flipH="1" source="hs_stairs_blue_32_c_4_0" x="7" y="25"/>
+  <asset name="hs_stairs_blue_32_b_6_2" flipH="1" source="hs_stairs_blue_32_b_4_0" x="18" y="34"/>
+  <asset name="hs_stairs_blue_32_c_6_2" flipH="1" source="hs_stairs_blue_32_c_4_0" x="7" y="35"/>
+  <asset name="hs_stairs_blue_64_b_0_1" source="hs_stairs_blue_64_b_0_0" x="34" y="61"/>
+  <asset name="hs_stairs_blue_64_b_0_2" source="hs_stairs_blue_64_b_0_0" x="34" y="81"/>
+  <asset name="hs_stairs_blue_64_c_0_1" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_64_c_0_2" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_64_sd_2_0" flipH="1" source="hs_stairs_blue_64_sd_0_0" x="33" y="16"/>
+  <asset name="hs_stairs_blue_64_a_2_0" flipH="1" source="hs_stairs_blue_64_a_0_0" x="34" y="37"/>
+  <asset name="hs_stairs_blue_64_a_2_1" flipH="1" source="hs_stairs_blue_64_a_0_1" x="34" y="57"/>
+  <asset name="hs_stairs_blue_64_a_2_2" flipH="1" source="hs_stairs_blue_64_a_0_2" x="34" y="77"/>
+  <asset name="hs_stairs_blue_64_b_2_0" flipH="1" source="hs_stairs_blue_64_b_0_0" x="34" y="41"/>
+  <asset name="hs_stairs_blue_64_b_2_1" flipH="1" source="hs_stairs_blue_64_b_0_0" x="34" y="61"/>
+  <asset name="hs_stairs_blue_64_b_2_2" flipH="1" source="hs_stairs_blue_64_b_0_0" x="34" y="81"/>
+  <asset name="hs_stairs_blue_64_c_2_0" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_64_c_2_1" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_64_c_2_2" flipH="1" source="hs_stairs_blue_64_c_0_0" x="1" y="-16"/>
+  <asset name="hs_stairs_blue_64_sd_4_0" flipH="1" source="hs_stairs_blue_64_sd_0_0" x="33" y="16"/>
+  <asset name="hs_stairs_blue_64_b_4_1" source="hs_stairs_blue_64_b_4_0" x="34" y="49"/>
+  <asset name="hs_stairs_blue_64_c_4_1" source="hs_stairs_blue_64_c_4_0" x="12" y="50"/>
+  <asset name="hs_stairs_blue_64_b_4_2" source="hs_stairs_blue_64_b_4_0" x="34" y="69"/>
+  <asset name="hs_stairs_blue_64_c_4_2" source="hs_stairs_blue_64_c_4_0" x="12" y="70"/>
+  <asset name="hs_stairs_blue_64_sd_6_0" flipH="1" source="hs_stairs_blue_64_sd_0_0" x="33" y="16"/>
+  <asset name="hs_stairs_blue_64_a_6_0" flipH="1" source="hs_stairs_blue_64_a_4_0" x="34" y="21"/>
+  <asset name="hs_stairs_blue_64_a_6_1" flipH="1" source="hs_stairs_blue_64_a_4_1" x="34" y="41"/>
+  <asset name="hs_stairs_blue_64_a_6_2" flipH="1" source="hs_stairs_blue_64_a_4_2" x="34" y="61"/>
+  <asset name="hs_stairs_blue_64_b_6_0" flipH="1" source="hs_stairs_blue_64_b_4_0" x="34" y="29"/>
+  <asset name="hs_stairs_blue_64_c_6_0" flipH="1" source="hs_stairs_blue_64_c_4_0" x="12" y="30"/>
+  <asset name="hs_stairs_blue_64_b_6_1" flipH="1" source="hs_stairs_blue_64_b_4_0" x="34" y="49"/>
+  <asset name="hs_stairs_blue_64_c_6_1" flipH="1" source="hs_stairs_blue_64_c_4_0" x="12" y="50"/>
+  <asset name="hs_stairs_blue_64_b_6_2" flipH="1" source="hs_stairs_blue_64_b_4_0" x="34" y="69"/>
+  <asset name="hs_stairs_blue_64_c_6_2" flipH="1" source="hs_stairs_blue_64_c_4_0" x="12" y="70"/>
+</assets>

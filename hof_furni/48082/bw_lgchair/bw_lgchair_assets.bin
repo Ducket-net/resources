@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bw_lgchair_icon_a" x="6" y="14"/>
+  <asset name="bw_lgchair_64_sd_2_0" x="34" y="21"/>
+  <asset name="bw_lgchair_64_a_2_0" x="39" y="128"/>
+  <asset name="bw_lgchair_64_b_2_0" x="54" y="181"/>
+  <asset name="bw_lgchair_32_sd_2_0" x="16" y="10"/>
+  <asset name="bw_lgchair_32_a_2_0" x="19" y="63"/>
+  <asset name="bw_lgchair_32_b_2_0" x="27" y="90"/>
+  <asset name="bw_lgchair_64_sd_4_0" flipH="1" source="bw_lgchair_64_sd_2_0" x="34" y="21"/>
+  <asset name="bw_lgchair_64_a_4_0" flipH="1" source="bw_lgchair_64_a_2_0" x="39" y="128"/>
+  <asset name="bw_lgchair_64_b_4_0" flipH="1" source="bw_lgchair_64_b_2_0" x="54" y="181"/>
+  <asset name="bw_lgchair_32_sd_4_0" flipH="1" source="bw_lgchair_32_sd_2_0" x="16" y="10"/>
+  <asset name="bw_lgchair_32_a_4_0" flipH="1" source="bw_lgchair_32_a_2_0" x="19" y="63"/>
+  <asset name="bw_lgchair_32_b_4_0" flipH="1" source="bw_lgchair_32_b_2_0" x="27" y="90"/>
+</assets>

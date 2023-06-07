@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="jp_rare_64_a_0_0" x="64" y="95"/>
+   <asset name="jp_rare_64_a_0_1" source="jp_rare_64_a_0_0" x="64" y="95"/>
+   <asset name="jp_rare_64_a_6_0" flipH="1" source="jp_rare_64_a_0_0" x="64" y="95"/>
+   <asset name="jp_rare_64_a_6_1" flipH="1" source="jp_rare_64_a_0_0" x="64" y="95"/>
+   <asset name="jp_rare_64_b_0_0" source="jp_rare_64_b_0_1" x="17" y="66"/>
+   <asset name="jp_rare_64_b_0_1" x="17" y="66"/>
+   <asset name="jp_rare_64_b_0_2" x="24" y="42"/>
+   <asset name="jp_rare_64_b_0_3" x="14" y="66"/>
+   <asset name="jp_rare_64_b_6_0" flipH="1" source="jp_rare_64_b_0_1" x="17" y="66"/>
+   <asset name="jp_rare_64_b_6_1" flipH="1" source="jp_rare_64_b_0_1" x="17" y="66"/>
+   <asset name="jp_rare_64_b_6_2" flipH="1" source="jp_rare_64_b_0_2" x="24" y="42"/>
+   <asset name="jp_rare_64_b_6_3" flipH="1" source="jp_rare_64_b_0_3" x="14" y="66"/>
+   <asset name="jp_rare_64_c_0_0" x="18" y="73"/>
+   <asset name="jp_rare_64_c_0_1" x="18" y="73"/>
+   <asset name="jp_rare_64_c_0_2" x="18" y="73"/>
+   <asset name="jp_rare_64_c_0_3" x="18" y="73"/>
+   <asset name="jp_rare_64_c_0_4" x="21" y="73"/>
+   <asset name="jp_rare_64_c_0_5" x="25" y="73"/>
+   <asset name="jp_rare_64_c_0_6" x="26" y="74"/>
+   <asset name="jp_rare_64_c_0_7" x="26" y="74"/>
+   <asset name="jp_rare_64_c_0_8" x="26" y="74"/>
+   <asset name="jp_rare_64_c_6_0" flipH="1" source="jp_rare_64_c_0_0" x="18" y="73"/>
+   <asset name="jp_rare_64_c_6_1" flipH="1" source="jp_rare_64_c_0_1" x="18" y="73"/>
+   <asset name="jp_rare_64_c_6_2" flipH="1" source="jp_rare_64_c_0_2" x="18" y="73"/>
+   <asset name="jp_rare_64_c_6_3" flipH="1" source="jp_rare_64_c_0_3" x="18" y="73"/>
+   <asset name="jp_rare_64_c_6_4" flipH="1" source="jp_rare_64_c_0_4" x="21" y="73"/>
+   <asset name="jp_rare_64_c_6_5" flipH="1" source="jp_rare_64_c_0_5" x="25" y="73"/>
+   <asset name="jp_rare_64_c_6_6" flipH="1" source="jp_rare_64_c_0_6" x="26" y="74"/>
+   <asset name="jp_rare_64_c_6_7" flipH="1" source="jp_rare_64_c_0_7" x="26" y="74"/>
+   <asset name="jp_rare_64_c_6_8" flipH="1" source="jp_rare_64_c_0_8" x="26" y="74"/>
+   <asset name="jp_rare_64_d_0_0" x="58" y="74"/>
+   <asset name="jp_rare_64_d_0_1" source="jp_rare_64_d_0_0" x="58" y="74"/>
+   <asset name="jp_rare_64_d_6_0" flipH="1" source="jp_rare_64_d_0_0" x="58" y="74"/>
+   <asset name="jp_rare_64_d_6_1" flipH="1" source="jp_rare_64_d_0_0" x="58" y="74"/>
+   <asset name="jp_rare_icon_a" x="14" y="15"/>
+   <asset name="jp_rare_32_a_0_0" x="32" y="47"/>
+   <asset name="jp_rare_32_a_0_1" source="jp_rare_32_a_0_0" x="32" y="47"/>
+   <asset name="jp_rare_32_a_6_0" flipH="1" source="jp_rare_32_a_0_0" x="32" y="47"/>
+   <asset name="jp_rare_32_a_6_1" flipH="1" source="jp_rare_32_a_0_0" x="32" y="47"/>
+   <asset name="jp_rare_32_b_0_0" source="jp_rare_32_b_0_1" x="8" y="33"/>
+   <asset name="jp_rare_32_b_0_1" x="8" y="33"/>
+   <asset name="jp_rare_32_b_0_2" x="12" y="20"/>
+   <asset name="jp_rare_32_b_0_3" x="7" y="33"/>
+   <asset name="jp_rare_32_b_6_0" flipH="1" source="jp_rare_32_b_0_1" x="8" y="33"/>
+   <asset name="jp_rare_32_b_6_1" flipH="1" source="jp_rare_32_b_0_1" x="8" y="33"/>
+   <asset name="jp_rare_32_b_6_2" flipH="1" source="jp_rare_32_b_0_2" x="12" y="20"/>
+   <asset name="jp_rare_32_b_6_3" flipH="1" source="jp_rare_32_b_0_3" x="7" y="33"/>
+   <asset name="jp_rare_32_c_0_0" x="10" y="37"/>
+   <asset name="jp_rare_32_c_0_1" x="8" y="36"/>
+   <asset name="jp_rare_32_c_0_2" x="8" y="36"/>
+   <asset name="jp_rare_32_c_0_3" x="8" y="36"/>
+   <asset name="jp_rare_32_c_0_4" x="10" y="36"/>
+   <asset name="jp_rare_32_c_0_5" x="11" y="36"/>
+   <asset name="jp_rare_32_c_0_6" x="12" y="36"/>
+   <asset name="jp_rare_32_c_0_7" x="12" y="36"/>
+   <asset name="jp_rare_32_c_0_8" x="11" y="36"/>
+   <asset name="jp_rare_32_c_6_0" flipH="1" source="jp_rare_32_c_0_0" x="10" y="37"/>
+   <asset name="jp_rare_32_c_6_1" flipH="1" source="jp_rare_32_c_0_1" x="8" y="36"/>
+   <asset name="jp_rare_32_c_6_2" flipH="1" source="jp_rare_32_c_0_2" x="8" y="36"/>
+   <asset name="jp_rare_32_c_6_3" flipH="1" source="jp_rare_32_c_0_3" x="8" y="36"/>
+   <asset name="jp_rare_32_c_6_4" flipH="1" source="jp_rare_32_c_0_4" x="10" y="36"/>
+   <asset name="jp_rare_32_c_6_5" flipH="1" source="jp_rare_32_c_0_5" x="11" y="36"/>
+   <asset name="jp_rare_32_c_6_6" flipH="1" source="jp_rare_32_c_0_6" x="12" y="36"/>
+   <asset name="jp_rare_32_c_6_7" flipH="1" source="jp_rare_32_c_0_7" x="12" y="36"/>
+   <asset name="jp_rare_32_c_6_8" flipH="1" source="jp_rare_32_c_0_8" x="11" y="36"/>
+   <asset name="jp_rare_32_d_0_0" x="-11" y="24"/>
+   <asset name="jp_rare_32_d_0_1" source="jp_rare_32_d_0_0" x="-11" y="24"/>
+   <asset name="jp_rare_32_d_6_0" flipH="1" source="jp_rare_32_d_0_0" x="-11" y="24"/>
+   <asset name="jp_rare_32_d_6_1" flipH="1" source="jp_rare_32_d_0_0" x="-11" y="24"/>
+</assets>

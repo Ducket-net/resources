@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="wintercabin_c19_fence">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="4"/>
+        <direction id="6"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="4" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="900"/>
+        <layer id="3" z="2000"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="4"/>
+        <direction id="6"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

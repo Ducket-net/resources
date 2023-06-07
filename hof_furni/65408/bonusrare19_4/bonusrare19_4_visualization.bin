@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<visualizationData type="bonusrare19_4">
+  <graphics>
+    <visualization size="1" layerCount="2" angle="360">
+      <postures/>
+      <gestures/>
+    <colors>
+<color id="0">
+  <colorLayer id="0" color="9D5D40"/>
+</color>
+<color id="1">
+  <colorLayer id="0" color="74DBFF"/>
+</color>
+<color id="2">
+  <colorLayer id="0" color="FF4A65"/>
+</color>
+<color id="3">
+  <colorLayer id="0" color="FFA6F5"/>
+</color>
+<color id="4">
+  <colorLayer id="0" color="B65FFF"/>
+</color>
+<color id="5">
+  <colorLayer id="0" color="5FFF98"/>
+</color>
+</colors>
+</visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+        <direction id="6"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="2" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="0" z="500"/>
+          <layer id="1" z="500"/>
+        </direction>
+        <direction id="2"/>
+        <direction id="6">
+          <layer id="1" z="500"/>
+          <layer id="0" z="500"/>
+        </direction>
+        <direction id="4"/>
+      </directions>
+      <colors>
+<color id="0">
+  <colorLayer id="0" color="9D5D40"/>
+  <colorLayer id="1" color="FFFFFF"/>
+</color>
+<color id="1">
+  <colorLayer id="0" color="74DBFF"/>
+  <colorLayer id="1" color="FFFFFF"/>
+</color>
+<color id="2">
+  <colorLayer id="0" color="FF4A65"/>
+  <colorLayer id="1" color="FFFFFF"/>
+</color>
+<color id="3">
+  <colorLayer id="0" color="FFA6F5"/>
+  <colorLayer id="1" color="FFFFFF"/>
+</color>
+<color id="4">
+  <colorLayer id="0" color="B65FFF"/>
+  <colorLayer id="1" color="FFFFFF"/>
+</color>
+<color id="5">
+  <colorLayer id="0" color="5FFF98"/>
+  <colorLayer id="1" color="FFFFFF"/>
+</color>
+</colors>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

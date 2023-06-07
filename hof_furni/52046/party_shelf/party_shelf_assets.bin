@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="party_shelf_64_a_2_0" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_10" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_11" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_12" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_13" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_14" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_2" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_3" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_4" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_5" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_6" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_7" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_8" x="25" y="30"/>
+   <asset name="party_shelf_64_a_2_9" x="25" y="30"/>
+   <asset name="party_shelf_64_b_2_0" x="1" y="1"/>
+   <asset name="party_shelf_64_b_2_1" x="19" y="3"/>
+   <asset name="party_shelf_64_b_2_2" x="19" y="3"/>
+   <asset name="party_shelf_64_b_2_3" x="19" y="5"/>
+   <asset name="party_shelf_icon_a" x="12" y="15"/>
+   <asset name="party_shelf_64_a_4_0" flipH="1" source="party_shelf_64_a_2_0" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_10" flipH="1" source="party_shelf_64_a_2_10" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_11" flipH="1" source="party_shelf_64_a_2_11" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_12" flipH="1" source="party_shelf_64_a_2_12" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_13" flipH="1" source="party_shelf_64_a_2_13" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_14" flipH="1" source="party_shelf_64_a_2_14" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_2" flipH="1" source="party_shelf_64_a_2_2" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_3" flipH="1" source="party_shelf_64_a_2_3" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_4" flipH="1" source="party_shelf_64_a_2_4" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_5" flipH="1" source="party_shelf_64_a_2_5" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_6" flipH="1" source="party_shelf_64_a_2_6" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_7" flipH="1" source="party_shelf_64_a_2_7" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_8" flipH="1" source="party_shelf_64_a_2_8" x="25" y="30"/>
+   <asset name="party_shelf_64_a_4_9" flipH="1" source="party_shelf_64_a_2_9" x="25" y="30"/>
+   <asset name="party_shelf_64_b_4_0" flipH="1" source="party_shelf_64_b_2_0" x="1" y="1"/>
+   <asset name="party_shelf_64_b_4_1" flipH="1" source="party_shelf_64_b_2_1" x="19" y="3"/>
+   <asset name="party_shelf_64_b_4_2" flipH="1" source="party_shelf_64_b_2_2" x="19" y="3"/>
+   <asset name="party_shelf_64_b_4_3" flipH="1" source="party_shelf_64_b_2_3" x="19" y="5"/>
+   <asset name="party_shelf_32_a_2_0" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_10" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_11" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_12" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_13" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_14" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_2" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_3" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_4" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_5" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_6" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_7" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_8" x="12" y="15"/>
+   <asset name="party_shelf_32_a_2_9" x="12" y="15"/>
+   <asset name="party_shelf_32_b_2_0" x="1" y="1"/>
+   <asset name="party_shelf_32_b_2_1" x="8" y="1"/>
+   <asset name="party_shelf_32_b_2_2" x="8" y="1"/>
+   <asset name="party_shelf_32_b_2_3" x="8" y="2"/>
+   <asset name="party_shelf_32_a_4_0" flipH="1" source="party_shelf_32_a_2_0" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_10" flipH="1" source="party_shelf_32_a_2_10" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_11" flipH="1" source="party_shelf_32_a_2_11" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_12" flipH="1" source="party_shelf_32_a_2_12" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_13" flipH="1" source="party_shelf_32_a_2_13" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_14" flipH="1" source="party_shelf_32_a_2_14" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_2" flipH="1" source="party_shelf_32_a_2_2" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_3" flipH="1" source="party_shelf_32_a_2_3" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_4" flipH="1" source="party_shelf_32_a_2_4" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_5" flipH="1" source="party_shelf_32_a_2_5" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_6" flipH="1" source="party_shelf_32_a_2_6" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_7" flipH="1" source="party_shelf_32_a_2_7" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_8" flipH="1" source="party_shelf_32_a_2_8" x="12" y="15"/>
+   <asset name="party_shelf_32_a_4_9" flipH="1" source="party_shelf_32_a_2_9" x="12" y="15"/>
+   <asset name="party_shelf_32_b_4_0" flipH="1" source="party_shelf_32_b_2_0" x="1" y="1"/>
+   <asset name="party_shelf_32_b_4_1" flipH="1" source="party_shelf_32_b_2_1" x="8" y="1"/>
+   <asset name="party_shelf_32_b_4_2" flipH="1" source="party_shelf_32_b_2_2" x="8" y="1"/>
+   <asset name="party_shelf_32_b_4_3" flipH="1" source="party_shelf_32_b_2_3" x="8" y="2"/>
+</assets>

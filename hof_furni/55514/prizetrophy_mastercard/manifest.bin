@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="prizetrophy_mastercard" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="prizetrophy_mastercard_visualization" mimeType="text/xml"/>
+      <asset name="prizetrophy_mastercard_assets" mimeType="text/xml"/>
+      <asset name="prizetrophy_mastercard_logic" mimeType="text/xml"/>
+      <asset name="prizetrophy_mastercard_32_a_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_mastercard_64_a_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_mastercard_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

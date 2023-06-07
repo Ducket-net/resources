@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="studio_monitor_64_a_2_0" x="21" y="23"/>
+  <asset name="studio_monitor_32_a_2_0" x="10" y="12"/>
+  <asset name="studio_monitor_icon_a" x="10" y="12"/>
+  <asset name="studio_monitor_64_a_4_0" flipH="1" source="studio_monitor_64_a_2_0" x="21" y="23"/>
+  <asset name="studio_monitor_32_a_4_0" flipH="1" source="studio_monitor_32_a_2_0" x="10" y="12"/>
+</assets>

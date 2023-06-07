@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="jetset_vault_door_32_a_0_0" x="13" y="70"/>
+  <asset name="jetset_vault_door_32_b_0_0" x="8" y="68"/>
+  <asset name="jetset_vault_door_32_c_0_0" x="-5" y="62"/>
+  <asset name="jetset_vault_door_32_b_0_1" x="8" y="69"/>
+  <asset name="jetset_vault_door_32_c_0_1" x="-5" y="63"/>
+  <asset name="jetset_vault_door_32_b_0_3" x="8" y="73"/>
+  <asset name="jetset_vault_door_32_c_0_3" x="-5" y="67"/>
+  <asset name="jetset_vault_door_32_d_0_0" x="-19" y="55"/>
+  <asset name="jetset_vault_door_64_a_0_0" x="29" y="141"/>
+  <asset name="jetset_vault_door_64_b_0_0" x="21" y="137"/>
+  <asset name="jetset_vault_door_64_c_0_0" x="-8" y="122"/>
+  <asset name="jetset_vault_door_64_b_0_1" x="21" y="139"/>
+  <asset name="jetset_vault_door_64_c_0_1" x="-8" y="124"/>
+  <asset name="jetset_vault_door_64_b_0_3" x="21" y="147"/>
+  <asset name="jetset_vault_door_64_c_0_3" x="-8" y="132"/>
+  <asset name="jetset_vault_door_64_d_0_0" x="-35" y="109"/>
+  <asset name="jetset_vault_door_64_d_0_1" x="-35" y="109"/>
+  <asset name="jetset_vault_door_icon_a" x="9" y="11"/>
+  <asset name="jetset_vault_door_32_b_0_2" source="jetset_vault_door_32_b_0_1" x="8" y="70"/>
+  <asset name="jetset_vault_door_32_c_0_2" source="jetset_vault_door_32_c_0_1" x="-5" y="64"/>
+  <asset name="jetset_vault_door_32_b_0_4" source="jetset_vault_door_32_b_0_3" x="8" y="81"/>
+  <asset name="jetset_vault_door_32_c_0_4" source="jetset_vault_door_32_c_0_3" x="-5" y="75"/>
+  <asset name="jetset_vault_door_32_b_0_5" source="jetset_vault_door_32_b_0_3" x="8" y="91"/>
+  <asset name="jetset_vault_door_32_c_0_5" source="jetset_vault_door_32_c_0_3" x="-5" y="85"/>
+  <asset name="jetset_vault_door_32_b_0_6" source="jetset_vault_door_32_b_0_3" x="8" y="101"/>
+  <asset name="jetset_vault_door_32_c_0_6" source="jetset_vault_door_32_c_0_3" x="-5" y="95"/>
+  <asset name="jetset_vault_door_32_b_0_7" source="jetset_vault_door_32_b_0_3" x="8" y="111"/>
+  <asset name="jetset_vault_door_32_c_0_7" source="jetset_vault_door_32_c_0_3" x="-5" y="105"/>
+  <asset name="jetset_vault_door_32_b_0_8" source="jetset_vault_door_32_b_0_3" x="8" y="120"/>
+  <asset name="jetset_vault_door_32_c_0_8" source="jetset_vault_door_32_c_0_3" x="-5" y="114"/>
+  <asset name="jetset_vault_door_32_b_0_9" source="jetset_vault_door_32_b_0_3" x="8" y="127"/>
+  <asset name="jetset_vault_door_32_c_0_9" source="jetset_vault_door_32_c_0_3" x="-5" y="121"/>
+  <asset name="jetset_vault_door_32_b_0_10" source="jetset_vault_door_32_b_0_3" x="8" y="126"/>
+  <asset name="jetset_vault_door_32_c_0_10" source="jetset_vault_door_32_c_0_3" x="-5" y="120"/>
+  <asset name="jetset_vault_door_32_d_0_1" source="jetset_vault_door_32_d_0_0" x="-19" y="55"/>
+  <asset name="jetset_vault_door_64_b_0_2" source="jetset_vault_door_64_b_0_1" x="21" y="141"/>
+  <asset name="jetset_vault_door_64_c_0_2" source="jetset_vault_door_64_c_0_1" x="-8" y="126"/>
+  <asset name="jetset_vault_door_64_b_0_4" source="jetset_vault_door_64_b_0_3" x="21" y="167"/>
+  <asset name="jetset_vault_door_64_c_0_4" source="jetset_vault_door_64_c_0_3" x="-8" y="152"/>
+  <asset name="jetset_vault_door_64_b_0_5" source="jetset_vault_door_64_b_0_3" x="21" y="187"/>
+  <asset name="jetset_vault_door_64_c_0_5" source="jetset_vault_door_64_c_0_3" x="-8" y="172"/>
+  <asset name="jetset_vault_door_64_b_0_6" source="jetset_vault_door_64_b_0_3" x="21" y="207"/>
+  <asset name="jetset_vault_door_64_c_0_6" source="jetset_vault_door_64_c_0_3" x="-8" y="192"/>
+  <asset name="jetset_vault_door_64_b_0_7" source="jetset_vault_door_64_b_0_3" x="21" y="227"/>
+  <asset name="jetset_vault_door_64_c_0_7" source="jetset_vault_door_64_c_0_3" x="-8" y="212"/>
+  <asset name="jetset_vault_door_64_b_0_8" source="jetset_vault_door_64_b_0_3" x="21" y="247"/>
+  <asset name="jetset_vault_door_64_c_0_8" source="jetset_vault_door_64_c_0_3" x="-8" y="232"/>
+  <asset name="jetset_vault_door_64_b_0_9" source="jetset_vault_door_64_b_0_3" x="21" y="260"/>
+  <asset name="jetset_vault_door_64_c_0_9" source="jetset_vault_door_64_c_0_3" x="-8" y="245"/>
+  <asset name="jetset_vault_door_64_b_0_10" source="jetset_vault_door_64_b_0_3" x="21" y="258"/>
+  <asset name="jetset_vault_door_64_c_0_10" source="jetset_vault_door_64_c_0_3" x="-8" y="243"/>
+  <asset name="jetset_vault_door_32_a_2_0" flipH="1" source="jetset_vault_door_32_a_0_0" x="13" y="70"/>
+  <asset name="jetset_vault_door_32_b_2_0" flipH="1" source="jetset_vault_door_32_b_0_0" x="8" y="68"/>
+  <asset name="jetset_vault_door_32_c_2_0" flipH="1" source="jetset_vault_door_32_c_0_0" x="-5" y="62"/>
+  <asset name="jetset_vault_door_32_b_2_1" flipH="1" source="jetset_vault_door_32_b_0_1" x="8" y="69"/>
+  <asset name="jetset_vault_door_32_c_2_1" flipH="1" source="jetset_vault_door_32_c_0_1" x="-5" y="63"/>
+  <asset name="jetset_vault_door_32_b_2_3" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="73"/>
+  <asset name="jetset_vault_door_32_c_2_3" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="67"/>
+  <asset name="jetset_vault_door_32_d_2_0" flipH="1" source="jetset_vault_door_32_d_0_0" x="-19" y="55"/>
+  <asset name="jetset_vault_door_64_a_2_0" flipH="1" source="jetset_vault_door_64_a_0_0" x="29" y="141"/>
+  <asset name="jetset_vault_door_64_b_2_0" flipH="1" source="jetset_vault_door_64_b_0_0" x="21" y="137"/>
+  <asset name="jetset_vault_door_64_c_2_0" flipH="1" source="jetset_vault_door_64_c_0_0" x="-8" y="122"/>
+  <asset name="jetset_vault_door_64_b_2_1" flipH="1" source="jetset_vault_door_64_b_0_1" x="21" y="139"/>
+  <asset name="jetset_vault_door_64_c_2_1" flipH="1" source="jetset_vault_door_64_c_0_1" x="-8" y="124"/>
+  <asset name="jetset_vault_door_64_b_2_3" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="147"/>
+  <asset name="jetset_vault_door_64_c_2_3" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="132"/>
+  <asset name="jetset_vault_door_64_d_2_0" flipH="1" source="jetset_vault_door_64_d_0_0" x="-35" y="109"/>
+  <asset name="jetset_vault_door_64_d_2_1" flipH="1" source="jetset_vault_door_64_d_0_1" x="-35" y="109"/>
+  <asset name="jetset_vault_door_32_b_2_2" flipH="1" source="jetset_vault_door_32_b_0_1" x="8" y="70"/>
+  <asset name="jetset_vault_door_32_c_2_2" flipH="1" source="jetset_vault_door_32_c_0_1" x="-5" y="64"/>
+  <asset name="jetset_vault_door_32_b_2_4" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="81"/>
+  <asset name="jetset_vault_door_32_c_2_4" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="75"/>
+  <asset name="jetset_vault_door_32_b_2_5" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="91"/>
+  <asset name="jetset_vault_door_32_c_2_5" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="85"/>
+  <asset name="jetset_vault_door_32_b_2_6" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="101"/>
+  <asset name="jetset_vault_door_32_c_2_6" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="95"/>
+  <asset name="jetset_vault_door_32_b_2_7" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="111"/>
+  <asset name="jetset_vault_door_32_c_2_7" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="105"/>
+  <asset name="jetset_vault_door_32_b_2_8" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="120"/>
+  <asset name="jetset_vault_door_32_c_2_8" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="114"/>
+  <asset name="jetset_vault_door_32_b_2_9" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="127"/>
+  <asset name="jetset_vault_door_32_c_2_9" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="121"/>
+  <asset name="jetset_vault_door_32_b_2_10" flipH="1" source="jetset_vault_door_32_b_0_3" x="8" y="126"/>
+  <asset name="jetset_vault_door_32_c_2_10" flipH="1" source="jetset_vault_door_32_c_0_3" x="-5" y="120"/>
+  <asset name="jetset_vault_door_32_d_2_1" flipH="1" source="jetset_vault_door_32_d_0_0" x="-19" y="55"/>
+  <asset name="jetset_vault_door_64_b_2_2" flipH="1" source="jetset_vault_door_64_b_0_1" x="21" y="141"/>
+  <asset name="jetset_vault_door_64_c_2_2" flipH="1" source="jetset_vault_door_64_c_0_1" x="-8" y="126"/>
+  <asset name="jetset_vault_door_64_b_2_4" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="167"/>
+  <asset name="jetset_vault_door_64_c_2_4" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="152"/>
+  <asset name="jetset_vault_door_64_b_2_5" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="187"/>
+  <asset name="jetset_vault_door_64_c_2_5" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="172"/>
+  <asset name="jetset_vault_door_64_b_2_6" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="207"/>
+  <asset name="jetset_vault_door_64_c_2_6" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="192"/>
+  <asset name="jetset_vault_door_64_b_2_7" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="227"/>
+  <asset name="jetset_vault_door_64_c_2_7" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="212"/>
+  <asset name="jetset_vault_door_64_b_2_8" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="247"/>
+  <asset name="jetset_vault_door_64_c_2_8" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="232"/>
+  <asset name="jetset_vault_door_64_b_2_9" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="260"/>
+  <asset name="jetset_vault_door_64_c_2_9" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="245"/>
+  <asset name="jetset_vault_door_64_b_2_10" flipH="1" source="jetset_vault_door_64_b_0_3" x="21" y="258"/>
+  <asset name="jetset_vault_door_64_c_2_10" flipH="1" source="jetset_vault_door_64_c_0_3" x="-8" y="243"/>
+</assets>

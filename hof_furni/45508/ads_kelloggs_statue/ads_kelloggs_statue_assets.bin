@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="ads_kelloggs_statue_32_sd_4_0" x="13" y="-1"/>
+  <asset name="ads_kelloggs_statue_32_a_4_0" x="13" y="59"/>
+  <asset name="ads_kelloggs_statue_64_sd_4_0" x="29" y="0"/>
+  <asset name="ads_kelloggs_statue_64_a_4_0" x="29" y="119"/>
+  <asset name="ads_kelloggs_statue_icon_a" x="8" y="15"/>
+  <asset name="ads_kelloggs_statue_32_sd_2_0" flipH="1" source="ads_kelloggs_statue_32_sd_4_0" x="13" y="-1"/>
+  <asset name="ads_kelloggs_statue_32_a_2_0" flipH="1" source="ads_kelloggs_statue_32_a_4_0" x="13" y="59"/>
+  <asset name="ads_kelloggs_statue_64_sd_2_0" flipH="1" source="ads_kelloggs_statue_64_sd_4_0" x="29" y="0"/>
+  <asset name="ads_kelloggs_statue_64_a_2_0" flipH="1" source="ads_kelloggs_statue_64_a_4_0" x="29" y="119"/>
+</assets>

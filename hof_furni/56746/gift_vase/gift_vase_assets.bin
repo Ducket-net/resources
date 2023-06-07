@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="gift_vase_32_sd_0_0" x="5" y="2"/>
+  <asset name="gift_vase_32_a_0_0" x="7" y="20"/>
+  <asset name="gift_vase_32_a_0_1" x="7" y="12"/>
+  <asset name="gift_vase_64_sd_0_0" x="9" y="4"/>
+  <asset name="gift_vase_64_a_0_0" x="11" y="38"/>
+  <asset name="gift_vase_64_a_0_1" x="11" y="22"/>
+  <asset name="gift_vase_icon_a" x="11" y="12"/>
+  <asset name="gift_vase_32_sd_2_0" flipH="1" source="gift_vase_32_sd_0_0" x="5" y="2"/>
+  <asset name="gift_vase_32_a_2_0" flipH="1" source="gift_vase_32_a_0_0" x="7" y="20"/>
+  <asset name="gift_vase_32_a_2_1" flipH="1" source="gift_vase_32_a_0_1" x="7" y="12"/>
+  <asset name="gift_vase_64_sd_2_0" flipH="1" source="gift_vase_64_sd_0_0" x="9" y="4"/>
+  <asset name="gift_vase_64_a_2_0" flipH="1" source="gift_vase_64_a_0_0" x="11" y="38"/>
+  <asset name="gift_vase_64_a_2_1" flipH="1" source="gift_vase_64_a_0_1" x="11" y="22"/>
+</assets>

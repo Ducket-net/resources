@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="uni_nstand_64_sd_2_0" x="33" y="17"/>
+  <asset name="uni_nstand_64_a_2_0" x="33" y="62"/>
+  <asset name="uni_nstand_32_sd_2_0" x="15" y="6"/>
+  <asset name="uni_nstand_32_a_2_0" x="17" y="31"/>
+  <asset name="uni_nstand_icon_a" x="12" y="14"/>
+  <asset name="uni_nstand_64_sd_4_0" flipH="1" source="uni_nstand_64_sd_2_0" x="33" y="17"/>
+  <asset name="uni_nstand_64_a_4_0" flipH="1" source="uni_nstand_64_a_2_0" x="33" y="62"/>
+  <asset name="uni_nstand_32_sd_4_0" flipH="1" source="uni_nstand_32_sd_2_0" x="15" y="6"/>
+  <asset name="uni_nstand_32_a_4_0" flipH="1" source="uni_nstand_32_a_2_0" x="17" y="31"/>
+</assets>

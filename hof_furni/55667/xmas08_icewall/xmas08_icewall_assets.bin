@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="xmas08_icewall_64_a_2_0" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_2_1" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_2_2" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_2_3" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_4_0" flipH="1" source="xmas08_icewall_64_a_2_0" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_4_1" flipH="1" source="xmas08_icewall_64_a_2_1" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_4_2" flipH="1" source="xmas08_icewall_64_a_2_2" x="15" y="63"/>
+   <asset name="xmas08_icewall_64_a_4_3" flipH="1" source="xmas08_icewall_64_a_2_3" x="15" y="63"/>
+   <asset name="xmas08_icewall_32_a_2_0" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_2_1" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_2_2" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_2_3" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_4_0" flipH="1" source="xmas08_icewall_32_a_2_0" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_4_1" flipH="1" source="xmas08_icewall_32_a_2_1" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_4_2" flipH="1" source="xmas08_icewall_32_a_2_2" x="8" y="31"/>
+   <asset name="xmas08_icewall_32_a_4_3" flipH="1" source="xmas08_icewall_32_a_2_3" x="8" y="31"/>
+   <asset name="xmas08_icewall_icon_a" x="5" y="15"/>
+</assets>

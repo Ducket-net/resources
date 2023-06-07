@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas2011_snowlog" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas2011_snowlog_visualization" mimeType="text/xml"/>
+      <asset name="xmas2011_snowlog_assets" mimeType="text/xml"/>
+      <asset name="xmas2011_snowlog_logic" mimeType="text/xml"/>
+      <asset name="xmas2011_snowlog_32_sd_0_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_32_sd_2_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_32_a_2_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_32_a_6_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_32_b_2_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_32_b_6_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_64_sd_0_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_64_sd_2_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_64_a_2_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_64_a_6_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_64_b_2_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_64_b_6_0" mimeType="image/png"/>
+      <asset name="xmas2011_snowlog_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

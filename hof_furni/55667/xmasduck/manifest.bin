@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="xmasduck" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="xmasduck_visualization" mimeType="text/xml"/>
+         <asset name="xmasduck_assets" mimeType="text/xml"/>
+         <asset name="xmasduck_logic" mimeType="text/xml"/>
+         <asset name="xmasduck_32_a_4_0" mimeType="image/png"/>
+         <asset name="xmasduck_32_sd_0_0" mimeType="image/png"/>
+         <asset name="xmasduck_64_a_4_0" mimeType="image/png"/>
+         <asset name="xmasduck_64_sd_0_0" mimeType="image/png"/>
+         <asset name="xmasduck_icon_a" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

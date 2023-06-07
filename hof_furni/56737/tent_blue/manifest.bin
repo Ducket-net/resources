@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="tent_blue" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="tent_blue_visualization" mimeType="text/xml"/>
+      <asset name="tent_blue_assets" mimeType="text/xml"/>
+      <asset name="tent_blue_logic" mimeType="text/xml"/>
+      <asset name="tent_blue_64_sd_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_a_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_b_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_c_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_d_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_e_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_f_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_g_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_h_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_i_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_64_g_0_1" mimeType="image/png"/>
+      <asset name="tent_blue_64_h_0_1" mimeType="image/png"/>
+      <asset name="tent_blue_64_i_0_1" mimeType="image/png"/>
+      <asset name="tent_blue_32_sd_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_b_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_c_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_d_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_e_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_f_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_g_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_h_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_i_0_0" mimeType="image/png"/>
+      <asset name="tent_blue_32_g_0_1" mimeType="image/png"/>
+      <asset name="tent_blue_32_h_0_1" mimeType="image/png"/>
+      <asset name="tent_blue_32_i_0_1" mimeType="image/png"/>
+      <asset name="tent_blue_icon_a" mimeType="image/png"/>
+      <asset name="tent_blue_32_a_0_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

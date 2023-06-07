@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="tokyo_c18_trellis_64_sd_2_0" x="33" y="15"/>
+  <asset name="tokyo_c18_trellis_64_a_2_0" x="36" y="72"/>
+  <asset name="tokyo_c18_trellis_64_a_2_1" x="33" y="72"/>
+  <asset name="tokyo_c18_trellis_icon_a" x="8" y="14"/>
+  <asset name="tokyo_c18_trellis_64_sd_4_0" flipH="1" source="tokyo_c18_trellis_64_sd_2_0" x="33" y="15"/>
+  <asset name="tokyo_c18_trellis_64_a_4_0" flipH="1" source="tokyo_c18_trellis_64_a_2_0" x="36" y="72"/>
+  <asset name="tokyo_c18_trellis_64_a_4_1" flipH="1" source="tokyo_c18_trellis_64_a_2_1" x="33" y="72"/>
+</assets>

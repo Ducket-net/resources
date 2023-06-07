@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bw_jaws_icon_a" x="16" y="14"/>
+  <asset name="bw_jaws_64_sd_4_0" x="48" y="38"/>
+  <asset name="bw_jaws_64_a_4_0" x="48" y="46"/>
+  <asset name="bw_jaws_32_sd_4_0" x="25" y="20"/>
+  <asset name="bw_jaws_32_a_4_0" x="25" y="24"/>
+  <asset name="bw_jaws_64_sd_2_0" flipH="1" source="bw_jaws_64_sd_4_0" x="48" y="38"/>
+  <asset name="bw_jaws_64_a_2_0" flipH="1" source="bw_jaws_64_a_4_0" x="48" y="46"/>
+  <asset name="bw_jaws_32_sd_2_0" flipH="1" source="bw_jaws_32_sd_4_0" x="25" y="20"/>
+  <asset name="bw_jaws_32_a_2_0" flipH="1" source="bw_jaws_32_a_4_0" x="25" y="24"/>
+</assets>

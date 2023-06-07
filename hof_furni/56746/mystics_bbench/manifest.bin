@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="mystics_bbench" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="mystics_bbench_visualization" mimeType="text/xml"/>
+      <asset name="mystics_bbench_assets" mimeType="text/xml"/>
+      <asset name="mystics_bbench_logic" mimeType="text/xml"/>
+      <asset name="mystics_bbench_32_a_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_b_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_c_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_d_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_e_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_f_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_g_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_h_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_a_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_b_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_c_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_d_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_e_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_f_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_g_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_32_h_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_a_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_b_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_c_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_d_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_e_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_f_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_g_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_h_6_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_a_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_b_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_c_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_d_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_e_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_f_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_g_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_64_h_2_0" mimeType="image/png"/>
+      <asset name="mystics_bbench_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="exe_c15_desktidy" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="exe_c15_desktidy_visualization" mimeType="text/xml"/>
+      <asset name="exe_c15_desktidy_assets" mimeType="text/xml"/>
+      <asset name="exe_c15_desktidy_logic" mimeType="text/xml"/>
+      <asset name="exe_c15_desktidy_64_sd_0_0" mimeType="image/png"/>
+      <asset name="exe_c15_desktidy_64_a_0_0" mimeType="image/png"/>
+      <asset name="exe_c15_desktidy_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

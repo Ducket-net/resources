@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="trapkeep_32_a_0_0" x="10" y="8"/>
+  <asset name="trapkeep_32_a_0_1" x="10" y="8"/>
+  <asset name="trapkeep_64_a_0_0" x="20" y="15"/>
+  <asset name="trapkeep_64_a_0_1" x="20" y="15"/>
+  <asset name="trapkeep_icon_a" x="12" y="7"/>
+  <asset name="trapkeep_32_a_2_0" flipH="1" source="trapkeep_32_a_0_0" x="10" y="8"/>
+  <asset name="trapkeep_32_a_2_1" flipH="1" source="trapkeep_32_a_0_1" x="10" y="8"/>
+  <asset name="trapkeep_64_a_2_0" flipH="1" source="trapkeep_64_a_0_0" x="20" y="15"/>
+  <asset name="trapkeep_64_a_2_1" flipH="1" source="trapkeep_64_a_0_1" x="20" y="15"/>
+</assets>

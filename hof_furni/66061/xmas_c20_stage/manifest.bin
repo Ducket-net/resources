@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas_c20_stage" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas_c20_stage_visualization" mimeType="text/xml"/>
+      <asset name="xmas_c20_stage_assets" mimeType="text/xml"/>
+      <asset name="xmas_c20_stage_logic" mimeType="text/xml"/>
+      <asset name="xmas_c20_stage_64_sd_0_0" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_b_0_0" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_i_0_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_f_4_3" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_g_4_3" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_h_4_3" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_a_0_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_b_0_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_c_0_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_d_0_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_e_0_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_f_4_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_g_4_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_h_4_1" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_a_0_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_b_0_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_c_0_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_d_0_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_e_0_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_f_4_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_g_4_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_64_h_4_2" mimeType="image/png"/>
+      <asset name="xmas_c20_stage_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

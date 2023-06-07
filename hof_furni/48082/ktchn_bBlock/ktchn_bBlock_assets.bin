@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="ktchn_bBlock_64_a_2_0" x="28" y="47"/>
+   <asset name="ktchn_bBlock_64_a_2_1" x="28" y="49"/>
+   <asset name="ktchn_bBlock_64_a_2_2" x="28" y="60"/>
+   <asset name="ktchn_bBlock_64_a_4_0" flipH="1" source="ktchn_bBlock_64_a_2_0" x="28" y="47"/>
+   <asset name="ktchn_bBlock_64_a_4_1" flipH="1" source="ktchn_bBlock_64_a_2_1" x="28" y="49"/>
+   <asset name="ktchn_bBlock_64_a_4_2" flipH="1" source="ktchn_bBlock_64_a_2_2" x="28" y="60"/>
+   <asset name="ktchn_bBlock_64_sd_2_0" x="29" y="14"/>
+   <asset name="ktchn_bBlock_64_sd_4_0" flipH="1" source="ktchn_bBlock_64_sd_2_0" x="29" y="14"/>
+   <asset name="ktchn_bBlock_icon_a" x="14" y="14"/>
+   <asset name="ktchn_bBlock_32_a_2_0" x="14" y="23"/>
+   <asset name="ktchn_bBlock_32_a_2_1" x="14" y="24"/>
+   <asset name="ktchn_bBlock_32_a_2_2" x="14" y="30"/>
+   <asset name="ktchn_bBlock_32_a_4_0" flipH="1" source="ktchn_bBlock_32_a_2_0" x="14" y="23"/>
+   <asset name="ktchn_bBlock_32_a_4_1" flipH="1" source="ktchn_bBlock_32_a_2_1" x="14" y="24"/>
+   <asset name="ktchn_bBlock_32_a_4_2" flipH="1" source="ktchn_bBlock_32_a_2_2" x="14" y="30"/>
+   <asset name="ktchn_bBlock_32_sd_2_0" x="15" y="6"/>
+   <asset name="ktchn_bBlock_32_sd_4_0" x="15" y="6"/>
+</assets>

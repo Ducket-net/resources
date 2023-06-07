@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="uni_pinupgirl" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="uni_pinupgirl_visualization" mimeType="text/xml"/>
+      <asset name="uni_pinupgirl_assets" mimeType="text/xml"/>
+      <asset name="uni_pinupgirl_logic" mimeType="text/xml"/>
+      <asset name="uni_pinupgirl_64_a_4_1" mimeType="image/png"/>
+      <asset name="uni_pinupgirl_64_a_4_0" mimeType="image/png"/>
+      <asset name="uni_pinupgirl_32_a_4_1" mimeType="image/png"/>
+      <asset name="uni_pinupgirl_32_a_4_0" mimeType="image/png"/>
+      <asset name="uni_pinupgirl_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

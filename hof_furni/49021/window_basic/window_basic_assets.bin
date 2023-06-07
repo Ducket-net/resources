@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_basic_64_a_2_0" x="34" y="59"/>
+   <asset name="window_basic_64_b_2_0" x="34" y="27"/>
+   <asset name="window_basic_64_b_2_1" x="34" y="9"/>
+   <asset name="window_basic_64_2_mask" x="33" y="46"/>
+   <asset name="window_basic_64_a_4_0" flipH="1" source="window_basic_64_a_2_0" x="34" y="59"/>
+   <asset name="window_basic_64_b_4_0" flipH="1" source="window_basic_64_b_2_0" x="34" y="27"/>
+   <asset name="window_basic_64_b_4_1" flipH="1" source="window_basic_64_b_2_1" x="34" y="9"/>
+   <asset name="window_basic_64_4_mask" flipH="1" source="window_basic_64_2_mask" x="33" y="46"/>
+   <asset name="window_basic_32_a_2_0" x="18" y="30"/>
+   <asset name="window_basic_32_b_2_0" x="18" y="15"/>
+   <asset name="window_basic_32_b_2_1" x="18" y="8"/>
+   <asset name="window_basic_32_2_mask" x="17" y="23"/>
+   <asset name="window_basic_32_a_4_0" flipH="1" source="window_basic_32_a_2_0" x="18" y="30"/>
+   <asset name="window_basic_32_b_4_0" flipH="1" source="window_basic_32_b_2_0" x="18" y="15"/>
+   <asset name="window_basic_32_b_4_1" flipH="1" source="window_basic_32_b_2_1" x="18" y="8"/>
+   <asset name="window_basic_32_4_mask" flipH="1" source="window_basic_32_2_mask" x="17" y="23"/>
+   <asset name="window_basic_icon_a" x="9" y="10"/>
+</assets>

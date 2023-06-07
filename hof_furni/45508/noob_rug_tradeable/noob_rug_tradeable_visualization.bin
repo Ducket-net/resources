@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="noob_rug_tradeable"><graphics>
+   <visualization size="32" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" z="-1002"/>
+         <layer id="1" z="-999"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="FC9C45"/>
+            <colorLayer id="1" color="F4EC36"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="4C526E"/>
+            <colorLayer id="1" color="8D92AB"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="985A47"/>
+            <colorLayer id="1" color="D9AD90"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="94CBD7"/>
+            <colorLayer id="1" color="DAF4FA"/>
+         </color>
+         <color id="5">
+            <colorLayer id="0" color="F5779F"/>
+            <colorLayer id="1" color="F6C0C0"/>
+         </color>
+         <color id="6">
+            <colorLayer id="0" color="C1C400"/>
+            <colorLayer id="1" color="FFD406"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" z="-1002"/>
+         <layer id="1" z="-999"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="FC9C45"/>
+            <colorLayer id="1" color="F4EC36"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="4C526E"/>
+            <colorLayer id="1" color="8D92AB"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="985A47"/>
+            <colorLayer id="1" color="D9AD90"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="94CBD7"/>
+            <colorLayer id="1" color="DAF4FA"/>
+         </color>
+         <color id="5">
+            <colorLayer id="0" color="F5779F"/>
+            <colorLayer id="1" color="F6C0C0"/>
+         </color>
+         <color id="6">
+            <colorLayer id="0" color="C1C400"/>
+            <colorLayer id="1" color="FFD406"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="3" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="FC9C45"/>
+            <colorLayer id="2" color="F4EC36"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="4C526E"/>
+            <colorLayer id="2" color="8D92AB"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="985A47"/>
+            <colorLayer id="2" color="D9AD90"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="94CBD7"/>
+            <colorLayer id="2" color="DAF4FA"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="F5779F"/>
+            <colorLayer id="2" color="F6C0C0"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="C1C400"/>
+            <colorLayer id="2" color="FFD406"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

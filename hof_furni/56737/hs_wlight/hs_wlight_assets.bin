@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hs_wlight_32_a_2_0" x="7" y="22"/>
+  <asset name="hs_wlight_32_b_2_0" x="-7" y="-4"/>
+  <asset name="hs_wlight_32_b_2_1" x="9" y="23"/>
+  <asset name="hs_wlight_64_a_2_0" x="16" y="40"/>
+  <asset name="hs_wlight_64_b_2_0" x="1" y="-2"/>
+  <asset name="hs_wlight_64_b_2_1" x="20" y="44"/>
+  <asset name="hs_wlight_icon_a" x="8" y="14"/>
+  <asset name="hs_wlight_32_a_4_0" flipH="1" source="hs_wlight_32_a_2_0" x="7" y="22"/>
+  <asset name="hs_wlight_32_b_4_0" flipH="1" source="hs_wlight_32_b_2_0" x="-7" y="-4"/>
+  <asset name="hs_wlight_32_b_4_1" flipH="1" source="hs_wlight_32_b_2_1" x="9" y="23"/>
+  <asset name="hs_wlight_64_a_4_0" flipH="1" source="hs_wlight_64_a_2_0" x="16" y="40"/>
+  <asset name="hs_wlight_64_b_4_0" flipH="1" source="hs_wlight_64_b_2_0" x="1" y="-2"/>
+  <asset name="hs_wlight_64_b_4_1" flipH="1" source="hs_wlight_64_b_2_1" x="20" y="44"/>
+</assets>

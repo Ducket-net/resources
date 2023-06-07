@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objectData type="lc_tile2">
+   <model>
+      <dimensions x="2" y="2" z="0.0"/>
+      <directions>
+         <direction id="0"/>
+         <direction id="90"/>
+         <direction id="180"/>
+         <direction id="270"/>
+      </directions>
+   </model>
+</objectData>

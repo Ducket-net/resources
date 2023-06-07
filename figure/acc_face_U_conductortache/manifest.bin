@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_conductortache" version="0.1">
+    <assets>
+      <asset name="h_std_fa_4359_7_0" mimeType="image/png">
+        <param key="offset" value="-34,55"/>
+      </asset>
+      <asset name="h_std_fa_4359_3_0" mimeType="image/png">
+        <param key="offset" value="-26,50"/>
+      </asset>
+      <asset name="h_std_fa_4359_2_0" mimeType="image/png">
+        <param key="offset" value="-34,53"/>
+      </asset>
+      <asset name="h_std_fa_4359_1_0" mimeType="image/png">
+        <param key="offset" value="-40,54"/>
+      </asset>
+      <asset name="h_std_fa_4359_0_0" mimeType="image/png">
+        <param key="offset" value="-44,55"/>
+      </asset>
+      <asset name="h_spk_fa_4359_7_0" mimeType="image/png">
+        <param key="offset" value="-34,56"/>
+      </asset>
+      <asset name="h_spk_fa_4359_3_0" mimeType="image/png">
+        <param key="offset" value="-26,51"/>
+      </asset>
+      <asset name="h_spk_fa_4359_2_0" mimeType="image/png">
+        <param key="offset" value="-34,54"/>
+      </asset>
+      <asset name="h_spk_fa_4359_1_0" mimeType="image/png">
+        <param key="offset" value="-40,55"/>
+      </asset>
+      <asset name="h_spk_fa_4359_0_0" mimeType="image/png">
+        <param key="offset" value="-44,56"/>
+      </asset>
+      <asset name="h_lay_fa_4359_2_0" mimeType="image/png">
+        <param key="offset" value="2,28"/>
+      </asset>
+      <asset name="h_lsp_fa_4359_2_0" mimeType="image/png">
+        <param key="offset" value="-61,-131"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

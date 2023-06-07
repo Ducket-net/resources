@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="lc_window2_icon_a" x="12" y="8"/>
+   <asset name="lc_window2_64_a_2_0" x="90" y="86"/>
+   <asset name="lc_window2_64_b_2_0" x="-57" y="22"/>
+   <asset name="lc_window2_64_b_2_1" x="81" y="73"/>
+   <asset name="lc_window2_64_2_mask" x="81" y="72"/>
+   <asset name="lc_window2_64_a_4_0" flipH="1" source="lc_window2_64_a_2_0" x="90" y="86"/>
+   <asset name="lc_window2_64_b_4_0" flipH="1" source="lc_window2_64_b_2_0" x="-57" y="22"/>
+   <asset name="lc_window2_64_b_4_1" flipH="1" source="lc_window2_64_b_2_1" x="81" y="73"/>
+   <asset name="lc_window2_64_4_mask" flipH="1" source="lc_window2_64_2_mask" x="81" y="72"/>
+   <asset name="lc_window2_32_a_2_0" x="44" y="43"/>
+   <asset name="lc_window2_32_b_2_0" x="-29" y="23"/>
+   <asset name="lc_window2_32_b_2_1" x="40" y="36"/>
+   <asset name="lc_window2_32_2_mask" x="39" y="35"/>
+   <asset name="lc_window2_32_a_4_0" flipH="1" source="lc_window2_32_a_2_0" x="44" y="43"/>
+   <asset name="lc_window2_32_b_4_0" flipH="1" source="lc_window2_32_b_2_0" x="-29" y="23"/>
+   <asset name="lc_window2_32_b_4_1" flipH="1" source="lc_window2_32_b_2_1" x="40" y="36"/>
+   <asset name="lc_window2_32_4_mask" flipH="1" source="lc_window2_32_2_mask" x="39" y="35"/>
+</assets>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="CF_50_goldbar" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="CF_50_goldbar_visualization" mimeType="text/xml"/>
+         <asset name="CF_50_goldbar_assets" mimeType="text/xml"/>
+         <asset name="CF_50_goldbar_logic" mimeType="text/xml"/>
+         <asset name="CF_50_goldbar_64_a_0_0" mimeType="image/png"/>
+         <asset name="CF_50_goldbar_icon_a" mimeType="image/png"/>
+         <asset name="CF_50_goldbar_32_a_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

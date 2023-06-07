@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wildwest_stageb" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wildwest_stageb_visualization" mimeType="text/xml"/>
+      <asset name="wildwest_stageb_assets" mimeType="text/xml"/>
+      <asset name="wildwest_stageb_logic" mimeType="text/xml"/>
+      <asset name="wildwest_stageb_64_sd_0_0" mimeType="image/png"/>
+      <asset name="wildwest_stageb_64_a_0_0" mimeType="image/png"/>
+      <asset name="wildwest_stageb_32_sd_0_0" mimeType="image/png"/>
+      <asset name="wildwest_stageb_32_a_0_0" mimeType="image/png"/>
+      <asset name="wildwest_stageb_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

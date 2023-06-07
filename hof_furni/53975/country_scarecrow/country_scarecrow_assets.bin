@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="country_scarecrow_64_a_0_0" x="29" y="92"/>
+   <asset name="country_scarecrow_64_a_0_1" x="29" y="109"/>
+   <asset name="country_scarecrow_64_a_0_2" x="29" y="98"/>
+   <asset name="country_scarecrow_64_a_2_0" flipH="1" source="country_scarecrow_64_a_4_0" x="28" y="91"/>
+   <asset name="country_scarecrow_64_a_2_1" flipH="1" source="country_scarecrow_64_a_4_1" x="28" y="106"/>
+   <asset name="country_scarecrow_64_a_2_2" flipH="1" source="country_scarecrow_64_a_4_2" x="28" y="94"/>
+   <asset name="country_scarecrow_64_a_4_0" x="28" y="91"/>
+   <asset name="country_scarecrow_64_a_4_1" x="28" y="106"/>
+   <asset name="country_scarecrow_64_a_4_2" x="28" y="94"/>
+   <asset name="country_scarecrow_64_a_6_0" flipH="1" source="country_scarecrow_64_a_0_0" x="29" y="92"/>
+   <asset name="country_scarecrow_64_a_6_1" flipH="1" source="country_scarecrow_64_a_0_1" x="29" y="109"/>
+   <asset name="country_scarecrow_64_a_6_2" flipH="1" source="country_scarecrow_64_a_0_2" x="29" y="98"/>
+   <asset name="country_scarecrow_64_sd_0_0" x="16" y="5"/>
+   <asset name="country_scarecrow_64_sd_2_0" source="country_scarecrow_64_sd_0_0" x="16" y="5"/>
+   <asset name="country_scarecrow_64_sd_4_0" source="country_scarecrow_64_sd_0_0" x="16" y="5"/>
+   <asset name="country_scarecrow_64_sd_6_0" source="country_scarecrow_64_sd_0_0" x="16" y="5"/>
+   <asset name="country_scarecrow_icon_a" x="9" y="16"/>
+   <asset name="country_scarecrow_32_a_0_0" x="13" y="46"/>
+   <asset name="country_scarecrow_32_a_0_1" x="13" y="57"/>
+   <asset name="country_scarecrow_32_a_0_2" x="13" y="48"/>
+   <asset name="country_scarecrow_32_a_2_0" flipH="1" source="country_scarecrow_32_a_4_0" x="14" y="44"/>
+   <asset name="country_scarecrow_32_a_2_1" flipH="1" source="country_scarecrow_32_a_4_1" x="14" y="56"/>
+   <asset name="country_scarecrow_32_a_2_2" flipH="1" source="country_scarecrow_32_a_4_2" x="14" y="47"/>
+   <asset name="country_scarecrow_32_a_4_0" x="14" y="44"/>
+   <asset name="country_scarecrow_32_a_4_1" x="14" y="56"/>
+   <asset name="country_scarecrow_32_a_4_2" x="14" y="47"/>
+   <asset name="country_scarecrow_32_a_6_0" flipH="1" source="country_scarecrow_32_a_0_0" x="13" y="46"/>
+   <asset name="country_scarecrow_32_a_6_1" flipH="1" source="country_scarecrow_32_a_0_1" x="13" y="57"/>
+   <asset name="country_scarecrow_32_a_6_2" flipH="1" source="country_scarecrow_32_a_0_2" x="13" y="48"/>
+   <asset name="country_scarecrow_32_sd_0_0" x="7" y="1"/>
+   <asset name="country_scarecrow_32_sd_2_0" source="country_scarecrow_32_sd_0_0" x="7" y="1"/>
+   <asset name="country_scarecrow_32_sd_4_0" source="country_scarecrow_32_sd_0_0" x="7" y="1"/>
+   <asset name="country_scarecrow_32_sd_6_0" source="country_scarecrow_32_sd_0_0" x="7" y="1"/>
+</assets>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="st_wildwest_goldpick_64_sd_4_0" x="28" y="15"/>
+  <asset name="st_wildwest_goldpick_64_a_4_0" x="28" y="33"/>
+  <asset name="st_wildwest_goldpick_64_a_4_1" x="28" y="33"/>
+  <asset name="st_wildwest_goldpick_64_a_4_2" x="28" y="16"/>
+  <asset name="st_wildwest_goldpick_64_a_4_3" x="28" y="16"/>
+  <asset name="st_wildwest_goldpick_32_sd_4_0" x="14" y="7"/>
+  <asset name="st_wildwest_goldpick_32_a_4_0" x="15" y="17"/>
+  <asset name="st_wildwest_goldpick_32_a_4_1" x="15" y="17"/>
+  <asset name="st_wildwest_goldpick_32_a_4_2" x="15" y="8"/>
+  <asset name="st_wildwest_goldpick_32_a_4_3" x="15" y="8"/>
+  <asset name="st_wildwest_goldpick_icon_a" x="11" y="12"/>
+  <asset name="st_wildwest_goldpick_64_sd_2_0" flipH="1" source="st_wildwest_goldpick_64_sd_4_0" x="28" y="15"/>
+  <asset name="st_wildwest_goldpick_64_a_2_0" flipH="1" source="st_wildwest_goldpick_64_a_4_0" x="28" y="33"/>
+  <asset name="st_wildwest_goldpick_64_a_2_1" flipH="1" source="st_wildwest_goldpick_64_a_4_1" x="28" y="33"/>
+  <asset name="st_wildwest_goldpick_64_a_2_2" flipH="1" source="st_wildwest_goldpick_64_a_4_2" x="28" y="16"/>
+  <asset name="st_wildwest_goldpick_64_a_2_3" flipH="1" source="st_wildwest_goldpick_64_a_4_3" x="28" y="16"/>
+  <asset name="st_wildwest_goldpick_32_sd_2_0" flipH="1" source="st_wildwest_goldpick_32_sd_4_0" x="14" y="7"/>
+  <asset name="st_wildwest_goldpick_32_a_2_0" flipH="1" source="st_wildwest_goldpick_32_a_4_0" x="15" y="17"/>
+  <asset name="st_wildwest_goldpick_32_a_2_1" flipH="1" source="st_wildwest_goldpick_32_a_4_1" x="15" y="17"/>
+  <asset name="st_wildwest_goldpick_32_a_2_2" flipH="1" source="st_wildwest_goldpick_32_a_4_2" x="15" y="8"/>
+  <asset name="st_wildwest_goldpick_32_a_2_3" flipH="1" source="st_wildwest_goldpick_32_a_4_3" x="15" y="8"/>
+</assets>

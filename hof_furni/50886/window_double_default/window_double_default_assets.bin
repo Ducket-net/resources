@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_double_default_64_a_2_0" x="60" y="63"/>
+   <asset name="window_double_default_64_2_mask" x="55" y="52"/>
+   <asset name="window_double_default_64_a_4_0" flipH="1" source="window_double_default_64_a_2_0" x="60" y="63"/>
+   <asset name="window_double_default_64_4_mask" flipH="1" source="window_double_default_64_2_mask" x="55" y="52"/>
+   <asset name="window_double_default_32_a_2_0" x="31" y="32"/>
+   <asset name="window_double_default_32_2_mask" x="28" y="25"/>
+   <asset name="window_double_default_32_a_4_0" flipH="1" source="window_double_default_32_a_2_0" x="31" y="32"/>
+   <asset name="window_double_default_32_4_mask" flipH="1" source="window_double_default_32_2_mask" x="28" y="25"/>
+   <asset name="window_double_default_icon_a" x="9" y="8"/>
+</assets>

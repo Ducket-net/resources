@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hween14_wall_64_a_4_0" x="33" y="160"/>
+  <asset name="hween14_wall_64_b_4_0" x="120" y="159"/>
+  <asset name="hween14_wall_64_a_4_1" x="38" y="160"/>
+  <asset name="hween14_wall_64_b_4_1" x="120" y="159"/>
+  <asset name="hween14_wall_32_a_4_0" x="18" y="82"/>
+  <asset name="hween14_wall_32_b_4_0" x="61" y="81"/>
+  <asset name="hween14_wall_32_a_4_1" x="21" y="82"/>
+  <asset name="hween14_wall_32_b_4_1" x="61" y="81"/>
+  <asset name="hween14_wall_icon_a" x="6" y="14"/>
+  <asset name="hween14_wall_64_a_2_0" flipH="1" source="hween14_wall_64_a_4_0" x="33" y="160"/>
+  <asset name="hween14_wall_64_b_2_0" flipH="1" source="hween14_wall_64_b_4_0" x="120" y="159"/>
+  <asset name="hween14_wall_64_a_2_1" flipH="1" source="hween14_wall_64_a_4_1" x="38" y="160"/>
+  <asset name="hween14_wall_64_b_2_1" flipH="1" source="hween14_wall_64_b_4_1" x="120" y="159"/>
+  <asset name="hween14_wall_32_a_2_0" flipH="1" source="hween14_wall_32_a_4_0" x="18" y="82"/>
+  <asset name="hween14_wall_32_b_2_0" flipH="1" source="hween14_wall_32_b_4_0" x="61" y="81"/>
+  <asset name="hween14_wall_32_a_2_1" flipH="1" source="hween14_wall_32_a_4_1" x="21" y="82"/>
+  <asset name="hween14_wall_32_b_2_1" flipH="1" source="hween14_wall_32_b_4_1" x="61" y="81"/>
+</assets>

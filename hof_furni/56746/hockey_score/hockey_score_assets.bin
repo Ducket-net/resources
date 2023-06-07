@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hockey_score_64_a_2_0" x="25" y="120"/>
+   <asset name="hockey_score_64_a_4_0" flipH="1" source="hockey_score_64_a_2_0" x="25" y="120"/>
+   <asset name="hockey_score_64_b_2_0" x="21" y="14"/>
+   <asset name="hockey_score_64_b_4_0" source="hockey_score_64_b_2_0" x="21" y="14"/>
+   <asset name="hockey_score_64_c_2_100" source="hockey_score_pixel" x="32" y="0"/>
+   <asset name="hockey_score_64_c_4_100" source="hockey_score_pixel" x="32" y="0"/>
+   <asset name="hockey_score_64_d_2_100" source="hockey_score_pixel" x="32" y="0"/>
+   <asset name="hockey_score_64_d_4_100" source="hockey_score_pixel" x="32" y="0"/>
+
+   <asset name="hockey_score_64_c_2_0" source="hockey_score_2_0" x="5" y="100"/>
+   <asset name="hockey_score_64_c_2_1" source="hockey_score_2_1" x="0" y="100"/>
+   <asset name="hockey_score_64_c_2_2" source="hockey_score_2_2" x="5" y="100"/>
+   <asset name="hockey_score_64_c_2_3" source="hockey_score_2_3" x="4" y="100"/>
+   <asset name="hockey_score_64_c_2_4" source="hockey_score_2_4" x="5" y="100"/>
+   <asset name="hockey_score_64_c_2_5" source="hockey_score_2_5" x="5" y="100"/>
+   <asset name="hockey_score_64_c_2_6" source="hockey_score_2_6" x="5" y="100"/>
+   <asset name="hockey_score_64_c_2_7" source="hockey_score_2_7" x="4" y="100"/>
+   <asset name="hockey_score_64_c_2_8" source="hockey_score_2_8" x="5" y="100"/>
+   <asset name="hockey_score_64_c_2_9" source="hockey_score_2_9" x="5" y="100"/>
+         
+   <asset name="hockey_score_64_d_2_0" source="hockey_score_2_0" x="-5" y="105"/>
+   <asset name="hockey_score_64_d_2_1" source="hockey_score_2_1" x="-11" y="105"/>
+   <asset name="hockey_score_64_d_2_2" source="hockey_score_2_2" x="-5" y="105"/>
+   <asset name="hockey_score_64_d_2_3" source="hockey_score_2_3" x="-6" y="105"/>
+   <asset name="hockey_score_64_d_2_4" source="hockey_score_2_4" x="-5" y="105"/>
+   <asset name="hockey_score_64_d_2_5" source="hockey_score_2_5" x="-5" y="105"/>
+   <asset name="hockey_score_64_d_2_6" source="hockey_score_2_6" x="-5" y="105"/>
+   <asset name="hockey_score_64_d_2_7" source="hockey_score_2_7" x="-6" y="105"/>
+   <asset name="hockey_score_64_d_2_8" source="hockey_score_2_8" x="-5" y="105"/>
+   <asset name="hockey_score_64_d_2_9" source="hockey_score_2_9" x="-5" y="105"/>
+
+   <asset name="hockey_score_64_c_4_0" source="hockey_score_4_0" x="12" y="105"/>
+   <asset name="hockey_score_64_c_4_1" source="hockey_score_4_1" x="6" y="103"/>
+   <asset name="hockey_score_64_c_4_2" source="hockey_score_4_2" x="12" y="105"/>
+   <asset name="hockey_score_64_c_4_3" source="hockey_score_4_3" x="11" y="105"/>
+   <asset name="hockey_score_64_c_4_4" source="hockey_score_4_4" x="12" y="105"/>
+   <asset name="hockey_score_64_c_4_5" source="hockey_score_4_5" x="12" y="105"/>
+   <asset name="hockey_score_64_c_4_6" source="hockey_score_4_6" x="12" y="105"/>
+   <asset name="hockey_score_64_c_4_7" source="hockey_score_4_7" x="11" y="105"/>
+   <asset name="hockey_score_64_c_4_8" source="hockey_score_4_8" x="12" y="105"/>
+   <asset name="hockey_score_64_c_4_9" source="hockey_score_4_9" x="12" y="105"/>
+         
+   <asset name="hockey_score_64_d_4_0" source="hockey_score_4_0" x="2" y="100"/>
+   <asset name="hockey_score_64_d_4_1" source="hockey_score_4_1" x="-4" y="98"/>
+   <asset name="hockey_score_64_d_4_2" source="hockey_score_4_2" x="2" y="100"/>
+   <asset name="hockey_score_64_d_4_3" source="hockey_score_4_3" x="1" y="100"/>
+   <asset name="hockey_score_64_d_4_4" source="hockey_score_4_4" x="2" y="100"/>
+   <asset name="hockey_score_64_d_4_5" source="hockey_score_4_5" x="2" y="100"/>
+   <asset name="hockey_score_64_d_4_6" source="hockey_score_4_6" x="2" y="100"/>
+   <asset name="hockey_score_64_d_4_7" source="hockey_score_4_7" x="1" y="100"/>
+   <asset name="hockey_score_64_d_4_8" source="hockey_score_4_8" x="2" y="100"/>
+   <asset name="hockey_score_64_d_4_9" source="hockey_score_4_9" x="2" y="100"/>
+
+   <asset name="hockey_score_64_e_2_0" x="10" y="10"/>
+   <asset name="hockey_score_64_e_4_0" source="hockey_score_64_e_2_0" x="10" y="10"/>
+   <asset name="hockey_score_64_f_2_0" x="-3" y="10"/>
+   <asset name="hockey_score_64_f_4_0" source="hockey_score_64_f_2_0" x="-3" y="10"/>
+   
+   <asset name="hockey_score_pixel" x="32" y="0"/>
+   <asset name="hockey_score_icon_a" x="6" y="15"/>
+
+   <asset name="hockey_score_32_a_2_0" x="12" y="61"/>
+   <asset name="hockey_score_32_a_4_0" flipH="1" source="hockey_score_32_a_2_0" x="12" y="61"/>
+   <asset name="hockey_score_32_b_2_0" x="10" y="6"/>
+   <asset name="hockey_score_32_b_4_0" source="hockey_score_32_b_2_0" x="10" y="6"/>
+   <asset name="hockey_score_32_c_2_100" source="s_hockey_score_pixel" x="16" y="0"/>
+   <asset name="hockey_score_32_c_4_100" source="s_hockey_score_pixel" x="16" y="0"/>
+   <asset name="hockey_score_32_d_2_100" source="s_hockey_score_pixel" x="16" y="0"/>
+   <asset name="hockey_score_32_d_4_100" source="s_hockey_score_pixel" x="16" y="0"/>
+   
+   <asset name="hockey_score_32_c_2_0" source="s_hockey_score_2_0" x="3" y="50"/>
+   <asset name="hockey_score_32_c_2_1" source="s_hockey_score_2_1" x="0" y="50"/>
+   <asset name="hockey_score_32_c_2_2" source="s_hockey_score_2_2" x="3" y="50"/>
+   <asset name="hockey_score_32_c_2_3" source="s_hockey_score_2_3" x="3" y="50"/>
+   <asset name="hockey_score_32_c_2_4" source="s_hockey_score_2_4" x="3" y="50"/>
+   <asset name="hockey_score_32_c_2_5" source="s_hockey_score_2_5" x="4" y="50"/>
+   <asset name="hockey_score_32_c_2_6" source="s_hockey_score_2_6" x="4" y="50"/>
+   <asset name="hockey_score_32_c_2_7" source="s_hockey_score_2_7" x="4" y="50"/>
+   <asset name="hockey_score_32_c_2_8" source="s_hockey_score_2_8" x="4" y="50"/>
+   <asset name="hockey_score_32_c_2_9" source="s_hockey_score_2_9" x="4" y="50"/>
+         
+   <asset name="hockey_score_32_d_2_0" source="s_hockey_score_2_0" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_1" source="s_hockey_score_2_1" x="-6" y="53"/>
+   <asset name="hockey_score_32_d_2_2" source="s_hockey_score_2_2" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_3" source="s_hockey_score_2_3" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_4" source="s_hockey_score_2_4" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_5" source="s_hockey_score_2_5" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_6" source="s_hockey_score_2_6" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_7" source="s_hockey_score_2_7" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_8" source="s_hockey_score_2_8" x="-3" y="53"/>
+   <asset name="hockey_score_32_d_2_9" source="s_hockey_score_2_9" x="-3" y="53"/>
+
+   <asset name="hockey_score_32_c_4_0" source="s_hockey_score_4_0" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_1" source="s_hockey_score_4_1" x="4" y="52"/>
+   <asset name="hockey_score_32_c_4_2" source="s_hockey_score_4_2" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_3" source="s_hockey_score_4_3" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_4" source="s_hockey_score_4_4" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_5" source="s_hockey_score_4_5" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_6" source="s_hockey_score_4_6" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_7" source="s_hockey_score_4_7" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_8" source="s_hockey_score_4_8" x="7" y="53"/>
+   <asset name="hockey_score_32_c_4_9" source="s_hockey_score_4_9" x="7" y="53"/>
+         
+   <asset name="hockey_score_32_d_4_0" source="s_hockey_score_4_0" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_1" source="s_hockey_score_4_1" x="-2" y="49"/>
+   <asset name="hockey_score_32_d_4_2" source="s_hockey_score_4_2" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_3" source="s_hockey_score_4_3" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_4" source="s_hockey_score_4_4" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_5" source="s_hockey_score_4_5" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_6" source="s_hockey_score_4_6" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_7" source="s_hockey_score_4_7" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_8" source="s_hockey_score_4_8" x="1" y="50"/>
+   <asset name="hockey_score_32_d_4_9" source="s_hockey_score_4_9" x="1" y="50"/>
+
+   <asset name="hockey_score_32_e_2_0" x="6" y="4"/>
+   <asset name="hockey_score_32_e_4_0" source="hockey_score_32_e_2_0" x="6" y="4"/>
+   <asset name="hockey_score_32_f_2_0" x="-2" y="4"/>
+   <asset name="hockey_score_32_f_4_0" source="hockey_score_32_f_2_0" x="-2" y="4"/>
+
+   <asset name="s_hockey_score_pixel" x="16" y="0"/>
+</assets>

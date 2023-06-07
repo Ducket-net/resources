@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas12_door" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas12_door_visualization" mimeType="text/xml"/>
+      <asset name="xmas12_door_assets" mimeType="text/xml"/>
+      <asset name="xmas12_door_logic" mimeType="text/xml"/>
+      <asset name="xmas12_door_64_a_4_0" mimeType="image/png"/>
+      <asset name="xmas12_door_64_a_4_1" mimeType="image/png"/>
+      <asset name="xmas12_door_64_a_4_2" mimeType="image/png"/>
+      <asset name="xmas12_door_64_a_2_0" mimeType="image/png"/>
+      <asset name="xmas12_door_64_a_2_1" mimeType="image/png"/>
+      <asset name="xmas12_door_64_a_2_2" mimeType="image/png"/>
+      <asset name="xmas12_door_32_a_4_0" mimeType="image/png"/>
+      <asset name="xmas12_door_32_a_4_1" mimeType="image/png"/>
+      <asset name="xmas12_door_32_a_4_2" mimeType="image/png"/>
+      <asset name="xmas12_door_32_a_2_0" mimeType="image/png"/>
+      <asset name="xmas12_door_32_a_2_1" mimeType="image/png"/>
+      <asset name="xmas12_door_32_a_2_2" mimeType="image/png"/>
+      <asset name="xmas12_door_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

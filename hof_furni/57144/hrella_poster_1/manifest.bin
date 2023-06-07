@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="hrella_poster_1" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="hrella_poster_1_visualization" mimeType="text/xml"/>
+         <asset name="hrella_poster_1_assets" mimeType="text/xml"/>
+         <asset name="hrella_poster_1_logic" mimeType="text/xml"/>
+         <asset name="hrella_poster_1_icon_a" mimeType="image/png"/>
+         <asset name="hrella_poster_1_64_a_2_0" mimeType="image/png"/>
+         <asset name="hrella_poster_1_32_a_2_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="uni_hipdeer" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="uni_hipdeer_visualization" mimeType="text/xml"/>
+      <asset name="uni_hipdeer_assets" mimeType="text/xml"/>
+      <asset name="uni_hipdeer_logic" mimeType="text/xml"/>
+      <asset name="uni_hipdeer_64_a_4_0" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_1" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_2" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_3" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_4" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_5" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_6" mimeType="image/png"/>
+      <asset name="uni_hipdeer_64_a_4_7" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_0" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_1" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_2" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_3" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_4" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_5" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_6" mimeType="image/png"/>
+      <asset name="uni_hipdeer_32_a_4_7" mimeType="image/png"/>
+      <asset name="uni_hipdeer_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

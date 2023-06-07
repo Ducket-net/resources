@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_diner2_64_a_2_0" x="18" y="41"/>
+   <asset name="window_diner2_64_b_2_0" x="12" y="33"/>
+   <asset name="window_diner2_64_b_2_1" x="12" y="34"/>
+   <asset name="window_diner2_64_2_mask" x="12" y="31"/>
+   <asset name="window_diner2_64_a_4_0" flipH="1" source="window_diner2_64_a_2_0" x="18" y="41"/>
+   <asset name="window_diner2_64_b_4_0" flipH="1" source="window_diner2_64_b_2_0" x="12" y="33"/>
+   <asset name="window_diner2_64_b_4_1" flipH="1" source="window_diner2_64_b_2_1" x="12" y="34"/>
+   <asset name="window_diner2_64_4_mask" flipH="1" source="window_diner2_64_2_mask" x="12" y="31"/>
+   <asset name="window_diner2_32_a_2_0" x="9" y="21"/>
+   <asset name="window_diner2_32_b_2_0" x="5" y="16"/>
+   <asset name="window_diner2_32_b_2_1" x="5" y="16"/>
+   <asset name="window_diner2_32_2_mask" x="5" y="14"/>
+   <asset name="window_diner2_32_a_4_0" flipH="1" source="window_diner2_32_a_2_0" x="9" y="21"/>
+   <asset name="window_diner2_32_b_4_0" flipH="1" source="window_diner2_32_b_2_0" x="5" y="16"/>
+   <asset name="window_diner2_32_b_4_1" flipH="1" source="window_diner2_32_b_2_1" x="5" y="16"/>
+   <asset name="window_diner2_32_4_mask" flipH="1" source="window_diner2_32_2_mask" x="5" y="14"/>
+   <asset name="window_diner2_icon_a" x="9" y="12"/>
+</assets>

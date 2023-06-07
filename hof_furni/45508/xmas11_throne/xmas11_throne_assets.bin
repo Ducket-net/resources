@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="xmas11_throne_64_a_4_0" x="36" y="127"/>
+  <asset name="xmas11_throne_64_b_4_0" x="8" y="35"/>
+  <asset name="xmas11_throne_32_b_4_0" x="4" y="18"/>
+  <asset name="xmas11_throne_32_a_4_0" x="18" y="64"/>
+  <asset name="xmas11_throne_icon_a" x="9" y="36"/>
+  <asset name="xmas11_throne_64_a_2_0" flipH="1" source="xmas11_throne_64_a_4_0" x="36" y="127"/>
+  <asset name="xmas11_throne_64_b_2_0" flipH="1" source="xmas11_throne_64_b_4_0" x="8" y="35"/>
+  <asset name="xmas11_throne_32_b_2_0" flipH="1" source="xmas11_throne_32_b_4_0" x="4" y="18"/>
+  <asset name="xmas11_throne_32_a_2_0" flipH="1" source="xmas11_throne_32_a_4_0" x="18" y="64"/>
+</assets>

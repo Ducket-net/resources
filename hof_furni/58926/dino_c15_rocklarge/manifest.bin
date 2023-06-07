@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="dino_c15_rocklarge" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="dino_c15_rocklarge_visualization" mimeType="text/xml"/>
+      <asset name="dino_c15_rocklarge_assets" mimeType="text/xml"/>
+      <asset name="dino_c15_rocklarge_logic" mimeType="text/xml"/>
+      <asset name="dino_c15_rocklarge_64_a_0_0" mimeType="image/png"/>
+      <asset name="dino_c15_rocklarge_64_a_0_1" mimeType="image/png"/>
+      <asset name="dino_c15_rocklarge_64_a_0_2" mimeType="image/png"/>
+      <asset name="dino_c15_rocklarge_64_a_0_3" mimeType="image/png"/>
+      <asset name="dino_c15_rocklarge_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

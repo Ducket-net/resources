@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas14_beachhut" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas14_beachhut_visualization" mimeType="text/xml"/>
+      <asset name="xmas14_beachhut_assets" mimeType="text/xml"/>
+      <asset name="xmas14_beachhut_logic" mimeType="text/xml"/>
+      <asset name="xmas14_beachhut_64_a_4_0" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_b_4_0" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_c_4_0" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_d_4_0" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_d_4_1" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_0" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_1" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_2" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_3" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_4" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_5" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_6" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_7" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_e_4_8" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_f_4_0" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_64_f_4_1" mimeType="image/png"/>
+      <asset name="xmas14_beachhut_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

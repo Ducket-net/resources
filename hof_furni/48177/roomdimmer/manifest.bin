@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="roomdimmer" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="roomdimmer_visualization" mimeType="text/xml"/>
+         <asset name="roomdimmer_assets" mimeType="text/xml"/>
+         <asset name="roomdimmer_logic" mimeType="text/xml"/>
+         <asset name="roomdimmer_64_a_2_1" mimeType="image/png"/>
+         <asset name="roomdimmer_64_a_2_2" mimeType="image/png"/>
+         <asset name="roomdimmer_64_b_2_1" mimeType="image/png"/>
+         <asset name="roomdimmer_icon_a" mimeType="image/png"/>
+         <asset name="roomdimmer_32_a_2_1" mimeType="image/png"/>
+         <asset name="roomdimmer_32_a_2_2" mimeType="image/png"/>
+         <asset name="roomdimmer_32_b_2_1" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas_c18_bearlight" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas_c18_bearlight_visualization" mimeType="text/xml"/>
+      <asset name="xmas_c18_bearlight_assets" mimeType="text/xml"/>
+      <asset name="xmas_c18_bearlight_logic" mimeType="text/xml"/>
+      <asset name="xmas_c18_bearlight_64_sd_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_a_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_b_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_c_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_d_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_e_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_f_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_g_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_64_h_4_0" mimeType="image/png"/>
+      <asset name="xmas_c18_bearlight_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

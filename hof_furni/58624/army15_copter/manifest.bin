@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="army15_copter" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="army15_copter_visualization" mimeType="text/xml"/>
+      <asset name="army15_copter_assets" mimeType="text/xml"/>
+      <asset name="army15_copter_logic" mimeType="text/xml"/>
+      <asset name="army15_copter_64_sd_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_a_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_b_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_c_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_d_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_e_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_f_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_f_4_1" mimeType="image/png"/>
+      <asset name="army15_copter_64_g_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_g_4_1" mimeType="image/png"/>
+      <asset name="army15_copter_64_h_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_h_4_1" mimeType="image/png"/>
+      <asset name="army15_copter_64_i_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_i_4_1" mimeType="image/png"/>
+      <asset name="army15_copter_64_i_4_2" mimeType="image/png"/>
+      <asset name="army15_copter_64_i_4_3" mimeType="image/png"/>
+      <asset name="army15_copter_64_j_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_j_4_1" mimeType="image/png"/>
+      <asset name="army15_copter_64_j_4_2" mimeType="image/png"/>
+      <asset name="army15_copter_64_k_4_0" mimeType="image/png"/>
+      <asset name="army15_copter_64_k_4_1" mimeType="image/png"/>
+      <asset name="army15_copter_64_k_4_2" mimeType="image/png"/>
+      <asset name="army15_copter_64_k_4_3" mimeType="image/png"/>
+      <asset name="army15_copter_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

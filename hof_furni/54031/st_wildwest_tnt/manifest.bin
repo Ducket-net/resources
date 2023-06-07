@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="st_wildwest_tnt" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="st_wildwest_tnt_visualization" mimeType="text/xml"/>
+      <asset name="st_wildwest_tnt_assets" mimeType="text/xml"/>
+      <asset name="st_wildwest_tnt_logic" mimeType="text/xml"/>
+      <asset name="st_wildwest_tnt_64_sd_4_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_64_sd_2_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_64_a_4_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_64_a_2_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_32_sd_4_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_32_sd_2_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_32_a_4_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_32_a_2_0" mimeType="image/png"/>
+      <asset name="st_wildwest_tnt_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

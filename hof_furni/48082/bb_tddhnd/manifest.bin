@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bb_tddhnd" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="bb_tddhnd_visualization" mimeType="text/xml"/>
+      <asset name="bb_tddhnd_assets" mimeType="text/xml"/>
+      <asset name="bb_tddhnd_logic" mimeType="text/xml"/>
+      <asset name="bb_tddhnd_64_a_0_0" mimeType="image/png"/>
+      <asset name="bb_tddhnd_64_a_0_1" mimeType="image/png"/>
+      <asset name="bb_tddhnd_32_a_0_0" mimeType="image/png"/>
+      <asset name="bb_tddhnd_32_a_0_1" mimeType="image/png"/>
+      <asset name="bb_tddhnd_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

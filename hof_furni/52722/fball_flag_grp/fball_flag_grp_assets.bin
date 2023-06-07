@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="fball_flag_grp_32_a_0_0" x="3" y="55"/>
+  <asset name="fball_flag_grp_32_b_0_0" x="-1" y="57"/>
+  <asset name="fball_flag_grp_32_b_0_1" x="-1" y="56"/>
+  <asset name="fball_flag_grp_32_b_0_2" x="-1" y="54"/>
+  <asset name="fball_flag_grp_32_b_0_3" x="-1" y="53"/>
+  <asset name="fball_flag_grp_32_b_0_4" x="-1" y="53"/>
+  <asset name="fball_flag_grp_32_c_0_0" x="-1" y="55"/>
+  <asset name="fball_flag_grp_32_c_0_1" x="-1" y="55"/>
+  <asset name="fball_flag_grp_32_c_0_2" x="-1" y="53"/>
+  <asset name="fball_flag_grp_32_c_0_3" x="-1" y="53"/>
+  <asset name="fball_flag_grp_32_c_0_4" x="-1" y="53"/>
+  <asset name="fball_flag_grp_32_a_2_0" x="-6" y="50"/>
+  <asset name="fball_flag_grp_64_a_0_0" x="6" y="108"/>
+  <asset name="fball_flag_grp_64_b_0_0" x="-2" y="113"/>
+  <asset name="fball_flag_grp_64_b_0_1" x="-2" y="110"/>
+  <asset name="fball_flag_grp_64_b_0_2" x="-2" y="106"/>
+  <asset name="fball_flag_grp_64_b_0_3" x="-2" y="104"/>
+  <asset name="fball_flag_grp_64_b_0_4" x="-2" y="104"/>
+  <asset name="fball_flag_grp_64_c_0_0" x="-2" y="110"/>
+  <asset name="fball_flag_grp_64_c_0_1" x="-2" y="108"/>
+  <asset name="fball_flag_grp_64_c_0_2" x="-2" y="104"/>
+  <asset name="fball_flag_grp_64_c_0_3" x="-2" y="104"/>
+  <asset name="fball_flag_grp_64_c_0_4" x="-2" y="104"/>
+  <asset name="fball_flag_grp_64_a_2_0" x="-18" y="96"/>
+  <asset name="fball_flag_grp_icon_a" x="8" y="13"/>
+  <asset name="fball_flag_grp_icon_b" x="4" y="12"/>
+  <asset name="fball_flag_grp_icon_c" x="4" y="11"/>
+  <asset name="fball_flag_grp_32_b_2_0" flipH="1" source="fball_flag_grp_32_b_0_0" x="11" y="52"/>
+  <asset name="fball_flag_grp_32_b_2_1" flipH="1" source="fball_flag_grp_32_b_0_1" x="11" y="51"/>
+  <asset name="fball_flag_grp_32_b_2_2" flipH="1" source="fball_flag_grp_icon_b" x="11" y="49"/>
+  <asset name="fball_flag_grp_32_b_2_3" flipH="1" source="fball_flag_grp_32_b_0_3" x="11" y="48"/>
+  <asset name="fball_flag_grp_32_b_2_4" flipH="1" source="fball_flag_grp_32_b_0_4" x="11" y="48"/>
+  <asset name="fball_flag_grp_32_c_2_0" flipH="1" source="fball_flag_grp_32_c_0_0" x="11" y="50"/>
+  <asset name="fball_flag_grp_32_c_2_1" flipH="1" source="fball_flag_grp_32_c_0_1" x="11" y="50"/>
+  <asset name="fball_flag_grp_32_c_2_2" flipH="1" source="fball_flag_grp_icon_c" x="11" y="48"/>
+  <asset name="fball_flag_grp_32_c_2_3" flipH="1" source="fball_flag_grp_32_c_0_3" x="11" y="48"/>
+  <asset name="fball_flag_grp_32_c_2_4" flipH="1" source="fball_flag_grp_32_c_0_4" x="11" y="48"/>
+  <asset name="fball_flag_grp_32_a_4_0" flipH="1" source="fball_flag_grp_32_a_2_0" x="4" y="44"/>
+  <asset name="fball_flag_grp_32_b_4_0" source="fball_flag_grp_32_b_0_0" x="1" y="46"/>
+  <asset name="fball_flag_grp_32_b_4_1" source="fball_flag_grp_32_b_0_1" x="1" y="45"/>
+  <asset name="fball_flag_grp_32_b_4_2" source="fball_flag_grp_icon_b" x="1" y="43"/>
+  <asset name="fball_flag_grp_32_b_4_3" source="fball_flag_grp_32_b_0_3" x="1" y="42"/>
+  <asset name="fball_flag_grp_32_b_4_4" source="fball_flag_grp_32_b_0_4" x="1" y="42"/>
+  <asset name="fball_flag_grp_32_c_4_0" source="fball_flag_grp_32_c_0_0" x="1" y="44"/>
+  <asset name="fball_flag_grp_32_c_4_1" source="fball_flag_grp_32_c_0_1" x="1" y="44"/>
+  <asset name="fball_flag_grp_32_c_4_2" source="fball_flag_grp_icon_c" x="1" y="42"/>
+  <asset name="fball_flag_grp_32_c_4_3" source="fball_flag_grp_32_c_0_3" x="1" y="42"/>
+  <asset name="fball_flag_grp_32_c_4_4" source="fball_flag_grp_32_c_0_4" x="1" y="42"/>
+  <asset name="fball_flag_grp_32_a_6_0" flipH="1" source="fball_flag_grp_32_a_0_0" x="-7" y="49"/>
+  <asset name="fball_flag_grp_32_b_6_0" flipH="1" source="fball_flag_grp_32_b_0_0" x="-11" y="51"/>
+  <asset name="fball_flag_grp_32_b_6_1" flipH="1" source="fball_flag_grp_32_b_0_1" x="-11" y="50"/>
+  <asset name="fball_flag_grp_32_b_6_2" flipH="1" source="fball_flag_grp_icon_b" x="-11" y="48"/>
+  <asset name="fball_flag_grp_32_b_6_3" flipH="1" source="fball_flag_grp_32_b_0_3" x="-11" y="47"/>
+  <asset name="fball_flag_grp_32_b_6_4" flipH="1" source="fball_flag_grp_32_b_0_4" x="-11" y="47"/>
+  <asset name="fball_flag_grp_32_c_6_0" flipH="1" source="fball_flag_grp_32_c_0_0" x="-11" y="49"/>
+  <asset name="fball_flag_grp_32_c_6_1" flipH="1" source="fball_flag_grp_32_c_0_1" x="-11" y="49"/>
+  <asset name="fball_flag_grp_32_c_6_2" flipH="1" source="fball_flag_grp_icon_c" x="-11" y="47"/>
+  <asset name="fball_flag_grp_32_c_6_3" flipH="1" source="fball_flag_grp_32_c_0_3" x="-11" y="47"/>
+  <asset name="fball_flag_grp_32_c_6_4" flipH="1" source="fball_flag_grp_32_c_0_4" x="-11" y="47"/>
+  <asset name="fball_flag_grp_64_b_2_0" flipH="1" source="fball_flag_grp_64_b_0_0" x="24" y="101"/>
+  <asset name="fball_flag_grp_64_b_2_1" flipH="1" source="fball_flag_grp_64_b_0_1" x="24" y="98"/>
+  <asset name="fball_flag_grp_64_b_2_2" flipH="1" source="fball_flag_grp_64_b_0_2" x="24" y="94"/>
+  <asset name="fball_flag_grp_64_b_2_3" flipH="1" source="fball_flag_grp_64_b_0_3" x="24" y="92"/>
+  <asset name="fball_flag_grp_64_b_2_4" flipH="1" source="fball_flag_grp_64_b_0_4" x="24" y="92"/>
+  <asset name="fball_flag_grp_64_c_2_0" flipH="1" source="fball_flag_grp_64_c_0_0" x="24" y="98"/>
+  <asset name="fball_flag_grp_64_c_2_1" flipH="1" source="fball_flag_grp_64_c_0_1" x="24" y="96"/>
+  <asset name="fball_flag_grp_64_c_2_2" flipH="1" source="fball_flag_grp_64_c_0_2" x="24" y="92"/>
+  <asset name="fball_flag_grp_64_c_2_3" flipH="1" source="fball_flag_grp_64_c_0_3" x="24" y="92"/>
+  <asset name="fball_flag_grp_64_c_2_4" flipH="1" source="fball_flag_grp_64_c_0_4" x="24" y="92"/>
+  <asset name="fball_flag_grp_64_a_4_0" flipH="1" source="fball_flag_grp_64_a_2_0" x="6" y="84"/>
+  <asset name="fball_flag_grp_64_b_4_0" source="fball_flag_grp_64_b_0_0" x="0" y="89"/>
+  <asset name="fball_flag_grp_64_b_4_1" source="fball_flag_grp_64_b_0_1" x="0" y="86"/>
+  <asset name="fball_flag_grp_64_b_4_2" source="fball_flag_grp_64_b_0_2" x="0" y="82"/>
+  <asset name="fball_flag_grp_64_b_4_3" source="fball_flag_grp_64_b_0_3" x="0" y="80"/>
+  <asset name="fball_flag_grp_64_b_4_4" source="fball_flag_grp_64_b_0_4" x="0" y="80"/>
+  <asset name="fball_flag_grp_64_c_4_0" source="fball_flag_grp_64_c_0_0" x="0" y="86"/>
+  <asset name="fball_flag_grp_64_c_4_1" source="fball_flag_grp_64_c_0_1" x="0" y="84"/>
+  <asset name="fball_flag_grp_64_c_4_2" source="fball_flag_grp_64_c_0_2" x="0" y="80"/>
+  <asset name="fball_flag_grp_64_c_4_3" source="fball_flag_grp_64_c_0_3" x="0" y="80"/>
+  <asset name="fball_flag_grp_64_c_4_4" source="fball_flag_grp_64_c_0_4" x="0" y="80"/>
+  <asset name="fball_flag_grp_64_a_6_0" flipH="1" source="fball_flag_grp_64_a_0_0" x="-19" y="98"/>
+  <asset name="fball_flag_grp_64_b_6_0" flipH="1" source="fball_flag_grp_64_b_0_0" x="-27" y="103"/>
+  <asset name="fball_flag_grp_64_b_6_1" flipH="1" source="fball_flag_grp_64_b_0_1" x="-27" y="100"/>
+  <asset name="fball_flag_grp_64_b_6_2" flipH="1" source="fball_flag_grp_64_b_0_2" x="-27" y="96"/>
+  <asset name="fball_flag_grp_64_b_6_3" flipH="1" source="fball_flag_grp_64_b_0_3" x="-27" y="94"/>
+  <asset name="fball_flag_grp_64_b_6_4" flipH="1" source="fball_flag_grp_64_b_0_4" x="-27" y="94"/>
+  <asset name="fball_flag_grp_64_c_6_0" flipH="1" source="fball_flag_grp_64_c_0_0" x="-27" y="100"/>
+  <asset name="fball_flag_grp_64_c_6_1" flipH="1" source="fball_flag_grp_64_c_0_1" x="-27" y="98"/>
+  <asset name="fball_flag_grp_64_c_6_2" flipH="1" source="fball_flag_grp_64_c_0_2" x="-27" y="94"/>
+  <asset name="fball_flag_grp_64_c_6_3" flipH="1" source="fball_flag_grp_64_c_0_3" x="-27" y="94"/>
+  <asset name="fball_flag_grp_64_c_6_4" flipH="1" source="fball_flag_grp_64_c_0_4" x="-27" y="94"/>
+</assets>

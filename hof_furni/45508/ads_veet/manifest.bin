@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="ads_veet" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="ads_veet_visualization" mimeType="text/xml"/>
+         <asset name="ads_veet_assets" mimeType="text/xml"/>
+         <asset name="ads_veet_logic" mimeType="text/xml"/>
+         <asset name="ads_veet_icon_a" mimeType="image/png"/>
+         <asset name="ads_veet_64_a_2_0" mimeType="image/png"/>
+         <asset name="ads_veet_64_b_2_0" mimeType="image/png"/>
+         <asset name="ads_veet_64_b_2_1" mimeType="image/png"/>
+         <asset name="ads_veet_64_b_2_2" mimeType="image/png"/>
+         <asset name="ads_veet_64_b_2_3" mimeType="image/png"/>
+         <asset name="ads_veet_64_c_2_0" mimeType="image/png"/>
+         <asset name="ads_veet_32_a_2_0" mimeType="image/png"/>
+         <asset name="ads_veet_32_b_2_0" mimeType="image/png"/>
+         <asset name="ads_veet_32_b_2_1" mimeType="image/png"/>
+         <asset name="ads_veet_32_b_2_2" mimeType="image/png"/>
+         <asset name="ads_veet_32_b_2_3" mimeType="image/png"/>
+         <asset name="ads_veet_32_c_2_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

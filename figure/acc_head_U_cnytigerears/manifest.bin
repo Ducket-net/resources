@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_cnytigerears" version="0.1">
+    <assets>
+      <asset name="h_lay_he_4426_2_0" mimeType="image/png">
+        <param key="offset" value="28,41"/>
+      </asset>
+      <asset name="h_lay_he_4427_2_0" mimeType="image/png">
+        <param key="offset" value="25,39"/>
+      </asset>
+      <asset name="h_std_he_4426_0_0" mimeType="image/png">
+        <param key="offset" value="-19,81"/>
+      </asset>
+      <asset name="h_std_he_4426_1_0" mimeType="image/png">
+        <param key="offset" value="-25,77"/>
+      </asset>
+      <asset name="h_std_he_4426_2_0" mimeType="image/png">
+        <param key="offset" value="-21,82"/>
+      </asset>
+      <asset name="h_std_he_4426_3_0" mimeType="image/png">
+        <param key="offset" value="-16,80"/>
+      </asset>
+      <asset name="h_std_he_4426_7_0" mimeType="image/png">
+        <param key="offset" value="-16,78"/>
+      </asset>
+      <asset name="h_std_he_4427_0_0" mimeType="image/png">
+        <param key="offset" value="-20,77"/>
+      </asset>
+      <asset name="h_std_he_4427_1_0" mimeType="image/png">
+        <param key="offset" value="-30,74"/>
+      </asset>
+      <asset name="h_std_he_4427_2_0" mimeType="image/png">
+        <param key="offset" value="-24,80"/>
+      </asset>
+      <asset name="h_std_he_4427_3_0" mimeType="image/png">
+        <param key="offset" value="-17,77"/>
+      </asset>
+      <asset name="h_std_he_4427_7_0" mimeType="image/png">
+        <param key="offset" value="-17,74"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

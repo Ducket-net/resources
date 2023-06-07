@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hosptl_cab1_32_sd_0_0" x="13" y="0"/>
+  <asset name="hosptl_cab1_32_a_0_0" x="16" y="56"/>
+  <asset name="hosptl_cab1_64_sd_0_0" x="30" y="3"/>
+  <asset name="hosptl_cab1_64_a_0_0" x="30" y="111"/>
+  <asset name="hosptl_cab1_64_a_0_1" x="30" y="111"/>
+  <asset name="hosptl_cab1_icon_a" x="7" y="12"/>
+  <asset name="hosptl_cab1_32_sd_2_0" flipH="1" source="hosptl_cab1_32_sd_0_0" x="13" y="0"/>
+  <asset name="hosptl_cab1_32_a_2_0" flipH="1" source="hosptl_cab1_32_a_0_0" x="16" y="56"/>
+  <asset name="hosptl_cab1_64_sd_2_0" flipH="1" source="hosptl_cab1_64_sd_0_0" x="30" y="3"/>
+  <asset name="hosptl_cab1_64_a_2_0" flipH="1" source="hosptl_cab1_64_a_0_0" x="30" y="111"/>
+  <asset name="hosptl_cab1_64_a_2_1" flipH="1" source="hosptl_cab1_64_a_0_1" x="30" y="111"/>
+</assets>

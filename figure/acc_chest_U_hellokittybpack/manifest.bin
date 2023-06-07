@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_hellokittybpack" version="0.1">
+    <assets>
+      <asset name="h_std_ca_4443_3_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_std_ca_4443_7_0" mimeType="image/png">
+        <param key="offset" value="-22,46"/>
+      </asset>
+      <asset name="h_std_ca_4443_0_0" mimeType="image/png">
+        <param key="offset" value="-14,48"/>
+      </asset>
+      <asset name="h_std_ca_4443_1_0" mimeType="image/png">
+        <param key="offset" value="-16,48"/>
+      </asset>
+      <asset name="h_std_ca_4443_2_0" mimeType="image/png">
+        <param key="offset" value="-16,51"/>
+      </asset>
+      <asset name="h_std_ca_4444_7_0" mimeType="image/png">
+        <param key="offset" value="-22,41"/>
+      </asset>
+      <asset name="h_std_ca_4444_0_0" mimeType="image/png">
+        <param key="offset" value="-11,44"/>
+      </asset>
+      <asset name="h_std_ca_4444_3_0" mimeType="image/png">
+        <param key="offset" value="-38,45"/>
+      </asset>
+      <asset name="h_std_ca_4444_1_0" mimeType="image/png">
+        <param key="offset" value="-11,47"/>
+      </asset>
+      <asset name="h_std_ca_4444_2_0" mimeType="image/png">
+        <param key="offset" value="-13,50"/>
+      </asset>
+      <asset name="h_lay_ca_4443_2_0" mimeType="image/png">
+        <param key="offset" value="7,24"/>
+      </asset>
+      <asset name="h_lay_ca_4444_2_0" mimeType="image/png">
+        <param key="offset" value="6,7"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

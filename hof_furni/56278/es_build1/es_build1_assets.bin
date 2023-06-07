@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="es_build1_32_a_2_0" x="16" y="179"/>
+  <asset name="es_build1_32_b_2_0" x="15" y="-15"/>
+  <asset name="es_build1_32_b_2_1" x="16" y="177"/>
+  <asset name="es_build1_64_a_2_0" x="31" y="359"/>
+  <asset name="es_build1_64_b_2_0" x="31" y="-30"/>
+  <asset name="es_build1_64_b_2_1" x="31" y="360"/>
+  <asset name="es_build1_icon_a" x="7" y="14"/>
+  <asset name="es_build1_32_a_4_0" flipH="1" source="es_build1_32_a_2_0" x="16" y="179"/>
+  <asset name="es_build1_32_b_4_0" flipH="1" source="es_build1_32_b_2_0" x="15" y="-15"/>
+  <asset name="es_build1_32_b_4_1" flipH="1" source="es_build1_32_b_2_1" x="16" y="177"/>
+  <asset name="es_build1_64_a_4_0" flipH="1" source="es_build1_64_a_2_0" x="31" y="359"/>
+  <asset name="es_build1_64_b_4_0" flipH="1" source="es_build1_64_b_2_0" x="31" y="-30"/>
+  <asset name="es_build1_64_b_4_1" flipH="1" source="es_build1_64_b_2_1" x="31" y="360"/>
+</assets>

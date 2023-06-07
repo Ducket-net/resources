@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hween12_duck_64_a_2_0" x="25" y="72"/>
+  <asset name="hween12_duck_64_b_2_0" x="-4" y="72"/>
+  <asset name="hween12_duck_64_a_2_1" x="25" y="70"/>
+  <asset name="hween12_duck_64_b_2_1" x="-4" y="70"/>
+  <asset name="hween12_duck_64_c_2_0" x="-23" y="62"/>
+  <asset name="hween12_duck_64_c_2_1" x="-23" y="61"/>
+  <asset name="hween12_duck_64_c_2_2" x="-25" y="60"/>
+  <asset name="hween12_duck_64_c_2_3" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_2_4" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_2_5" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_2_6" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_2_7" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_2_8" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_2_9" x="-26" y="59"/>
+  <asset name="hween12_duck_64_c_2_10" x="-26" y="59"/>
+  <asset name="hween12_duck_64_c_2_11" x="-26" y="59"/>
+  <asset name="hween12_duck_64_c_2_12" x="-26" y="59"/>
+  <asset name="hween12_duck_32_a_2_0" x="12" y="38"/>
+  <asset name="hween12_duck_32_b_2_0" x="-3" y="38"/>
+  <asset name="hween12_duck_32_a_2_1" x="12" y="37"/>
+  <asset name="hween12_duck_32_b_2_1" x="-3" y="37"/>
+  <asset name="hween12_duck_32_c_2_0" x="-13" y="33"/>
+  <asset name="hween12_duck_32_c_2_1" x="-13" y="33"/>
+  <asset name="hween12_duck_32_c_2_2" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_3" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_4" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_5" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_6" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_7" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_8" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_2_9" x="-14" y="31"/>
+  <asset name="hween12_duck_32_c_2_10" x="-14" y="31"/>
+  <asset name="hween12_duck_32_c_2_11" x="-14" y="30"/>
+  <asset name="hween12_duck_32_c_2_12" x="-14" y="30"/>
+  <asset name="hween12_duck_icon_a" x="13" y="15"/>
+  <asset name="hween12_duck_64_a_4_0" flipH="1" source="hween12_duck_64_a_2_0" x="25" y="72"/>
+  <asset name="hween12_duck_64_b_4_0" flipH="1" source="hween12_duck_64_b_2_0" x="-4" y="72"/>
+  <asset name="hween12_duck_64_a_4_1" flipH="1" source="hween12_duck_64_a_2_1" x="25" y="70"/>
+  <asset name="hween12_duck_64_b_4_1" flipH="1" source="hween12_duck_64_b_2_1" x="-4" y="70"/>
+  <asset name="hween12_duck_64_c_4_0" flipH="1" source="hween12_duck_64_c_2_0" x="-23" y="62"/>
+  <asset name="hween12_duck_64_c_4_1" flipH="1" source="hween12_duck_64_c_2_1" x="-23" y="61"/>
+  <asset name="hween12_duck_64_c_4_2" flipH="1" source="hween12_duck_64_c_2_2" x="-25" y="60"/>
+  <asset name="hween12_duck_64_c_4_3" flipH="1" source="hween12_duck_64_c_2_3" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_4_4" flipH="1" source="hween12_duck_64_c_2_4" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_4_5" flipH="1" source="hween12_duck_64_c_2_5" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_4_6" flipH="1" source="hween12_duck_64_c_2_6" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_4_7" flipH="1" source="hween12_duck_64_c_2_7" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_4_8" flipH="1" source="hween12_duck_64_c_2_8" x="-26" y="60"/>
+  <asset name="hween12_duck_64_c_4_9" flipH="1" source="hween12_duck_64_c_2_9" x="-26" y="59"/>
+  <asset name="hween12_duck_64_c_4_10" flipH="1" source="hween12_duck_64_c_2_10" x="-26" y="59"/>
+  <asset name="hween12_duck_64_c_4_11" flipH="1" source="hween12_duck_64_c_2_11" x="-26" y="59"/>
+  <asset name="hween12_duck_64_c_4_12" flipH="1" source="hween12_duck_64_c_2_12" x="-26" y="59"/>
+  <asset name="hween12_duck_32_a_4_0" flipH="1" source="hween12_duck_32_a_2_0" x="12" y="38"/>
+  <asset name="hween12_duck_32_b_4_0" flipH="1" source="hween12_duck_32_b_2_0" x="-3" y="38"/>
+  <asset name="hween12_duck_32_a_4_1" flipH="1" source="hween12_duck_32_a_2_1" x="12" y="37"/>
+  <asset name="hween12_duck_32_b_4_1" flipH="1" source="hween12_duck_32_b_2_1" x="-3" y="37"/>
+  <asset name="hween12_duck_32_c_4_0" flipH="1" source="hween12_duck_32_c_2_0" x="-13" y="33"/>
+  <asset name="hween12_duck_32_c_4_1" flipH="1" source="hween12_duck_32_c_2_1" x="-13" y="33"/>
+  <asset name="hween12_duck_32_c_4_2" flipH="1" source="hween12_duck_32_c_2_2" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_3" flipH="1" source="hween12_duck_32_c_2_3" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_4" flipH="1" source="hween12_duck_32_c_2_4" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_5" flipH="1" source="hween12_duck_32_c_2_5" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_6" flipH="1" source="hween12_duck_32_c_2_6" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_7" flipH="1" source="hween12_duck_32_c_2_7" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_8" flipH="1" source="hween12_duck_32_c_2_8" x="-14" y="32"/>
+  <asset name="hween12_duck_32_c_4_9" flipH="1" source="hween12_duck_32_c_2_9" x="-14" y="31"/>
+  <asset name="hween12_duck_32_c_4_10" flipH="1" source="hween12_duck_32_c_2_10" x="-14" y="31"/>
+  <asset name="hween12_duck_32_c_4_11" flipH="1" source="hween12_duck_32_c_2_11" x="-14" y="30"/>
+  <asset name="hween12_duck_32_c_4_12" flipH="1" source="hween12_duck_32_c_2_12" x="-14" y="30"/>
+</assets>

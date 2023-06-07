@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="val13_easel_2_32_sd_2_0" x="7" y="0"/>
+  <asset name="val13_easel_2_32_a_2_0" x="18" y="44"/>
+  <asset name="val13_easel_2_64_sd_2_0" x="13" y="1"/>
+  <asset name="val13_easel_2_64_a_2_0" x="31" y="84"/>
+  <asset name="val13_easel_2_icon_a" x="7" y="13"/>
+  <asset name="val13_easel_2_32_a_2_1" source="val13_easel_2_32_a_2_0" x="18" y="46"/>
+  <asset name="val13_easel_2_32_a_2_2" source="val13_easel_2_32_a_2_0" x="18" y="45"/>
+  <asset name="val13_easel_2_64_a_2_1" source="val13_easel_2_64_a_2_0" x="31" y="87"/>
+  <asset name="val13_easel_2_64_a_2_2" source="val13_easel_2_64_a_2_0" x="31" y="85"/>
+  <asset name="val13_easel_2_32_sd_0_0" flipH="1" source="val13_easel_2_32_sd_2_0" x="7" y="0"/>
+  <asset name="val13_easel_2_32_a_0_0" flipH="1" source="val13_easel_2_32_a_2_0" x="18" y="44"/>
+  <asset name="val13_easel_2_64_sd_0_0" flipH="1" source="val13_easel_2_64_sd_2_0" x="13" y="1"/>
+  <asset name="val13_easel_2_64_a_0_0" flipH="1" source="val13_easel_2_64_a_2_0" x="31" y="84"/>
+  <asset name="val13_easel_2_32_a_0_1" flipH="1" source="val13_easel_2_32_a_2_0" x="18" y="46"/>
+  <asset name="val13_easel_2_32_a_0_2" flipH="1" source="val13_easel_2_32_a_2_0" x="18" y="45"/>
+  <asset name="val13_easel_2_64_a_0_1" flipH="1" source="val13_easel_2_64_a_2_0" x="31" y="87"/>
+  <asset name="val13_easel_2_64_a_0_2" flipH="1" source="val13_easel_2_64_a_2_0" x="31" y="85"/>
+</assets>

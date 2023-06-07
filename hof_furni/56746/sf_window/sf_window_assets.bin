@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="sf_window_64_a_2_0" x="66" y="87"/>
+   <asset name="sf_window_64_b_2_0" x="66" y="74"/>
+   <asset name="sf_window_64_c_2_0" x="-6" y="103"/>
+   <asset name="sf_window_64_d_2_0" x="39" y="57"/>
+   <asset name="sf_window_64_d_2_1" x="-60" y="59"/>
+   <asset name="sf_window_64_2_mask" x="39" y="57"/>
+   <asset name="sf_window_64_a_4_0" flipH="1" source="sf_window_64_a_2_0" x="66" y="87"/>
+   <asset name="sf_window_64_b_4_0" flipH="1" source="sf_window_64_b_2_0" x="66" y="74"/>
+   <asset name="sf_window_64_c_4_0" flipH="1" source="sf_window_64_c_2_0" x="-6" y="103"/>
+   <asset name="sf_window_64_d_4_0" flipH="1" source="sf_window_64_d_2_0" x="39" y="57"/>
+   <asset name="sf_window_64_d_4_1" flipH="1" source="sf_window_64_d_2_1" x="-60" y="59"/>
+   <asset name="sf_window_64_4_mask" flipH="1" source="sf_window_64_2_mask" x="39" y="57"/>
+   <asset name="sf_window_32_a_2_0" x="33" y="43"/>
+   <asset name="sf_window_32_b_2_0" x="34" y="37"/>
+   <asset name="sf_window_32_c_2_0" x="-2" y="52"/>
+   <asset name="sf_window_32_d_2_0" x="20" y="28"/>
+   <asset name="sf_window_32_d_2_1" x="-29" y="29"/>
+   <asset name="sf_window_32_2_mask" x="20" y="28"/>
+   <asset name="sf_window_32_a_4_0" flipH="1" source="sf_window_32_a_2_0" x="33" y="43"/>
+   <asset name="sf_window_32_b_4_0" flipH="1" source="sf_window_32_b_2_0" x="34" y="37"/>
+   <asset name="sf_window_32_c_4_0" flipH="1" source="sf_window_32_c_2_0" x="-2" y="52"/>
+   <asset name="sf_window_32_d_4_0" flipH="1" source="sf_window_32_d_2_0" x="20" y="28"/>
+   <asset name="sf_window_32_d_4_1" flipH="1" source="sf_window_32_d_2_1" x="-29" y="29"/>
+   <asset name="sf_window_32_4_mask" flipH="1" source="sf_window_32_2_mask" x="20" y="28"/>
+   <asset name="sf_window_icon_a" x="12" y="11"/>
+</assets>

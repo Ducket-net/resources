@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="greek_c19_statue_64_sd_2_0" x="33" y="15"/>
+  <asset name="greek_c19_statue_64_a_2_0" x="41" y="165"/>
+  <asset name="greek_c19_statue_64_sd_6_0" x="33" y="15"/>
+  <asset name="greek_c19_statue_64_a_6_0" x="48" y="187"/>
+  <asset name="greek_c19_statue_icon_a" x="7" y="14"/>
+  <asset name="greek_c19_statue_64_sd_4_0" flipH="1" source="greek_c19_statue_64_sd_2_0" x="33" y="15"/>
+  <asset name="greek_c19_statue_64_a_4_0" flipH="1" source="greek_c19_statue_64_a_2_0" x="41" y="165"/>
+  <asset name="greek_c19_statue_64_sd_0_0" flipH="1" source="greek_c19_statue_64_sd_6_0" x="33" y="15"/>
+  <asset name="greek_c19_statue_64_a_0_0" flipH="1" source="greek_c19_statue_64_a_6_0" x="48" y="187"/>
+</assets>

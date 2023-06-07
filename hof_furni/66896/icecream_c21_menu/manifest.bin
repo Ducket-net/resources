@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="icecream_c21_menu" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="icecream_c21_menu_visualization" mimeType="text/xml"/>
+      <asset name="icecream_c21_menu_assets" mimeType="text/xml"/>
+      <asset name="icecream_c21_menu_logic" mimeType="text/xml"/>
+      <asset name="icecream_c21_menu_64_sd_4_0" mimeType="image/png"/>
+      <asset name="icecream_c21_menu_64_sd_2_0" mimeType="image/png"/>
+      <asset name="icecream_c21_menu_64_a_4_0" mimeType="image/png"/>
+      <asset name="icecream_c21_menu_64_a_2_0" mimeType="image/png"/>
+      <asset name="icecream_c21_menu_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="exe_c15_telephone" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="exe_c15_telephone_visualization" mimeType="text/xml"/>
+      <asset name="exe_c15_telephone_assets" mimeType="text/xml"/>
+      <asset name="exe_c15_telephone_logic" mimeType="text/xml"/>
+      <asset name="exe_c15_telephone_64_sd_0_0" mimeType="image/png"/>
+      <asset name="exe_c15_telephone_64_a_0_0" mimeType="image/png"/>
+      <asset name="exe_c15_telephone_64_a_0_1" mimeType="image/png"/>
+      <asset name="exe_c15_telephone_64_a_0_2" mimeType="image/png"/>
+      <asset name="exe_c15_telephone_64_a_0_3" mimeType="image/png"/>
+      <asset name="exe_c15_telephone_64_a_0_4" mimeType="image/png"/>
+      <asset name="exe_c15_telephone_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

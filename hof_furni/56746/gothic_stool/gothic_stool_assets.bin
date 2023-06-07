@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="gothic_stool_64_a_0_0" x="29" y="39"/>
+   <asset name="gothic_stool_64_a_2_0" flipH="1" source="gothic_stool_64_a_4_0" x="30" y="67"/>
+   <asset name="gothic_stool_64_a_4_0" x="30" y="67"/>
+   <asset name="gothic_stool_64_a_6_0" flipH="1" source="gothic_stool_64_a_0_0" x="29" y="39"/>
+   <asset name="gothic_stool_64_b_0_0" x="21" y="38"/>
+   <asset name="gothic_stool_64_b_2_0" flipH="1" source="gothic_stool_64_b_4_0" x="28" y="36"/>
+   <asset name="gothic_stool_64_b_4_0" x="28" y="36"/>
+   <asset name="gothic_stool_64_b_6_0" flipH="1" source="gothic_stool_64_b_0_0" x="21" y="38"/>
+   <asset name="gothic_stool_64_c_0_0" x="29" y="55"/>
+   <asset name="gothic_stool_64_c_2_0" flipH="1" source="gothic_stool_64_c_4_0" x="29" y="1"/>
+   <asset name="gothic_stool_64_c_4_0" x="29" y="1"/>
+   <asset name="gothic_stool_64_c_6_0" flipH="1" source="gothic_stool_64_c_0_0" x="29" y="55"/>
+   <asset name="gothic_stool_64_sd_0_0" source="gothic_stool_64_sd_0_0" x="31" y="16"/>
+   <asset name="gothic_stool_64_sd_2_0" source="gothic_stool_64_sd_0_0" x="31" y="16"/>
+   <asset name="gothic_stool_64_sd_4_0" source="gothic_stool_64_sd_0_0" x="31" y="16"/>
+   <asset name="gothic_stool_64_sd_6_0" source="gothic_stool_64_sd_0_0" x="31" y="16"/>
+   <asset name="gothic_stool_icon_a" x="0" y="24"/>
+   <asset name="gothic_stool_icon_b" x="-1" y="13"/>
+   <asset name="gothic_stool_32_a_0_0" x="15" y="18"/>
+   <asset name="gothic_stool_32_a_2_0" flipH="1" source="gothic_stool_32_a_4_0" x="15" y="34"/>
+   <asset name="gothic_stool_32_a_4_0" x="15" y="34"/>
+   <asset name="gothic_stool_32_a_6_0" flipH="1" source="gothic_stool_32_a_0_0" x="15" y="18"/>
+   <asset name="gothic_stool_32_b_0_0" x="11" y="17"/>
+   <asset name="gothic_stool_32_b_2_0" flipH="1" source="gothic_stool_32_b_4_0" x="13" y="17"/>
+   <asset name="gothic_stool_32_b_4_0" x="13" y="17"/>
+   <asset name="gothic_stool_32_b_6_0" flipH="1" source="gothic_stool_32_b_0_0" x="11" y="17"/>
+   <asset name="gothic_stool_32_c_0_0" x="15" y="28"/>
+   <asset name="gothic_stool_32_c_2_0" flipH="1" source="gothic_stool_32_c_4_0" x="15" y="1"/>
+   <asset name="gothic_stool_32_c_4_0" x="15" y="1"/>
+   <asset name="gothic_stool_32_c_6_0" flipH="1" source="gothic_stool_32_c_0_0" x="15" y="28"/>
+   <asset name="gothic_stool_32_sd_0_0" source="gothic_stool_32_sd_0_0" x="17" y="10"/>
+   <asset name="gothic_stool_32_sd_2_0" source="gothic_stool_32_sd_0_0" x="17" y="10"/>
+   <asset name="gothic_stool_32_sd_4_0" source="gothic_stool_32_sd_0_0" x="17" y="10"/>
+   <asset name="gothic_stool_32_sd_6_0" source="gothic_stool_32_sd_0_0" x="17" y="10"/>
+</assets>

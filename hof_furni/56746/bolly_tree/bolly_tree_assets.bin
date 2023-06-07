@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="bolly_tree_64_a_0_0" x="46" y="132"/>
+   <asset name="bolly_tree_64_a_0_1" x="46" y="132"/>
+   <asset name="bolly_tree_64_a_2_0" flipH="1" source="bolly_tree_64_a_0_0" x="46" y="132"/>
+   <asset name="bolly_tree_64_a_2_1" flipH="1" source="bolly_tree_64_a_0_1" x="46" y="132"/>
+   <asset name="bolly_tree_64_sd_0_0" x="21" y="8"/>
+   <asset name="bolly_tree_64_sd_2_0" flipH="1" source="bolly_tree_64_sd_0_0" x="21" y="8"/>
+   <asset name="bolly_tree_icon_a" x="10" y="16"/>
+   <asset name="bolly_tree_32_a_0_0" x="23" y="67"/>
+   <asset name="bolly_tree_32_a_0_1" x="23" y="67"/>
+   <asset name="bolly_tree_32_a_2_0" flipH="1" source="bolly_tree_32_a_0_0" x="23" y="67"/>
+   <asset name="bolly_tree_32_a_2_1" flipH="1" source="bolly_tree_32_a_0_1" x="23" y="67"/>
+   <asset name="bolly_tree_32_sd_0_0" x="13" y="0"/>
+   <asset name="bolly_tree_32_sd_2_0" source="bolly_tree_32_sd_0_0" x="13" y="0"/>
+</assets>

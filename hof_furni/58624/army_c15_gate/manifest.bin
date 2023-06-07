@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="army_c15_gate" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="army_c15_gate_visualization" mimeType="text/xml"/>
+      <asset name="army_c15_gate_assets" mimeType="text/xml"/>
+      <asset name="army_c15_gate_logic" mimeType="text/xml"/>
+      <asset name="army_c15_gate_64_a_2_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_2_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_2_1" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_a_4_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_4_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_4_1" mimeType="image/png"/>
+      <asset name="army_c15_gate_icon_a" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_a_0_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_0_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_0_1" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_a_6_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_6_0" mimeType="image/png"/>
+      <asset name="army_c15_gate_64_b_6_1" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

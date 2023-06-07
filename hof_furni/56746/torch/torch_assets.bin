@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="torch_64_a_2_0" x="4" y="7"/>
+   <asset name="torch_64_b_2_0" x="-4" y="24"/>
+   <asset name="torch_64_c_2_0" x="1" y="1"/>
+   <asset name="torch_64_c_2_1" x="-5" y="36"/>
+   <asset name="torch_64_c_2_2" x="-3" y="38"/>
+   <asset name="torch_64_c_2_3" x="-4" y="41"/>
+   <asset name="torch_64_c_2_4" x="-5" y="43"/>
+   <asset name="torch_64_d_2_0" x="1" y="1"/>
+   <asset name="torch_64_d_2_1" x="16" y="49"/>
+   <asset name="torch_64_d_2_2" x="16" y="53"/>
+   <asset name="torch_64_a_4_0" flipH="1" source="torch_64_a_2_0" x="4" y="7"/>
+   <asset name="torch_64_b_4_0" flipH="1" source="torch_64_b_2_0" x="-4" y="24"/>
+   <asset name="torch_64_c_4_0" flipH="1" source="torch_64_c_2_0" x="1" y="1"/>
+   <asset name="torch_64_c_4_1" flipH="1" source="torch_64_c_2_1" x="-5" y="36"/>
+   <asset name="torch_64_c_4_2" flipH="1" source="torch_64_c_2_2" x="-3" y="38"/>
+   <asset name="torch_64_c_4_3" flipH="1" source="torch_64_c_2_3" x="-4" y="41"/>
+   <asset name="torch_64_c_4_4" flipH="1" source="torch_64_c_2_4" x="-5" y="43"/>
+   <asset name="torch_64_d_4_0" flipH="1" source="torch_64_d_2_0" x="1" y="1"/>
+   <asset name="torch_64_d_4_1" flipH="1" source="torch_64_d_2_1" x="16" y="49"/>
+   <asset name="torch_64_d_4_2" flipH="1" source="torch_64_d_2_2" x="16" y="53"/>
+   <asset name="torch_32_a_2_0" x="2" y="2"/>
+   <asset name="torch_32_b_2_0" x="-2" y="11"/>
+   <asset name="torch_32_c_2_0" x="1" y="2"/>
+   <asset name="torch_32_c_2_1" x="-1" y="17"/>
+   <asset name="torch_32_c_2_2" x="0" y="18"/>
+   <asset name="torch_32_c_2_3" x="-2" y="20"/>
+   <asset name="torch_32_c_2_4" x="-2" y="19"/>
+   <asset name="torch_32_d_2_0" x="1" y="2"/>
+   <asset name="torch_32_d_2_1" x="9" y="26"/>
+   <asset name="torch_32_d_2_2" x="9" y="27"/>
+   <asset name="torch_32_a_4_0" flipH="1" source="torch_32_a_2_0" x="2" y="2"/>
+   <asset name="torch_32_b_4_0" flipH="1" source="torch_32_b_2_0" x="-2" y="11"/>
+   <asset name="torch_32_c_4_0" flipH="1" source="torch_32_c_2_0" x="1" y="2"/>
+   <asset name="torch_32_c_4_1" flipH="1" source="torch_32_c_2_1" x="-1" y="17"/>
+   <asset name="torch_32_c_4_2" flipH="1" source="torch_32_c_2_2" x="0" y="18"/>
+   <asset name="torch_32_c_4_3" flipH="1" source="torch_32_c_2_3" x="-2" y="20"/>
+   <asset name="torch_32_c_4_4" flipH="1" source="torch_32_c_2_4" x="-2" y="19"/>
+   <asset name="torch_32_d_4_0" flipH="1" source="torch_32_d_2_0" x="1" y="2"/>
+   <asset name="torch_32_d_4_1" flipH="1" source="torch_32_d_2_1" x="9" y="26"/>
+   <asset name="torch_32_d_4_2" flipH="1" source="torch_32_d_2_2" x="9" y="27"/>
+   <asset name="torch_icon_a" x="4" y="14"/>
+</assets>

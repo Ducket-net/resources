@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="horse_poop_64_a_2_0" x="18" y="15"/>
+  <asset name="horse_poop_64_a_2_1" x="22" y="12"/>
+  <asset name="horse_poop_64_a_2_2" x="21" y="14"/>
+  <asset name="horse_poop_64_b_2_0" x="15" y="82"/>
+  <asset name="horse_poop_64_b_2_1" x="15" y="82"/>
+  <asset name="horse_poop_64_b_2_2" x="15" y="82"/>
+  <asset name="horse_poop_64_b_2_3" x="15" y="84"/>
+  <asset name="horse_poop_64_b_2_4" x="15" y="82"/>
+  <asset name="horse_poop_32_a_2_0" x="10" y="8"/>
+  <asset name="horse_poop_32_a_2_1" x="12" y="5"/>
+  <asset name="horse_poop_32_a_2_2" x="10" y="8"/>
+  <asset name="horse_poop_32_b_2_0" x="7" y="41"/>
+  <asset name="horse_poop_32_b_2_1" x="7" y="41"/>
+  <asset name="horse_poop_32_b_2_2" x="7" y="41"/>
+  <asset name="horse_poop_32_b_2_3" x="7" y="42"/>
+  <asset name="horse_poop_32_b_2_4" x="7" y="41"/>
+  <asset name="horse_poop_icon_a" x="11" y="6"/>
+  <asset name="horse_poop_64_a_4_0" flipH="1" source="horse_poop_64_a_2_0" x="18" y="15"/>
+  <asset name="horse_poop_64_a_4_1" flipH="1" source="horse_poop_64_a_2_1" x="22" y="12"/>
+  <asset name="horse_poop_64_a_4_2" flipH="1" source="horse_poop_64_a_2_2" x="21" y="14"/>
+  <asset name="horse_poop_64_b_4_0" flipH="1" source="horse_poop_64_b_2_0" x="15" y="82"/>
+  <asset name="horse_poop_64_b_4_1" flipH="1" source="horse_poop_64_b_2_1" x="15" y="82"/>
+  <asset name="horse_poop_64_b_4_2" flipH="1" source="horse_poop_64_b_2_2" x="15" y="82"/>
+  <asset name="horse_poop_64_b_4_3" flipH="1" source="horse_poop_64_b_2_3" x="15" y="84"/>
+  <asset name="horse_poop_64_b_4_4" flipH="1" source="horse_poop_64_b_2_4" x="15" y="82"/>
+  <asset name="horse_poop_32_a_4_0" flipH="1" source="horse_poop_32_a_2_0" x="10" y="8"/>
+  <asset name="horse_poop_32_a_4_1" flipH="1" source="horse_poop_32_a_2_1" x="12" y="5"/>
+  <asset name="horse_poop_32_a_4_2" flipH="1" source="horse_poop_32_a_2_2" x="10" y="8"/>
+  <asset name="horse_poop_32_b_4_0" flipH="1" source="horse_poop_32_b_2_0" x="7" y="41"/>
+  <asset name="horse_poop_32_b_4_1" flipH="1" source="horse_poop_32_b_2_1" x="7" y="41"/>
+  <asset name="horse_poop_32_b_4_2" flipH="1" source="horse_poop_32_b_2_2" x="7" y="41"/>
+  <asset name="horse_poop_32_b_4_3" flipH="1" source="horse_poop_32_b_2_3" x="7" y="42"/>
+  <asset name="horse_poop_32_b_4_4" flipH="1" source="horse_poop_32_b_2_4" x="7" y="41"/>
+</assets>

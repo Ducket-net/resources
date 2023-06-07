@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="skorea_c22_vinyl2" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="skorea_c22_vinyl2_visualization" mimeType="text/xml"/>
+      <asset name="skorea_c22_vinyl2_assets" mimeType="text/xml"/>
+      <asset name="skorea_c22_vinyl2_logic" mimeType="text/xml"/>
+      <asset name="skorea_c22_vinyl2_icon_a" mimeType="image/png"/>
+      <asset name="skorea_c22_vinyl2_64_sd_0_0" mimeType="image/png"/>
+      <asset name="skorea_c22_vinyl2_64_a_0_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

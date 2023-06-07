@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="sf_floor_32_a_0_0" x="65" y="8"/>
+   <asset name="sf_floor_32_a_2_0" flipH="1" source="sf_floor_32_a_0_0" x="65" y="8"/>
+   <asset name="sf_floor_32_b_0_0" x="0" y="-15"/>
+   <asset name="sf_floor_32_b_0_1" x="55" y="3"/>
+   <asset name="sf_floor_32_b_2_0" flipH="1" source="sf_floor_32_b_0_0" x="0" y="-15"/>
+   <asset name="sf_floor_32_b_2_1" flipH="1" source="sf_floor_32_b_0_1" x="55" y="3"/>
+   <asset name="sf_floor_32_c_0_0" x="14" y="-28"/>
+   <asset name="sf_floor_32_c_0_1" x="70" y="52"/>
+   <asset name="sf_floor_32_c_2_0" flipH="1" source="sf_floor_32_c_0_0" x="14" y="-28"/>
+   <asset name="sf_floor_32_c_2_1" flipH="1" source="sf_floor_32_c_0_1" x="70" y="52"/>
+   <asset name="sf_floor_64_a_0_0" x="128" y="17"/>
+   <asset name="sf_floor_64_a_2_0" flipH="1" source="sf_floor_64_a_0_0" x="128" y="17"/>
+   <asset name="sf_floor_64_b_0_0" x="103" y="-45"/>
+   <asset name="sf_floor_64_b_0_1" x="110" y="7"/>
+   <asset name="sf_floor_64_b_2_0" flipH="1" source="sf_floor_64_b_0_0" x="103" y="-45"/>
+   <asset name="sf_floor_64_b_2_1" flipH="1" source="sf_floor_64_b_0_1" x="110" y="7"/>
+   <asset name="sf_floor_64_c_0_0" x="30" y="-28"/>
+   <asset name="sf_floor_64_c_0_1" x="142" y="105"/>
+   <asset name="sf_floor_64_c_2_0" flipH="1" source="sf_floor_64_c_0_0" x="30" y="-28"/>
+   <asset name="sf_floor_64_c_2_1" flipH="1" source="sf_floor_64_c_0_1" x="142" y="105"/>
+   <asset name="sf_floor_icon_a" x="14" y="7"/>
+</assets>

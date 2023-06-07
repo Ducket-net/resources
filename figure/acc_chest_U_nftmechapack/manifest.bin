@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_nftmechapack" version="0.1">
+    <assets>
+      <asset name="h_std_ca_4985_0_0" mimeType="image/png">
+        <param key="offset" value="-11,53"/>
+      </asset>
+      <asset name="h_std_ca_4985_1_0" mimeType="image/png">
+        <param key="offset" value="-15,53"/>
+      </asset>
+      <asset name="h_std_ca_4985_2_0" mimeType="image/png">
+        <param key="offset" value="-11,51"/>
+      </asset>
+      <asset name="h_std_ca_4985_3_0" mimeType="image/png">
+        <param key="offset" value="-15,52"/>
+      </asset>
+      <asset name="h_std_ca_4985_7_0" mimeType="image/png">
+        <param key="offset" value="-17,49"/>
+      </asset>
+      <asset name="h_lay_ca_4985_2_0" mimeType="image/png">
+        <param key="offset" value="14,25"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

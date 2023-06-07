@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="house2_64_a_0_0" x="20" y="24"/>
+   <asset name="house2_64_a_2_0" flipH="1" source="house2_64_a_0_0" x="20" y="24"/>
+   <asset name="house2_64_sd_0_0" source="house2_64_sd_0_0" x="23" y="9"/>
+   <asset name="house2_64_sd_2_0" source="house2_64_sd_0_0" x="23" y="9"/>
+   <asset name="house2_icon_a" x="9" y="9"/>
+   <asset name="house2_32_a_0_0" x="11" y="11"/>
+   <asset name="house2_32_a_2_0" flipH="1" source="house2_32_a_0_0" x="11" y="11"/>
+   <asset name="house2_32_sd_0_0" source="house2_32_sd_0_0" x="10" y="2"/>
+   <asset name="house2_32_sd_2_0" source="house2_32_sd_0_0" x="10" y="2"/>
+</assets>

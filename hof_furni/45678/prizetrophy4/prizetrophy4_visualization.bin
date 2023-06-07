@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="prizetrophy4"><graphics>
+   <visualization size="32" layerCount="3" angle="45">
+      <layers>
+         <layer id="1" ink="ADD" z="5"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="6"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="2" color="FFDD3F"/>
+         </color>
+         <color id="3">
+            <colorLayer id="2" color="996600"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="3" angle="45">
+      <layers>
+         <layer id="1" ink="ADD" z="5"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="6"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="2" color="FFDD3F"/>
+         </color>
+         <color id="3">
+            <colorLayer id="2" color="996600"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="FFDD3F"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="996600"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

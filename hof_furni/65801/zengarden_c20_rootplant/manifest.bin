@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="zengarden_c20_rootplant" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="zengarden_c20_rootplant_visualization" mimeType="text/xml"/>
+      <asset name="zengarden_c20_rootplant_assets" mimeType="text/xml"/>
+      <asset name="zengarden_c20_rootplant_logic" mimeType="text/xml"/>
+      <asset name="zengarden_c20_rootplant_64_sd_0_0" mimeType="image/png"/>
+      <asset name="zengarden_c20_rootplant_64_a_0_0" mimeType="image/png"/>
+      <asset name="zengarden_c20_rootplant_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="st_palooza_screen" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="st_palooza_screen_visualization" mimeType="text/xml"/>
+      <asset name="st_palooza_screen_assets" mimeType="text/xml"/>
+      <asset name="st_palooza_screen_logic" mimeType="text/xml"/>
+      <asset name="st_palooza_screen_64_sd_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_64_a_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_64_b_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_64_c_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_64_d_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_64_e_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_64_f_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_32_sd_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_32_a_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_32_b_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_32_c_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_32_d_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_32_e_4_0" mimeType="image/png"/>
+      <asset name="st_palooza_screen_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

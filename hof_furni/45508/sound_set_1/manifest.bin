@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="sound_set_1" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="sound_set_1_visualization" mimeType="text/xml"/>
+         <asset name="sound_set_1_assets" mimeType="text/xml"/>
+         <asset name="sound_set_1_logic" mimeType="text/xml"/>
+         <asset name="sound_set_1_32_a_0_0" mimeType="image/png"/>
+         <asset name="sound_set_1_64_a_0_0" mimeType="image/png"/>
+         <asset name="sound_set_1_icon_a" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

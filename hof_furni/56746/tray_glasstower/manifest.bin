@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="tray_glasstower" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="tray_glasstower_visualization" mimeType="text/xml"/>
+         <asset name="tray_glasstower_assets" mimeType="text/xml"/>
+         <asset name="tray_glasstower_logic" mimeType="text/xml"/>
+         <asset name="tray_glasstower_32_a_2_0" mimeType="image/png"/>
+         <asset name="tray_glasstower_32_a_2_1" mimeType="image/png"/>
+         <asset name="tray_glasstower_32_sd_2_0" mimeType="image/png"/>
+         <asset name="tray_glasstower_64_a_2_0" mimeType="image/png"/>
+         <asset name="tray_glasstower_64_a_2_1" mimeType="image/png"/>
+         <asset name="tray_glasstower_64_sd_2_0" mimeType="image/png"/>
+         <asset name="tray_glasstower_icon_a" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

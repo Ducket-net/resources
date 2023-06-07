@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="cpunk_c15_stage1">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="1"/>
+        <direction id="2"/>
+        <direction id="3"/>
+        <direction id="4"/>
+        <direction id="5"/>
+        <direction id="6"/>
+        <direction id="7"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="3" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="2000"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="1"/>
+        <direction id="2"/>
+        <direction id="3"/>
+        <direction id="4"/>
+        <direction id="5"/>
+        <direction id="6"/>
+        <direction id="7"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="2">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

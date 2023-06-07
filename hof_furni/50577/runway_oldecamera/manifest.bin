@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="runway_oldecamera" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="runway_oldecamera_visualization" mimeType="text/xml"/>
+      <asset name="runway_oldecamera_assets" mimeType="text/xml"/>
+      <asset name="runway_oldecamera_logic" mimeType="text/xml"/>
+      <asset name="runway_oldecamera_64_sd_2_0" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_0" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_1" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_2" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_3" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_4" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_5" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_6" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_7" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_8" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_9" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_10" mimeType="image/png"/>
+      <asset name="runway_oldecamera_64_a_2_11" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_sd_2_0" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_0" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_1" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_2" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_3" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_4" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_5" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_6" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_7" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_8" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_9" mimeType="image/png"/>
+      <asset name="runway_oldecamera_32_a_2_10" mimeType="image/png"/>
+      <asset name="runway_oldecamera_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

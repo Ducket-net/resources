@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="hween_c20_infinitywall">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="2"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="12" angle="45">
+      <layers>
+        <layer id="0" z="-1500"/>
+        <layer id="1" z="-1000"/>
+        <layer id="2" ink="COPY"/>
+        <layer id="3" ink="ADD"/>
+        <layer id="4"/>
+        <layer id="5" z="500"/>
+        <layer id="6" ink="ADD" z="500"/>
+        <layer id="7" z="500"/>
+        <layer id="8" z="1000"/>
+        <layer id="9" z="1500"/>
+        <layer id="10" z="1500"/>
+        <layer id="11" ink="ADD" z="1500"/>
+      </layers>
+      <directions>
+        <direction id="2"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

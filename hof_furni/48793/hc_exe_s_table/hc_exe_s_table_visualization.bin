@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="hc_exe_s_table">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="9" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" alpha="176"/>
+        <layer id="2"/>
+        <layer id="3" alpha="176"/>
+        <layer id="4"/>
+        <layer id="5" alpha="176"/>
+        <layer id="6"/>
+        <layer id="7" alpha="176"/>
+        <layer id="8" ink="ADD"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="2" z="1000"/>
+          <layer id="3" z="1000"/>
+          <layer id="4" z="1000"/>
+          <layer id="5" z="1000"/>
+          <layer id="6" z="2000"/>
+          <layer id="7" z="2000"/>
+          <layer id="8" z="2005"/>
+        </direction>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2"/>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6"/>
+          <animationLayer id="7">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="8">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="9" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" alpha="176"/>
+        <layer id="2"/>
+        <layer id="3" alpha="176"/>
+        <layer id="4"/>
+        <layer id="5" alpha="176"/>
+        <layer id="6"/>
+        <layer id="7" alpha="176"/>
+        <layer id="8" ink="ADD"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="2" z="1000"/>
+          <layer id="3" z="1000"/>
+          <layer id="4" z="1000"/>
+          <layer id="5" z="1000"/>
+          <layer id="6" z="2000"/>
+          <layer id="7" z="2000"/>
+          <layer id="8" z="2005"/>
+        </direction>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2"/>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6"/>
+          <animationLayer id="7">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="8">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

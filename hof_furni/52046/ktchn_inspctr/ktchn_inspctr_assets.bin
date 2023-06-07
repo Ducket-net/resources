@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="ktchn_inspctr_64_a_2_0" x="20" y="80"/>
+   <asset name="ktchn_inspctr_64_a_2_1" x="22" y="80"/>
+   <asset name="ktchn_inspctr_64_a_2_2" x="20" y="80"/>
+   <asset name="ktchn_inspctr_64_a_2_3" x="22" y="80"/>
+   <asset name="ktchn_inspctr_64_a_2_4" x="22" y="79"/>
+   <asset name="ktchn_inspctr_64_a_2_5" x="22" y="78"/>
+   <asset name="ktchn_inspctr_64_a_2_6" x="16" y="78"/>
+   <asset name="ktchn_inspctr_64_a_2_7" x="20" y="79"/>
+   <asset name="ktchn_inspctr_64_a_4_0" flipH="1" source="ktchn_inspctr_64_a_2_0" x="20" y="80"/>
+   <asset name="ktchn_inspctr_64_a_4_1" flipH="1" source="ktchn_inspctr_64_a_2_1" x="22" y="80"/>
+   <asset name="ktchn_inspctr_64_a_4_2" flipH="1" source="ktchn_inspctr_64_a_2_2" x="20" y="80"/>
+   <asset name="ktchn_inspctr_64_a_4_3" flipH="1" source="ktchn_inspctr_64_a_2_3" x="22" y="80"/>
+   <asset name="ktchn_inspctr_64_a_4_4" flipH="1" source="ktchn_inspctr_64_a_2_4" x="22" y="79"/>
+   <asset name="ktchn_inspctr_64_a_4_5" flipH="1" source="ktchn_inspctr_64_a_2_5" x="22" y="78"/>
+   <asset name="ktchn_inspctr_64_a_4_6" flipH="1" source="ktchn_inspctr_64_a_2_6" x="16" y="78"/>
+   <asset name="ktchn_inspctr_64_a_4_7" flipH="1" source="ktchn_inspctr_64_a_2_7" x="20" y="79"/>
+   <asset name="ktchn_inspctr_64_sd_2_0" x="17" y="8"/>
+   <asset name="ktchn_inspctr_64_sd_4_0" flipH="1" source="ktchn_inspctr_64_sd_2_0" x="17" y="8"/>
+   <asset name="ktchn_inspctr_icon_a" x="10" y="14"/>
+   <asset name="ktchn_inspctr_32_a_2_0" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_2_1" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_2_2" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_2_3" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_2_4" x="11" y="40"/>
+   <asset name="ktchn_inspctr_32_a_2_5" x="10" y="39"/>
+   <asset name="ktchn_inspctr_32_a_2_6" x="9" y="39"/>
+   <asset name="ktchn_inspctr_32_a_2_7" x="11" y="40"/>
+   <asset name="ktchn_inspctr_32_a_4_0" flipH="1" source="ktchn_inspctr_32_a_2_0" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_4_1" flipH="1" source="ktchn_inspctr_32_a_2_1" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_4_2" flipH="1" source="ktchn_inspctr_32_a_2_2" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_4_3" flipH="1" source="ktchn_inspctr_32_a_2_3" x="11" y="39"/>
+   <asset name="ktchn_inspctr_32_a_4_4" flipH="1" source="ktchn_inspctr_32_a_2_4" x="11" y="40"/>
+   <asset name="ktchn_inspctr_32_a_4_5" flipH="1" source="ktchn_inspctr_32_a_2_5" x="10" y="39"/>
+   <asset name="ktchn_inspctr_32_a_4_6" flipH="1" source="ktchn_inspctr_32_a_2_6" x="9" y="39"/>
+   <asset name="ktchn_inspctr_32_a_4_7" flipH="1" source="ktchn_inspctr_32_a_2_7" x="11" y="40"/>
+   <asset name="ktchn_inspctr_32_sd_2_0" x="7" y="3"/>
+   <asset name="ktchn_inspctr_32_sd_4_0" flipH="1" source="ktchn_inspctr_32_sd_2_0" x="7" y="3"/>
+</assets>

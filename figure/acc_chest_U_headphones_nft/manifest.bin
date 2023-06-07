@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_headphones_nft" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_4881_2_0" mimeType="image/png">
+        <param key="offset" value="0,25"/>
+      </asset>
+      <asset name="h_lay_ca_4882_2_0" mimeType="image/png">
+        <param key="offset" value="-6,17"/>
+      </asset>
+      <asset name="h_std_ca_4881_7_0" mimeType="image/png">
+        <param key="offset" value="-22,48"/>
+      </asset>
+      <asset name="h_std_ca_4881_3_0" mimeType="image/png">
+        <param key="offset" value="-23,50"/>
+      </asset>
+      <asset name="h_std_ca_4881_2_0" mimeType="image/png">
+        <param key="offset" value="-22,52"/>
+      </asset>
+      <asset name="h_std_ca_4881_1_0" mimeType="image/png">
+        <param key="offset" value="-23,50"/>
+      </asset>
+      <asset name="h_std_ca_4881_0_0" mimeType="image/png">
+        <param key="offset" value="-21,50"/>
+      </asset>
+      <asset name="h_std_ca_4882_7_0" mimeType="image/png">
+        <param key="offset" value="-31,44"/>
+      </asset>
+      <asset name="h_std_ca_4882_3_0" mimeType="image/png">
+        <param key="offset" value="-26,43"/>
+      </asset>
+      <asset name="h_std_ca_4882_2_0" mimeType="image/png">
+        <param key="offset" value="-29,43"/>
+      </asset>
+      <asset name="h_std_ca_4882_1_0" mimeType="image/png">
+        <param key="offset" value="-36,44"/>
+      </asset>
+      <asset name="h_std_ca_4882_0_0" mimeType="image/png">
+        <param key="offset" value="-42,47"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

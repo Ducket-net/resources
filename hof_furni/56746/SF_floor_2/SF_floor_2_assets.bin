@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="SF_floor_2_32_a_0_0" x="32" y="7"/>
+   <asset name="SF_floor_2_32_a_0_1" x="32" y="7"/>
+   <asset name="SF_floor_2_32_a_2_0" flipH="1" source="SF_floor_2_32_a_0_0" x="32" y="7"/>
+   <asset name="SF_floor_2_32_a_2_1" flipH="1" source="SF_floor_2_32_a_0_1" x="32" y="7"/>
+   <asset name="SF_floor_2_64_a_0_0" x="64" y="17"/>
+   <asset name="SF_floor_2_64_a_0_1" x="64" y="17"/>
+   <asset name="SF_floor_2_64_a_2_0" flipH="1" source="SF_floor_2_64_a_0_0" x="64" y="17"/>
+   <asset name="SF_floor_2_64_a_2_1" flipH="1" source="SF_floor_2_64_a_0_1" x="64" y="17"/>
+   <asset name="SF_floor_2_icon_a" x="16" y="8"/>
+</assets>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween_r20_meltingpainting" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween_r20_meltingpainting_visualization" mimeType="text/xml"/>
+      <asset name="hween_r20_meltingpainting_assets" mimeType="text/xml"/>
+      <asset name="hween_r20_meltingpainting_logic" mimeType="text/xml"/>
+      <asset name="hween_r20_meltingpainting_64_sd_0_0" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_a_0_0" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_a_0_1" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_a_0_2" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_a_0_3" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_b_0_0" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_b_0_1" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_b_0_2" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_b_0_3" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_c_0_0" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_c_0_1" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_c_0_2" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_64_c_0_3" mimeType="image/png"/>
+      <asset name="hween_r20_meltingpainting_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

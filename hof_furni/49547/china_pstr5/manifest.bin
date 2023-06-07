@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="china_pstr5" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="china_pstr5_visualization" mimeType="text/xml"/>
+      <asset name="china_pstr5_assets" mimeType="text/xml"/>
+      <asset name="china_pstr5_logic" mimeType="text/xml"/>
+      <asset name="china_pstr5_64_a_2_0" mimeType="image/png"/>
+      <asset name="china_pstr5_64_a_4_0" mimeType="image/png"/>
+      <asset name="china_pstr5_32_a_2_0" mimeType="image/png"/>
+      <asset name="china_pstr5_32_a_4_0" mimeType="image/png"/>
+      <asset name="china_pstr5_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

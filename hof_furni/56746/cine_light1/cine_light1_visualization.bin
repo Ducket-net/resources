@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="cine_light1"><graphics>
+   <visualization size="32" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" ink="ADD" ignoreMouse="1" alpha="100" z="-2990"/>
+         <layer id="1" z="-3000"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="4"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="2">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="7"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+		 <animation id="100" transitionTo="0">
+		 <animationLayer id="0">
+               <frameSequence>
+                  <frame id="6"/>
+                  <frame id="5"/>
+                  <frame id="4"/>
+                  <frame id="3"/>
+                  <frame id="2"/>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+		 <animation id="101" transitionTo="1">
+			<animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+                  <frame id="2"/>
+                  <frame id="3"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+		 <animation id="102" transitionTo="2">
+			<animationLayer id="0">
+               <frameSequence>
+                  <frame id="5"/>
+                  <frame id="6"/>
+               </frameSequence>
+            </animationLayer>
+		</animation>
+      </animations>
+   </visualization>
+   <visualization size="64" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" ink="ADD" ignoreMouse="1" alpha="100"  z="-2990"/>
+         <layer id="1" z="-3000"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+            <animationLayer id="1">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="4"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="2">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="7"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+		 <animation id="100" transitionTo="0">
+		 <animationLayer id="0">
+               <frameSequence>
+                  <frame id="6"/>
+                  <frame id="5"/>
+                  <frame id="4"/>
+                  <frame id="3"/>
+                  <frame id="2"/>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+		 <animation id="101" transitionTo="1">
+			<animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+                  <frame id="2"/>
+                  <frame id="3"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+		 <animation id="102" transitionTo="2">
+			<animationLayer id="0">
+               <frameSequence>
+                  <frame id="5"/>
+                  <frame id="6"/>
+               </frameSequence>
+            </animationLayer>
+		</animation>
+      </animations>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

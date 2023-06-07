@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="jukebox_ptv" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="jukebox_ptv_visualization" mimeType="text/xml"/>
+      <asset name="jukebox_ptv_assets" mimeType="text/xml"/>
+      <asset name="jukebox_ptv_logic" mimeType="text/xml"/>
+      <asset name="jukebox_ptv_64_a_4_0" mimeType="image/png"/>
+      <asset name="jukebox_ptv_64_a_4_1" mimeType="image/png"/>
+      <asset name="jukebox_ptv_64_b_4_0" mimeType="image/png"/>
+      <asset name="jukebox_ptv_64_b_4_1" mimeType="image/png"/>
+      <asset name="jukebox_ptv_32_a_4_0" mimeType="image/png"/>
+      <asset name="jukebox_ptv_32_a_4_1" mimeType="image/png"/>
+      <asset name="jukebox_ptv_32_b_4_0" mimeType="image/png"/>
+      <asset name="jukebox_ptv_32_b_4_1" mimeType="image/png"/>
+      <asset name="jukebox_ptv_icon_a" mimeType="image/png"/>
+      <asset name="jukebox_ptv_64_a_2_0" mimeType="image/png"/>
+      <asset name="jukebox_ptv_64_a_2_1" mimeType="image/png"/>
+      <asset name="jukebox_ptv_32_a_2_0" mimeType="image/png"/>
+      <asset name="jukebox_ptv_32_a_2_1" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="ktchn_plates_64_a_0_0" x="24" y="16"/>
+   <asset name="ktchn_plates_64_a_0_1" x="25" y="28"/>
+   <asset name="ktchn_plates_64_a_0_2" x="33" y="30"/>
+   <asset name="ktchn_plates_64_a_2_0" flipH="1" source="ktchn_plates_64_a_0_0" x="24" y="16"/>
+   <asset name="ktchn_plates_64_a_2_1" flipH="1" source="ktchn_plates_64_a_0_1" x="25" y="28"/>
+   <asset name="ktchn_plates_64_a_2_2" flipH="1" source="ktchn_plates_64_a_0_2" x="33" y="30"/>
+   <asset name="ktchn_plates_icon_a" x="13" y="8"/>
+   <asset name="ktchn_plates_32_a_0_0" x="12" y="8"/>
+   <asset name="ktchn_plates_32_a_0_1" x="14" y="13"/>
+   <asset name="ktchn_plates_32_a_0_2" x="16" y="14"/>
+   <asset name="ktchn_plates_32_a_2_0" flipH="1" source="ktchn_plates_32_a_0_0" x="12" y="8"/>
+   <asset name="ktchn_plates_32_a_2_1" flipH="1" source="ktchn_plates_32_a_0_1" x="14" y="13"/>
+   <asset name="ktchn_plates_32_a_2_2" flipH="1" source="ktchn_plates_32_a_0_2" x="16" y="14"/>
+</assets>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pond_icon_a" x="16" y="8"/>
+  <asset name="pond_32_a_2_0" x="16" y="8"/>
+  <asset name="pond_32_a_2_1" x="16" y="8"/>
+  <asset name="pond_32_a_2_2" x="16" y="8"/>
+  <asset name="pond_32_a_2_3" x="16" y="8"/>
+  <asset name="pond_64_a_2_0" x="34" y="18"/>
+  <asset name="pond_64_a_2_1" x="34" y="18"/>
+  <asset name="pond_64_a_2_2" x="34" y="18"/>
+  <asset name="pond_64_a_2_3" x="34" y="18"/>
+  <asset name="pond_32_a_4_0" flipH="1" source="pond_32_a_2_0" x="16" y="8"/>
+  <asset name="pond_32_a_4_1" flipH="1" source="pond_32_a_2_1" x="16" y="8"/>
+  <asset name="pond_32_a_4_2" flipH="1" source="pond_32_a_2_2" x="16" y="8"/>
+  <asset name="pond_32_a_4_3" flipH="1" source="pond_32_a_2_3" x="16" y="8"/>
+  <asset name="pond_64_a_4_0" flipH="1" source="pond_64_a_2_0" x="34" y="18"/>
+  <asset name="pond_64_a_4_1" flipH="1" source="pond_64_a_2_1" x="34" y="18"/>
+  <asset name="pond_64_a_4_2" flipH="1" source="pond_64_a_2_2" x="34" y="18"/>
+  <asset name="pond_64_a_4_3" flipH="1" source="pond_64_a_2_3" x="34" y="18"/>
+</assets>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="sb_rail_64_sd_0_0" x="16" y="9"/>
+  <asset name="sb_rail_64_a_0_0" x="17" y="25"/>
+  <asset name="sb_rail_32_sd_0_0" x="8" y="3"/>
+  <asset name="sb_rail_32_a_0_0" x="9" y="12"/>
+  <asset name="sb_rail_icon_a" x="9" y="12"/>
+  <asset name="sb_rail_64_sd_2_0" flipH="1" source="sb_rail_64_sd_0_0" x="16" y="9"/>
+  <asset name="sb_rail_64_a_2_0" flipH="1" source="sb_rail_64_a_0_0" x="17" y="25"/>
+  <asset name="sb_rail_32_sd_2_0" flipH="1" source="sb_rail_32_sd_0_0" x="8" y="3"/>
+  <asset name="sb_rail_32_a_2_0" flipH="1" source="sb_rail_32_a_0_0" x="9" y="12"/>
+</assets>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="ads_pib"><graphics>
+  <visualization size="1" layerCount="1" angle="360">
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="32" layerCount="2" angle="45">
+    <layers>
+      <layer id="0" ink="COPY"/>
+      <layer id="1" ignoreMouse="1" ink="ADD"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="2" angle="45">
+    <layers>
+      <layer id="0" ink="COPY"/>
+      <layer id="1" ignoreMouse="1" ink="ADD"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>

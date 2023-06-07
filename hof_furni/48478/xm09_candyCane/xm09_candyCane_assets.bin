@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="xm09_candyCane_32_a_2_0" x="17" y="45"/>
+   <asset name="xm09_candyCane_32_a_2_1" x="12" y="39"/>
+   <asset name="xm09_candyCane_32_a_2_2" x="11" y="30"/>
+   <asset name="xm09_candyCane_32_a_2_3" x="11" y="37"/>
+   <asset name="xm09_candyCane_32_a_4_0" flipH="1" source="xm09_candyCane_32_a_2_0" x="17" y="45"/>
+   <asset name="xm09_candyCane_32_a_4_1" flipH="1" source="xm09_candyCane_32_a_2_1" x="12" y="39"/>
+   <asset name="xm09_candyCane_32_a_4_2" flipH="1" source="xm09_candyCane_32_a_2_2" x="11" y="30"/>
+   <asset name="xm09_candyCane_32_a_4_3" flipH="1" source="xm09_candyCane_32_a_2_3" x="11" y="37"/>
+   <asset name="xm09_candyCane_64_a_2_0" x="35" y="92"/>
+   <asset name="xm09_candyCane_64_a_2_1" x="26" y="79"/>
+   <asset name="xm09_candyCane_64_a_2_2" x="22" y="61"/>
+   <asset name="xm09_candyCane_64_a_2_3" x="24" y="77"/>
+   <asset name="xm09_candyCane_64_a_4_0" flipH="1" source="xm09_candyCane_64_a_2_0" x="35" y="92"/>
+   <asset name="xm09_candyCane_64_a_4_1" flipH="1" source="xm09_candyCane_64_a_2_1" x="26" y="79"/>
+   <asset name="xm09_candyCane_64_a_4_2" flipH="1" source="xm09_candyCane_64_a_2_2" x="22" y="61"/>
+   <asset name="xm09_candyCane_64_a_4_3" flipH="1" source="xm09_candyCane_64_a_2_3" x="24" y="77"/>
+   <asset name="xm09_candyCane_icon_a" x="9" y="13"/>
+</assets>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hc_dsk_64_a_0_0" x="27" y="58"/>
+   <asset name="hc_dsk_64_a_6_0" flipH="1" source="hc_dsk_64_a_0_0" x="27" y="58"/>
+   <asset name="hc_dsk_64_b_0_0" x="62" y="50"/>
+   <asset name="hc_dsk_64_b_6_0" flipH="1" source="hc_dsk_64_b_0_0" x="62" y="50"/>
+   <asset name="hc_dsk_64_c_0_0" x="-2" y="19"/>
+   <asset name="hc_dsk_64_c_0_1" x="32" y="78"/>
+   <asset name="hc_dsk_64_c_6_0" flipH="1" source="hc_dsk_64_c_0_0" x="-2" y="19"/>
+   <asset name="hc_dsk_64_c_6_1" flipH="1" source="hc_dsk_64_c_0_1" x="32" y="78"/>
+   <asset name="hc_dsk_64_d_0_0" x="34" y="1"/>
+   <asset name="hc_dsk_64_d_0_1" x="68" y="45"/>
+   <asset name="hc_dsk_64_d_6_0" flipH="1" source="hc_dsk_64_d_0_0" x="34" y="1"/>
+   <asset name="hc_dsk_64_d_6_1" flipH="1" source="hc_dsk_64_d_0_1" x="68" y="45"/>
+   <asset name="hc_dsk_64_e_0_0" x="17" y="39"/>
+   <asset name="hc_dsk_64_e_0_1" x="54" y="69"/>
+   <asset name="hc_dsk_64_e_6_0" flipH="1" source="hc_dsk_64_e_0_0" x="17" y="39"/>
+   <asset name="hc_dsk_64_e_6_1" flipH="1" source="hc_dsk_64_e_0_1" x="54" y="69"/>
+   <asset name="hc_dsk_64_sd_0_0" x="58" y="-11"/>
+   <asset name="hc_dsk_64_sd_6_0" flipH="1" source="hc_dsk_64_sd_0_0" x="58" y="-11"/>
+   <asset name="hc_dsk_icon_a" x="10" y="13"/>
+   <asset name="hc_dsk_32_a_0_0" x="12" y="30"/>
+   <asset name="hc_dsk_32_a_6_0" flipH="1" source="hc_dsk_32_a_0_0" x="12" y="30"/>
+   <asset name="hc_dsk_32_b_0_0" x="30" y="26"/>
+   <asset name="hc_dsk_32_b_6_0" flipH="1" source="hc_dsk_32_b_0_0" x="30" y="26"/>
+   <asset name="hc_dsk_32_c_0_0" x="16" y="0"/>
+   <asset name="hc_dsk_32_c_0_1" x="14" y="41"/>
+   <asset name="hc_dsk_32_c_6_0" flipH="1" source="hc_dsk_32_c_0_0" x="16" y="0"/>
+   <asset name="hc_dsk_32_c_6_1" flipH="1" source="hc_dsk_32_c_0_1" x="14" y="41"/>
+   <asset name="hc_dsk_32_d_0_0" x="9" y="3"/>
+   <asset name="hc_dsk_32_d_0_1" x="33" y="24"/>
+   <asset name="hc_dsk_32_d_6_0" flipH="1" source="hc_dsk_32_d_0_0" x="9" y="3"/>
+   <asset name="hc_dsk_32_d_6_1" flipH="1" source="hc_dsk_32_d_0_1" x="33" y="24"/>
+   <asset name="hc_dsk_32_e_0_0" x="-9" y="8"/>
+   <asset name="hc_dsk_32_e_0_1" x="25" y="37"/>
+   <asset name="hc_dsk_32_e_6_0" flipH="1" source="hc_dsk_32_e_0_0" x="-9" y="8"/>
+   <asset name="hc_dsk_32_e_6_1" flipH="1" source="hc_dsk_32_e_0_1" x="25" y="37"/>
+   <asset name="hc_dsk_32_sd_0_0" x="29" y="-5"/>
+   <asset name="hc_dsk_32_sd_6_0" flipH="1" source="hc_dsk_32_sd_0_0" x="29" y="-5"/>
+</assets>

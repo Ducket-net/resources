@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc3_stereo_icon_a" x="14" y="18"/>
+  <asset name="hc3_stereo_64_a_2_0" x="22" y="85"/>
+  <asset name="hc3_stereo_64_b_2_0" x="53" y="23"/>
+  <asset name="hc3_stereo_64_c_2_0" x="88" y="52"/>
+  <asset name="hc3_stereo_64_d_2_1" x="69" y="35"/>
+  <asset name="hc3_stereo_64_e_2_1" x="32" y="-2"/>
+  <asset name="hc3_stereo_64_e_2_2" x="32" y="-2"/>
+  <asset name="hc3_stereo_64_e_2_3" x="32" y="-4"/>
+  <asset name="hc3_stereo_64_f_2_1" x="37" y="14"/>
+  <asset name="hc3_stereo_32_a_2_0" x="11" y="43"/>
+  <asset name="hc3_stereo_32_b_2_0" x="26" y="12"/>
+  <asset name="hc3_stereo_32_c_2_0" x="44" y="26"/>
+  <asset name="hc3_stereo_32_d_2_1" x="33" y="16"/>
+  <asset name="hc3_stereo_32_e_2_1" x="14" y="-2"/>
+  <asset name="hc3_stereo_32_e_2_2" x="14" y="-2"/>
+  <asset name="hc3_stereo_32_e_2_3" x="12" y="-1"/>
+  <asset name="hc3_stereo_32_f_2_1" x="18" y="7"/>
+  <asset name="hc3_stereo_64_g_2_1" source="hc3_stereo_64_d_2_1" x="1" y="68"/>
+  <asset name="hc3_stereo_32_g_2_1" source="hc3_stereo_32_d_2_1" x="0" y="33"/>
+  <asset name="hc3_stereo_64_a_4_0" flipH="1" source="hc3_stereo_64_a_2_0" x="22" y="85"/>
+  <asset name="hc3_stereo_64_b_4_0" flipH="1" source="hc3_stereo_64_b_2_0" x="53" y="23"/>
+  <asset name="hc3_stereo_64_c_4_0" flipH="1" source="hc3_stereo_64_c_2_0" x="88" y="52"/>
+  <asset name="hc3_stereo_64_d_4_1" flipH="1" source="hc3_stereo_64_d_2_1" x="69" y="35"/>
+  <asset name="hc3_stereo_64_e_4_1" flipH="1" source="hc3_stereo_64_e_2_1" x="32" y="-2"/>
+  <asset name="hc3_stereo_64_e_4_2" flipH="1" source="hc3_stereo_64_e_2_2" x="32" y="-2"/>
+  <asset name="hc3_stereo_64_e_4_3" flipH="1" source="hc3_stereo_64_e_2_3" x="32" y="-4"/>
+  <asset name="hc3_stereo_64_f_4_1" flipH="1" source="hc3_stereo_64_f_2_1" x="37" y="14"/>
+  <asset name="hc3_stereo_32_a_4_0" flipH="1" source="hc3_stereo_32_a_2_0" x="11" y="43"/>
+  <asset name="hc3_stereo_32_b_4_0" flipH="1" source="hc3_stereo_32_b_2_0" x="26" y="12"/>
+  <asset name="hc3_stereo_32_c_4_0" flipH="1" source="hc3_stereo_32_c_2_0" x="44" y="26"/>
+  <asset name="hc3_stereo_32_d_4_1" flipH="1" source="hc3_stereo_32_d_2_1" x="33" y="16"/>
+  <asset name="hc3_stereo_32_e_4_1" flipH="1" source="hc3_stereo_32_e_2_1" x="14" y="-2"/>
+  <asset name="hc3_stereo_32_e_4_2" flipH="1" source="hc3_stereo_32_e_2_2" x="14" y="-2"/>
+  <asset name="hc3_stereo_32_e_4_3" flipH="1" source="hc3_stereo_32_e_2_3" x="12" y="-1"/>
+  <asset name="hc3_stereo_32_f_4_1" flipH="1" source="hc3_stereo_32_f_2_1" x="18" y="7"/>
+  <asset name="hc3_stereo_64_g_4_1" flipH="1" source="hc3_stereo_64_d_2_1" x="1" y="68"/>
+  <asset name="hc3_stereo_32_g_4_1" flipH="1" source="hc3_stereo_32_d_2_1" x="0" y="33"/>
+</assets>

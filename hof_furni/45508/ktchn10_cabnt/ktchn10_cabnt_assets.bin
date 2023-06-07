@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="ktchn10_cabnt_32_sd_4_0" x="10" y="-11"/>
+  <asset name="ktchn10_cabnt_32_a_4_0" x="12" y="19"/>
+  <asset name="ktchn10_cabnt_32_b_4_0" x="13" y="7"/>
+  <asset name="ktchn10_cabnt_32_b_4_1" x="13" y="14"/>
+  <asset name="ktchn10_cabnt_64_sd_4_0" x="22" y="-20"/>
+  <asset name="ktchn10_cabnt_64_a_4_0" x="24" y="37"/>
+  <asset name="ktchn10_cabnt_64_b_4_0" x="26" y="13"/>
+  <asset name="ktchn10_cabnt_64_b_4_1" x="26" y="30"/>
+  <asset name="ktchn10_cabnt_icon_a" x="10" y="14"/>
+  <asset name="ktchn10_cabnt_32_sd_2_0" flipH="1" source="ktchn10_cabnt_32_sd_4_0" x="10" y="-11"/>
+  <asset name="ktchn10_cabnt_32_a_2_0" flipH="1" source="ktchn10_cabnt_32_a_4_0" x="12" y="19"/>
+  <asset name="ktchn10_cabnt_32_b_2_1" flipH="1" source="ktchn10_cabnt_32_b_4_0" x="13" y="7"/>
+  <asset name="ktchn10_cabnt_32_b_2_0" flipH="1" source="ktchn10_cabnt_32_b_4_1" x="13" y="14"/>
+  <asset name="ktchn10_cabnt_64_sd_2_0" flipH="1" source="ktchn10_cabnt_64_sd_4_0" x="22" y="-20"/>
+  <asset name="ktchn10_cabnt_64_a_2_0" flipH="1" source="ktchn10_cabnt_64_a_4_0" x="24" y="37"/>
+  <asset name="ktchn10_cabnt_64_b_2_1" flipH="1" source="ktchn10_cabnt_64_b_4_0" x="26" y="13"/>
+  <asset name="ktchn10_cabnt_64_b_2_0" flipH="1" source="ktchn10_cabnt_64_b_4_1" x="26" y="30"/>
+</assets>

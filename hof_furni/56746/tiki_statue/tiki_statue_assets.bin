@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="tiki_statue_32_a_2_0" x="13" y="45"/>
+   <asset name="tiki_statue_32_a_4_0" flipH="1" source="tiki_statue_32_a_2_0" x="13" y="45"/>
+   <asset name="tiki_statue_32_b_2_0" x="5" y="35"/>
+   <asset name="tiki_statue_32_b_2_1" x="12" y="63"/>
+   <asset name="tiki_statue_32_b_2_2" x="12" y="66"/>
+   <asset name="tiki_statue_32_b_2_3" x="12" y="67"/>
+   <asset name="tiki_statue_32_b_2_4" x="12" y="65"/>
+   <asset name="tiki_statue_32_b_2_5" x="12" y="68"/>
+   <asset name="tiki_statue_32_b_4_0" flipH="1" source="tiki_statue_32_b_2_0" x="5" y="35"/>
+   <asset name="tiki_statue_32_b_4_1" flipH="1" source="tiki_statue_32_b_2_1" x="12" y="63"/>
+   <asset name="tiki_statue_32_b_4_2" flipH="1" source="tiki_statue_32_b_2_2" x="12" y="66"/>
+   <asset name="tiki_statue_32_b_4_3" flipH="1" source="tiki_statue_32_b_2_3" x="12" y="67"/>
+   <asset name="tiki_statue_32_b_4_4" flipH="1" source="tiki_statue_32_b_2_4" x="12" y="65"/>
+   <asset name="tiki_statue_32_b_4_5" flipH="1" source="tiki_statue_32_b_2_5" x="12" y="68"/>
+   <asset name="tiki_statue_32_c_2_0" x="4" y="34"/>
+   <asset name="tiki_statue_32_c_2_1" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_2_2" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_2_3" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_2_4" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_2_5" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_4_0" flipH="1" source="tiki_statue_32_c_2_0" x="4" y="34"/>
+   <asset name="tiki_statue_32_c_4_1" flipH="1" source="tiki_statue_32_c_2_1" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_4_2" flipH="1" source="tiki_statue_32_c_2_2" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_4_3" flipH="1" source="tiki_statue_32_c_2_3" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_4_4" flipH="1" source="tiki_statue_32_c_2_4" x="24" y="80"/>
+   <asset name="tiki_statue_32_c_4_5" flipH="1" source="tiki_statue_32_c_2_5" x="24" y="80"/>
+   <asset name="tiki_statue_32_sd_0_0" x="11" y="3"/>
+   <asset name="tiki_statue_32_sd_2_0" source="tiki_statue_32_sd_0_0" x="11" y="3"/>
+   <asset name="tiki_statue_32_sd_4_0" source="tiki_statue_32_sd_0_0" x="11" y="3"/>
+   <asset name="tiki_statue_64_a_2_0" x="25" y="91"/>
+   <asset name="tiki_statue_64_a_4_0" flipH="1" source="tiki_statue_64_a_2_0" x="25" y="91"/>
+   <asset name="tiki_statue_64_b_2_0" x="25" y="77"/>
+   <asset name="tiki_statue_64_b_2_1" x="24" y="130"/>
+   <asset name="tiki_statue_64_b_2_2" x="24" y="133"/>
+   <asset name="tiki_statue_64_b_2_3" x="24" y="136"/>
+   <asset name="tiki_statue_64_b_2_4" x="25" y="131"/>
+   <asset name="tiki_statue_64_b_2_5" x="25" y="136"/>
+   <asset name="tiki_statue_64_b_4_0" flipH="1" source="tiki_statue_64_b_2_0" x="25" y="77"/>
+   <asset name="tiki_statue_64_b_4_1" flipH="1" source="tiki_statue_64_b_2_1" x="24" y="130"/>
+   <asset name="tiki_statue_64_b_4_2" flipH="1" source="tiki_statue_64_b_2_2" x="24" y="133"/>
+   <asset name="tiki_statue_64_b_4_3" flipH="1" source="tiki_statue_64_b_2_3" x="24" y="136"/>
+   <asset name="tiki_statue_64_b_4_4" flipH="1" source="tiki_statue_64_b_2_4" x="25" y="131"/>
+   <asset name="tiki_statue_64_b_4_5" flipH="1" source="tiki_statue_64_b_2_5" x="25" y="136"/>
+   <asset name="tiki_statue_64_c_2_0" x="25" y="77"/>
+   <asset name="tiki_statue_64_c_2_1" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_2_2" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_2_3" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_2_4" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_2_5" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_4_0" flipH="1" source="tiki_statue_64_c_2_0" x="25" y="77"/>
+   <asset name="tiki_statue_64_c_4_1" flipH="1" source="tiki_statue_64_c_2_1" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_4_2" flipH="1" source="tiki_statue_64_c_2_2" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_4_3" flipH="1" source="tiki_statue_64_c_2_3" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_4_4" flipH="1" source="tiki_statue_64_c_2_4" x="43" y="152"/>
+   <asset name="tiki_statue_64_c_4_5" flipH="1" source="tiki_statue_64_c_2_5" x="43" y="152"/>
+   <asset name="tiki_statue_64_sd_0_0" x="22" y="11"/>
+   <asset name="tiki_statue_64_sd_2_0" source="tiki_statue_64_sd_0_0" x="22" y="11"/>
+   <asset name="tiki_statue_64_sd_4_0" source="tiki_statue_64_sd_0_0" x="22" y="11"/>
+   <asset name="tiki_statue_icon_a" x="9" y="16"/>
+</assets>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="laptopdesk_64_a_0_0" x="54" y="41"/>
+   <asset name="laptopdesk_64_a_2_0" x="55" y="48"/>
+   <asset name="laptopdesk_64_a_4_0" x="54" y="48"/>
+   <asset name="laptopdesk_64_a_6_0" x="55" y="42"/>
+   <asset name="laptopdesk_64_sd_0_0" x="48" y="7"/>
+   <asset name="laptopdesk_64_sd_2_0" flipH="1" source="laptopdesk_64_sd_0_0" x="48" y="7"/>
+   <asset name="laptopdesk_64_sd_4_0" source="laptopdesk_64_sd_0_0" x="48" y="7"/>
+   <asset name="laptopdesk_64_sd_6_0" flipH="1" source="laptopdesk_64_sd_0_0" x="48" y="7"/>
+   <asset name="laptopdesk_icon_a" x="14" y="14"/>
+   <asset name="laptopdesk_32_a_0_0" x="27" y="22"/>
+   <asset name="laptopdesk_32_a_2_0" x="26" y="24"/>
+   <asset name="laptopdesk_32_a_4_0" x="27" y="25"/>
+   <asset name="laptopdesk_32_a_6_0" x="26" y="23"/>
+   <asset name="laptopdesk_32_sd_0_0" x="23" y="2"/>
+   <asset name="laptopdesk_32_sd_2_0" x="22" y="2"/>
+   <asset name="laptopdesk_32_sd_4_0" source="laptopdesk_32_sd_0_0" x="23" y="2"/>
+   <asset name="laptopdesk_32_sd_6_0" source="laptopdesk_32_sd_2_0" x="22" y="2"/>
+</assets>

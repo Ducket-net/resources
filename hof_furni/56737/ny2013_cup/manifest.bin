@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="ny2013_cup" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ny2013_cup_visualization" mimeType="text/xml"/>
+      <asset name="ny2013_cup_assets" mimeType="text/xml"/>
+      <asset name="ny2013_cup_logic" mimeType="text/xml"/>
+      <asset name="ny2013_cup_32_a_0_0" mimeType="image/png"/>
+      <asset name="ny2013_cup_64_a_0_0" mimeType="image/png"/>
+      <asset name="ny2013_cup_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

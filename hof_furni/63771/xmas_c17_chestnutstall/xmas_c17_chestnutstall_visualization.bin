@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="xmas_c17_chestnutstall">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="4"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="6" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="-1000"/>
+        <layer id="2"/>
+        <layer id="3" alpha="40"/>
+        <layer id="4" ink="COPY" alpha="25"/>
+        <layer id="5" ink="ADD"/>
+      </layers>
+      <directions>
+        <direction id="4"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2" loopCount="0" frameRepeat="5">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="3"/>
+              <frame id="4"/>
+              <frame id="5"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="3" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="3"/>
+              <frame id="4"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4" loopCount="0" frameRepeat="7">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="3"/>
+              <frame id="4"/>
+              <frame id="5"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="5" loopCount="0" frameRepeat="5">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="2"/>
+              <frame id="2"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

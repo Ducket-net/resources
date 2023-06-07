@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_handlebar_nft" version="0.1">
+    <assets>
+      <asset name="h_std_fa_4902_7_0" mimeType="image/png">
+        <param key="offset" value="-44,57"/>
+      </asset>
+      <asset name="h_std_fa_4902_1_0" mimeType="image/png">
+        <param key="offset" value="-38,54"/>
+      </asset>
+      <asset name="h_std_fa_4902_2_0" mimeType="image/png">
+        <param key="offset" value="-29,56"/>
+      </asset>
+      <asset name="h_std_fa_4902_3_0" mimeType="image/png">
+        <param key="offset" value="-22,52"/>
+      </asset>
+      <asset name="h_spk_fa_4902_7_0" mimeType="image/png">
+        <param key="offset" value="-44,58"/>
+      </asset>
+      <asset name="h_spk_fa_4902_1_0" mimeType="image/png">
+        <param key="offset" value="-38,55"/>
+      </asset>
+      <asset name="h_spk_fa_4902_2_0" mimeType="image/png">
+        <param key="offset" value="-29,57"/>
+      </asset>
+      <asset name="h_spk_fa_4902_3_0" mimeType="image/png">
+        <param key="offset" value="-22,53"/>
+      </asset>
+      <asset name="h_lay_fa_4902_2_0" mimeType="image/png">
+        <param key="offset" value="7,31"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

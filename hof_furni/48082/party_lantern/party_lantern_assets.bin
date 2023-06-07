@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="party_lantern_64_a_0_0" x="18" y="123"/>
+   <asset name="party_lantern_64_a_0_1" x="18" y="123"/>
+   <asset name="party_lantern_64_a_2_0" source="party_lantern_64_a_0_0" x="18" y="123"/>
+   <asset name="party_lantern_64_a_2_1" source="party_lantern_64_a_0_1" x="18" y="123"/>
+   <asset name="party_lantern_64_b_0_0" x="24" y="130"/>
+   <asset name="party_lantern_64_b_2_0" x="28" y="130"/>
+   <asset name="party_lantern_64_c_0_0" x="4" y="121"/>
+   <asset name="party_lantern_64_c_0_1" x="40" y="135"/>
+   <asset name="party_lantern_64_c_0_2" x="40" y="135"/>
+   <asset name="party_lantern_64_c_0_3" x="40" y="135"/>
+   <asset name="party_lantern_64_c_2_0" source="party_lantern_64_c_0_0" x="4" y="121"/>
+   <asset name="party_lantern_64_c_2_1" source="party_lantern_64_c_0_1" x="40" y="135"/>
+   <asset name="party_lantern_64_c_2_2" source="party_lantern_64_c_0_2" x="40" y="135"/>
+   <asset name="party_lantern_64_c_2_3" source="party_lantern_64_c_0_3" x="40" y="135"/>
+   <asset name="party_lantern_64_sd_0_0" x="12" y="8"/>
+   <asset name="party_lantern_64_sd_2_0" source="party_lantern_64_sd_0_0" x="12" y="8"/>
+   <asset name="party_lantern_icon_a" x="9" y="12"/>
+   <asset name="party_lantern_32_a_0_0" x="10" y="61"/>
+   <asset name="party_lantern_32_a_0_1" x="10" y="61"/>
+   <asset name="party_lantern_32_a_2_0" source="party_lantern_32_a_0_0" x="10" y="61"/>
+   <asset name="party_lantern_32_a_2_1" source="party_lantern_32_a_0_1" x="10" y="61"/>
+   <asset name="party_lantern_32_b_0_0" x="12" y="63"/>
+   <asset name="party_lantern_32_b_2_0" x="15" y="63"/>
+   <asset name="party_lantern_32_c_0_0" x="1" y="60"/>
+   <asset name="party_lantern_32_c_0_1" x="21" y="66"/>
+   <asset name="party_lantern_32_c_0_2" x="21" y="66"/>
+   <asset name="party_lantern_32_c_0_3" x="21" y="66"/>
+   <asset name="party_lantern_32_c_2_0" source="party_lantern_32_c_0_0" x="1" y="60"/>
+   <asset name="party_lantern_32_c_2_1" source="party_lantern_32_c_0_1" x="21" y="66"/>
+   <asset name="party_lantern_32_c_2_2" source="party_lantern_32_c_0_2" x="21" y="66"/>
+   <asset name="party_lantern_32_c_2_3" source="party_lantern_32_c_0_3" x="21" y="66"/>
+   <asset name="party_lantern_32_sd_0_0" x="5" y="2"/>
+   <asset name="party_lantern_32_sd_2_0" source="party_lantern_32_sd_0_0" x="5" y="2"/>
+</assets>

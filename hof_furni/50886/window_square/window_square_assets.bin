@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_square_64_a_2_0" x="16" y="26"/>
+   <asset name="window_square_64_b_2_0" x="15" y="25"/>
+   <asset name="window_square_64_2_mask" x="15" y="24"/>
+   <asset name="window_square_64_a_4_0" flipH="1" source="window_square_64_a_2_0" x="16" y="26"/>
+   <asset name="window_square_64_b_4_0" flipH="1" source="window_square_64_b_2_0" x="15" y="25"/>
+   <asset name="window_square_64_4_mask" flipH="1" source="window_square_64_2_mask" x="15" y="24"/>
+   <asset name="window_square_32_a_2_0" x="8" y="13"/>
+   <asset name="window_square_32_b_2_0" x="7" y="12"/>
+   <asset name="window_square_32_2_mask" x="7" y="11"/>
+   <asset name="window_square_32_a_4_0" flipH="1" source="window_square_32_a_2_0" x="8" y="13"/>
+   <asset name="window_square_32_b_4_0" flipH="1" source="window_square_32_b_2_0" x="7" y="12"/>
+   <asset name="window_square_32_4_mask" flipH="1" source="window_square_32_2_mask" x="7" y="11"/>
+   <asset name="window_square_icon_a" x="9" y="9"/>
+</assets>

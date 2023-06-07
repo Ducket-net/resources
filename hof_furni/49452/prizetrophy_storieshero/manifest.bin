@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="prizetrophy_storieshero" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="prizetrophy_storieshero_visualization" mimeType="text/xml"/>
+      <asset name="prizetrophy_storieshero_assets" mimeType="text/xml"/>
+      <asset name="prizetrophy_storieshero_logic" mimeType="text/xml"/>
+      <asset name="prizetrophy_storieshero_32_a_4_0" mimeType="image/png"/>
+      <asset name="prizetrophy_storieshero_32_sd_4_0" mimeType="image/png"/>
+      <asset name="prizetrophy_storieshero_64_a_4_0" mimeType="image/png"/>
+      <asset name="prizetrophy_storieshero_64_sd_4_0" mimeType="image/png"/>
+      <asset name="prizetrophy_storieshero_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

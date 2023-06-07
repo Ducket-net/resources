@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="lido_kiosk_block" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="lido_kiosk_block_visualization" mimeType="text/xml"/>
+      <asset name="lido_kiosk_block_assets" mimeType="text/xml"/>
+      <asset name="lido_kiosk_block_logic" mimeType="text/xml"/>
+      <asset name="lido_kiosk_block_32_a_0_0" mimeType="image/png"/>
+      <asset name="lido_kiosk_block_32_a_2_0" mimeType="image/png"/>
+      <asset name="lido_kiosk_block_64_a_0_0" mimeType="image/png"/>
+      <asset name="lido_kiosk_block_64_a_2_0" mimeType="image/png"/>
+      <asset name="lido_kiosk_block_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

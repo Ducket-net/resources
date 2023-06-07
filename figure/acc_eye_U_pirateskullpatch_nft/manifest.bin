@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_pirateskullpatch_nft" version="0.1">
+    <assets>
+      <asset name="h_lay_ea_4886_2_0" mimeType="image/png">
+        <param key="offset" value="13,36"/>
+      </asset>
+      <asset name="h_std_ea_4886_0_0" mimeType="image/png">
+        <param key="offset" value="-39,60"/>
+      </asset>
+      <asset name="h_std_ea_4886_1_0" mimeType="image/png">
+        <param key="offset" value="-27,64"/>
+      </asset>
+      <asset name="h_std_ea_4886_2_0" mimeType="image/png">
+        <param key="offset" value="-24,65"/>
+      </asset>
+      <asset name="h_std_ea_4886_3_0" mimeType="image/png">
+        <param key="offset" value="-21,64"/>
+      </asset>
+      <asset name="h_std_ea_4886_7_0" mimeType="image/png">
+        <param key="offset" value="-44,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

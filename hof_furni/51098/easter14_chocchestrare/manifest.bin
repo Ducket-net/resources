@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="easter14_chocchestrare" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="easter14_chocchestrare_visualization" mimeType="text/xml"/>
+      <asset name="easter14_chocchestrare_assets" mimeType="text/xml"/>
+      <asset name="easter14_chocchestrare_logic" mimeType="text/xml"/>
+      <asset name="easter14_chocchestrare_64_a_4_0" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_b_4_0" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_a_4_1" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_b_4_1" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_a_4_2" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_b_4_2" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_a_4_3" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_b_4_3" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_a_4_4" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_b_4_4" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_a_4_5" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_64_b_4_5" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_a_4_0" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_b_4_0" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_a_4_1" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_b_4_1" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_a_4_2" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_b_4_2" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_a_4_3" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_b_4_3" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_a_4_4" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_32_b_4_4" mimeType="image/png"/>
+      <asset name="easter14_chocchestrare_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

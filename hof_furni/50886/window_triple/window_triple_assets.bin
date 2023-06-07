@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_triple_64_a_2_0" x="41" y="63"/>
+   <asset name="window_triple_64_2_mask" x="32" y="50"/>
+   <asset name="window_triple_64_a_4_0" flipH="1" source="window_triple_64_a_2_0" x="41" y="63"/>
+   <asset name="window_triple_64_4_mask" flipH="1" source="window_triple_64_2_mask" x="32" y="50"/>
+   <asset name="window_triple_32_a_2_0" x="22" y="32"/>
+   <asset name="window_triple_32_2_mask" x="15" y="24"/>
+   <asset name="window_triple_32_a_4_0" flipH="1" source="window_triple_32_a_2_0" x="22" y="32"/>
+   <asset name="window_triple_32_4_mask" flipH="1" source="window_triple_32_2_mask" x="15" y="24"/>
+   <asset name="window_triple_icon_a" x="10" y="9"/>
+</assets>

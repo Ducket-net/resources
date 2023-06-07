@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="school_gate_32_sd_2_0" x="40" y="0"/>
+  <asset name="school_gate_32_b_2_0" x="45" y="88"/>
+  <asset name="school_gate_32_a_2_0" x="7" y="83"/>
+  <asset name="school_gate_64_sd_2_0" x="80" y="8"/>
+  <asset name="school_gate_64_a_2_0" x="81" y="181"/>
+  <asset name="school_gate_64_b_2_0" x="9" y="171"/>
+  <asset name="school_gate_icon_a" x="11" y="14"/>
+  <asset name="school_gate_32_sd_0_0" flipH="1" source="school_gate_32_sd_2_0" x="40" y="0"/>
+  <asset name="school_gate_32_b_0_0" flipH="1" source="school_gate_32_b_2_0" x="45" y="88"/>
+  <asset name="school_gate_32_a_0_0" flipH="1" source="school_gate_32_a_2_0" x="7" y="83"/>
+  <asset name="school_gate_64_sd_0_0" flipH="1" source="school_gate_64_sd_2_0" x="80" y="8"/>
+  <asset name="school_gate_64_a_0_0" flipH="1" source="school_gate_64_a_2_0" x="81" y="181"/>
+  <asset name="school_gate_64_b_0_0" flipH="1" source="school_gate_64_b_2_0" x="9" y="171"/>
+</assets>

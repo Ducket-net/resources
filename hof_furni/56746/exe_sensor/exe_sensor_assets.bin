@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="exe_sensor_32_a_2_0" x="5" y="6"/>
+  <asset name="exe_sensor_32_b_2_0" x="1" y="-6"/>
+  <asset name="exe_sensor_32_b_2_1" x="0" y="-4"/>
+  <asset name="exe_sensor_32_b_2_2" x="1" y="-3"/>
+  <asset name="exe_sensor_64_a_2_0" x="10" y="11"/>
+  <asset name="exe_sensor_64_b_2_0" x="5" y="-11"/>
+  <asset name="exe_sensor_64_b_2_1" x="1" y="-7"/>
+  <asset name="exe_sensor_64_b_2_2" x="3" y="-4"/>
+  <asset name="exe_sensor_icon_a" x="10" y="11"/>
+  <asset name="exe_sensor_32_a_4_0" flipH="1" source="exe_sensor_32_a_2_0" x="5" y="6"/>
+  <asset name="exe_sensor_32_b_4_0" flipH="1" source="exe_sensor_32_b_2_0" x="1" y="-6"/>
+  <asset name="exe_sensor_32_b_4_1" flipH="1" source="exe_sensor_32_b_2_1" x="0" y="-4"/>
+  <asset name="exe_sensor_32_b_4_2" flipH="1" source="exe_sensor_32_b_2_2" x="1" y="-3"/>
+  <asset name="exe_sensor_64_a_4_0" flipH="1" source="exe_sensor_64_a_2_0" x="10" y="11"/>
+  <asset name="exe_sensor_64_b_4_0" flipH="1" source="exe_sensor_64_b_2_0" x="5" y="-11"/>
+  <asset name="exe_sensor_64_b_4_1" flipH="1" source="exe_sensor_64_b_2_1" x="1" y="-7"/>
+  <asset name="exe_sensor_64_b_4_2" flipH="1" source="exe_sensor_64_b_2_2" x="3" y="-4"/>
+</assets>

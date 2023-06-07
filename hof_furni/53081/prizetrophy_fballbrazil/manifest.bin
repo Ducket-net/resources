@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="prizetrophy_fballbrazil" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="prizetrophy_fballbrazil_visualization" mimeType="text/xml"/>
+      <asset name="prizetrophy_fballbrazil_assets" mimeType="text/xml"/>
+      <asset name="prizetrophy_fballbrazil_logic" mimeType="text/xml"/>
+      <asset name="prizetrophy_fballbrazil_32_sd_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_32_a_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_32_b_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_32_c_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_64_sd_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_64_a_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_64_b_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_64_c_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_icon_a" mimeType="image/png"/>
+      <asset name="prizetrophy_fballbrazil_icon_b" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

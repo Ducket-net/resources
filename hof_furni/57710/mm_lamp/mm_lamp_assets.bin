@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="mm_lamp_32_a_0_0" x="8" y="62"/>
+  <asset name="mm_lamp_32_b_0_0" x="0" y="52"/>
+  <asset name="mm_lamp_32_b_0_1" x="0" y="52"/>
+  <asset name="mm_lamp_32_c_0_0" x="-13" y="31"/>
+  <asset name="mm_lamp_32_c_0_1" x="62" y="140"/>
+  <asset name="mm_lamp_64_a_0_0" x="18" y="124"/>
+  <asset name="mm_lamp_64_b_0_0" x="3" y="103"/>
+  <asset name="mm_lamp_64_b_0_1" x="3" y="103"/>
+  <asset name="mm_lamp_64_c_0_0" x="1" y="62"/>
+  <asset name="mm_lamp_64_c_0_1" x="59" y="171"/>
+  <asset name="mm_lamp_icon_a" x="13" y="10"/>
+  <asset name="mm_lamp_32_a_2_0" flipH="1" source="mm_lamp_32_a_0_0" x="10" y="62"/>
+  <asset name="mm_lamp_32_b_2_0" flipH="1" source="mm_lamp_32_b_0_0" x="2" y="52"/>
+  <asset name="mm_lamp_32_b_2_1" flipH="1" source="mm_lamp_32_b_0_1" x="2" y="52"/>
+  <asset name="mm_lamp_32_c_2_0" flipH="1" source="mm_lamp_32_c_0_0" x="-11" y="31"/>
+  <asset name="mm_lamp_32_c_2_1" flipH="1" source="mm_lamp_32_c_0_1" x="64" y="140"/>
+  <asset name="mm_lamp_64_a_2_0" flipH="1" source="mm_lamp_64_a_0_0" x="18" y="124"/>
+  <asset name="mm_lamp_64_b_2_0" flipH="1" source="mm_lamp_64_b_0_0" x="3" y="103"/>
+  <asset name="mm_lamp_64_b_2_1" flipH="1" source="mm_lamp_64_b_0_1" x="3" y="103"/>
+  <asset name="mm_lamp_64_c_2_0" flipH="1" source="mm_lamp_64_c_0_0" x="-23" y="62"/>
+  <asset name="mm_lamp_64_c_2_1" flipH="1" source="mm_lamp_64_c_0_1" x="59" y="171"/>
+</assets>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="safe_silo_32_a_2_0" flipH="1" source="safe_silo_32_a_4_0" x="16" y="30"/>
+   <asset name="safe_silo_32_a_2_1" flipH="1" source="safe_silo_32_a_4_1" x="21" y="30"/>
+   <asset name="safe_silo_32_a_4_0" x="16" y="30"/>
+   <asset name="safe_silo_32_a_4_1" x="21" y="30"/>
+   <asset name="safe_silo_32_b_2_0" flipH="1" source="safe_silo_32_b_4_0" x="15" y="20"/>
+   <asset name="safe_silo_32_b_2_1" flipH="1" source="safe_silo_32_b_4_1" x="21" y="20"/>
+   <asset name="safe_silo_32_b_4_0" x="15" y="20"/>
+   <asset name="safe_silo_32_b_4_1" x="21" y="20"/>
+   <asset name="safe_silo_32_c_2_0" flipH="1" source="safe_silo_32_c_4_0" x="-10" y="5"/>
+   <asset name="safe_silo_32_c_2_1" flipH="1" source="safe_silo_32_c_4_1" x="7" y="19"/>
+   <asset name="safe_silo_32_c_4_0" x="-10" y="5"/>
+   <asset name="safe_silo_32_c_4_1" x="7" y="19"/>
+   <asset name="safe_silo_32_d_2_0" flipH="1" source="safe_silo_32_d_4_0" x="8" y="11"/>
+   <asset name="safe_silo_32_d_2_1" flipH="1" source="safe_silo_32_d_4_1" x="-10" y="5"/>
+   <asset name="safe_silo_32_d_4_0" x="8" y="11"/>
+   <asset name="safe_silo_32_d_4_1" x="-10" y="5"/>
+   <asset name="safe_silo_32_sd_2_0" x="10" y="5"/>
+   <asset name="safe_silo_32_sd_4_0" x="14" y="5"/>
+   <asset name="safe_silo_64_a_2_0" flipH="1" source="safe_silo_64_a_4_0" x="28" y="56"/>
+   <asset name="safe_silo_64_a_2_1" flipH="1" source="safe_silo_64_a_4_1" x="39" y="56"/>
+   <asset name="safe_silo_64_a_4_0" x="28" y="56"/>
+   <asset name="safe_silo_64_a_4_1" x="39" y="56"/>
+   <asset name="safe_silo_64_b_2_0" flipH="1" source="safe_silo_64_b_4_0" x="26" y="38"/>
+   <asset name="safe_silo_64_b_2_1" flipH="1" source="safe_silo_64_b_4_1" x="39" y="37"/>
+   <asset name="safe_silo_64_b_4_0" x="26" y="38"/>
+   <asset name="safe_silo_64_b_4_1" x="39" y="37"/>
+   <asset name="safe_silo_64_c_2_0" flipH="1" source="safe_silo_64_c_4_0" x="-24" y="11"/>
+   <asset name="safe_silo_64_c_2_1" flipH="1" source="safe_silo_64_c_4_1" x="12" y="37"/>
+   <asset name="safe_silo_64_c_4_0" x="-24" y="11"/>
+   <asset name="safe_silo_64_c_4_1" x="12" y="37"/>
+   <asset name="safe_silo_64_d_2_0" flipH="1" source="safe_silo_64_d_4_0" x="17" y="23"/>
+   <asset name="safe_silo_64_d_2_1" flipH="1" source="safe_silo_64_d_4_1" x="-24" y="11"/>
+   <asset name="safe_silo_64_d_4_0" x="17" y="23"/>
+   <asset name="safe_silo_64_d_4_1" x="-24" y="11"/>
+   <asset name="safe_silo_64_sd_2_0" x="24" y="10"/>
+   <asset name="safe_silo_64_sd_4_0" x="24" y="10"/>
+   <asset name="safe_silo_icon_a" x="12" y="15"/>
+   <asset name="safe_silo_icon_b" x="11" y="7"/>
+</assets>

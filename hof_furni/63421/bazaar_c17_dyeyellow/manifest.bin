@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bazaar_c17_dyeyellow" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="bazaar_c17_dyeyellow_visualization" mimeType="text/xml"/>
+      <asset name="bazaar_c17_dyeyellow_assets" mimeType="text/xml"/>
+      <asset name="bazaar_c17_dyeyellow_logic" mimeType="text/xml"/>
+      <asset name="bazaar_c17_dyeyellow_64_sd_0_0" mimeType="image/png"/>
+      <asset name="bazaar_c17_dyeyellow_64_a_0_0" mimeType="image/png"/>
+      <asset name="bazaar_c17_dyeyellow_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><objectData type="fireworks_09">
+  <model>
+    <dimensions x="1" y="1" z="1"/>
+    <directions>
+      <direction id="0"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="64" canvas_id="3" offset_y="70" blend="1">
+      <emitter id="2" sprite_id="1" explosion_animation="" fuse_time="15" name="rocket" max_num_particles="200" particles_per_frame="20" burst_pulse="4">
+        <simulation force="400" direction="-1.0" energy="110" shape="sphere" gravity="20" airfriction="0.13"/>
+        <particles>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_2"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_2"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_2"/>
+            <frame name="fireworks_09_64_c_0_3"/>
+          </particle>
+          <particle is_emitter="false" lifetime="120" fade="false">
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_2"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_2"/>
+            <frame name="fireworks_09_64_c_0_3"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+            <frame name="fireworks_09_64_c_0_1"/>
+            <frame name="fireworks_09_64_c_0_4"/>
+          </particle>
+        </particles>
+      </emitter>
+    </particlesystem>
+    <particlesystem size="32" canvas_id="3" offset_y="70" blend="1">
+      <emitter id="2" sprite_id="1" explosion_animation="" fuse_time="15" name="rocket" max_num_particles="200" particles_per_frame="20" burst_pulse="4">
+        <simulation force="400" direction="-1.0" energy="110" shape="sphere" gravity="20" airfriction="0.13"/>
+        <particles>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_2"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_2"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_2"/>
+            <frame name="fireworks_09_32_c_0_3"/>
+          </particle>
+          <particle is_emitter="false" lifetime="120" fade="false">
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_2"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_2"/>
+            <frame name="fireworks_09_32_c_0_3"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+          </particle>
+          <particle is_emitter="false" lifetime="80" fade="false">
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+            <frame name="fireworks_09_32_c_0_1"/>
+            <frame name="fireworks_09_32_c_0_4"/>
+          </particle>
+        </particles>
+      </emitter>
+    </particlesystem>
+  </particlesystems>
+</objectData>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<visualizationData type="rare_colourable_scifiport">
+  <graphics>
+    <visualization size="1" layerCount="2" angle="360">
+      <postures/>
+      <gestures/>
+      <layers>
+        <layer id="0"/>
+      </layers>
+    
+
+<colors>
+<color id="1">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="13ABEA"/>
+</color>
+<color id="2">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="00700D"/>
+</color>
+<color id="3">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="7CDED4"/>
+</color>
+</colors>
+</visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="6"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="6" angle="45">
+      <layers>
+        <layer id="0" z="-900"/>
+        <layer id="1" z="-895"/>
+        <layer id="2" ink="ADD" z="-400"/>
+        <layer id="3" z="-395"/>
+        <layer id="4"/>
+        <layer id="5" z="5"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="6"/>
+      </directions>
+      <colors>
+<color id="1">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="13ABEA"/>
+  <colorLayer id="2" color="FFFFFF"/>
+  <colorLayer id="3" color="FFFFFF"/>
+  <colorLayer id="4" color="FFFFFF"/>
+  <colorLayer id="5" color="13ABEA"/>
+</color>
+<color id="2">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="00700D"/>
+  <colorLayer id="2" color="FFFFFF"/>
+  <colorLayer id="3" color="FFFFFF"/>
+  <colorLayer id="4" color="FFFFFF"/>
+  <colorLayer id="5" color="00700D"/>
+</color>
+<color id="3">
+  <colorLayer id="0" color="FFFFFF"/>
+  <colorLayer id="1" color="7CDED4"/>
+  <colorLayer id="2" color="FFFFFF"/>
+  <colorLayer id="3" color="FFFFFF"/>
+  <colorLayer id="4" color="FFFFFF"/>
+  <colorLayer id="5" color="7CDED4"/>
+</color>
+</colors>
+      <animations>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

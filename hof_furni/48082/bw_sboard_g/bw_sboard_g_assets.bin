@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bw_sboard_g_64_a_0_0" x="24" y="15"/>
+  <asset name="bw_sboard_g_64_b_0_0" x="-2" y="1"/>
+  <asset name="bw_sboard_g_64_c_0_0" x="24" y="4"/>
+  <asset name="bw_sboard_g_64_d_0_0" x="-3" y="-17"/>
+  <asset name="bw_sboard_g_64_c_0_1" x="24" y="9"/>
+  <asset name="bw_sboard_g_64_d_0_1" x="-3" y="-13"/>
+  <asset name="bw_sboard_g_32_a_0_0" x="12" y="8"/>
+  <asset name="bw_sboard_g_32_b_0_0" x="-2" y="0"/>
+  <asset name="bw_sboard_g_32_c_0_0" x="12" y="1"/>
+  <asset name="bw_sboard_g_32_d_0_0" x="-2" y="-9"/>
+  <asset name="bw_sboard_g_32_c_0_1" x="11" y="3"/>
+  <asset name="bw_sboard_g_32_d_0_1" x="-2" y="-6"/>
+  <asset name="bw_sboard_g_icon_a" x="-3" y="27"/>
+  <asset name="bw_sboard_g_64_a_2_0" flipH="1" source="bw_sboard_g_64_a_0_0" x="24" y="15"/>
+  <asset name="bw_sboard_g_64_b_2_0" flipH="1" source="bw_sboard_g_64_b_0_0" x="-2" y="1"/>
+  <asset name="bw_sboard_g_64_c_2_0" flipH="1" source="bw_sboard_g_64_c_0_0" x="24" y="4"/>
+  <asset name="bw_sboard_g_64_d_2_0" flipH="1" source="bw_sboard_g_64_d_0_0" x="-3" y="-17"/>
+  <asset name="bw_sboard_g_64_d_2_1" flipH="1" source="bw_sboard_g_64_d_0_1" x="-3" y="-13"/>
+  <asset name="bw_sboard_g_32_a_2_0" flipH="1" source="bw_sboard_g_32_a_0_0" x="12" y="8"/>
+  <asset name="bw_sboard_g_32_b_2_0" flipH="1" source="bw_sboard_g_32_b_0_0" x="-2" y="0"/>
+  <asset name="bw_sboard_g_32_c_2_0" flipH="1" source="bw_sboard_g_32_c_0_0" x="12" y="1"/>
+  <asset name="bw_sboard_g_32_d_2_0" flipH="1" source="bw_sboard_g_32_d_0_0" x="-2" y="-9"/>
+  <asset name="bw_sboard_g_32_c_2_1" flipH="1" source="bw_sboard_g_32_c_0_1" x="11" y="3"/>
+  <asset name="bw_sboard_g_32_d_4_1" source="bw_sboard_g_32_d_0_1" x="-2" y="-6"/>
+  <asset name="bw_sboard_g_64_a_4_0" source="bw_sboard_g_64_a_0_0" x="24" y="15"/>
+  <asset name="bw_sboard_g_64_b_4_0" source="bw_sboard_g_64_b_0_0" x="-2" y="1"/>
+  <asset name="bw_sboard_g_64_c_4_0" source="bw_sboard_g_64_c_0_0" x="24" y="4"/>
+  <asset name="bw_sboard_g_64_d_4_0" source="bw_sboard_g_64_d_0_0" x="-3" y="-17"/>
+  <asset name="bw_sboard_g_64_c_4_1" source="bw_sboard_g_64_c_0_1" x="24" y="9"/>
+  <asset name="bw_sboard_g_64_d_4_1" source="bw_sboard_g_64_d_0_1" x="-3" y="-13"/>
+  <asset name="bw_sboard_g_32_a_4_0" source="bw_sboard_g_32_a_0_0" x="12" y="8"/>
+  <asset name="bw_sboard_g_32_b_4_0" source="bw_sboard_g_32_b_0_0" x="-2" y="0"/>
+  <asset name="bw_sboard_g_32_c_4_0" source="bw_sboard_g_32_c_0_0" x="12" y="1"/>
+  <asset name="bw_sboard_g_32_d_4_0" source="bw_sboard_g_32_d_0_0" x="-2" y="-9"/>
+  <asset name="bw_sboard_g_32_c_4_1" source="bw_sboard_g_32_c_0_1" x="11" y="3"/>
+  <asset name="bw_sboard_g_64_a_6_0" flipH="1" source="bw_sboard_g_64_a_0_0" x="24" y="15"/>
+  <asset name="bw_sboard_g_64_b_6_0" flipH="1" source="bw_sboard_g_64_b_0_0" x="-2" y="1"/>
+  <asset name="bw_sboard_g_64_c_6_0" flipH="1" source="bw_sboard_g_64_c_0_0" x="24" y="4"/>
+  <asset name="bw_sboard_g_64_d_6_0" flipH="1" source="bw_sboard_g_64_d_0_0" x="-3" y="-17"/>
+  <asset name="bw_sboard_g_64_c_6_1" flipH="1" source="bw_sboard_g_64_c_0_1" x="24" y="9"/>
+  <asset name="bw_sboard_g_64_d_6_1" flipH="1" source="bw_sboard_g_64_d_0_1" x="-3" y="-13"/>
+  <asset name="bw_sboard_g_32_a_6_0" flipH="1" source="bw_sboard_g_32_a_0_0" x="12" y="8"/>
+  <asset name="bw_sboard_g_32_b_6_0" flipH="1" source="bw_sboard_g_32_b_0_0" x="-2" y="0"/>
+  <asset name="bw_sboard_g_32_c_6_0" flipH="1" source="bw_sboard_g_32_c_0_0" x="12" y="1"/>
+  <asset name="bw_sboard_g_32_d_6_0" flipH="1" source="bw_sboard_g_32_d_0_0" x="-2" y="-9"/>
+  <asset name="bw_sboard_g_32_c_6_1" flipH="1" source="bw_sboard_g_32_c_0_1" x="11" y="3"/>
+  <asset name="bw_sboard_g_32_d_6_1" flipH="1" source="bw_sboard_g_32_d_0_1" x="-2" y="-6"/>
+  <asset name="bw_sboard_g_64_c_2_1" flipH="1" source="bw_sboard_g_64_c_0_1" x="24" y="9"/>
+</assets>

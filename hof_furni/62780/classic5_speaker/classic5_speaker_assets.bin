@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="classic5_speaker_64_sd_4_0" x="17" y="8"/>
+  <asset name="classic5_speaker_64_a_4_0" x="18" y="170"/>
+  <asset name="classic5_speaker_64_a_4_1" x="20" y="170"/>
+  <asset name="classic5_speaker_64_a_4_2" x="18" y="170"/>
+  <asset name="classic5_speaker_64_a_4_3" x="20" y="170"/>
+  <asset name="classic5_speaker_icon_a" x="9" y="13"/>
+  <asset name="classic5_speaker_64_sd_2_0" flipH="1" source="classic5_speaker_64_sd_4_0" x="17" y="8"/>
+  <asset name="classic5_speaker_64_a_2_0" flipH="1" source="classic5_speaker_64_a_4_0" x="18" y="170"/>
+  <asset name="classic5_speaker_64_a_2_1" flipH="1" source="classic5_speaker_64_a_4_1" x="20" y="170"/>
+  <asset name="classic5_speaker_64_a_2_2" flipH="1" source="classic5_speaker_64_a_4_2" x="18" y="170"/>
+  <asset name="classic5_speaker_64_a_2_3" flipH="1" source="classic5_speaker_64_a_4_3" x="20" y="170"/>
+</assets>

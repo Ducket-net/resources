@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="tile_marble_32_a_0_0" x="15" y="8"/>
+   <asset name="tile_marble_32_a_2_0" x="15" y="8"/>
+   <asset name="tile_marble_32_a_4_0" source="tile_marble_32_a_0_0" x="15" y="8"/>
+   <asset name="tile_marble_32_a_6_0" source="tile_marble_32_a_0_0" x="15" y="8"/>
+   <asset name="tile_marble_64_a_0_0" x="31" y="17"/>
+   <asset name="tile_marble_64_a_2_0" x="31" y="17"/>
+   <asset name="tile_marble_64_a_4_0" x="31" y="17"/>
+   <asset name="tile_marble_64_a_6_0" x="31" y="17"/>
+   <asset name="tile_marble_icon_a" x="15" y="9"/>
+</assets>

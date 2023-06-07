@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="anc_pharaoh_tele_64_a_2_0" x="42" y="122"/>
+  <asset name="anc_pharaoh_tele_64_b_2_0" x="35" y="103"/>
+  <asset name="anc_pharaoh_tele_64_c_2_0" x="17" y="110"/>
+  <asset name="anc_pharaoh_tele_64_c_2_1" x="-15" y="109"/>
+  <asset name="anc_pharaoh_tele_64_c_2_2" x="17" y="110"/>
+  <asset name="anc_pharaoh_tele_32_a_2_0" x="22" y="61"/>
+  <asset name="anc_pharaoh_tele_32_b_2_0" x="19" y="51"/>
+  <asset name="anc_pharaoh_tele_32_c_2_0" x="10" y="55"/>
+  <asset name="anc_pharaoh_tele_32_c_2_1" x="-7" y="54"/>
+  <asset name="anc_pharaoh_tele_32_c_2_2" x="10" y="55"/>
+  <asset name="anc_pharaoh_tele_icon_a" x="9" y="15"/>
+  <asset name="anc_pharaoh_tele_64_a_4_0" flipH="1" source="anc_pharaoh_tele_64_a_2_0" x="42" y="122"/>
+  <asset name="anc_pharaoh_tele_64_b_4_0" flipH="1" source="anc_pharaoh_tele_64_b_2_0" x="35" y="103"/>
+  <asset name="anc_pharaoh_tele_64_c_4_0" flipH="1" source="anc_pharaoh_tele_64_c_2_0" x="17" y="110"/>
+  <asset name="anc_pharaoh_tele_64_c_4_1" flipH="1" source="anc_pharaoh_tele_64_c_2_1" x="-15" y="109"/>
+  <asset name="anc_pharaoh_tele_64_c_4_2" flipH="1" source="anc_pharaoh_tele_64_c_2_2" x="17" y="110"/>
+  <asset name="anc_pharaoh_tele_32_a_4_0" flipH="1" source="anc_pharaoh_tele_32_a_2_0" x="22" y="61"/>
+  <asset name="anc_pharaoh_tele_32_b_4_0" flipH="1" source="anc_pharaoh_tele_32_b_2_0" x="19" y="51"/>
+  <asset name="anc_pharaoh_tele_32_c_4_0" flipH="1" source="anc_pharaoh_tele_32_c_2_0" x="10" y="55"/>
+  <asset name="anc_pharaoh_tele_32_c_4_1" flipH="1" source="anc_pharaoh_tele_32_c_2_1" x="-7" y="54"/>
+  <asset name="anc_pharaoh_tele_32_c_4_2" flipH="1" source="anc_pharaoh_tele_32_c_2_2" x="10" y="55"/>
+</assets>

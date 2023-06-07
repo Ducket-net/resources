@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="arabian_wall_icon_a" x="6" y="16"/>
+   <asset name="arabian_wall_64_a_2_0" x="31" y="67"/>
+   <asset name="arabian_wall_64_b_2_0" x="34" y="108"/>
+   <asset name="arabian_wall_64_b_2_1" x="34" y="108"/>
+   <asset name="arabian_wall_64_a_4_0" flipH="1" source="arabian_wall_64_a_2_0" x="31" y="67"/>
+   <asset name="arabian_wall_64_b_4_0" flipH="1" source="arabian_wall_64_b_2_0" x="34" y="108"/>
+   <asset name="arabian_wall_64_b_4_1" flipH="1" source="arabian_wall_64_b_2_1" x="34" y="108"/>
+   <asset name="arabian_wall_32_a_2_0" x="15" y="34"/>
+   <asset name="arabian_wall_32_b_2_0" x="17" y="52"/>
+   <asset name="arabian_wall_32_b_2_1" x="17" y="52"/>
+   <asset name="arabian_wall_32_a_4_0" flipH="1" source="arabian_wall_32_a_2_0" x="15" y="34"/>
+   <asset name="arabian_wall_32_b_4_0" flipH="1" source="arabian_wall_32_b_2_0" x="17" y="52"/>
+   <asset name="arabian_wall_32_b_4_1" flipH="1" source="arabian_wall_32_b_2_1" x="17" y="52"/>
+</assets>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="hween12_costume_hopper"><graphics>
+  <visualization size="1" layerCount="1" angle="360">
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="32" layerCount="4" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" ink="ADD" z="50"/>
+      <layer id="2" alpha="150" z="50" ink="ADD"/>
+      <layer id="3" z="50"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0"/>
+        <animationLayer id="1"/>
+        <animationLayer id="2" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="3"/>
+            <frame id="4"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0"/>
+        <animationLayer id="1" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="3"/>
+            <frame id="4"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3"/>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="4" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" ink="ADD" z="50"/>
+      <layer id="2" alpha="170" z="50" ink="ADD"/>
+      <layer id="3" z="50"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0"/>
+        <animationLayer id="1"/>
+        <animationLayer id="2" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="3"/>
+            <frame id="4"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0"/>
+        <animationLayer id="1" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="2"/>
+            <frame id="3"/>
+            <frame id="4"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3"/>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>

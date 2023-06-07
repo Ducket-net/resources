@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hblooza14_duckcrn" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hblooza14_duckcrn_visualization" mimeType="text/xml"/>
+      <asset name="hblooza14_duckcrn_assets" mimeType="text/xml"/>
+      <asset name="hblooza14_duckcrn_logic" mimeType="text/xml"/>
+      <asset name="hblooza14_duckcrn_64_sd_1_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_a_1_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_sd_3_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_a_3_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_sd_5_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_a_5_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_sd_7_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_64_a_7_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_sd_1_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_a_1_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_sd_3_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_a_3_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_sd_5_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_a_5_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_sd_7_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_32_a_7_0" mimeType="image/png"/>
+      <asset name="hblooza14_duckcrn_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

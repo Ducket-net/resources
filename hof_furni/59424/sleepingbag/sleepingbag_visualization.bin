@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="sleepingbag"><graphics>
+   <visualization size="32" layerCount="6" angle="45">
+      <layers>
+         <layer id="0" z="-100"/>
+         <layer id="1" z="-99"/>
+         <layer id="2" z="1000"/>
+         <layer id="3" z="2007"/>
+         <layer id="4" z="2007"/>
+         <layer id="5" z="2007"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="ed796b"/>
+            <colorLayer id="2" color="ed796b"/>
+            <colorLayer id="4" color="ed796b"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="d3ff82"/>
+            <colorLayer id="2" color="d3ff82"/>
+            <colorLayer id="4" color="d3ff82"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="8aeded"/>
+            <colorLayer id="2" color="8aeded"/>
+            <colorLayer id="4" color="8aeded"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="a9bc82"/>
+            <colorLayer id="2" color="a9bc82"/>
+            <colorLayer id="4" color="a9bc82"/>
+         </color>
+         <color id="5">
+            <colorLayer id="0" color="9f9f9f"/>
+            <colorLayer id="2" color="9f9f9f"/>
+            <colorLayer id="4" color="9f9f9f"/>
+         </color>
+         <color id="6">
+            <colorLayer id="0" color="a78acf"/>
+            <colorLayer id="2" color="a78acf"/>
+            <colorLayer id="4" color="a78acf"/>
+         </color>
+         <color id="7">
+            <colorLayer id="0" color="e49350"/>
+            <colorLayer id="2" color="e49350"/>
+            <colorLayer id="4" color="e49350"/>
+         </color>
+         <color id="8">
+            <colorLayer id="0" color="ffcc5a"/>
+            <colorLayer id="2" color="ffcc5a"/>
+            <colorLayer id="4" color="ffcc5a"/>
+         </color>
+         <color id="9">
+            <colorLayer id="0" color="3badf7"/>
+            <colorLayer id="2" color="3badf7"/>
+            <colorLayer id="4" color="3badf7"/>
+         </color>
+         <color id="10">
+            <colorLayer id="0" color="f3dac2"/>
+            <colorLayer id="2" color="f3dac2"/>
+            <colorLayer id="4" color="f3dac2"/>
+         </color>
+         <color id="11">
+            <colorLayer id="0" color="9c0247"/>
+            <colorLayer id="2" color="9c0247"/>
+            <colorLayer id="4" color="9c0247"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="6" angle="45">
+      <layers>
+         <layer id="0" z="-100"/>
+         <layer id="1" z="-99"/>
+         <layer id="2" z="1000"/>
+         <layer id="3" z="1895"/>
+         <layer id="4" z="1895"/>
+         <layer id="5" z="1896"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="ed796b"/>
+            <colorLayer id="2" color="ed796b"/>
+            <colorLayer id="4" color="ed796b"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="d3ff82"/>
+            <colorLayer id="2" color="d3ff82"/>
+            <colorLayer id="4" color="d3ff82"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="8aeded"/>
+            <colorLayer id="2" color="8aeded"/>
+            <colorLayer id="4" color="8aeded"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="a9bc82"/>
+            <colorLayer id="2" color="a9bc82"/>
+            <colorLayer id="4" color="a9bc82"/>
+         </color>
+         <color id="5">
+            <colorLayer id="0" color="9f9f9f"/>
+            <colorLayer id="2" color="9f9f9f"/>
+            <colorLayer id="4" color="9f9f9f"/>
+         </color>
+         <color id="6">
+            <colorLayer id="0" color="a78acf"/>
+            <colorLayer id="2" color="a78acf"/>
+            <colorLayer id="4" color="a78acf"/>
+         </color>
+         <color id="7">
+            <colorLayer id="0" color="e49350"/>
+            <colorLayer id="2" color="e49350"/>
+            <colorLayer id="4" color="e49350"/>
+         </color>
+         <color id="8">
+            <colorLayer id="0" color="ffcc5a"/>
+            <colorLayer id="2" color="ffcc5a"/>
+            <colorLayer id="4" color="ffcc5a"/>
+         </color>
+         <color id="9">
+            <colorLayer id="0" color="3badf7"/>
+            <colorLayer id="2" color="3badf7"/>
+            <colorLayer id="4" color="3badf7"/>
+         </color>
+         <color id="10">
+            <colorLayer id="0" color="f3dac2"/>
+            <colorLayer id="2" color="f3dac2"/>
+            <colorLayer id="4" color="f3dac2"/>
+         </color>
+         <color id="11">
+            <colorLayer id="0" color="9c0247"/>
+            <colorLayer id="2" color="9c0247"/>
+            <colorLayer id="4" color="9c0247"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="ed796b"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="d3ff82"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="8aeded"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="a9bc82"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="9f9f9f"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="a78acf"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="e49350"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="ffcc5a"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="3badf7"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="f3dac2"/>
+         </color>
+         <color id="11">
+            <colorLayer id="1" color="9c0247"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

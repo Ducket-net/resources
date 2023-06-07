@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="uservoice_soapbox"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="2" angle="45">
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <directions>
+      <direction id="4">
+        <layer id="1" z="700"/>
+      </direction>
+      <direction id="6"/>
+      <direction id="0"/>
+      <direction id="2">
+        <layer id="1" z="700"/>
+      </direction>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="2" angle="45">
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <directions>
+      <direction id="4">
+        <layer id="1" z="700"/>
+      </direction>
+      <direction id="6"/>
+      <direction id="0"/>
+      <direction id="2">
+        <layer id="1" z="700"/>
+      </direction>
+    </directions>
+    <animations/>
+  </visualization>
+</graphics></visualizationData>

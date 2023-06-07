@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="sofa_polyfon" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="sofa_polyfon_visualization" mimeType="text/xml"/>
+         <asset name="sofa_polyfon_assets" mimeType="text/xml"/>
+         <asset name="sofa_polyfon_logic" mimeType="text/xml"/>
+         <asset name="sofa_polyfon_32_a_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_a_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_b_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_b_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_c_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_c_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_d_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_d_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_e_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_e_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_f_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_f_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_g_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_g_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_girl_sd_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_h_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_32_h_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_a_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_a_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_b_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_b_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_c_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_c_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_d_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_d_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_e_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_e_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_f_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_f_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_g_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_g_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_h_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_h_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_h_4_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_sd_0_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_sd_2_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_sd_4_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_64_sd_6_0" mimeType="image/png"/>
+         <asset name="sofa_polyfon_icon_a" mimeType="image/png"/>
+         <asset name="sofa_polyfon_icon_b" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

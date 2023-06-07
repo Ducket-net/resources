@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="xmas11_balloon2_64_a_0_0" x="23" y="129"/>
+  <asset name="xmas11_balloon2_64_a_0_1" x="24" y="126"/>
+  <asset name="xmas11_balloon2_64_a_0_2" x="20" y="134"/>
+  <asset name="xmas11_balloon2_32_a_0_0" x="11" y="65"/>
+  <asset name="xmas11_balloon2_32_a_0_1" x="12" y="64"/>
+  <asset name="xmas11_balloon2_32_a_0_2" x="9" y="68"/>
+  <asset name="xmas11_balloon2_icon_a" x="10" y="54"/>
+  <asset name="xmas11_balloon2_64_a_2_0" flipH="1" source="xmas11_balloon2_64_a_0_0" x="23" y="129"/>
+  <asset name="xmas11_balloon2_64_a_2_1" flipH="1" source="xmas11_balloon2_64_a_0_1" x="24" y="126"/>
+  <asset name="xmas11_balloon2_64_a_2_2" flipH="1" source="xmas11_balloon2_64_a_0_2" x="20" y="134"/>
+  <asset name="xmas11_balloon2_32_a_2_0" flipH="1" source="xmas11_balloon2_32_a_0_0" x="11" y="65"/>
+  <asset name="xmas11_balloon2_32_a_2_1" flipH="1" source="xmas11_balloon2_32_a_0_1" x="12" y="64"/>
+  <asset name="xmas11_balloon2_32_a_2_2" flipH="1" source="xmas11_balloon2_32_a_0_2" x="9" y="68"/>
+</assets>

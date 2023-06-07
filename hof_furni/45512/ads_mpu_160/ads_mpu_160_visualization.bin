@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="ads_mpu_160"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="2" angle="45">
+    <layers>
+      <layer id="0" x="0" y="0"/>
+  <!-- OFFSETS OF B LAYER ARE CONFIGURED HERE! -->    <layer id="1" ink="COPY" x="-39" y="-113" tag="branded_image"/>
+    </layers>
+    <directions>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+     <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="2" angle="45">
+    <layers>
+      <layer id="0" x="0" y="0"/>
+  <!-- OFFSETS OF B LAYER ARE CONFIGURED HERE! -->    <layer id="1" x="-79" y="-220" tag="branded_image"/>
+    </layers>
+    <directions>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>

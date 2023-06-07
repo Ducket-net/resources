@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="usva2_lamble" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="usva2_lamble_visualization" mimeType="text/xml"/>
+      <asset name="usva2_lamble_assets" mimeType="text/xml"/>
+      <asset name="usva2_lamble_logic" mimeType="text/xml"/>
+      <asset name="usva2_lamble_32_d_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_32_d_0_1" mimeType="image/png"/>
+      <asset name="usva2_lamble_32_a_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_32_b_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_32_c_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_32_c_0_1" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_sd_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_d_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_d_0_1" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_a_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_b_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_c_0_0" mimeType="image/png"/>
+      <asset name="usva2_lamble_64_c_0_1" mimeType="image/png"/>
+      <asset name="usva2_lamble_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

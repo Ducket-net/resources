@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="nest_lion2" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="nest_lion2_visualization" mimeType="text/xml"/>
+      <asset name="nest_lion2_assets" mimeType="text/xml"/>
+      <asset name="nest_lion2_logic" mimeType="text/xml"/>
+      <asset name="nest_lion2_64_a_0_0" mimeType="image/png"/>
+      <asset name="nest_lion2_32_a_0_0" mimeType="image/png"/>
+      <asset name="nest_lion2_icon_a" mimeType="image/png"/>
+      <asset name="nest_lion2_64_a_4_0" mimeType="image/png"/>
+      <asset name="nest_lion2_32_a_4_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="party_tray" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="party_tray_visualization" mimeType="text/xml"/>
+         <asset name="party_tray_assets" mimeType="text/xml"/>
+         <asset name="party_tray_logic" mimeType="text/xml"/>
+         <asset name="party_tray_64_a_2_0" mimeType="image/png"/>
+         <asset name="party_tray_64_b_2_0" mimeType="image/png"/>
+         <asset name="party_tray_64_b_2_1" mimeType="image/png"/>
+         <asset name="party_tray_64_sd_2_0" mimeType="image/png"/>
+         <asset name="party_tray_icon_a" mimeType="image/png"/>
+         <asset name="party_tray_32_a_2_0" mimeType="image/png"/>
+         <asset name="party_tray_32_b_2_0" mimeType="image/png"/>
+         <asset name="party_tray_32_b_2_1" mimeType="image/png"/>
+         <asset name="party_tray_32_sd_2_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

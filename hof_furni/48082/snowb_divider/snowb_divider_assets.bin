@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="snowb_divider_64_sd_4_0" x="74" y="7"/>
+  <asset name="snowb_divider_64_a_4_0" x="16" y="62"/>
+  <asset name="snowb_divider_64_b_4_0" x="48" y="44"/>
+  <asset name="snowb_divider_64_a_4_1" x="16" y="107"/>
+  <asset name="snowb_divider_64_b_4_1" x="48" y="82"/>
+  <asset name="snowb_divider_32_sd_4_0" x="39" y="2"/>
+  <asset name="snowb_divider_32_a_4_0" x="9" y="31"/>
+  <asset name="snowb_divider_32_b_4_0" x="25" y="22"/>
+  <asset name="snowb_divider_32_c_4_0" x="39" y="11"/>
+  <asset name="snowb_divider_32_a_4_1" x="10" y="53"/>
+  <asset name="snowb_divider_32_b_4_1" x="25" y="41"/>
+  <asset name="snowb_divider_icon_a" x="17" y="19"/>
+  <asset name="snowb_divider_64_sd_2_0" flipH="1" source="snowb_divider_64_sd_4_0" x="74" y="7"/>
+  <asset name="snowb_divider_64_a_2_0" flipH="1" source="snowb_divider_64_a_4_0" x="16" y="62"/>
+  <asset name="snowb_divider_64_b_2_0" flipH="1" source="snowb_divider_64_b_4_0" x="48" y="44"/>
+  <asset name="snowb_divider_64_a_2_1" flipH="1" source="snowb_divider_64_a_4_1" x="16" y="107"/>
+  <asset name="snowb_divider_64_b_2_1" flipH="1" source="snowb_divider_64_b_4_1" x="48" y="82"/>
+  <asset name="snowb_divider_32_sd_2_0" flipH="1" source="snowb_divider_32_sd_4_0" x="39" y="2"/>
+  <asset name="snowb_divider_32_a_2_0" flipH="1" source="snowb_divider_32_a_4_0" x="9" y="31"/>
+  <asset name="snowb_divider_32_b_2_0" flipH="1" source="snowb_divider_32_b_4_0" x="25" y="22"/>
+  <asset name="snowb_divider_32_c_2_0" flipH="1" source="snowb_divider_32_c_4_0" x="39" y="11"/>
+  <asset name="snowb_divider_32_a_2_1" flipH="1" source="snowb_divider_32_a_4_1" x="10" y="53"/>
+  <asset name="snowb_divider_32_b_2_1" flipH="1" source="snowb_divider_32_b_4_1" x="25" y="41"/>
+  <asset name="snowb_divider_64_c_4_0" x="75" y="22"/>
+  <asset name="snowb_divider_64_c_4_1" x="74" y="66"/>
+  <asset name="snowb_divider_32_c_4_1" x="38" y="33"/>
+  <asset name="snowb_divider_32_c_2_1" flipH="1" source="snowb_divider_32_c_4_1" x="38" y="33"/>
+  <asset name="snowb_divider_64_c_2_1" flipH="1" source="snowb_divider_64_c_4_1" x="74" y="66"/>
+  <asset name="snowb_divider_64_c_2_0" flipH="1" source="snowb_divider_64_c_4_0" x="75" y="22"/>
+</assets>

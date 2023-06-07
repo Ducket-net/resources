@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="habw_mirror_icon_a" x="9" y="15"/>
+   <asset name="habw_mirror_64_a_2_0" x="24" y="40"/>
+   <asset name="habw_mirror_64_b_2_0" x="24" y="-36"/>
+   <asset name="habw_mirror_64_c_2_0" x="21" y="-35"/>
+   <asset name="habw_mirror_64_c_2_1" x="21" y="40"/>
+   <asset name="habw_mirror_64_a_4_0" flipH="1" source="habw_mirror_64_a_2_0" x="24" y="40"/>
+   <asset name="habw_mirror_64_b_4_0" flipH="1" source="habw_mirror_64_b_2_0" x="24" y="-36"/>
+   <asset name="habw_mirror_64_c_4_0" flipH="1" source="habw_mirror_64_c_2_0" x="21" y="-35"/>
+   <asset name="habw_mirror_64_c_4_1" flipH="1" source="habw_mirror_64_c_2_1" x="21" y="40"/>
+   <asset name="habw_mirror_32_a_2_0" x="12" y="21"/>
+   <asset name="habw_mirror_32_b_2_0" x="12" y="-17"/>
+   <asset name="habw_mirror_32_c_2_0" x="15" y="-21"/>
+   <asset name="habw_mirror_32_c_2_1" x="15" y="25"/>
+   <asset name="habw_mirror_32_a_4_0" flipH="1" source="habw_mirror_32_a_2_0" x="12" y="21"/>
+   <asset name="habw_mirror_32_b_4_0" flipH="1" source="habw_mirror_32_b_2_0" x="12" y="-17"/>
+   <asset name="habw_mirror_32_c_4_0" flipH="1" source="habw_mirror_32_c_2_0" x="15" y="-21"/>
+   <asset name="habw_mirror_32_c_4_1" flipH="1" source="habw_mirror_32_c_2_1" x="15" y="25"/>
+</assets>

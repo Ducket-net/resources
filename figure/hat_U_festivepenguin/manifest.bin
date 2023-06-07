@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_festivepenguin" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_4680_2_0" mimeType="image/png">
+        <param key="offset" value="30,40"/>
+      </asset>
+      <asset name="h_lsp_ha_4680_2_0" mimeType="image/png">
+        <param key="offset" value="-33,-119"/>
+      </asset>
+      <asset name="h_std_ha_4680_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_std_ha_4680_3_0" mimeType="image/png">
+        <param key="offset" value="-19,84"/>
+      </asset>
+      <asset name="h_std_ha_4680_2_0" mimeType="image/png">
+        <param key="offset" value="-13,79"/>
+      </asset>
+      <asset name="h_std_ha_4680_1_0" mimeType="image/png">
+        <param key="offset" value="-10,76"/>
+      </asset>
+      <asset name="h_std_ha_4680_0_0" mimeType="image/png">
+        <param key="offset" value="-16,75"/>
+      </asset>
+      <asset name="h_spk_ha_4680_7_0" mimeType="image/png">
+        <param key="offset" value="-19,76"/>
+      </asset>
+      <asset name="h_spk_ha_4680_3_0" mimeType="image/png">
+        <param key="offset" value="-19,85"/>
+      </asset>
+      <asset name="h_spk_ha_4680_2_0" mimeType="image/png">
+        <param key="offset" value="-13,80"/>
+      </asset>
+      <asset name="h_spk_ha_4680_1_0" mimeType="image/png">
+        <param key="offset" value="-10,77"/>
+      </asset>
+      <asset name="h_spk_ha_4680_0_0" mimeType="image/png">
+        <param key="offset" value="-16,76"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="ads_mall_winclo" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="ads_mall_winclo_visualization" mimeType="text/xml"/>
+         <asset name="ads_mall_winclo_assets" mimeType="text/xml"/>
+         <asset name="ads_mall_winclo_logic" mimeType="text/xml"/>
+         <asset name="ads_mall_winclo_icon_a" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_a_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_b_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_c_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_d_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_e_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_a_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_b_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_c_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_d_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_64_e_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_a_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_b_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_c_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_d_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_e_2_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_a_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_b_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_c_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_d_4_0" mimeType="image/png"/>
+         <asset name="ads_mall_winclo_32_e_4_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="post_it_juninas" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="post_it_juninas_visualization" mimeType="text/xml"/>
+      <asset name="post_it_juninas_assets" mimeType="text/xml"/>
+      <asset name="post_it_juninas_logic" mimeType="text/xml"/>
+      <asset name="post_it_juninas_32_a_2_0" mimeType="image/png"/>
+      <asset name="post_it_juninas_32_a_4_0" mimeType="image/png"/>
+      <asset name="post_it_juninas_64_a_2_0" mimeType="image/png"/>
+      <asset name="post_it_juninas_64_a_4_0" mimeType="image/png"/>
+      <asset name="post_it_juninas_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

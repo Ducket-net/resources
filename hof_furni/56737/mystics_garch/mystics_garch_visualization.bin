@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="mystics_garch">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="7" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="2500"/>
+        <layer id="3"/>
+        <layer id="4" ink="ADD" ignoreMouse="1"/>
+        <layer id="5" z="2500"/>
+        <layer id="6" ink="ADD" z="2500" ignoreMouse="1"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" frameRepeat="3" loopCount="0">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-2"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-4"/>
+              <frame id="0" y="-4"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-2"/>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5" loopCount="0" frameRepeat="3">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-2"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-4"/>
+              <frame id="0" y="-4"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-2"/>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" loopCount="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-2" x="-1"/>
+              <frame id="0" y="-3" x="-2"/>
+              <frame id="0" y="-4" x="-2"/>
+              <frame id="0" y="-4" x="-1"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-2" x="1"/>
+              <frame id="0" y="-1" x="2"/>
+              <frame id="0" y="0" x="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4" frameRepeat="1" loopCount="0">
+            <frameSequence>
+              <frame id="1" y="-1"/>
+              <frame id="1" y="-2" x="-1"/>
+              <frame id="1" y="-3" x="-2"/>
+              <frame id="1" y="-4" x="-2"/>
+              <frame id="1" y="-4" x="-1"/>
+              <frame id="1" y="-3"/>
+              <frame id="1" y="-2" x="1"/>
+              <frame id="1" y="-1" x="2"/>
+              <frame id="1" y="0" x="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="5" frameRepeat="2" loopCount="0">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-2" x="1"/>
+              <frame id="0" y="-3" x="2"/>
+              <frame id="0" y="-4" x="2"/>
+              <frame id="0" y="-4" x="1"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-2" x="-1"/>
+              <frame id="0" y="-1" x="-2"/>
+              <frame id="0" y="0" x="-1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6" frameRepeat="1" loopCount="0">
+            <frameSequence>
+              <frame id="1" y="-1"/>
+              <frame id="1" y="-2" x="1"/>
+              <frame id="1" y="-3" x="2"/>
+              <frame id="1" y="-4" x="2"/>
+              <frame id="1" y="-4" x="1"/>
+              <frame id="1" y="-3"/>
+              <frame id="1" y="-2" x="-1"/>
+              <frame id="1" y="-1" x="-2"/>
+              <frame id="1" y="0" x="-1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="7" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="2500"/>
+        <layer id="3"/>
+        <layer id="4" ink="ADD" ignoreMouse="1"/>
+        <layer id="5" z="2500"/>
+        <layer id="6" ink="ADD" z="2500" ignoreMouse="1"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" frameRepeat="3" loopCount="0">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-5"/>
+              <frame id="0" y="-6"/>
+              <frame id="0" y="-6"/>
+              <frame id="0" y="-5"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5" loopCount="0" frameRepeat="3">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-5"/>
+              <frame id="0" y="-6"/>
+              <frame id="0" y="-6"/>
+              <frame id="0" y="-5"/>
+              <frame id="0" y="-3"/>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" loopCount="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-3" x="-2"/>
+              <frame id="0" y="-5" x="-3"/>
+              <frame id="0" y="-6" x="-3"/>
+              <frame id="0" y="-6" x="-2"/>
+              <frame id="0" y="-5"/>
+              <frame id="0" y="-3" x="2"/>
+              <frame id="0" y="-1" x="3"/>
+              <frame id="0" y="0" x="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4" frameRepeat="1" loopCount="0">
+            <frameSequence>
+              <frame id="1" y="-1"/>
+              <frame id="1" y="-3" x="-2"/>
+              <frame id="1" y="-5" x="-3"/>
+              <frame id="1" y="-6" x="-3"/>
+              <frame id="1" y="-6" x="-2"/>
+              <frame id="1" y="-5"/>
+              <frame id="1" y="-3" x="2"/>
+              <frame id="1" y="-1" x="3"/>
+              <frame id="1" y="0" x="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="5" frameRepeat="2" loopCount="0">
+            <frameSequence>
+              <frame id="0" y="-1"/>
+              <frame id="0" y="-3" x="2"/>
+              <frame id="0" y="-5" x="3"/>
+              <frame id="0" y="-6" x="3"/>
+              <frame id="0" y="-6" x="2"/>
+              <frame id="0" y="-5" x="0"/>
+              <frame id="0" y="-3" x="-2"/>
+              <frame id="0" y="-1" x="-3"/>
+              <frame id="0" y="0" x="-2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6" frameRepeat="1" loopCount="0">
+            <frameSequence>
+              <frame id="1" y="-1"/>
+              <frame id="1" y="-3" x="2"/>
+              <frame id="1" y="-5" x="3"/>
+              <frame id="1" y="-6" x="3"/>
+              <frame id="1" y="-6" x="2"/>
+              <frame id="1" y="-5"/>
+              <frame id="1" y="-3" x="-2"/>
+              <frame id="1" y="-1" x="-3"/>
+              <frame id="1" y="0" x="-2"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

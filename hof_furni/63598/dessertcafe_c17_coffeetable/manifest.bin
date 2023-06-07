@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="dessertcafe_c17_coffeetable" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_coffeetable_visualization" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_coffeetable_assets" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_coffeetable_logic" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_coffeetable_64_sd_0_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_coffeetable_64_a_0_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_coffeetable_64_b_0_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_coffeetable_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

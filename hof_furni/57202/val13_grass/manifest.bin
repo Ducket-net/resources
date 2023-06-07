@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="val13_grass" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="val13_grass_visualization" mimeType="text/xml"/>
+      <asset name="val13_grass_assets" mimeType="text/xml"/>
+      <asset name="val13_grass_logic" mimeType="text/xml"/>
+      <asset name="val13_grass_64_a_0_0" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_0_1" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_0_2" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_2_1" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_2_2" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_4_1" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_4_2" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_6_1" mimeType="image/png"/>
+      <asset name="val13_grass_64_a_6_2" mimeType="image/png"/>
+      <asset name="val13_grass_icon_a" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_0_0" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_0_1" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_0_2" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_2_1" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_2_2" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_4_1" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_4_2" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_6_1" mimeType="image/png"/>
+      <asset name="val13_grass_32_a_6_2" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

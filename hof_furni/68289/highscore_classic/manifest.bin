@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="highscore_classic" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="highscore_classic_visualization" mimeType="text/xml"/>
+      <asset name="highscore_classic_assets" mimeType="text/xml"/>
+      <asset name="highscore_classic_logic" mimeType="text/xml"/>
+      <asset name="highscore_classic_32_a_2_0" mimeType="image/png"/>
+      <asset name="highscore_classic_32_b_2_0" mimeType="image/png"/>
+      <asset name="highscore_classic_32_b_2_1" mimeType="image/png"/>
+      <asset name="highscore_classic_64_a_2_0" mimeType="image/png"/>
+      <asset name="highscore_classic_64_b_2_0" mimeType="image/png"/>
+      <asset name="highscore_classic_64_b_2_1" mimeType="image/png"/>
+      <asset name="highscore_classic_icon_a" mimeType="image/png"/>
+      <asset name="highscore_classic_icon_b" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

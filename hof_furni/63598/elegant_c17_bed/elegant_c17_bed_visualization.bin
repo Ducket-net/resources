@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="elegant_c17_bed">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="2"/>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="6" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="1500"/>
+        <layer id="3" z="2500"/>
+        <layer id="4" z="2500"/>
+        <layer id="5" z="3000"/>
+      </layers>
+      <directions>
+        <direction id="2"/>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

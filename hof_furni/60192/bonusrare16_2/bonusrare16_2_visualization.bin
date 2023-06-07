@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="bonusrare16_2">
+  <graphics>
+    <visualization size="1" layerCount="3" angle="360">
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="7b6464"/>
+            <colorLayer id="1" color="e3af6b"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="67577e"/>
+            <colorLayer id="1" color="b29b8d"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="919ea0"/>
+            <colorLayer id="1" color="39422e"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="332f2c"/>
+            <colorLayer id="1" color="a26a45"/>
+         </color>
+      </colors>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="4" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" ink="COPY"/>
+        <layer id="2" ink="ADD"/>
+        <layer id="3"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="7b6464"/>
+            <colorLayer id="1" color="e3af6b"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="67577e"/>
+            <colorLayer id="1" color="b29b8d"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="919ea0"/>
+            <colorLayer id="1" color="39422e"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="332f2c"/>
+            <colorLayer id="1" color="a26a45"/>
+         </color>
+      </colors>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="2">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

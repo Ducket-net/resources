@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc2_vase_icon_a" x="4" y="19"/>
+  <asset name="hc2_vase_64_sd_0_0" x="16" y="7"/>
+  <asset name="hc2_vase_64_a_0_0" x="15" y="112"/>
+  <asset name="hc2_vase_32_sd_0_0" x="8" y="2"/>
+  <asset name="hc2_vase_32_a_0_0" x="8" y="56"/>
+  <asset name="hc2_vase_64_sd_4_0" flipH="1" source="hc2_vase_64_sd_0_0" x="16" y="7"/>
+  <asset name="hc2_vase_64_a_4_0" flipH="1" source="hc2_vase_64_a_0_0" x="15" y="112"/>
+  <asset name="hc2_vase_32_sd_4_0" flipH="1" source="hc2_vase_32_sd_0_0" x="8" y="2"/>
+  <asset name="hc2_vase_32_a_4_0" flipH="1" source="hc2_vase_32_a_0_0" x="8" y="56"/>
+</assets>

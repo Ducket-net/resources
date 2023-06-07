@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="christmas_reindeer_64_a_2_0" x="14" y="54"/>
+   <asset name="christmas_reindeer_64_a_4_0" flipH="1" source="christmas_reindeer_64_a_2_0" x="14" y="54"/>
+   <asset name="christmas_reindeer_64_b_2_0" x="10" y="32"/>
+   <asset name="christmas_reindeer_64_b_4_0" flipH="1" source="christmas_reindeer_64_b_2_0" x="10" y="32"/>
+   <asset name="christmas_reindeer_64_c_2_0" x="1" y="132"/>
+   <asset name="christmas_reindeer_64_c_4_0" flipH="1" source="christmas_reindeer_64_c_2_0" x="1" y="132"/>
+   <asset name="christmas_reindeer_64_d_2_0" x="11" y="127"/>
+   <asset name="christmas_reindeer_64_d_4_0" flipH="1" source="christmas_reindeer_64_d_2_0" x="11" y="127"/>
+   <asset name="christmas_reindeer_64_e_2_0" x="-48" y="70"/>
+   <asset name="christmas_reindeer_64_e_2_1" x="-47" y="71"/>
+   <asset name="christmas_reindeer_64_e_4_0" flipH="1" source="christmas_reindeer_64_e_2_0" x="-48" y="70"/>
+   <asset name="christmas_reindeer_64_e_4_1" flipH="1" source="christmas_reindeer_64_e_2_1" x="-47" y="71"/>
+   <asset name="christmas_reindeer_64_f_2_0" source="christmas_reindeer_64_e_2_0" x="-48" y="70"/>
+   <asset name="christmas_reindeer_64_f_2_1" x="-30" y="89"/>
+   <asset name="christmas_reindeer_64_f_4_0" flipH="1" source="christmas_reindeer_64_e_2_0" x="-48" y="70"/>
+   <asset name="christmas_reindeer_64_f_4_1" flipH="1" source="christmas_reindeer_64_f_2_1" x="-30" y="89"/>
+   <asset name="christmas_reindeer_64_sd_2_0" x="14" y="8"/>
+   <asset name="christmas_reindeer_64_sd_4_0" flipH="1" source="christmas_reindeer_64_sd_2_0" x="14" y="8"/>
+   <asset name="christmas_reindeer_icon_a" x="14" y="15"/>
+   <asset name="christmas_reindeer_32_a_2_0" x="7" y="26"/>
+   <asset name="christmas_reindeer_32_a_4_0" flipH="1" source="christmas_reindeer_32_a_2_0" x="7" y="26"/>
+   <asset name="christmas_reindeer_32_b_2_0" x="5" y="14"/>
+   <asset name="christmas_reindeer_32_b_4_0" flipH="1" source="christmas_reindeer_32_b_2_0" x="5" y="14"/>
+   <asset name="christmas_reindeer_32_c_2_0" x="1" y="66"/>
+   <asset name="christmas_reindeer_32_c_4_0" flipH="1" source="christmas_reindeer_32_c_2_0" x="1" y="66"/>
+   <asset name="christmas_reindeer_32_d_2_0" x="6" y="63"/>
+   <asset name="christmas_reindeer_32_d_4_0" flipH="1" source="christmas_reindeer_32_d_2_0" x="6" y="63"/>
+   <asset name="christmas_reindeer_32_e_2_0" x="-24" y="34"/>
+   <asset name="christmas_reindeer_32_e_2_1" x="-24" y="35"/>
+   <asset name="christmas_reindeer_32_e_4_0" flipH="1" source="christmas_reindeer_32_e_2_0" x="-24" y="34"/>
+   <asset name="christmas_reindeer_32_e_4_1" flipH="1" source="christmas_reindeer_32_e_2_1" x="-24" y="35"/>
+   <asset name="christmas_reindeer_32_f_2_0" source="christmas_reindeer_32_e_2_0" x="-24" y="34"/>
+   <asset name="christmas_reindeer_32_f_2_1" x="-14" y="49"/>
+   <asset name="christmas_reindeer_32_f_4_0" flipH="1" source="christmas_reindeer_32_e_2_0" x="-24" y="34"/>
+   <asset name="christmas_reindeer_32_f_4_1" flipH="1" source="christmas_reindeer_32_f_2_1" x="-14" y="49"/>
+   <asset name="christmas_reindeer_32_sd_2_0" x="3" y="-4"/>
+   <asset name="christmas_reindeer_32_sd_4_0" flipH="1" source="christmas_reindeer_32_sd_2_0" x="3" y="-4"/>
+</assets>

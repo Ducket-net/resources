@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="scifi_r17_cruiser" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="scifi_r17_cruiser_visualization" mimeType="text/xml"/>
+      <asset name="scifi_r17_cruiser_assets" mimeType="text/xml"/>
+      <asset name="scifi_r17_cruiser_logic" mimeType="text/xml"/>
+      <asset name="scifi_r17_cruiser_64_sd_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_l_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_m_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_l_4_1" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_m_4_1" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_l_4_2" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_m_4_2" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_l_4_3" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_m_4_3" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_c_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_d_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_c_4_1" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_d_4_1" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_c_4_2" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_d_4_2" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_c_4_3" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_d_4_3" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_e_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_f_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_g_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_h_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_i_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_j_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_64_k_4_0" mimeType="image/png"/>
+      <asset name="scifi_r17_cruiser_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

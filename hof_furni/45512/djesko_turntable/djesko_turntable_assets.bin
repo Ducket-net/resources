@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="djesko_turntable_64_a_0_0" x="29" y="35"/>
+   <asset name="djesko_turntable_64_a_2_0" x="29" y="38"/>
+   <asset name="djesko_turntable_64_a_4_0" flipH="1" source="djesko_turntable_64_a_2_0" x="29" y="38"/>
+   <asset name="djesko_turntable_64_a_6_0" flipH="1" source="djesko_turntable_64_a_0_0" x="29" y="35"/>
+   <asset name="djesko_turntable_64_sd_0_0" x="29" y="17"/>
+   <asset name="djesko_turntable_64_sd_2_0" source="djesko_turntable_64_sd_0_0" x="29" y="17"/>
+   <asset name="djesko_turntable_64_sd_4_0" source="djesko_turntable_64_sd_0_0" x="29" y="17"/>
+   <asset name="djesko_turntable_64_sd_6_0" source="djesko_turntable_64_sd_0_0" x="29" y="17"/>
+   <asset name="djesko_turntable_icon_a" x="15" y="13"/>
+   <asset name="djesko_turntable_32_a_0_0" flipH="1" source="djesko_turntable_32_a_2_0" x="15" y="19"/>
+   <asset name="djesko_turntable_32_a_2_0" x="15" y="19"/>
+   <asset name="djesko_turntable_32_a_4_0" flipH="1" source="djesko_turntable_32_a_2_0" x="15" y="19"/>
+   <asset name="djesko_turntable_32_a_6_0" source="djesko_turntable_32_a_2_0" x="15" y="19"/>
+   <asset name="djesko_turntable_32_sd_0_0" x="14" y="8"/>
+   <asset name="djesko_turntable_32_sd_2_0" source="djesko_turntable_32_sd_0_0" x="14" y="8"/>
+   <asset name="djesko_turntable_32_sd_4_0" source="djesko_turntable_32_sd_0_0" x="14" y="8"/>
+   <asset name="djesko_turntable_32_sd_6_0" source="djesko_turntable_32_sd_0_0" x="14" y="8"/>
+</assets>

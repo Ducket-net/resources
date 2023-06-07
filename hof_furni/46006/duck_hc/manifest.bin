@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="duck_hc" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="duck_hc_visualization" mimeType="text/xml"/>
+      <asset name="duck_hc_assets" mimeType="text/xml"/>
+      <asset name="duck_hc_logic" mimeType="text/xml"/>
+      <asset name="duck_hc_64_sd_0_0" mimeType="image/png"/>
+      <asset name="duck_hc_64_a_4_0" mimeType="image/png"/>
+      <asset name="duck_hc_64_a_6_0" mimeType="image/png"/>
+      <asset name="duck_hc_32_sd_0_0" mimeType="image/png"/>
+      <asset name="duck_hc_32_a_4_0" mimeType="image/png"/>
+      <asset name="duck_hc_32_a_6_0" mimeType="image/png"/>
+      <asset name="duck_hc_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

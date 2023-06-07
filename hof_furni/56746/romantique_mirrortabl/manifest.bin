@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="romantique_mirrortabl" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="romantique_mirrortabl_visualization" mimeType="text/xml"/>
+         <asset name="romantique_mirrortabl_assets" mimeType="text/xml"/>
+         <asset name="romantique_mirrortabl_logic" mimeType="text/xml"/>
+         <asset name="romantique_mirrortabl_64_a_2_0" mimeType="image/png"/>
+         <asset name="romantique_mirrortabl_64_b_2_0" mimeType="image/png"/>
+         <asset name="romantique_mirrortabl_64_sd_2_0" mimeType="image/png"/>
+         <asset name="romantique_mirrortabl_icon_a" mimeType="image/png"/>
+         <asset name="romantique_mirrortabl_32_a_2_0" mimeType="image/png"/>
+         <asset name="romantique_mirrortabl_32_b_2_0" mimeType="image/png"/>
+         <asset name="romantique_mirrortabl_32_sd_2_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

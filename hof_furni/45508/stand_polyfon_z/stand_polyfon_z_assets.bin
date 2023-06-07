@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="stand_polyfon_z_32_a_0_0" x="14" y="15"/>
+   <asset name="stand_polyfon_z_32_a_2_0" flipH="1" source="stand_polyfon_z_32_a_0_0" x="14" y="15"/>
+   <asset name="stand_polyfon_z_32_sd_0_0" x="15" y="7"/>
+   <asset name="stand_polyfon_z_32_sd_2_0" source="stand_polyfon_z_32_sd_0_0" x="15" y="7"/>
+   <asset name="stand_polyfon_z_64_a_0_0" x="28" y="31"/>
+   <asset name="stand_polyfon_z_64_a_2_0" flipH="1" source="stand_polyfon_z_64_a_0_0" x="28" y="31"/>
+   <asset name="stand_polyfon_z_64_sd_0_0" x="27" y="15"/>
+   <asset name="stand_polyfon_z_64_sd_2_0" x="26" y="14"/>
+   <asset name="stand_polyfon_z_icon_a" x="15" y="11"/>
+</assets>

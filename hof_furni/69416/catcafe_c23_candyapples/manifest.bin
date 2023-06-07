@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="catcafe_c23_candyapples" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="catcafe_c23_candyapples_visualization" mimeType="text/xml"/>
+      <asset name="catcafe_c23_candyapples_assets" mimeType="text/xml"/>
+      <asset name="catcafe_c23_candyapples_logic" mimeType="text/xml"/>
+      <asset name="catcafe_c23_candyapples_64_sd_0_0" mimeType="image/png"/>
+      <asset name="catcafe_c23_candyapples_64_a_0_0" mimeType="image/png"/>
+      <asset name="catcafe_c23_candyapples_64_a_0_1" mimeType="image/png"/>
+      <asset name="catcafe_c23_candyapples_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

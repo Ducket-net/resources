@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hair_U_thaiheaddress" version="0.1">
+    <assets>
+      <asset name="h_lay_hrb_4138_2_0" mimeType="image/png">
+        <param key="offset" value="36,47"/>
+      </asset>
+      <asset name="h_lay_hr_4138_2_0" mimeType="image/png">
+        <param key="offset" value="36,47"/>
+      </asset>
+      <asset name="h_lay_hrb_4139_2_0" mimeType="image/png">
+        <param key="offset" value="27,40"/>
+      </asset>
+      <asset name="h_lay_hr_4139_2_0" mimeType="image/png">
+        <param key="offset" value="27,40"/>
+      </asset>
+      <asset name="h_lsp_hrb_4138_2_0" mimeType="image/png">
+        <param key="offset" value="-27,-112"/>
+      </asset>
+      <asset name="h_lsp_hr_4138_2_0" mimeType="image/png">
+        <param key="offset" value="-27,-112"/>
+      </asset>
+      <asset name="h_lsp_hrb_4139_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-119"/>
+      </asset>
+      <asset name="h_lsp_hr_4139_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-119"/>
+      </asset>
+      <asset name="h_std_hrb_4138_7_0" mimeType="image/png">
+        <param key="offset" value="-16,86"/>
+      </asset>
+      <asset name="h_std_hr_4138_7_0" mimeType="image/png">
+        <param key="offset" value="-16,86"/>
+      </asset>
+      <asset name="h_std_hrb_4138_3_0" mimeType="image/png">
+        <param key="offset" value="-16,94"/>
+      </asset>
+      <asset name="h_std_hr_4138_3_0" mimeType="image/png">
+        <param key="offset" value="-16,94"/>
+      </asset>
+      <asset name="h_std_hrb_4138_2_0" mimeType="image/png">
+        <param key="offset" value="-17,91"/>
+      </asset>
+      <asset name="h_std_hr_4138_2_0" mimeType="image/png">
+        <param key="offset" value="-17,91"/>
+      </asset>
+      <asset name="h_std_hrb_4138_1_0" mimeType="image/png">
+        <param key="offset" value="-17,92"/>
+      </asset>
+      <asset name="h_std_hr_4138_1_0" mimeType="image/png">
+        <param key="offset" value="-17,92"/>
+      </asset>
+      <asset name="h_std_hrb_4138_0_0" mimeType="image/png">
+        <param key="offset" value="-15,89"/>
+      </asset>
+      <asset name="h_std_hr_4138_0_0" mimeType="image/png">
+        <param key="offset" value="-15,89"/>
+      </asset>
+      <asset name="h_std_hrb_4139_7_0" mimeType="image/png">
+        <param key="offset" value="-17,75"/>
+      </asset>
+      <asset name="h_std_hr_4139_7_0" mimeType="image/png">
+        <param key="offset" value="-17,75"/>
+      </asset>
+      <asset name="h_std_hrb_4139_3_0" mimeType="image/png">
+        <param key="offset" value="-17,83"/>
+      </asset>
+      <asset name="h_std_hr_4139_3_0" mimeType="image/png">
+        <param key="offset" value="-17,83"/>
+      </asset>
+      <asset name="h_std_hrb_4139_2_0" mimeType="image/png">
+        <param key="offset" value="-19,80"/>
+      </asset>
+      <asset name="h_std_hr_4139_2_0" mimeType="image/png">
+        <param key="offset" value="-19,80"/>
+      </asset>
+      <asset name="h_std_hrb_4139_1_0" mimeType="image/png">
+        <param key="offset" value="-22,81"/>
+      </asset>
+      <asset name="h_std_hr_4139_1_0" mimeType="image/png">
+        <param key="offset" value="-22,81"/>
+      </asset>
+      <asset name="h_std_hrb_4139_0_0" mimeType="image/png">
+        <param key="offset" value="-16,78"/>
+      </asset>
+      <asset name="h_std_hr_4139_0_0" mimeType="image/png">
+        <param key="offset" value="-16,78"/>
+      </asset>
+      <asset name="h_spk_hrb_4138_7_0" mimeType="image/png">
+        <param key="offset" value="-16,87"/>
+      </asset>
+      <asset name="h_spk_hr_4138_7_0" mimeType="image/png">
+        <param key="offset" value="-16,87"/>
+      </asset>
+      <asset name="h_spk_hrb_4138_3_0" mimeType="image/png">
+        <param key="offset" value="-16,95"/>
+      </asset>
+      <asset name="h_spk_hr_4138_3_0" mimeType="image/png">
+        <param key="offset" value="-16,95"/>
+      </asset>
+      <asset name="h_spk_hrb_4138_2_0" mimeType="image/png">
+        <param key="offset" value="-17,92"/>
+      </asset>
+      <asset name="h_spk_hr_4138_2_0" mimeType="image/png">
+        <param key="offset" value="-17,92"/>
+      </asset>
+      <asset name="h_spk_hrb_4138_1_0" mimeType="image/png">
+        <param key="offset" value="-17,93"/>
+      </asset>
+      <asset name="h_spk_hr_4138_1_0" mimeType="image/png">
+        <param key="offset" value="-17,93"/>
+      </asset>
+      <asset name="h_spk_hrb_4138_0_0" mimeType="image/png">
+        <param key="offset" value="-15,90"/>
+      </asset>
+      <asset name="h_spk_hr_4138_0_0" mimeType="image/png">
+        <param key="offset" value="-15,90"/>
+      </asset>
+      <asset name="h_spk_hrb_4139_7_0" mimeType="image/png">
+        <param key="offset" value="-17,76"/>
+      </asset>
+      <asset name="h_spk_hr_4139_7_0" mimeType="image/png">
+        <param key="offset" value="-17,76"/>
+      </asset>
+      <asset name="h_spk_hrb_4139_3_0" mimeType="image/png">
+        <param key="offset" value="-17,84"/>
+      </asset>
+      <asset name="h_spk_hr_4139_3_0" mimeType="image/png">
+        <param key="offset" value="-17,84"/>
+      </asset>
+      <asset name="h_spk_hrb_4139_2_0" mimeType="image/png">
+        <param key="offset" value="-19,81"/>
+      </asset>
+      <asset name="h_spk_hr_4139_2_0" mimeType="image/png">
+        <param key="offset" value="-19,81"/>
+      </asset>
+      <asset name="h_spk_hrb_4139_1_0" mimeType="image/png">
+        <param key="offset" value="-22,82"/>
+      </asset>
+      <asset name="h_spk_hr_4139_1_0" mimeType="image/png">
+        <param key="offset" value="-22,82"/>
+      </asset>
+      <asset name="h_spk_hrb_4139_0_0" mimeType="image/png">
+        <param key="offset" value="-16,79"/>
+      </asset>
+      <asset name="h_spk_hr_4139_0_0" mimeType="image/png">
+        <param key="offset" value="-16,79"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

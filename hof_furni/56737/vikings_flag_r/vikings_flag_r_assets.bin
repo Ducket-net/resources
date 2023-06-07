@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="vikings_flag_r_32_sd_0_0" x="11" y="6"/>
+  <asset name="vikings_flag_r_32_a_0_0" x="26" y="83"/>
+  <asset name="vikings_flag_r_64_sd_0_0" x="20" y="9"/>
+  <asset name="vikings_flag_r_64_a_0_0" x="52" y="165"/>
+  <asset name="vikings_flag_r_icon_a" x="8" y="14"/>
+  <asset name="vikings_flag_r_32_sd_2_0" flipH="1" source="vikings_flag_r_32_sd_0_0" x="11" y="6"/>
+  <asset name="vikings_flag_r_32_a_2_0" flipH="1" source="vikings_flag_r_32_a_0_0" x="26" y="83"/>
+  <asset name="vikings_flag_r_64_sd_2_0" flipH="1" source="vikings_flag_r_64_sd_0_0" x="20" y="9"/>
+  <asset name="vikings_flag_r_64_a_2_0" flipH="1" source="vikings_flag_r_64_a_0_0" x="52" y="165"/>
+</assets>

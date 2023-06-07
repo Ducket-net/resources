@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="shirt_F_plungebikini" version="0.1">
+    <assets>
+      <asset name="h_lay_ch_3409_2_0" mimeType="image/png">
+        <param key="offset" value="2,23"/>
+      </asset>
+      <asset name="h_lay_ch_3410_2_0" mimeType="image/png">
+        <param key="offset" value="-3,23"/>
+      </asset>
+      <asset name="h_std_ch_3409_0_0" mimeType="image/png">
+        <param key="offset" value="-20,48"/>
+      </asset>
+      <asset name="h_std_ch_3409_1_0" mimeType="image/png">
+        <param key="offset" value="-24,47"/>
+      </asset>
+      <asset name="h_std_ch_3409_2_0" mimeType="image/png">
+        <param key="offset" value="-22,47"/>
+      </asset>
+      <asset name="h_std_ch_3409_3_0" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+      <asset name="h_std_ch_3409_7_0" mimeType="image/png">
+        <param key="offset" value="-23,46"/>
+      </asset>
+      <asset name="h_std_ch_3410_0_0" mimeType="image/png">
+        <param key="offset" value="-25,39"/>
+      </asset>
+      <asset name="h_std_ch_3410_1_0" mimeType="image/png">
+        <param key="offset" value="-38,41"/>
+      </asset>
+      <asset name="h_std_ch_3410_2_0" mimeType="image/png">
+        <param key="offset" value="-30,43"/>
+      </asset>
+      <asset name="h_std_ch_3410_3_0" mimeType="image/png">
+        <param key="offset" value="-28,42"/>
+      </asset>
+      <asset name="h_std_ch_3410_7_0" mimeType="image/png">
+        <param key="offset" value="-32,37"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

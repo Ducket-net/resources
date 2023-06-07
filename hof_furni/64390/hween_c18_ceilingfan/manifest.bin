@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween_c18_ceilingfan" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween_c18_ceilingfan_visualization" mimeType="text/xml"/>
+      <asset name="hween_c18_ceilingfan_assets" mimeType="text/xml"/>
+      <asset name="hween_c18_ceilingfan_logic" mimeType="text/xml"/>
+      <asset name="hween_c18_ceilingfan_64_sd_0_0" mimeType="image/png"/>
+      <asset name="hween_c18_ceilingfan_64_a_0_0" mimeType="image/png"/>
+      <asset name="hween_c18_ceilingfan_64_a_0_1" mimeType="image/png"/>
+      <asset name="hween_c18_ceilingfan_64_a_0_2" mimeType="image/png"/>
+      <asset name="hween_c18_ceilingfan_64_a_0_3" mimeType="image/png"/>
+      <asset name="hween_c18_ceilingfan_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="uni_plushpile" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="uni_plushpile_visualization" mimeType="text/xml"/>
+      <asset name="uni_plushpile_assets" mimeType="text/xml"/>
+      <asset name="uni_plushpile_logic" mimeType="text/xml"/>
+      <asset name="uni_plushpile_64_sd_4_0" mimeType="image/png"/>
+      <asset name="uni_plushpile_64_a_4_0" mimeType="image/png"/>
+      <asset name="uni_plushpile_64_a_4_1" mimeType="image/png"/>
+      <asset name="uni_plushpile_64_a_4_2" mimeType="image/png"/>
+      <asset name="uni_plushpile_64_a_4_3" mimeType="image/png"/>
+      <asset name="uni_plushpile_64_a_4_4" mimeType="image/png"/>
+      <asset name="uni_plushpile_32_sd_4_0" mimeType="image/png"/>
+      <asset name="uni_plushpile_32_a_4_0" mimeType="image/png"/>
+      <asset name="uni_plushpile_32_a_4_1" mimeType="image/png"/>
+      <asset name="uni_plushpile_32_a_4_2" mimeType="image/png"/>
+      <asset name="uni_plushpile_32_a_4_3" mimeType="image/png"/>
+      <asset name="uni_plushpile_32_a_4_4" mimeType="image/png"/>
+      <asset name="uni_plushpile_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="runway_umbrellalight_64_sd_6_0" x="14" y="4"/>
+  <asset name="runway_umbrellalight_64_a_6_0" x="31" y="128"/>
+  <asset name="runway_umbrellalight_64_b_6_0" x="1" y="33"/>
+  <asset name="runway_umbrellalight_64_b_6_1" x="42" y="135"/>
+  <asset name="runway_umbrellalight_64_c_6_0" x="1" y="33"/>
+  <asset name="runway_umbrellalight_64_c_6_1" x="74" y="175"/>
+  <asset name="runway_umbrellalight_64_sd_2_0" x="24" y="4"/>
+  <asset name="runway_umbrellalight_64_a_2_0" x="24" y="122"/>
+  <asset name="runway_umbrellalight_64_b_2_0" x="0" y="39"/>
+  <asset name="runway_umbrellalight_64_b_2_1" x="23" y="135"/>
+  <asset name="runway_umbrellalight_64_c_2_0" x="0" y="39"/>
+  <asset name="runway_umbrellalight_64_c_2_1" x="55" y="162"/>
+  <asset name="runway_umbrellalight_32_sd_6_0" x="12" y="2"/>
+  <asset name="runway_umbrellalight_32_a_6_0" x="17" y="65"/>
+  <asset name="runway_umbrellalight_32_b_6_0" x="0" y="23"/>
+  <asset name="runway_umbrellalight_32_b_6_1" x="22" y="68"/>
+  <asset name="runway_umbrellalight_32_c_6_0" x="0" y="23"/>
+  <asset name="runway_umbrellalight_32_c_6_1" x="38" y="88"/>
+  <asset name="runway_umbrellalight_32_sd_2_0" x="12" y="2"/>
+  <asset name="runway_umbrellalight_32_a_2_0" x="14" y="62"/>
+  <asset name="runway_umbrellalight_32_b_2_0" x="-5" y="33"/>
+  <asset name="runway_umbrellalight_32_b_2_1" x="12" y="68"/>
+  <asset name="runway_umbrellalight_32_c_2_0" x="-5" y="33"/>
+  <asset name="runway_umbrellalight_32_c_2_1" x="28" y="82"/>
+  <asset name="runway_umbrellalight_icon_a" x="6" y="14"/>
+  <asset name="runway_umbrellalight_64_sd_4_0" flipH="1" source="runway_umbrellalight_64_sd_2_0" x="24" y="4"/>
+  <asset name="runway_umbrellalight_64_a_4_0" flipH="1" source="runway_umbrellalight_64_a_2_0" x="24" y="122"/>
+  <asset name="runway_umbrellalight_64_b_4_0" flipH="1" source="runway_umbrellalight_64_b_2_0" x="0" y="39"/>
+  <asset name="runway_umbrellalight_64_b_4_1" flipH="1" source="runway_umbrellalight_64_b_2_1" x="23" y="135"/>
+  <asset name="runway_umbrellalight_64_c_4_0" flipH="1" source="runway_umbrellalight_64_c_2_0" x="0" y="39"/>
+  <asset name="runway_umbrellalight_64_c_4_1" flipH="1" source="runway_umbrellalight_64_c_2_1" x="55" y="162"/>
+  <asset name="runway_umbrellalight_32_sd_4_0" flipH="1" source="runway_umbrellalight_32_sd_2_0" x="12" y="2"/>
+  <asset name="runway_umbrellalight_32_a_4_0" flipH="1" source="runway_umbrellalight_32_a_2_0" x="14" y="62"/>
+  <asset name="runway_umbrellalight_32_b_4_0" flipH="1" source="runway_umbrellalight_32_b_2_0" x="-5" y="33"/>
+  <asset name="runway_umbrellalight_32_b_4_1" flipH="1" source="runway_umbrellalight_32_b_2_1" x="12" y="68"/>
+  <asset name="runway_umbrellalight_32_c_4_0" flipH="1" source="runway_umbrellalight_32_c_2_0" x="-5" y="33"/>
+  <asset name="runway_umbrellalight_32_c_4_1" flipH="1" source="runway_umbrellalight_32_c_2_1" x="28" y="82"/>
+  <asset name="runway_umbrellalight_64_sd_0_0" flipH="1" source="runway_umbrellalight_64_sd_6_0" x="14" y="4"/>
+  <asset name="runway_umbrellalight_64_a_0_0" flipH="1" source="runway_umbrellalight_64_a_6_0" x="31" y="128"/>
+  <asset name="runway_umbrellalight_64_b_0_0" flipH="1" source="runway_umbrellalight_64_b_6_0" x="1" y="33"/>
+  <asset name="runway_umbrellalight_64_b_0_1" flipH="1" source="runway_umbrellalight_64_b_6_1" x="42" y="135"/>
+  <asset name="runway_umbrellalight_64_c_0_0" flipH="1" source="runway_umbrellalight_64_c_6_0" x="1" y="33"/>
+  <asset name="runway_umbrellalight_64_c_0_1" flipH="1" source="runway_umbrellalight_64_c_6_1" x="74" y="175"/>
+  <asset name="runway_umbrellalight_32_sd_0_0" flipH="1" source="runway_umbrellalight_32_sd_6_0" x="12" y="2"/>
+  <asset name="runway_umbrellalight_32_a_0_0" flipH="1" source="runway_umbrellalight_32_a_6_0" x="17" y="65"/>
+  <asset name="runway_umbrellalight_32_b_0_0" flipH="1" source="runway_umbrellalight_32_b_6_0" x="0" y="23"/>
+  <asset name="runway_umbrellalight_32_b_0_1" flipH="1" source="runway_umbrellalight_32_b_6_1" x="22" y="68"/>
+  <asset name="runway_umbrellalight_32_c_0_0" flipH="1" source="runway_umbrellalight_32_c_6_0" x="0" y="23"/>
+  <asset name="runway_umbrellalight_32_c_0_1" flipH="1" source="runway_umbrellalight_32_c_6_1" x="38" y="88"/>
+</assets>

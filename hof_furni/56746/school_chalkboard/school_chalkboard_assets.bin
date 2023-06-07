@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="school_chalkboard_64_a_2_0" x="64" y="73"/>
+   <asset name="school_chalkboard_64_b_2_0" x="0" y="0"/>
+   <asset name="school_chalkboard_64_b_2_1" x="49" y="45"/>
+   <asset name="school_chalkboard_64_b_2_2" x="57" y="56"/>
+   <asset name="school_chalkboard_64_b_2_3" x="51" y="23"/>
+   <asset name="school_chalkboard_64_a_4_0" x="64" y="73"/>
+   <asset name="school_chalkboard_64_b_4_0" flipH="1" source="school_chalkboard_64_b_2_0" x="0" y="0"/>
+   <asset name="school_chalkboard_64_b_4_1" x="46" y="44"/>
+   <asset name="school_chalkboard_64_b_4_2" x="53" y="58"/>
+   <asset name="school_chalkboard_64_b_4_3" x="46" y="41"/>
+   <asset name="school_chalkboard_32_a_2_0" x="32" y="37"/>
+   <asset name="school_chalkboard_32_b_2_0" x="0" y="0"/>
+   <asset name="school_chalkboard_32_b_2_1" x="24" y="22"/>
+   <asset name="school_chalkboard_32_b_2_2" x="27" y="27"/>
+   <asset name="school_chalkboard_32_b_2_3" x="24" y="10"/>
+   <asset name="school_chalkboard_32_a_4_0" x="32" y="37"/>
+   <asset name="school_chalkboard_32_b_4_0" flipH="1" source="school_chalkboard_32_b_2_0" x="0" y="0"/>
+   <asset name="school_chalkboard_32_b_4_1" x="23" y="23"/>
+   <asset name="school_chalkboard_32_b_4_2" x="27" y="29"/>
+   <asset name="school_chalkboard_32_b_4_3" x="23" y="20"/>
+   <asset name="school_chalkboard_icon_a" x="13" y="14"/>
+</assets>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="elegant_c17_walldecor" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="elegant_c17_walldecor_visualization" mimeType="text/xml"/>
+      <asset name="elegant_c17_walldecor_assets" mimeType="text/xml"/>
+      <asset name="elegant_c17_walldecor_logic" mimeType="text/xml"/>
+      <asset name="elegant_c17_walldecor_64_a_0_0" mimeType="image/png"/>
+      <asset name="elegant_c17_walldecor_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

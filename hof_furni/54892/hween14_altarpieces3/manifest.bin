@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween14_altarpieces3" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween14_altarpieces3_visualization" mimeType="text/xml"/>
+      <asset name="hween14_altarpieces3_assets" mimeType="text/xml"/>
+      <asset name="hween14_altarpieces3_logic" mimeType="text/xml"/>
+      <asset name="hween14_altarpieces2_64_sd_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_a_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_b_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_b_4_1" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_b_4_2" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_b_4_3" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_b_4_4" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_c_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_c_4_1" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_c_4_2" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_64_c_4_3" mimeType="image/png"/>
+      <asset name="hween14_altarpieces2_32_sd_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_32_a_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_32_b_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_32_b_4_1" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_32_c_4_0" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_32_c_4_1" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_32_c_4_2" mimeType="image/png"/>
+      <asset name="hween14_altarpieces3_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

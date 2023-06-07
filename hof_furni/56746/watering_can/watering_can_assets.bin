@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="watering_can_64_sd_0_0" x="17" y="-1"/>
+  <asset name="watering_can_64_a_0_0" x="42" y="37"/>
+  <asset name="watering_can_32_sd_0_0" x="9" y="0"/>
+  <asset name="watering_can_32_a_0_0" x="22" y="20"/>
+  <asset name="watering_can_icon_a" x="18" y="9"/>
+  <asset name="watering_can_64_sd_6_0" flipH="1" source="watering_can_64_sd_0_0" x="17" y="-1"/>
+  <asset name="watering_can_64_a_6_0" flipH="1" source="watering_can_64_a_0_0" x="42" y="37"/>
+  <asset name="watering_can_32_sd_6_0" flipH="1" source="watering_can_32_sd_0_0" x="9" y="0"/>
+  <asset name="watering_can_32_a_6_0" flipH="1" source="watering_can_32_a_0_0" x="22" y="20"/>
+</assets>

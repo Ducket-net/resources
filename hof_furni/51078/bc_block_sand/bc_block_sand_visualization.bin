@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="bc_block_sand">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <colors>
+        <color id="1">
+          <colorLayer id="0" color="f7ebbc"/>
+        </color>
+        <color id="2">
+          <colorLayer id="0" color="f0c833"/>
+        </color>
+        <color id="3">
+          <colorLayer id="0" color="e1a53a"/>
+        </color>
+        <color id="4">
+          <colorLayer id="0" color="cb8233"/>
+        </color>
+        <color id="5">
+          <colorLayer id="0" color="c29655"/>
+        </color>
+        <color id="6">
+          <colorLayer id="0" color="95701d"/>
+        </color>
+        <color id="7">
+          <colorLayer id="0" color="7e5c1d"/>
+        </color>
+       </colors>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="4" angle="45">
+      <layers>
+        <layer id="0" z="-1010"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3" z="-2100"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+          <colorLayer id="1" color="f7ebbc"/>
+        </color>
+        <color id="2">
+          <colorLayer id="1" color="f0c833"/>
+        </color>
+        <color id="3">
+          <colorLayer id="1" color="e1a53a"/>
+        </color>
+        <color id="4">
+          <colorLayer id="1" color="cb8233"/>
+        </color>
+        <color id="5">
+          <colorLayer id="1" color="c29655"/>
+        </color>
+        <color id="6">
+          <colorLayer id="1" color="95701d"/>
+        </color>
+        <color id="7">
+          <colorLayer id="1" color="7e5c1d"/>
+        </color>      
+</colors>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="4" angle="45">
+      <layers>
+        <layer id="0" z="-1010"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3" z="-2100"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors>
+         <color id="1">
+          <colorLayer id="1" color="f7ebbc"/>
+        </color>
+        <color id="2">
+          <colorLayer id="1" color="f0c833"/>
+        </color>
+        <color id="3">
+          <colorLayer id="1" color="e1a53a"/>
+        </color>
+        <color id="4">
+          <colorLayer id="1" color="cb8233"/>
+        </color>
+        <color id="5">
+          <colorLayer id="1" color="c29655"/>
+        </color>
+        <color id="6">
+          <colorLayer id="1" color="95701d"/>
+        </color>
+        <color id="7">
+          <colorLayer id="1" color="7e5c1d"/>
+        </color>                   
+      </colors>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

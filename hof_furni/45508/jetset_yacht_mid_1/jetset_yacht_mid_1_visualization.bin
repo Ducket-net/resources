@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="jetset_yacht_mid_1"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="9" angle="45">
+    <layers>
+        <layer id="1" z="400"/>
+        <layer id="2" z="400"/>
+        <layer id="3" z="1000"/>
+        <layer id="4" z="1800"/>
+        <layer id="5" z="1400"/>
+        <layer id="6" z="2000"/>
+        <layer id="7" z="2400"/>
+        <layer id="8" z="2400"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="6"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0"/>
+        <animationLayer id="1"/>
+        <animationLayer id="2"/>
+        <animationLayer id="3"/>
+        <animationLayer id="4"/>
+        <animationLayer id="5"/>
+        <animationLayer id="6"/>
+        <animationLayer id="7"/>
+        <animationLayer id="8"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0"/>
+        <animationLayer id="1"/>
+        <animationLayer id="2">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3"/>
+        <animationLayer id="4"/>
+        <animationLayer id="5">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="6"/>
+        <animationLayer id="7"/>
+        <animationLayer id="8">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="9" angle="45">
+    <layers>
+        <layer id="1" z="400"/>
+        <layer id="2" z="400"/>
+        <layer id="3" z="1000"/>
+        <layer id="4" z="1800"/>
+        <layer id="5" z="1400"/>
+        <layer id="6" z="2000"/>
+        <layer id="7" z="2400"/>
+        <layer id="8" z="2400"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="6"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0"/>
+        <animationLayer id="1"/>
+        <animationLayer id="2"/>
+        <animationLayer id="3"/>
+        <animationLayer id="4"/>
+        <animationLayer id="5"/>
+        <animationLayer id="6"/>
+        <animationLayer id="7"/>
+        <animationLayer id="8"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0"/>
+        <animationLayer id="1"/>
+        <animationLayer id="2">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3"/>
+        <animationLayer id="4"/>
+        <animationLayer id="5">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="6"/>
+        <animationLayer id="7"/>
+        <animationLayer id="8">
+          <frameSequence>
+            <frame id="1"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>

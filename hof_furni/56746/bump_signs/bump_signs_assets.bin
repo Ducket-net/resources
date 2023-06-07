@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="bump_signs_64_a_0_0" x="19" y="96"/>
+   <asset name="bump_signs_64_a_0_1" x="18" y="91"/>
+   <asset name="bump_signs_64_a_0_2" x="16" y="95"/>
+   <asset name="bump_signs_64_a_0_3" x="18" y="91"/>
+   <asset name="bump_signs_64_a_0_4" x="21" y="91"/>
+   <asset name="bump_signs_64_a_0_5" x="21" y="91"/>
+   <asset name="bump_signs_64_a_0_6" x="18" y="91"/>
+   <asset name="bump_signs_64_a_2_0" flipH="1" source="bump_signs_64_a_0_0" x="19" y="96"/>
+   <asset name="bump_signs_64_a_2_1" x="11" y="91"/>
+   <asset name="bump_signs_64_a_2_2" x="11" y="95"/>
+   <asset name="bump_signs_64_a_2_3" flipH="1" source="bump_signs_64_a_0_3" x="18" y="91"/>
+   <asset name="bump_signs_64_a_2_4" flipH="1" source="bump_signs_64_a_0_4" x="21" y="91"/>
+   <asset name="bump_signs_64_a_2_5" flipH="1" source="bump_signs_64_a_0_5" x="21" y="91"/>
+   <asset name="bump_signs_64_a_2_6" flipH="1" source="bump_signs_64_a_0_6" x="18" y="91"/>
+   <asset name="bump_signs_icon_a" x="8" y="15"/>
+   <asset name="bump_signs_32_a_0_0" x="9" y="48"/>
+   <asset name="bump_signs_32_a_0_1" x="9" y="46"/>
+   <asset name="bump_signs_32_a_0_2" x="8" y="48"/>
+   <asset name="bump_signs_32_a_0_3" x="9" y="46"/>
+   <asset name="bump_signs_32_a_0_4" x="10" y="47"/>
+   <asset name="bump_signs_32_a_0_5" x="10" y="47"/>
+   <asset name="bump_signs_32_a_0_6" x="9" y="46"/>
+   <asset name="bump_signs_32_a_2_0" flipH="1" source="bump_signs_32_a_0_0" x="9" y="48"/>
+   <asset name="bump_signs_32_a_2_1" x="7" y="46"/>
+   <asset name="bump_signs_32_a_2_2" x="6" y="48"/>
+   <asset name="bump_signs_32_a_2_3" flipH="1" source="bump_signs_32_a_0_3" x="9" y="46"/>
+   <asset name="bump_signs_32_a_2_4" flipH="1" source="bump_signs_32_a_0_4" x="10" y="47"/>
+   <asset name="bump_signs_32_a_2_5" flipH="1" source="bump_signs_32_a_0_5" x="10" y="47"/>
+   <asset name="bump_signs_32_a_2_6" flipH="1" source="bump_signs_32_a_0_6" x="9" y="46"/>
+</assets>

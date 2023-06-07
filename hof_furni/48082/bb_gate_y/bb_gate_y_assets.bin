@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bb_gate_y_64_a_2_0" x="1" y="126"/>
+  <asset name="bb_gate_y_64_b_2_0" x="6" y="131"/>
+  <asset name="bb_gate_y_64_c_2_0" x="34" y="123"/>
+  <asset name="bb_gate_y_64_d_2_0" x="42" y="117"/>
+  <asset name="bb_gate_y_32_a_2_0" x="1" y="63"/>
+  <asset name="bb_gate_y_32_b_2_0" x="5" y="68"/>
+  <asset name="bb_gate_y_32_c_2_0" x="18" y="61"/>
+  <asset name="bb_gate_y_32_d_2_0" x="25" y="61"/>
+  <asset name="bb_gate_y_icon_a" x="10" y="32"/>
+  <asset name="bb_gate_y_64_a_4_0" flipH="1" source="bb_gate_y_64_a_2_0" x="1" y="126"/>
+  <asset name="bb_gate_y_64_b_4_0" flipH="1" source="bb_gate_y_64_b_2_0" x="6" y="131"/>
+  <asset name="bb_gate_y_64_c_4_0" flipH="1" source="bb_gate_y_64_c_2_0" x="34" y="123"/>
+  <asset name="bb_gate_y_64_d_4_0" flipH="1" source="bb_gate_y_64_d_2_0" x="42" y="117"/>
+  <asset name="bb_gate_y_32_a_4_0" flipH="1" source="bb_gate_y_32_a_2_0" x="1" y="63"/>
+  <asset name="bb_gate_y_32_b_4_0" flipH="1" source="bb_gate_y_32_b_2_0" x="5" y="68"/>
+  <asset name="bb_gate_y_32_c_4_0" flipH="1" source="bb_gate_y_32_c_2_0" x="18" y="61"/>
+  <asset name="bb_gate_y_32_d_4_0" flipH="1" source="bb_gate_y_32_d_2_0" x="25" y="61"/>
+  <asset name="bb_gate_y_64_e_2_0" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_2_1" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_2_2" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_2_3" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_2_4" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_2_5" x="-2" y="88"/>
+  <asset name="bb_gate_y_32_e_2_0" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_2_1" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_2_2" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_2_3" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_2_4" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_2_5" x="-1" y="43"/>
+  <asset name="bb_gate_y_64_e_4_0" flipH="1" source="bb_gate_y_64_e_2_0" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_4_1" flipH="1" source="bb_gate_y_64_e_2_1" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_4_2" flipH="1" source="bb_gate_y_64_e_2_2" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_4_3" flipH="1" source="bb_gate_y_64_e_2_3" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_4_4" flipH="1" source="bb_gate_y_64_e_2_4" x="-2" y="88"/>
+  <asset name="bb_gate_y_64_e_4_5" flipH="1" source="bb_gate_y_64_e_2_5" x="-2" y="88"/>
+  <asset name="bb_gate_y_32_e_4_0" flipH="1" source="bb_gate_y_32_e_2_0" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_4_1" flipH="1" source="bb_gate_y_32_e_2_1" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_4_2" flipH="1" source="bb_gate_y_32_e_2_2" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_4_3" flipH="1" source="bb_gate_y_32_e_2_3" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_4_4" flipH="1" source="bb_gate_y_32_e_2_4" x="-1" y="43"/>
+  <asset name="bb_gate_y_32_e_4_5" flipH="1" source="bb_gate_y_32_e_2_5" x="-1" y="43"/>
+</assets>

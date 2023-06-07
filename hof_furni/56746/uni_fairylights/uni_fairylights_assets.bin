@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="uni_fairylights_64_a_4_0" x="30" y="21"/>
+  <asset name="uni_fairylights_64_a_4_1" x="30" y="21"/>
+  <asset name="uni_fairylights_64_a_4_2" x="30" y="21"/>
+  <asset name="uni_fairylights_64_a_4_3" x="30" y="21"/>
+  <asset name="uni_fairylights_64_b_4_0" x="31" y="23"/>
+  <asset name="uni_fairylights_64_b_4_1" x="31" y="23"/>
+  <asset name="uni_fairylights_64_b_4_2" x="31" y="23"/>
+  <asset name="uni_fairylights_64_b_4_3" x="31" y="23"/>
+  <asset name="uni_fairylights_32_a_4_0" x="17" y="11"/>
+  <asset name="uni_fairylights_32_a_4_1" x="17" y="11"/>
+  <asset name="uni_fairylights_32_a_4_2" x="17" y="11"/>
+  <asset name="uni_fairylights_32_a_4_3" x="17" y="11"/>
+  <asset name="uni_fairylights_32_b_4_0" x="17" y="12"/>
+  <asset name="uni_fairylights_32_b_4_1" x="17" y="12"/>
+  <asset name="uni_fairylights_32_b_4_2" x="17" y="12"/>
+  <asset name="uni_fairylights_32_b_4_3" x="17" y="12"/>
+  <asset name="uni_fairylights_64_a_2_0" flipH="1" source="uni_fairylights_64_a_4_0" x="30" y="21"/>
+  <asset name="uni_fairylights_64_a_2_1" flipH="1" source="uni_fairylights_64_a_4_1" x="30" y="21"/>
+  <asset name="uni_fairylights_64_a_2_2" flipH="1" source="uni_fairylights_64_a_4_2" x="30" y="21"/>
+  <asset name="uni_fairylights_64_a_2_3" flipH="1" source="uni_fairylights_64_a_4_3" x="30" y="21"/>
+  <asset name="uni_fairylights_64_b_2_0" flipH="1" source="uni_fairylights_64_b_4_0" x="31" y="23"/>
+  <asset name="uni_fairylights_64_b_2_1" flipH="1" source="uni_fairylights_64_b_4_1" x="31" y="23"/>
+  <asset name="uni_fairylights_64_b_2_2" flipH="1" source="uni_fairylights_64_b_4_2" x="31" y="23"/>
+  <asset name="uni_fairylights_64_b_2_3" flipH="1" source="uni_fairylights_64_b_4_3" x="31" y="23"/>
+  <asset name="uni_fairylights_32_a_2_0" flipH="1" source="uni_fairylights_32_a_4_0" x="17" y="11"/>
+  <asset name="uni_fairylights_32_a_2_1" flipH="1" source="uni_fairylights_32_a_4_1" x="17" y="11"/>
+  <asset name="uni_fairylights_32_a_2_2" flipH="1" source="uni_fairylights_32_a_4_2" x="17" y="11"/>
+  <asset name="uni_fairylights_32_a_2_3" flipH="1" source="uni_fairylights_32_a_4_3" x="17" y="11"/>
+  <asset name="uni_fairylights_32_b_2_0" flipH="1" source="uni_fairylights_32_b_4_0" x="17" y="12"/>
+  <asset name="uni_fairylights_32_b_2_1" flipH="1" source="uni_fairylights_32_b_4_1" x="17" y="12"/>
+  <asset name="uni_fairylights_32_b_2_2" flipH="1" source="uni_fairylights_32_b_4_2" x="17" y="12"/>
+  <asset name="uni_fairylights_32_b_2_3" flipH="1" source="uni_fairylights_32_b_4_3" x="17" y="12"/>
+  <asset name="uni_fairylights_icon_a" x="14" y="10"/>
+</assets>

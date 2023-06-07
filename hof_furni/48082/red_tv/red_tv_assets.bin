@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="red_tv_64_a_2_0" x="24" y="55"/>
+   <asset name="red_tv_64_a_4_0" flipH="1" source="red_tv_64_a_2_0" x="24" y="55"/>
+   <asset name="red_tv_64_b_2_0" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_1" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_2" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_3" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_4" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_5" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_6" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_7" x="0" y="23"/>
+   <asset name="red_tv_64_b_2_9" x="23" y="5"/>
+   <asset name="red_tv_64_b_4_0" flipH="1" source="red_tv_64_b_2_0" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_1" flipH="1" source="red_tv_64_b_2_1" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_2" flipH="1" source="red_tv_64_b_2_2" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_3" flipH="1" source="red_tv_64_b_2_3" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_4" flipH="1" source="red_tv_64_b_2_4" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_5" flipH="1" source="red_tv_64_b_2_5" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_6" flipH="1" source="red_tv_64_b_2_6" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_7" flipH="1" source="red_tv_64_b_2_7" x="0" y="23"/>
+   <asset name="red_tv_64_b_4_9" flipH="1" source="red_tv_64_b_2_9" x="23" y="5"/>
+   <asset name="red_tv_64_sd_2_0" x="24" y="15"/>
+   <asset name="red_tv_64_sd_4_0" x="24" y="15"/>
+   <asset name="red_tv_icon_a" x="12" y="15"/>
+   <asset name="red_tv_32_a_2_0" x="13" y="28"/>
+   <asset name="red_tv_32_a_4_0" flipH="1" source="red_tv_32_a_2_0" x="13" y="28"/>
+   <asset name="red_tv_32_b_2_0" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_1" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_2" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_3" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_4" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_5" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_6" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_7" x="0" y="11"/>
+   <asset name="red_tv_32_b_2_9" x="12" y="2"/>
+   <asset name="red_tv_32_b_4_0" flipH="1" source="red_tv_32_b_2_0" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_1" flipH="1" source="red_tv_32_b_2_1" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_2" flipH="1" source="red_tv_32_b_2_2" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_3" flipH="1" source="red_tv_32_b_2_3" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_4" flipH="1" source="red_tv_32_b_2_4" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_5" flipH="1" source="red_tv_32_b_2_5" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_6" flipH="1" source="red_tv_32_b_2_6" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_7" flipH="1" source="red_tv_32_b_2_7" x="0" y="11"/>
+   <asset name="red_tv_32_b_4_9" flipH="1" source="red_tv_32_b_2_9" x="12" y="2"/>
+   <asset name="red_tv_32_sd_2_0" x="14" y="4"/>
+   <asset name="red_tv_32_sd_4_0" flipH="1" source="red_tv_32_sd_2_0" x="14" y="4"/>
+</assets>

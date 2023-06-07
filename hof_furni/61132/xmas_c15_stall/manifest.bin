@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas_c15_stall" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas_c15_stall_visualization" mimeType="text/xml"/>
+      <asset name="xmas_c15_stall_assets" mimeType="text/xml"/>
+      <asset name="xmas_c15_stall_logic" mimeType="text/xml"/>
+      <asset name="xmas_c15_stall_64_e_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_e_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_f_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_f_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_g_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_h_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_i_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_i_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_j_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_j_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_k_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_k_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_l_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_l_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_m_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_m_4_1" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_icon_a" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_sd_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_a_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_b_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_c_4_0" mimeType="image/png"/>
+      <asset name="xmas_c15_stall_64_d_4_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

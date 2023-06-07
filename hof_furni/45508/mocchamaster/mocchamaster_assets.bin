@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="mocchamaster_64_a_2_0" x="28" y="128"/>
+   <asset name="mocchamaster_64_a_2_1" x="28" y="128"/>
+   <asset name="mocchamaster_64_a_4_0" flipH="1" source="mocchamaster_64_a_2_0" x="28" y="128"/>
+   <asset name="mocchamaster_64_a_4_1" flipH="1" source="mocchamaster_64_a_2_1" x="28" y="128"/>
+   <asset name="mocchamaster_64_sd_2_0" x="24" y="5"/>
+   <asset name="mocchamaster_64_sd_4_0" flipH="1" source="mocchamaster_64_sd_2_0" x="24" y="5"/>
+   <asset name="mocchamaster_icon_a" x="8" y="15"/>
+   <asset name="mocchamaster_32_a_2_0" x="15" y="63"/>
+   <asset name="mocchamaster_32_a_2_1" x="15" y="63"/>
+   <asset name="mocchamaster_32_a_4_0" flipH="1" source="mocchamaster_32_a_2_0" x="15" y="63"/>
+   <asset name="mocchamaster_32_a_4_1" flipH="1" source="mocchamaster_32_a_2_1" x="15" y="63"/>
+   <asset name="mocchamaster_32_sd_2_0" x="12" y="2"/>
+   <asset name="mocchamaster_32_sd_4_0" flipH="1" source="mocchamaster_32_sd_2_0" x="12" y="2"/>
+</assets>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_hole_64_a_2_0" x="34" y="38"/>
+   <asset name="window_hole_64_b_2_0" x="28" y="-25"/>
+   <asset name="window_hole_64_b_2_1" x="39" y="30"/>
+   <asset name="window_hole_64_2_mask" x="22" y="27"/>
+   <asset name="window_hole_64_a_4_0" flipH="1" source="window_hole_64_a_2_0" x="34" y="38"/>
+   <asset name="window_hole_64_b_4_0" flipH="1" source="window_hole_64_b_2_0" x="28" y="-25"/>
+   <asset name="window_hole_64_b_4_1" flipH="1" source="window_hole_64_b_2_1" x="39" y="30"/>
+   <asset name="window_hole_64_4_mask" flipH="1" source="window_hole_64_2_mask" x="22" y="27"/>
+   <asset name="window_hole_32_a_2_0" x="17" y="19"/>
+   <asset name="window_hole_32_b_2_0" x="12" y="-14"/>
+   <asset name="window_hole_32_b_2_1" x="20" y="13"/>
+   <asset name="window_hole_32_2_mask" x="10" y="11"/>
+   <asset name="window_hole_32_a_4_0" flipH="1" source="window_hole_32_a_2_0" x="17" y="19"/>
+   <asset name="window_hole_32_b_4_0" flipH="1" source="window_hole_32_b_2_0" x="12" y="-14"/>
+   <asset name="window_hole_32_b_4_1" flipH="1" source="window_hole_32_b_2_1" x="20" y="13"/>
+   <asset name="window_hole_32_4_mask" flipH="1" source="window_hole_32_2_mask" x="10" y="11"/>
+   <asset name="window_hole_icon_a" x="11" y="12"/>
+</assets>

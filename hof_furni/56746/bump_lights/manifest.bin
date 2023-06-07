@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="bump_lights" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="bump_lights_visualization" mimeType="text/xml"/>
+         <asset name="bump_lights_assets" mimeType="text/xml"/>
+         <asset name="bump_lights_logic" mimeType="text/xml"/>
+         <asset name="bump_lights_64_a_0_0" mimeType="image/png"/>
+         <asset name="bump_lights_64_a_4_0" mimeType="image/png"/>
+         <asset name="bump_lights_64_b_0_1" mimeType="image/png"/>
+         <asset name="bump_lights_64_b_4_0" mimeType="image/png"/>
+         <asset name="bump_lights_64_b_4_1" mimeType="image/png"/>
+         <asset name="bump_lights_64_c_0_1" mimeType="image/png"/>
+         <asset name="bump_lights_64_c_4_1" mimeType="image/png"/>
+         <asset name="bump_lights_64_d_0_1" mimeType="image/png"/>
+         <asset name="bump_lights_64_d_4_1" mimeType="image/png"/>
+         <asset name="bump_lights_icon_a" mimeType="image/png"/>
+         <asset name="bump_lights_32_a_0_0" mimeType="image/png"/>
+         <asset name="bump_lights_32_a_4_0" mimeType="image/png"/>
+         <asset name="bump_lights_32_b_0_1" mimeType="image/png"/>
+         <asset name="bump_lights_32_b_4_0" mimeType="image/png"/>
+         <asset name="bump_lights_32_b_4_1" mimeType="image/png"/>
+         <asset name="bump_lights_32_c_0_1" mimeType="image/png"/>
+         <asset name="bump_lights_32_c_4_1" mimeType="image/png"/>
+         <asset name="bump_lights_32_d_0_1" mimeType="image/png"/>
+         <asset name="bump_lights_32_d_4_1" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

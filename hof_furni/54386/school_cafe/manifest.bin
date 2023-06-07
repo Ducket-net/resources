@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="school_cafe" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="school_cafe_visualization" mimeType="text/xml"/>
+      <asset name="school_cafe_assets" mimeType="text/xml"/>
+      <asset name="school_cafe_logic" mimeType="text/xml"/>
+      <asset name="school_cafe_64_sd_6_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_sd_4_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_sd_2_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_sd_0_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_a_6_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_b_6_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_a_4_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_b_4_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_a_2_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_b_2_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_a_0_0" mimeType="image/png"/>
+      <asset name="school_cafe_64_b_0_0" mimeType="image/png"/>
+      <asset name="school_cafe_32_sd_2_0" mimeType="image/png"/>
+      <asset name="school_cafe_32_sd_0_0" mimeType="image/png"/>
+      <asset name="school_cafe_32_a_2_0" mimeType="image/png"/>
+      <asset name="school_cafe_32_b_2_0" mimeType="image/png"/>
+      <asset name="school_cafe_32_a_0_0" mimeType="image/png"/>
+      <asset name="school_cafe_32_b_0_0" mimeType="image/png"/>
+      <asset name="school_cafe_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

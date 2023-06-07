@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pillow_silver_32_sd_0_0" x="17" y="6"/>
+  <asset name="pillow_silver_32_a_0_0" x="18" y="11"/>
+  <asset name="pillow_silver_64_sd_0_0" x="36" y="17"/>
+  <asset name="pillow_silver_64_a_0_0" x="36" y="25"/>
+  <asset name="pillow_silver_icon_a" x="14" y="9"/>
+  <asset name="pillow_silver_32_sd_2_0" source="pillow_silver_32_sd_0_0" x="17" y="6"/>
+  <asset name="pillow_silver_32_a_2_0" source="pillow_silver_32_a_0_0" x="18" y="11"/>
+  <asset name="pillow_silver_64_sd_2_0" source="pillow_silver_64_sd_0_0" x="36" y="17"/>
+  <asset name="pillow_silver_64_a_2_0" source="pillow_silver_64_a_0_0" x="36" y="25"/>
+  <asset name="pillow_silver_32_sd_4_0" flipH="1" source="pillow_silver_32_sd_0_0" x="17" y="6"/>
+  <asset name="pillow_silver_32_a_4_0" flipH="1" source="pillow_silver_32_a_0_0" x="18" y="11"/>
+  <asset name="pillow_silver_64_sd_4_0" flipH="1" source="pillow_silver_64_sd_0_0" x="36" y="17"/>
+  <asset name="pillow_silver_64_a_4_0" flipH="1" source="pillow_silver_64_a_0_0" x="36" y="25"/>
+  <asset name="pillow_silver_32_sd_6_0" flipH="1" source="pillow_silver_32_sd_0_0" x="17" y="6"/>
+  <asset name="pillow_silver_32_a_6_0" flipH="1" source="pillow_silver_32_a_0_0" x="18" y="11"/>
+  <asset name="pillow_silver_64_sd_6_0" flipH="1" source="pillow_silver_64_sd_0_0" x="36" y="17"/>
+  <asset name="pillow_silver_64_a_6_0" flipH="1" source="pillow_silver_64_a_0_0" x="36" y="25"/>
+</assets>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween_c18_labwallpanel" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween_c18_labwallpanel_visualization" mimeType="text/xml"/>
+      <asset name="hween_c18_labwallpanel_assets" mimeType="text/xml"/>
+      <asset name="hween_c18_labwallpanel_logic" mimeType="text/xml"/>
+      <asset name="hween_c18_labwallpanel_64_a_4_0" mimeType="image/png"/>
+      <asset name="hween_c18_labwallpanel_64_a_2_0" mimeType="image/png"/>
+      <asset name="hween_c18_labwallpanel_64_a_4_1" mimeType="image/png"/>
+      <asset name="hween_c18_labwallpanel_64_a_2_1" mimeType="image/png"/>
+      <asset name="hween_c18_labwallpanel_64_a_4_2" mimeType="image/png"/>
+      <asset name="hween_c18_labwallpanel_64_a_2_2" mimeType="image/png"/>
+      <asset name="hween_c18_labwallpanel_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

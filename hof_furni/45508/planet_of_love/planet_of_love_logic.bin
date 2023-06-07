@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objectData type="planet_of_love">
+   <model>
+      <dimensions x="1" y="1" z="0.0"/>
+   </model>
+   <planetsystem>
+   		<object id="0" name="sun" radius="0" height="3.0"/>
+   		<object id="1" name="sun_glow" parent="sun" radius="0" height="0.0"/>
+   		<object id="2" name="sun_shadow" parent="sun" radius="0" height="-3.0" blend="80"/>
+   		<object id="3" name="earth" parent="sun" radius="0.5" arcspeed="45" height="0.0"/>
+   		<object id="4" name="earth_shadow" parent="earth" radius="0" arcspeed="0.0" blend="80" height="-3.0"/>
+   		<object id="5" name="moon" parent="earth" radius="0.25" arcspeed="180" arcoffset="90" height="0"/>
+   		<object id="6" name="moon_shadow" parent="moon" radius="0" arcspeed="0" blend="80" height="-3.0"/>
+   </planetsystem>
+</objectData>

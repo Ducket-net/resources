@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><objectData type="fireworks_03">
+  <model>
+    <dimensions x="1" y="1" z="1"/>
+    <directions>
+      <direction id="0"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="64" canvas_id="3" offset_y="80">
+      <emitter id="2" sprite_id="1" explosion_animation="" fuse_time="5" name="rocket" max_num_particles="150" particles_per_frame="30" burst_pulse="1">
+        <simulation force="570" direction="-1.0" energy="290" shape="plane" gravity="20.0" airfriction="0.25"/>
+        <particles>
+          <particle is_emitter="false" lifetime="100">
+            <frame name="fireworks_03_64_c_0_2"/>
+            <frame name="fireworks_03_64_c_0_1"/>
+          </particle>
+        </particles>
+      </emitter>
+    </particlesystem>
+    <particlesystem size="32" canvas_id="3" offset_y="40">
+      <emitter id="2" sprite_id="1" explosion_animation="" fuse_time="5" name="rocket" max_num_particles="150" particles_per_frame="30" burst_pulse="1">
+        <simulation force="300" direction="-1.0" energy="180" shape="plane" gravity="20.0" airfriction="0.25"/>
+        <particles>
+          <particle is_emitter="false" lifetime="50">
+            <frame name="fireworks_03_32_c_0_2"/>
+            <frame name="fireworks_03_32_c_0_1"/>
+          </particle>
+        </particles>
+      </emitter>
+    </particlesystem>
+  </particlesystems>
+</objectData>

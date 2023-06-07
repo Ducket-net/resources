@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="classic2_tray" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="classic2_tray_visualization" mimeType="text/xml"/>
+      <asset name="classic2_tray_assets" mimeType="text/xml"/>
+      <asset name="classic2_tray_logic" mimeType="text/xml"/>
+      <asset name="classic2_tray_64_sd_0_0" mimeType="image/png"/>
+      <asset name="classic2_tray_64_a_0_0" mimeType="image/png"/>
+      <asset name="classic2_tray_64_a_0_1" mimeType="image/png"/>
+      <asset name="classic2_tray_64_a_0_2" mimeType="image/png"/>
+      <asset name="classic2_tray_64_a_0_3" mimeType="image/png"/>
+      <asset name="classic2_tray_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

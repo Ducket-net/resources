@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="grunge_radiator_64_a_2_0" x="21" y="50"/>
+   <asset name="grunge_radiator_64_a_4_0" flipH="1" source="grunge_radiator_64_a_2_0" x="21" y="50"/>
+   <asset name="grunge_radiator_64_sd_2_0" x="18" y="7"/>
+   <asset name="grunge_radiator_64_sd_4_0" flipH="1" source="grunge_radiator_64_sd_2_0" x="18" y="7"/>
+   <asset name="grunge_radiator_icon_a" x="10" y="15"/>
+   <asset name="grunge_radiator_32_a_2_0" x="11" y="24"/>
+   <asset name="grunge_radiator_32_a_4_0" flipH="1" source="grunge_radiator_32_a_2_0" x="11" y="24"/>
+   <asset name="grunge_radiator_32_sd_2_0" x="11" y="2"/>
+   <asset name="grunge_radiator_32_sd_4_0" flipH="1" source="grunge_radiator_32_sd_2_0" x="11" y="2"/>
+</assets>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cine_popcorn_64_sd_2_0" x="25" y="13"/>
+  <asset name="cine_popcorn_64_a_2_0" x="35" y="104"/>
+  <asset name="cine_popcorn_64_b_2_0" x="19" y="63"/>
+  <asset name="cine_popcorn_64_b_2_1" x="9" y="60"/>
+  <asset name="cine_popcorn_64_b_2_2" x="11" y="63"/>
+  <asset name="cine_popcorn_64_b_2_3" x="14" y="65"/>
+  <asset name="cine_popcorn_64_b_2_4" x="18" y="65"/>
+  <asset name="cine_popcorn_64_b_2_5" x="20" y="61"/>
+  <asset name="cine_popcorn_64_b_2_6" x="11" y="66"/>
+  <asset name="cine_popcorn_64_b_2_7" x="14" y="61"/>
+  <asset name="cine_popcorn_64_b_2_8" x="16" y="63"/>
+  <asset name="cine_popcorn_64_b_2_9" x="16" y="65"/>
+  <asset name="cine_popcorn_64_b_2_10" x="12" y="66"/>
+  <asset name="cine_popcorn_64_b_2_11" x="16" y="58"/>
+  <asset name="cine_popcorn_64_c_2_0" x="20" y="82"/>
+  <asset name="cine_popcorn_32_sd_2_0" x="14" y="8"/>
+  <asset name="cine_popcorn_32_a_2_0" x="18" y="53"/>
+  <asset name="cine_popcorn_32_b_2_0" x="10" y="31"/>
+  <asset name="cine_popcorn_32_b_2_1" x="5" y="30"/>
+  <asset name="cine_popcorn_32_b_2_2" x="6" y="31"/>
+  <asset name="cine_popcorn_32_b_2_3" x="7" y="32"/>
+  <asset name="cine_popcorn_32_b_2_4" x="9" y="32"/>
+  <asset name="cine_popcorn_32_b_2_5" x="10" y="30"/>
+  <asset name="cine_popcorn_32_b_2_6" x="6" y="33"/>
+  <asset name="cine_popcorn_32_b_2_7" x="7" y="30"/>
+  <asset name="cine_popcorn_32_b_2_8" x="8" y="31"/>
+  <asset name="cine_popcorn_32_b_2_9" x="8" y="32"/>
+  <asset name="cine_popcorn_32_b_2_10" x="6" y="33"/>
+  <asset name="cine_popcorn_32_b_2_11" x="8" y="29"/>
+  <asset name="cine_popcorn_32_c_2_0" x="10" y="40"/>
+  <asset name="cine_popcorn_icon_a" x="11" y="15"/>
+  <asset name="cine_popcorn_64_sd_4_0" flipH="1" source="cine_popcorn_64_sd_2_0" x="25" y="13"/>
+  <asset name="cine_popcorn_64_a_4_0" flipH="1" source="cine_popcorn_64_a_2_0" x="35" y="104"/>
+  <asset name="cine_popcorn_64_b_4_0" flipH="1" source="cine_popcorn_64_b_2_0" x="19" y="63"/>
+  <asset name="cine_popcorn_64_b_4_1" flipH="1" source="cine_popcorn_64_b_2_1" x="9" y="60"/>
+  <asset name="cine_popcorn_64_b_4_2" flipH="1" source="cine_popcorn_64_b_2_2" x="11" y="63"/>
+  <asset name="cine_popcorn_64_b_4_3" flipH="1" source="cine_popcorn_64_b_2_3" x="14" y="65"/>
+  <asset name="cine_popcorn_64_b_4_4" flipH="1" source="cine_popcorn_64_b_2_4" x="18" y="65"/>
+  <asset name="cine_popcorn_64_b_4_5" flipH="1" source="cine_popcorn_64_b_2_5" x="20" y="61"/>
+  <asset name="cine_popcorn_64_b_4_6" flipH="1" source="cine_popcorn_64_b_2_6" x="11" y="66"/>
+  <asset name="cine_popcorn_64_b_4_7" flipH="1" source="cine_popcorn_64_b_2_7" x="14" y="61"/>
+  <asset name="cine_popcorn_64_b_4_8" flipH="1" source="cine_popcorn_64_b_2_8" x="16" y="63"/>
+  <asset name="cine_popcorn_64_b_4_9" flipH="1" source="cine_popcorn_64_b_2_9" x="16" y="65"/>
+  <asset name="cine_popcorn_64_b_4_10" flipH="1" source="cine_popcorn_64_b_2_10" x="12" y="66"/>
+  <asset name="cine_popcorn_64_b_4_11" flipH="1" source="cine_popcorn_64_b_2_11" x="16" y="58"/>
+  <asset name="cine_popcorn_64_c_4_0" flipH="1" source="cine_popcorn_64_c_2_0" x="20" y="82"/>
+  <asset name="cine_popcorn_32_sd_4_0" flipH="1" source="cine_popcorn_32_sd_2_0" x="14" y="8"/>
+  <asset name="cine_popcorn_32_a_4_0" flipH="1" source="cine_popcorn_32_a_2_0" x="18" y="53"/>
+  <asset name="cine_popcorn_32_b_4_0" flipH="1" source="cine_popcorn_32_b_2_0" x="10" y="31"/>
+  <asset name="cine_popcorn_32_b_4_1" flipH="1" source="cine_popcorn_32_b_2_1" x="5" y="30"/>
+  <asset name="cine_popcorn_32_b_4_2" flipH="1" source="cine_popcorn_32_b_2_2" x="6" y="31"/>
+  <asset name="cine_popcorn_32_b_4_3" flipH="1" source="cine_popcorn_32_b_2_3" x="7" y="32"/>
+  <asset name="cine_popcorn_32_b_4_4" flipH="1" source="cine_popcorn_32_b_2_4" x="9" y="32"/>
+  <asset name="cine_popcorn_32_b_4_5" flipH="1" source="cine_popcorn_32_b_2_5" x="10" y="30"/>
+  <asset name="cine_popcorn_32_b_4_6" flipH="1" source="cine_popcorn_32_b_2_6" x="6" y="33"/>
+  <asset name="cine_popcorn_32_b_4_7" flipH="1" source="cine_popcorn_32_b_2_7" x="7" y="30"/>
+  <asset name="cine_popcorn_32_b_4_8" flipH="1" source="cine_popcorn_32_b_2_8" x="8" y="31"/>
+  <asset name="cine_popcorn_32_b_4_9" flipH="1" source="cine_popcorn_32_b_2_9" x="8" y="32"/>
+  <asset name="cine_popcorn_32_b_4_10" flipH="1" source="cine_popcorn_32_b_2_10" x="6" y="33"/>
+  <asset name="cine_popcorn_32_b_4_11" flipH="1" source="cine_popcorn_32_b_2_11" x="8" y="29"/>
+  <asset name="cine_popcorn_32_c_4_0" flipH="1" source="cine_popcorn_32_c_2_0" x="10" y="40"/>
+</assets>

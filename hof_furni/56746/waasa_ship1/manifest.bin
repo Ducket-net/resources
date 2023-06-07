@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="waasa_ship1" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="waasa_ship1_visualization" mimeType="text/xml"/>
+      <asset name="waasa_ship1_assets" mimeType="text/xml"/>
+      <asset name="waasa_ship1_logic" mimeType="text/xml"/>
+      <asset name="waasa_ship1_64_a_2_0" mimeType="image/png"/>
+      <asset name="waasa_ship1_64_a_2_1" mimeType="image/png"/>
+      <asset name="waasa_ship1_64_a_2_2" mimeType="image/png"/>
+      <asset name="waasa_ship1_32_a_2_0" mimeType="image/png"/>
+      <asset name="waasa_ship1_32_a_2_1" mimeType="image/png"/>
+      <asset name="waasa_ship1_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

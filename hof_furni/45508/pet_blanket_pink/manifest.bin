@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="pet_blanket_pink" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="pet_blanket_pink_visualization" mimeType="text/xml"/>
+      <asset name="pet_blanket_pink_assets" mimeType="text/xml"/>
+      <asset name="pet_blanket_pink_logic" mimeType="text/xml"/>
+      <asset name="pet_blanket_pink_32_sd_2_0" mimeType="image/png"/>
+      <asset name="pet_blanket_pink_32_a_2_0" mimeType="image/png"/>
+      <asset name="pet_blanket_pink_64_sd_2_0" mimeType="image/png"/>
+      <asset name="pet_blanket_pink_64_a_2_0" mimeType="image/png"/>
+      <asset name="pet_blanket_pink_icon_a" mimeType="image/png"/>
+      <asset name="icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

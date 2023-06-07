@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="noob_window_double" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="noob_window_double_visualization" mimeType="text/xml"/>
+         <asset name="noob_window_double_assets" mimeType="text/xml"/>
+         <asset name="noob_window_double_logic" mimeType="text/xml"/>
+         <asset name="noob_window_double_64_a_2_0" mimeType="image/png"/>
+         <asset name="noob_window_double_64_2_mask" mimeType="image/png"/>
+         <asset name="noob_window_double_icon_a" mimeType="image/png"/>
+         <asset name="noob_window_double_32_a_2_0" mimeType="image/png"/>
+         <asset name="noob_window_double_32_2_mask" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

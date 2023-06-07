@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="party_tray_64_a_2_0" x="26" y="26"/>
+   <asset name="party_tray_64_a_4_0" flipH="1" source="party_tray_64_a_2_0" x="26" y="26"/>
+   <asset name="party_tray_64_b_2_0" x="26" y="29"/>
+   <asset name="party_tray_64_b_2_1" x="26" y="27"/>
+   <asset name="party_tray_64_b_4_0" flipH="1" source="party_tray_64_b_2_0" x="26" y="29"/>
+   <asset name="party_tray_64_b_4_1" flipH="1" source="party_tray_64_b_2_1" x="26" y="27"/>
+   <asset name="party_tray_64_sd_2_0" x="25" y="5"/>
+   <asset name="party_tray_64_sd_4_0" flipH="1" source="party_tray_64_sd_2_0" x="25" y="5"/>
+   <asset name="party_tray_icon_a" x="12" y="10"/>
+   <asset name="party_tray_32_a_2_0" x="11" y="11"/>
+   <asset name="party_tray_32_a_4_0" flipH="1" source="party_tray_32_a_2_0" x="11" y="11"/>
+   <asset name="party_tray_32_b_2_0" x="11" y="13"/>
+   <asset name="party_tray_32_b_2_1" x="11" y="12"/>
+   <asset name="party_tray_32_b_4_0" flipH="1" source="party_tray_32_b_2_0" x="11" y="13"/>
+   <asset name="party_tray_32_b_4_1" flipH="1" source="party_tray_32_b_2_1" x="11" y="12"/>
+   <asset name="party_tray_32_sd_2_0" x="11" y="1"/>
+   <asset name="party_tray_32_sd_4_0" flipH="1" source="party_tray_32_sd_2_0" x="11" y="1"/>
+</assets>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="farm_c21_pizzaoven" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="farm_c21_pizzaoven_visualization" mimeType="text/xml"/>
+      <asset name="farm_c21_pizzaoven_assets" mimeType="text/xml"/>
+      <asset name="farm_c21_pizzaoven_logic" mimeType="text/xml"/>
+      <asset name="farm_c21_pizzaoven_64_sd_2_0" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_a_2_0" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_b_2_0" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_b_2_1" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_b_2_2" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_b_2_3" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_b_2_4" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_b_2_5" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_c_2_1" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_c_2_2" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_c_2_3" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_c_2_4" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_c_2_5" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_d_2_1" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_d_2_2" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_d_2_3" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_e_2_1" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_f_2_1" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_f_2_2" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_f_2_3" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_f_2_4" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_f_2_5" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_64_g_2_0" mimeType="image/png"/>
+      <asset name="farm_c21_pizzaoven_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

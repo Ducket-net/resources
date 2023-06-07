@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="prison_tower_32_a_4_0" x="17" y="64"/>
+  <asset name="prison_tower_32_b_4_0" x="24" y="103"/>
+  <asset name="prison_tower_32_c_4_0" x="11" y="112"/>
+  <asset name="prison_tower_32_d_4_0" x="0" y="92"/>
+  <asset name="prison_tower_32_d_4_1" x="65" y="102"/>
+  <asset name="prison_tower_32_c_6_0" x="11" y="112"/>
+  <asset name="prison_tower_32_d_6_1" x="88" y="110"/>
+  <asset name="prison_tower_64_a_4_0" x="35" y="130"/>
+  <asset name="prison_tower_64_b_4_0" x="50" y="207"/>
+  <asset name="prison_tower_64_c_4_0" x="21" y="225"/>
+  <asset name="prison_tower_64_d_4_0" x="4" y="186"/>
+  <asset name="prison_tower_64_d_4_1" x="152" y="206"/>
+  <asset name="prison_tower_64_c_6_0" x="22" y="225"/>
+  <asset name="prison_tower_64_d_6_1" x="341" y="222"/>
+  <asset name="prison_tower_icon_a" x="9" y="14"/>
+  <asset name="prison_tower_32_a_6_0" flipH="1" source="prison_tower_32_a_4_0" x="17" y="64"/>
+  <asset name="prison_tower_32_b_6_0" flipH="1" source="prison_tower_32_b_4_0" x="24" y="103"/>
+  <asset name="prison_tower_32_d_6_0" flipH="1" source="prison_tower_32_d_4_0" x="0" y="92"/>
+  <asset name="prison_tower_64_a_6_0" flipH="1" source="prison_tower_64_a_4_0" x="35" y="130"/>
+  <asset name="prison_tower_64_b_6_0" flipH="1" source="prison_tower_64_b_4_0" x="50" y="207"/>
+  <asset name="prison_tower_64_d_6_0" flipH="1" source="prison_tower_64_d_4_0" x="4" y="186"/>
+  <asset name="prison_tower_32_a_0_0" source="prison_tower_32_a_4_0" x="17" y="64"/>
+  <asset name="prison_tower_32_b_0_0" source="prison_tower_32_b_4_0" x="24" y="103"/>
+  <asset name="prison_tower_32_d_0_0" flipH="1" source="prison_tower_32_d_4_0" x="0" y="92"/>
+  <asset name="prison_tower_32_c_0_0" flipH="1" source="prison_tower_32_c_6_0" x="11" y="112"/>
+  <asset name="prison_tower_32_d_0_1" flipH="1" source="prison_tower_32_d_6_1" x="88" y="110"/>
+  <asset name="prison_tower_64_a_0_0" source="prison_tower_64_a_4_0" x="35" y="130"/>
+  <asset name="prison_tower_64_b_0_0" source="prison_tower_64_b_4_0" x="50" y="207"/>
+  <asset name="prison_tower_64_d_0_0" flipH="1" source="prison_tower_64_d_4_0" x="4" y="186"/>
+  <asset name="prison_tower_64_c_0_0" flipH="1" source="prison_tower_64_c_6_0" x="22" y="225"/>
+  <asset name="prison_tower_64_d_0_1" flipH="1" source="prison_tower_64_d_6_1" x="341" y="222"/>
+  <asset name="prison_tower_32_a_2_0" flipH="1" source="prison_tower_32_a_4_0" x="17" y="64"/>
+  <asset name="prison_tower_32_b_2_0" flipH="1" source="prison_tower_32_b_4_0" x="24" y="103"/>
+  <asset name="prison_tower_32_c_2_0" flipH="1" source="prison_tower_32_c_4_0" x="11" y="112"/>
+  <asset name="prison_tower_32_d_2_0" flipH="1" source="prison_tower_32_d_4_0" x="0" y="92"/>
+  <asset name="prison_tower_32_d_2_1" flipH="1" source="prison_tower_32_d_4_1" x="65" y="102"/>
+  <asset name="prison_tower_64_a_2_0" flipH="1" source="prison_tower_64_a_4_0" x="35" y="130"/>
+  <asset name="prison_tower_64_b_2_0" flipH="1" source="prison_tower_64_b_4_0" x="50" y="207"/>
+  <asset name="prison_tower_64_c_2_0" flipH="1" source="prison_tower_64_c_4_0" x="21" y="225"/>
+  <asset name="prison_tower_64_d_2_0" flipH="1" source="prison_tower_64_d_4_0" x="4" y="186"/>
+  <asset name="prison_tower_64_d_2_1" flipH="1" source="prison_tower_64_d_4_1" x="152" y="206"/>
+</assets>

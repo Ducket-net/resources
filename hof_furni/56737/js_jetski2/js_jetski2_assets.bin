@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="js_jetski2_32_a_4_0" x="21" y="17"/>
+  <asset name="js_jetski2_32_b_4_0" x="20" y="21"/>
+  <asset name="js_jetski2_32_c_4_0" x="17" y="2"/>
+  <asset name="js_jetski2_32_c_4_1" x="17" y="3"/>
+  <asset name="js_jetski2_64_a_4_0" x="44" y="31"/>
+  <asset name="js_jetski2_64_b_4_0" x="43" y="40"/>
+  <asset name="js_jetski2_64_c_4_0" x="37" y="3"/>
+  <asset name="js_jetski2_64_c_4_1" x="37" y="3"/>
+  <asset name="js_jetski2_icon_a" x="14" y="10"/>
+  <asset name="js_jetski2_32_a_2_0" flipH="1" source="js_jetski2_32_a_4_0" x="21" y="17"/>
+  <asset name="js_jetski2_32_b_2_0" flipH="1" source="js_jetski2_32_b_4_0" x="20" y="21"/>
+  <asset name="js_jetski2_32_c_2_0" flipH="1" source="js_jetski2_32_c_4_0" x="17" y="2"/>
+  <asset name="js_jetski2_32_c_2_1" flipH="1" source="js_jetski2_32_c_4_1" x="17" y="3"/>
+  <asset name="js_jetski2_64_a_2_0" flipH="1" source="js_jetski2_64_a_4_0" x="44" y="31"/>
+  <asset name="js_jetski2_64_b_2_0" flipH="1" source="js_jetski2_64_b_4_0" x="43" y="40"/>
+  <asset name="js_jetski2_64_c_2_0" flipH="1" source="js_jetski2_64_c_4_0" x="37" y="3"/>
+  <asset name="js_jetski2_64_c_2_1" flipH="1" source="js_jetski2_64_c_4_1" x="37" y="3"/>
+</assets>

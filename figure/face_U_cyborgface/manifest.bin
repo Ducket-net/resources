@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="face_U_cyborgface" version="0.1">
+    <assets>
+      <asset name="h_lay_hd_3799_2_0" mimeType="image/png">
+        <param key="offset" value="20,37"/>
+      </asset>
+      <asset name="h_lay_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="9,33"/>
+      </asset>
+      <asset name="h_lay_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="10,31"/>
+      </asset>
+      <asset name="h_lsr_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_lsp_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_lsp_fc_3799_2_1" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_lsm_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_lag_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_lsa_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_ley_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-51,-126"/>
+      </asset>
+      <asset name="h_std_hd_3799_7_0" mimeType="image/png">
+        <param key="offset" value="-21,72"/>
+      </asset>
+      <asset name="h_std_hd_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-21,74"/>
+      </asset>
+      <asset name="h_std_fc_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-27,59"/>
+      </asset>
+      <asset name="h_std_ey_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_std_hd_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-20,74"/>
+      </asset>
+      <asset name="h_std_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-32,61"/>
+      </asset>
+      <asset name="h_std_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-37,62"/>
+      </asset>
+      <asset name="h_std_hd_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-18,73"/>
+      </asset>
+      <asset name="h_std_fc_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-38,60"/>
+      </asset>
+      <asset name="h_std_ey_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,51"/>
+      </asset>
+      <asset name="h_std_hd_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-17,73"/>
+      </asset>
+      <asset name="h_std_ey_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,59"/>
+      </asset>
+      <asset name="h_std_fc_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,59"/>
+      </asset>
+      <asset name="h_spk_fc_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_spk_fc_3799_3_1" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_spk_fc_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_spk_fc_3799_2_1" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_spk_fc_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_spk_fc_3799_1_1" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_sml_ey_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_sml_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_sml_ey_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_sml_ey_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,61"/>
+      </asset>
+      <asset name="h_agr_ey_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_agr_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_agr_ey_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_agr_ey_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,61"/>
+      </asset>
+      <asset name="h_sad_ey_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_sad_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_sad_ey_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_sad_ey_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,61"/>
+      </asset>
+      <asset name="h_srp_ey_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_srp_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_srp_ey_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_srp_ey_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,61"/>
+      </asset>
+      <asset name="h_eyb_ey_3799_3_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_eyb_ey_3799_2_0" mimeType="image/png">
+        <param key="offset" value="-29,65"/>
+      </asset>
+      <asset name="h_eyb_ey_3799_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_eyb_ey_3799_0_0" mimeType="image/png">
+        <param key="offset" value="-43,61"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

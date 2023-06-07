@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="obstacle_bush_64_d_4_0" x="99" y="22"/>
+  <asset name="obstacle_bush_64_a_4_0" x="94" y="1"/>
+  <asset name="obstacle_bush_64_sd_4_0" x="62" y="-6"/>
+  <asset name="obstacle_bush_64_b_4_0" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_4_0" x="30" y="6"/>
+  <asset name="obstacle_bush_64_b_4_1" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_4_1" x="30" y="8"/>
+  <asset name="obstacle_bush_64_b_4_2" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_4_2" x="28" y="7"/>
+  <asset name="obstacle_bush_64_b_4_3" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_4_3" x="40" y="7"/>
+  <asset name="obstacle_bush_32_d_4_0" x="50" y="10"/>
+  <asset name="obstacle_bush_32_a_4_0" x="47" y="-1"/>
+  <asset name="obstacle_bush_32_sd_4_0" x="28" y="-4"/>
+  <asset name="obstacle_bush_32_b_4_0" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_4_0" x="13" y="2"/>
+  <asset name="obstacle_bush_32_b_4_1" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_4_1" x="13" y="4"/>
+  <asset name="obstacle_bush_32_b_4_2" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_4_2" x="12" y="4"/>
+  <asset name="obstacle_bush_32_b_4_3" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_4_3" x="19" y="4"/>
+  <asset name="obstacle_bush_32_e_4_0" x="-15" y="-11"/>
+  <asset name="obstacle_bush_32_e_4_1" x="-10" y="27"/>
+  <asset name="obstacle_bush_32_e_4_2" x="-9" y="28"/>
+  <asset name="obstacle_bush_32_e_4_3" x="-9" y="29"/>
+  <asset name="obstacle_bush_32_e_4_4" x="-12" y="31"/>
+  <asset name="obstacle_bush_32_e_4_5" x="-2" y="34"/>
+  <asset name="obstacle_bush_32_e_4_6" x="-1" y="34"/>
+  <asset name="obstacle_bush_32_e_4_7" x="-2" y="33"/>
+  <asset name="obstacle_bush_32_e_4_8" x="0" y="12"/>
+  <asset name="obstacle_bush_32_e_4_9" x="3" y="12"/>
+  <asset name="obstacle_bush_32_e_4_10" x="5" y="15"/>
+  <asset name="obstacle_bush_32_e_4_11" x="8" y="17"/>
+  <asset name="obstacle_bush_32_e_4_12" x="10" y="18"/>
+  <asset name="obstacle_bush_32_e_4_13" x="12" y="16"/>
+  <asset name="obstacle_bush_32_e_4_14" x="15" y="14"/>
+  <asset name="obstacle_bush_32_e_4_15" x="16" y="13"/>
+  <asset name="obstacle_bush_32_e_4_16" x="16" y="16"/>
+  <asset name="obstacle_bush_64_d_2_0" flipH="1" source="obstacle_bush_64_d_4_0" x="97" y="21"/>
+  <asset name="obstacle_bush_64_a_2_0" flipH="1" source="obstacle_bush_64_a_4_0" x="92" y="0"/>
+  <asset name="obstacle_bush_64_sd_2_0" flipH="1" source="obstacle_bush_64_sd_4_0" x="62" y="-6"/>
+  <asset name="obstacle_bush_64_b_2_0" flipH="1" source="obstacle_bush_64_b_4_0" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_2_0" flipH="1" source="obstacle_bush_64_c_4_0" x="30" y="6"/>
+  <asset name="obstacle_bush_64_b_2_1" flipH="1" source="obstacle_bush_64_b_4_1" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_2_1" flipH="1" source="obstacle_bush_64_c_4_1" x="30" y="8"/>
+  <asset name="obstacle_bush_64_b_2_2" flipH="1" source="obstacle_bush_64_b_4_2" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_2_2" flipH="1" source="obstacle_bush_64_c_4_2" x="28" y="7"/>
+  <asset name="obstacle_bush_64_b_2_3" flipH="1" source="obstacle_bush_64_b_4_3" x="60" y="32"/>
+  <asset name="obstacle_bush_64_c_2_3" flipH="1" source="obstacle_bush_64_c_4_3" x="40" y="7"/>
+  <asset name="obstacle_bush_32_d_2_0" flipH="1" source="obstacle_bush_32_d_4_0" x="48" y="9"/>
+  <asset name="obstacle_bush_32_a_2_0" flipH="1" source="obstacle_bush_32_a_4_0" x="45" y="-2"/>
+  <asset name="obstacle_bush_32_sd_2_0" flipH="1" source="obstacle_bush_32_sd_4_0" x="28" y="-4"/>
+  <asset name="obstacle_bush_32_b_2_0" flipH="1" source="obstacle_bush_32_b_4_0" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_2_0" flipH="1" source="obstacle_bush_32_c_4_0" x="13" y="2"/>
+  <asset name="obstacle_bush_32_b_2_1" flipH="1" source="obstacle_bush_32_b_4_1" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_2_1" flipH="1" source="obstacle_bush_32_c_4_1" x="13" y="4"/>
+  <asset name="obstacle_bush_32_b_2_2" flipH="1" source="obstacle_bush_32_b_4_2" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_2_2" flipH="1" source="obstacle_bush_32_c_4_2" x="12" y="4"/>
+  <asset name="obstacle_bush_32_b_2_3" flipH="1" source="obstacle_bush_32_b_4_3" x="28" y="16"/>
+  <asset name="obstacle_bush_32_c_2_3" flipH="1" source="obstacle_bush_32_c_4_3" x="19" y="4"/>
+  <asset name="obstacle_bush_32_e_2_0" flipH="1" source="obstacle_bush_32_e_4_0" x="-15" y="-11"/>
+  <asset name="obstacle_bush_32_e_2_1" flipH="1" source="obstacle_bush_32_e_4_1" x="-10" y="27"/>
+  <asset name="obstacle_bush_32_e_2_2" flipH="1" source="obstacle_bush_32_e_4_2" x="-9" y="28"/>
+  <asset name="obstacle_bush_32_e_2_3" flipH="1" source="obstacle_bush_32_e_4_3" x="-9" y="29"/>
+  <asset name="obstacle_bush_32_e_2_4" flipH="1" source="obstacle_bush_32_e_4_4" x="-12" y="31"/>
+  <asset name="obstacle_bush_32_e_2_5" flipH="1" source="obstacle_bush_32_e_4_5" x="-2" y="34"/>
+  <asset name="obstacle_bush_32_e_2_6" flipH="1" source="obstacle_bush_32_e_4_6" x="-1" y="34"/>
+  <asset name="obstacle_bush_32_e_2_7" flipH="1" source="obstacle_bush_32_e_4_7" x="-2" y="33"/>
+  <asset name="obstacle_bush_32_e_2_8" flipH="1" source="obstacle_bush_32_e_4_8" x="0" y="12"/>
+  <asset name="obstacle_bush_32_e_2_9" flipH="1" source="obstacle_bush_32_e_4_9" x="3" y="12"/>
+  <asset name="obstacle_bush_32_e_2_10" flipH="1" source="obstacle_bush_32_e_4_10" x="5" y="15"/>
+  <asset name="obstacle_bush_32_e_2_11" flipH="1" source="obstacle_bush_32_e_4_11" x="8" y="17"/>
+  <asset name="obstacle_bush_32_e_2_12" flipH="1" source="obstacle_bush_32_e_4_12" x="10" y="18"/>
+  <asset name="obstacle_bush_32_e_2_13" flipH="1" source="obstacle_bush_32_e_4_13" x="12" y="16"/>
+  <asset name="obstacle_bush_32_e_2_14" flipH="1" source="obstacle_bush_32_e_4_14" x="15" y="14"/>
+  <asset name="obstacle_bush_32_e_2_15" flipH="1" source="obstacle_bush_32_e_4_15" x="16" y="13"/>
+  <asset name="obstacle_bush_32_e_2_16" flipH="1" source="obstacle_bush_32_e_4_16" x="16" y="16"/>
+  <asset name="obstacle_bush_32_f_4_0" x="15" y="7"/>
+  <asset name="obstacle_bush_64_f_4_0" x="31" y="16"/>
+  <asset name="obstacle_bush_64_e_4_0" x="-27" y="-24"/>
+  <asset name="obstacle_bush_64_e_4_1" x="-15" y="54"/>
+  <asset name="obstacle_bush_64_e_4_2" x="-14" y="56"/>
+  <asset name="obstacle_bush_64_e_4_3" x="-14" y="57"/>
+  <asset name="obstacle_bush_64_e_4_4" x="-12" y="62"/>
+  <asset name="obstacle_bush_64_e_4_5" x="1" y="68"/>
+  <asset name="obstacle_bush_64_e_4_6" x="2" y="69"/>
+  <asset name="obstacle_bush_64_e_4_7" x="3" y="70"/>
+  <asset name="obstacle_bush_64_e_4_8" x="5" y="23"/>
+  <asset name="obstacle_bush_64_e_4_9" x="11" y="24"/>
+  <asset name="obstacle_bush_64_e_4_10" x="15" y="30"/>
+  <asset name="obstacle_bush_64_e_4_11" x="20" y="35"/>
+  <asset name="obstacle_bush_64_e_4_12" x="25" y="37"/>
+  <asset name="obstacle_bush_64_e_4_13" x="29" y="33"/>
+  <asset name="obstacle_bush_64_e_4_14" x="34" y="29"/>
+  <asset name="obstacle_bush_64_e_4_15" x="36" y="26"/>
+  <asset name="obstacle_bush_64_e_4_16" x="37" y="33"/>
+  <asset name="obstacle_bush_32_f_2_0" flipH="1" source="obstacle_bush_32_f_4_0" x="15" y="7"/>
+  <asset name="obstacle_bush_64_f_2_0" flipH="1" source="obstacle_bush_64_f_4_0" x="31" y="16"/>
+  <asset name="obstacle_bush_icon_a" x="16" y="15"/>
+</assets>

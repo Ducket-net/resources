@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="paris_c15_wall_64_a_2_0" x="34" y="300"/>
+  <asset name="paris_c15_wall_64_b_2_0" x="-33" y="0"/>
+  <asset name="paris_c15_wall_64_a_2_1" x="34" y="300"/>
+  <asset name="paris_c15_wall_64_b_2_1" x="-33" y="0"/>
+  <asset name="paris_c15_wall_64_a_2_2" x="34" y="300"/>
+  <asset name="paris_c15_wall_64_b_2_2" x="-33" y="0"/>
+  <asset name="paris_c15_wall_icon_a" x="7" y="15"/>
+  <asset name="paris_c15_wall_64_a_4_0" flipH="1" source="paris_c15_wall_64_a_2_0" x="34" y="300"/>
+  <asset name="paris_c15_wall_64_b_4_0" flipH="1" source="paris_c15_wall_64_b_2_0" x="-33" y="0"/>
+  <asset name="paris_c15_wall_64_a_4_1" flipH="1" source="paris_c15_wall_64_a_2_1" x="34" y="300"/>
+  <asset name="paris_c15_wall_64_b_4_1" flipH="1" source="paris_c15_wall_64_b_2_1" x="-33" y="0"/>
+  <asset name="paris_c15_wall_64_a_4_2" flipH="1" source="paris_c15_wall_64_a_2_2" x="34" y="300"/>
+  <asset name="paris_c15_wall_64_b_4_2" flipH="1" source="paris_c15_wall_64_b_2_2" x="-33" y="0"/>
+</assets>

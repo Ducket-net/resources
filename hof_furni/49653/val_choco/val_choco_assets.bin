@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="val_choco_32_a_0_0" x="11" y="16"/>
+   <asset name="val_choco_32_a_0_1" x="15" y="22"/>
+   <asset name="val_choco_32_a_2_0" flipH="1" source="val_choco_32_a_0_0" x="11" y="16"/>
+   <asset name="val_choco_32_a_2_1" flipH="1" source="val_choco_32_a_0_1" x="15" y="22"/>
+   <asset name="val_choco_64_a_0_0" x="23" y="30"/>
+   <asset name="val_choco_64_a_0_1" x="34" y="43"/>
+   <asset name="val_choco_64_a_2_0" flipH="1" source="val_choco_64_a_0_0" x="23" y="30"/>
+   <asset name="val_choco_64_a_2_1" flipH="1" source="val_choco_64_a_0_1" x="34" y="43"/>
+   <asset name="val_choco_icon_a" x="12" y="11"/>
+</assets>

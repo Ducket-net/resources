@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="attic15_cabinet_64_sd_4_0" x="20" y="0"/>
+  <asset name="attic15_cabinet_64_a_4_0" x="29" y="77"/>
+  <asset name="attic15_cabinet_64_b_4_0" x="0" y="63"/>
+  <asset name="attic15_cabinet_64_c_4_0" x="-30" y="-27"/>
+  <asset name="attic15_cabinet_64_c_4_1" x="-8" y="78"/>
+  <asset name="attic15_cabinet_icon_a" x="10" y="13"/>
+  <asset name="attic15_cabinet_64_sd_2_0" flipH="1" source="attic15_cabinet_64_sd_4_0" x="20" y="0"/>
+  <asset name="attic15_cabinet_64_a_2_0" flipH="1" source="attic15_cabinet_64_a_4_0" x="29" y="77"/>
+  <asset name="attic15_cabinet_64_b_2_0" flipH="1" source="attic15_cabinet_64_b_4_0" x="0" y="63"/>
+  <asset name="attic15_cabinet_64_c_2_0" flipH="1" source="attic15_cabinet_64_c_4_0" x="-30" y="-27"/>
+  <asset name="attic15_cabinet_64_c_2_1" flipH="1" source="attic15_cabinet_64_c_4_1" x="-8" y="78"/>
+</assets>

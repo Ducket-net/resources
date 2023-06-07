@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="ads_nokiax3_wall_icon_a" x="8" y="10"/>
+  <asset name="ads_nokiax3_wall_64_c_4_2" x="-13" y="106"/>
+  <asset name="ads_nokiax3_wall_64_b_4_2" x="19" y="122"/>
+  <asset name="ads_nokiax3_wall_64_a_4_2" x="50" y="137"/>
+  <asset name="ads_nokiax3_wall_64_c_4_1" x="0" y="106"/>
+  <asset name="ads_nokiax3_wall_64_b_4_1" x="40" y="122"/>
+  <asset name="ads_nokiax3_wall_64_a_4_1" x="54" y="137"/>
+  <asset name="ads_nokiax3_wall_64_c_4_0" x="-2" y="106"/>
+  <asset name="ads_nokiax3_wall_64_b_4_0" x="31" y="121"/>
+  <asset name="ads_nokiax3_wall_64_a_4_0" x="57" y="137"/>
+  <asset name="ads_nokiax3_wall_64_c_2_2" source="ads_nokiax3_wall_64_c_4_2" x="-13" y="106"/>
+  <asset name="ads_nokiax3_wall_64_b_2_2" flipH="1" source="ads_nokiax3_wall_64_b_4_2" x="19" y="122"/>
+  <asset name="ads_nokiax3_wall_64_a_2_2" flipH="1" source="ads_nokiax3_wall_64_a_4_2" x="50" y="137"/>
+  <asset name="ads_nokiax3_wall_64_c_2_1" flipH="1" source="ads_nokiax3_wall_64_c_4_1" x="0" y="106"/>
+  <asset name="ads_nokiax3_wall_64_b_2_1" source="ads_nokiax3_wall_64_b_4_1" x="40" y="122"/>
+  <asset name="ads_nokiax3_wall_64_a_2_1" flipH="1" source="ads_nokiax3_wall_64_a_4_1" x="54" y="137"/>
+  <asset name="ads_nokiax3_wall_64_c_2_0" flipH="1" source="ads_nokiax3_wall_64_c_4_0" x="-2" y="106"/>
+  <asset name="ads_nokiax3_wall_64_b_2_0" flipH="1" source="ads_nokiax3_wall_64_b_4_0" x="31" y="121"/>
+  <asset name="ads_nokiax3_wall_64_a_2_0" flipH="1" source="ads_nokiax3_wall_64_a_4_0" x="57" y="137"/>
+  <asset name="ads_nokiax3_wall_32_c_4_2" x="-11" y="52"/>
+  <asset name="ads_nokiax3_wall_32_b_4_2" x="5" y="60"/>
+  <asset name="ads_nokiax3_wall_32_a_4_2" x="21" y="68"/>
+  <asset name="ads_nokiax3_wall_32_c_4_1" x="-4" y="52"/>
+  <asset name="ads_nokiax3_wall_32_b_4_1" x="17" y="61"/>
+  <asset name="ads_nokiax3_wall_32_a_4_1" x="24" y="68"/>
+  <asset name="ads_nokiax3_wall_32_c_4_0" x="-5" y="52"/>
+  <asset name="ads_nokiax3_wall_32_b_4_0" x="12" y="60"/>
+  <asset name="ads_nokiax3_wall_32_a_4_0" x="25" y="68"/>
+  <asset name="ads_nokiax3_wall_32_c_2_2" flipH="1" source="ads_nokiax3_wall_32_c_4_2" x="-9" y="51"/>
+  <asset name="ads_nokiax3_wall_32_b_2_2" flipH="1" source="ads_nokiax3_wall_32_b_4_2" x="7" y="59"/>
+  <asset name="ads_nokiax3_wall_32_a_2_2" flipH="1" source="ads_nokiax3_wall_32_a_4_2" x="23" y="67"/>
+  <asset name="ads_nokiax3_wall_32_c_2_1" flipH="1" source="ads_nokiax3_wall_32_c_4_1" x="-2" y="51"/>
+  <asset name="ads_nokiax3_wall_32_b_2_1" flipH="1" source="ads_nokiax3_wall_32_b_4_1" x="19" y="60"/>
+  <asset name="ads_nokiax3_wall_32_a_2_1" flipH="1" source="ads_nokiax3_wall_32_a_4_1" x="26" y="67"/>
+  <asset name="ads_nokiax3_wall_32_c_2_0" flipH="1" source="ads_nokiax3_wall_32_c_4_0" x="-3" y="51"/>
+  <asset name="ads_nokiax3_wall_32_b_2_0" flipH="1" source="ads_nokiax3_wall_32_b_4_0" x="14" y="59"/>
+  <asset name="ads_nokiax3_wall_32_a_2_0" flipH="1" source="ads_nokiax3_wall_32_a_4_0" x="27" y="67"/>
+</assets>

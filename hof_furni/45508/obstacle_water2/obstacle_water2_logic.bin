@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><objectData type="obstacle_water2">
+  <model>
+    <dimensions x="2" y="3" z="0"/>
+    <directions>
+      <direction id="180"/>
+      <direction id="90"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="64"/>
+    <particlesystem size="32"/>
+  </particlesystems>
+</objectData>

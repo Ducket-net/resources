@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="kuurna_sofa_icon_a" x="14" y="13"/>
+  <asset name="kuurna_sofa_64_sd_4_0" x="31" y="15"/>
+  <asset name="kuurna_sofa_64_a_4_0" x="31" y="50"/>
+  <asset name="kuurna_sofa_64_b_4_0" x="18" y="-2"/>
+  <asset name="kuurna_sofa_64_c_4_0" x="-1" y="38"/>
+  <asset name="kuurna_sofa_64_d_4_0" x="-25" y="21"/>
+  <asset name="kuurna_sofa_64_a_0_0" x="33" y="48"/>
+  <asset name="kuurna_sofa_64_b_0_0" x="25" y="40"/>
+  <asset name="kuurna_sofa_64_c_0_0" x="-9" y="25"/>
+  <asset name="kuurna_sofa_64_d_0_0" x="2" y="29"/>
+  <asset name="kuurna_sofa_32_sd_4_0" x="15" y="7"/>
+  <asset name="kuurna_sofa_32_a_4_0" x="16" y="25"/>
+  <asset name="kuurna_sofa_32_b_4_0" x="8" y="-1"/>
+  <asset name="kuurna_sofa_32_c_4_0" x="0" y="19"/>
+  <asset name="kuurna_sofa_32_d_4_0" x="-12" y="10"/>
+  <asset name="kuurna_sofa_32_a_0_0" x="18" y="23"/>
+  <asset name="kuurna_sofa_32_b_0_0" x="15" y="19"/>
+  <asset name="kuurna_sofa_32_c_0_0" x="-1" y="11"/>
+  <asset name="kuurna_sofa_32_d_0_0" x="1" y="14"/>
+  <asset name="kuurna_sofa_6_a" flipH="1" source="kuurna_sofa_icon_a" x="14" y="13"/>
+  <asset name="kuurna_sofa_64_a_6_0" flipH="1" source="kuurna_sofa_64_a_0_0" x="33" y="48"/>
+  <asset name="kuurna_sofa_64_b_6_0" flipH="1" source="kuurna_sofa_64_b_0_0" x="25" y="40"/>
+  <asset name="kuurna_sofa_64_c_6_0" flipH="1" source="kuurna_sofa_64_c_0_0" x="-9" y="25"/>
+  <asset name="kuurna_sofa_64_d_6_0" flipH="1" source="kuurna_sofa_64_d_0_0" x="2" y="29"/>
+  <asset name="kuurna_sofa_32_a_6_0" flipH="1" source="kuurna_sofa_32_a_0_0" x="18" y="23"/>
+  <asset name="kuurna_sofa_32_b_6_0" flipH="1" source="kuurna_sofa_32_b_0_0" x="15" y="19"/>
+  <asset name="kuurna_sofa_32_c_6_0" flipH="1" source="kuurna_sofa_32_c_0_0" x="-1" y="11"/>
+  <asset name="kuurna_sofa_32_d_6_0" flipH="1" source="kuurna_sofa_32_d_0_0" x="1" y="14"/>
+  <asset name="kuurna_sofa_64_a_2_0" flipH="1" source="kuurna_sofa_64_a_4_0" x="31" y="50"/>
+  <asset name="kuurna_sofa_64_b_2_0" flipH="1" source="kuurna_sofa_64_b_4_0" x="18" y="-2"/>
+  <asset name="kuurna_sofa_64_c_2_0" flipH="1" source="kuurna_sofa_64_c_4_0" x="-1" y="38"/>
+  <asset name="kuurna_sofa_64_d_2_0" flipH="1" source="kuurna_sofa_64_d_4_0" x="-25" y="21"/>
+  <asset name="kuurna_sofa_32_a_2_0" flipH="1" source="kuurna_sofa_32_a_4_0" x="16" y="25"/>
+  <asset name="kuurna_sofa_32_b_2_0" flipH="1" source="kuurna_sofa_32_b_4_0" x="8" y="-1"/>
+  <asset name="kuurna_sofa_32_c_2_0" flipH="1" source="kuurna_sofa_32_c_4_0" x="0" y="19"/>
+  <asset name="kuurna_sofa_32_d_2_0" flipH="1" source="kuurna_sofa_32_d_4_0" x="-12" y="10"/>
+  <asset name="kuurna_sofa_64_sd_0_0" source="kuurna_sofa_64_sd_4_0" x="31" y="15"/>
+  <asset name="kuurna_sofa_32_sd_0_0" source="kuurna_sofa_32_sd_4_0" x="15" y="7"/>
+  <asset name="kuurna_sofa_64_sd_2_0" flipH="1" source="kuurna_sofa_64_sd_4_0" x="31" y="15"/>
+  <asset name="kuurna_sofa_32_sd_2_0" flipH="1" source="kuurna_sofa_32_sd_4_0" x="15" y="7"/>
+  <asset name="kuurna_sofa_64_sd_6_0" flipH="1" source="kuurna_sofa_64_sd_4_0" x="31" y="15"/>
+  <asset name="kuurna_sofa_32_sd_6_0" flipH="1" source="kuurna_sofa_32_sd_4_0" x="15" y="7"/>
+</assets>

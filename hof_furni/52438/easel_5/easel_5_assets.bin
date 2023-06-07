@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="easel_5_32_sd_0_0" x="7" y="0"/>
+  <asset name="easel_5_32_a_0_0" x="18" y="44"/>
+  <asset name="easel_5_32_a_0_1" x="22" y="48"/>
+  <asset name="easel_5_64_sd_0_0" x="13" y="1"/>
+  <asset name="easel_5_64_a_0_0" x="31" y="84"/>
+  <asset name="easel_5_64_a_0_1" x="35" y="88"/>
+  <asset name="easel_5_icon_a" x="7" y="13"/>
+  <asset name="easel_5_32_sd_2_0" flipH="1" source="easel_5_32_sd_0_0" x="7" y="0"/>
+  <asset name="easel_5_32_a_2_0" flipH="1" source="easel_5_32_a_0_0" x="18" y="44"/>
+  <asset name="easel_5_32_a_2_1" flipH="1" source="easel_5_32_a_0_1" x="22" y="48"/>
+  <asset name="easel_5_64_sd_2_0" flipH="1" source="easel_5_64_sd_0_0" x="13" y="1"/>
+  <asset name="easel_5_64_a_2_0" flipH="1" source="easel_5_64_a_0_0" x="31" y="84"/>
+  <asset name="easel_5_64_a_2_1" flipH="1" source="easel_5_64_a_0_1" x="35" y="88"/>
+</assets>

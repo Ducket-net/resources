@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="roombg_color" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="roombg_color_visualization" mimeType="text/xml"/>
+      <asset name="roombg_color_assets" mimeType="text/xml"/>
+      <asset name="roombg_color_logic" mimeType="text/xml"/>
+      <asset name="roombg_color_64_sd_0_0" mimeType="image/png"/>
+      <asset name="roombg_color_64_a_0_0" mimeType="image/png"/>
+      <asset name="roombg_color_64_a_0_1" mimeType="image/png"/>
+      <asset name="roombg_color_32_sd_0_0" mimeType="image/png"/>
+      <asset name="roombg_color_32_a_0_0" mimeType="image/png"/>
+      <asset name="roombg_color_32_a_0_1" mimeType="image/png"/>
+      <asset name="roombg_color_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

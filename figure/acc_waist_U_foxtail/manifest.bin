@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_foxtail" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_3327_2_0" mimeType="image/png">
+        <param key="offset" value="-9,2"/>
+      </asset>
+      <asset name="h_lay_wa_3328_2_0" mimeType="image/png">
+        <param key="offset" value="-23,-3"/>
+      </asset>
+      <asset name="h_std_wa_3327_7_0" mimeType="image/png">
+        <param key="offset" value="-25,23"/>
+      </asset>
+      <asset name="h_std_wa_3327_2_0" mimeType="image/png">
+        <param key="offset" value="1,29"/>
+      </asset>
+      <asset name="h_std_wa_3327_1_0" mimeType="image/png">
+        <param key="offset" value="2,29"/>
+      </asset>
+      <asset name="h_std_wa_3327_0_0" mimeType="image/png">
+        <param key="offset" value="-9,24"/>
+      </asset>
+      <asset name="h_std_wa_3328_7_0" mimeType="image/png">
+        <param key="offset" value="-28,5"/>
+      </asset>
+      <asset name="h_std_wa_3328_2_0" mimeType="image/png">
+        <param key="offset" value="0,7"/>
+      </asset>
+      <asset name="h_std_wa_3328_1_0" mimeType="image/png">
+        <param key="offset" value="1,7"/>
+      </asset>
+      <asset name="h_std_wa_3328_0_0" mimeType="image/png">
+        <param key="offset" value="-10,3"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

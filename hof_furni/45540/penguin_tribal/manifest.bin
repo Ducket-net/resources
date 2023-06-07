@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="penguin_tribal" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="penguin_tribal_visualization" mimeType="text/xml"/>
+      <asset name="penguin_tribal_assets" mimeType="text/xml"/>
+      <asset name="penguin_tribal_logic" mimeType="text/xml"/>
+      <asset name="penguin_tribal_32_sd_4_0" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_0" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_1" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_2" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_3" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_4" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_5" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_6" mimeType="image/png"/>
+      <asset name="penguin_tribal_32_a_4_7" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_sd_4_0" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_0" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_1" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_2" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_3" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_4" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_5" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_6" mimeType="image/png"/>
+      <asset name="penguin_tribal_64_a_4_7" mimeType="image/png"/>
+      <asset name="penguin_tribal_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

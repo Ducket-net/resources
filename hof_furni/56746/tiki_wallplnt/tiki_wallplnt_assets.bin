@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="tiki_wallplnt_64_a_2_0" x="37" y="61"/>
+   <asset name="tiki_wallplnt_64_b_2_0" x="23" y="58"/>
+   <asset name="tiki_wallplnt_64_a_4_0" flipH="1" source="tiki_wallplnt_64_a_2_0" x="37" y="61"/>
+   <asset name="tiki_wallplnt_64_b_4_0" flipH="1" source="tiki_wallplnt_64_b_2_0" x="23" y="58"/>
+   <asset name="tiki_wallplnt_32_a_2_0" x="17" y="30"/>
+   <asset name="tiki_wallplnt_32_b_2_0" x="4" y="23"/>
+   <asset name="tiki_wallplnt_32_a_4_0" flipH="1" source="tiki_wallplnt_32_a_2_0" x="17" y="30"/>
+   <asset name="tiki_wallplnt_32_b_4_0" flipH="1" source="tiki_wallplnt_32_b_2_0" x="4" y="23"/>
+   <asset name="tiki_wallplnt_icon_a" x="11" y="15"/>
+</assets>

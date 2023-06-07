@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="easter14_statue" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="easter14_statue_visualization" mimeType="text/xml"/>
+      <asset name="easter14_statue_assets" mimeType="text/xml"/>
+      <asset name="easter14_statue_logic" mimeType="text/xml"/>
+      <asset name="easter14_statue_64_a_4_0" mimeType="image/png"/>
+      <asset name="easter14_statue_32_a_4_0" mimeType="image/png"/>
+      <asset name="easter14_statue_64_a_4_1" mimeType="image/png"/>
+      <asset name="easter14_statue_32_a_4_1" mimeType="image/png"/>
+      <asset name="easter14_statue_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

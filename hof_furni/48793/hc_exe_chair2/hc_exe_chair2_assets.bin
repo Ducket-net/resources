@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc_exe_chair2_32_sd_2_0" x="10" y="5"/>
+  <asset name="hc_exe_chair2_32_a_2_0" x="19" y="35"/>
+  <asset name="hc_exe_chair2_32_b_2_0" x="19" y="13"/>
+  <asset name="hc_exe_chair2_32_sd_6_0" x="11" y="6"/>
+  <asset name="hc_exe_chair2_32_a_6_0" x="19" y="30"/>
+  <asset name="hc_exe_chair2_32_b_6_0" x="19" y="30"/>
+  <asset name="hc_exe_chair2_64_sd_2_0" x="22" y="12"/>
+  <asset name="hc_exe_chair2_64_a_2_0" x="38" y="71"/>
+  <asset name="hc_exe_chair2_64_b_2_0" x="38" y="26"/>
+  <asset name="hc_exe_chair2_64_sd_6_0" x="25" y="14"/>
+  <asset name="hc_exe_chair2_64_a_6_0" x="38" y="62"/>
+  <asset name="hc_exe_chair2_64_b_6_0" x="38" y="62"/>
+  <asset name="hc_exe_chair2_icon_a" x="13" y="14"/>
+  <asset name="hc_exe_chair2_32_sd_4_0" flipH="1" source="hc_exe_chair2_32_sd_2_0" x="10" y="5"/>
+  <asset name="hc_exe_chair2_32_a_4_0" flipH="1" source="hc_exe_chair2_32_a_2_0" x="19" y="35"/>
+  <asset name="hc_exe_chair2_32_b_4_0" flipH="1" source="hc_exe_chair2_32_b_2_0" x="19" y="13"/>
+  <asset name="hc_exe_chair2_64_sd_4_0" flipH="1" source="hc_exe_chair2_64_sd_2_0" x="22" y="12"/>
+  <asset name="hc_exe_chair2_64_a_4_0" flipH="1" source="hc_exe_chair2_64_a_2_0" x="38" y="71"/>
+  <asset name="hc_exe_chair2_64_b_4_0" flipH="1" source="hc_exe_chair2_64_b_2_0" x="38" y="26"/>
+  <asset name="hc_exe_chair2_32_sd_0_0" flipH="1" source="hc_exe_chair2_32_sd_6_0" x="11" y="6"/>
+  <asset name="hc_exe_chair2_32_a_0_0" flipH="1" source="hc_exe_chair2_32_a_6_0" x="19" y="30"/>
+  <asset name="hc_exe_chair2_32_b_0_0" flipH="1" source="hc_exe_chair2_32_b_6_0" x="19" y="30"/>
+  <asset name="hc_exe_chair2_64_sd_0_0" flipH="1" source="hc_exe_chair2_64_sd_6_0" x="25" y="14"/>
+  <asset name="hc_exe_chair2_64_a_0_0" flipH="1" source="hc_exe_chair2_64_a_6_0" x="38" y="62"/>
+  <asset name="hc_exe_chair2_64_b_0_0" flipH="1" source="hc_exe_chair2_64_b_6_0" x="38" y="62"/>
+</assets>

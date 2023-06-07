@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="runway_fabric" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="runway_fabric_visualization" mimeType="text/xml"/>
+      <asset name="runway_fabric_assets" mimeType="text/xml"/>
+      <asset name="runway_fabric_logic" mimeType="text/xml"/>
+      <asset name="runway_fabric_32_a_2_0" mimeType="image/png"/>
+      <asset name="runway_fabric_32_a_2_1" mimeType="image/png"/>
+      <asset name="runway_fabric_32_a_2_2" mimeType="image/png"/>
+      <asset name="runway_fabric_32_a_2_3" mimeType="image/png"/>
+      <asset name="runway_fabric_32_a_2_4" mimeType="image/png"/>
+      <asset name="runway_fabric_32_a_2_5" mimeType="image/png"/>
+      <asset name="runway_fabric_32_a_2_6" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_0" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_1" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_2" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_3" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_4" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_5" mimeType="image/png"/>
+      <asset name="runway_fabric_64_a_2_6" mimeType="image/png"/>
+      <asset name="runway_fabric_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

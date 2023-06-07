@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><objectData type="anc_artifact1">
+  <model>
+    <dimensions x="2" y="3" z="1"/>
+    <directions>
+      <direction id="90"/>
+      <direction id="180"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="64"/>
+  </particlesystems>
+</objectData>

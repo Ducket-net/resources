@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="guitar_skull_icon_a" x="14" y="10"/>
+   <asset name="guitar_skull_64_a_2_0" x="43" y="25"/>
+   <asset name="guitar_skull_64_b_2_0" x="42" y="20"/>
+   <asset name="guitar_skull_64_a_4_0" flipH="1" source="guitar_skull_64_a_2_0" x="43" y="25"/>
+   <asset name="guitar_skull_64_b_4_0" flipH="1" source="guitar_skull_64_b_2_0" x="42" y="20"/>
+   <asset name="guitar_skull_32_a_2_0" x="22" y="13"/>
+   <asset name="guitar_skull_32_b_2_0" x="22" y="7"/>
+   <asset name="guitar_skull_32_a_4_0" flipH="1" source="guitar_skull_32_a_2_0" x="22" y="13"/>
+   <asset name="guitar_skull_32_b_4_0" flipH="1" source="guitar_skull_32_b_2_0" x="22" y="7"/>
+</assets>

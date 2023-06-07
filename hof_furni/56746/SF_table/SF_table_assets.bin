@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="SF_table_32_a_0_0" x="11" y="23"/>
+   <asset name="SF_table_32_a_0_1" x="11" y="23"/>
+   <asset name="SF_table_32_a_2_0" flipH="1" source="SF_table_32_a_0_0" x="11" y="23"/>
+   <asset name="SF_table_32_a_2_1" flipH="1" source="SF_table_32_a_0_1" x="11" y="23"/>
+   <asset name="SF_table_32_b_0_0" x="26" y="18"/>
+   <asset name="SF_table_32_b_0_1" x="26" y="18"/>
+   <asset name="SF_table_32_b_2_0" flipH="1" source="SF_table_32_b_0_0" x="26" y="18"/>
+   <asset name="SF_table_32_b_2_1" flipH="1" source="SF_table_32_b_0_1" x="26" y="18"/>
+   <asset name="SF_table_32_c_0_0" x="15" y="9"/>
+   <asset name="SF_table_32_c_0_1" x="15" y="9"/>
+   <asset name="SF_table_32_c_2_0" flipH="1" source="SF_table_32_c_0_0" x="15" y="9"/>
+   <asset name="SF_table_32_c_2_1" flipH="1" source="SF_table_32_c_0_1" x="15" y="9"/>
+   <asset name="SF_table_32_d_0_0" x="4" y="10"/>
+   <asset name="SF_table_32_d_0_1" x="13" y="28"/>
+   <asset name="SF_table_32_d_2_0" flipH="1" source="SF_table_32_d_0_0" x="4" y="10"/>
+   <asset name="SF_table_32_d_2_1" flipH="1" source="SF_table_32_d_0_1" x="13" y="28"/>
+   <asset name="SF_table_32_e_0_0" x="4" y="10"/>
+   <asset name="SF_table_32_e_0_1" x="26" y="31"/>
+   <asset name="SF_table_32_e_2_0" flipH="1" source="SF_table_32_e_0_0" x="4" y="10"/>
+   <asset name="SF_table_32_e_2_1" flipH="1" source="SF_table_32_e_0_1" x="26" y="31"/>
+   <asset name="SF_table_32_f_0_0" x="4" y="10"/>
+   <asset name="SF_table_32_f_0_1" x="14" y="10"/>
+   <asset name="SF_table_32_f_2_0" flipH="1" source="SF_table_32_f_0_0" x="4" y="10"/>
+   <asset name="SF_table_32_f_2_1" flipH="1" source="SF_table_32_f_0_1" x="14" y="10"/>
+   <asset name="SF_table_32_sd_0_0" x="25" y="5"/>
+   <asset name="SF_table_32_sd_2_0" flipH="1" source="SF_table_32_sd_0_0" x="25" y="5"/>
+   <asset name="SF_table_64_a_0_0" x="23" y="46"/>
+   <asset name="SF_table_64_a_0_1" x="23" y="46"/>
+   <asset name="SF_table_64_a_2_0" flipH="1" source="SF_table_64_a_0_0" x="23" y="46"/>
+   <asset name="SF_table_64_a_2_1" flipH="1" source="SF_table_64_a_0_1" x="23" y="46"/>
+   <asset name="SF_table_64_b_0_0" x="53" y="35"/>
+   <asset name="SF_table_64_b_0_1" x="53" y="35"/>
+   <asset name="SF_table_64_b_2_0" flipH="1" source="SF_table_64_b_0_0" x="53" y="35"/>
+   <asset name="SF_table_64_b_2_1" flipH="1" source="SF_table_64_b_0_1" x="53" y="35"/>
+   <asset name="SF_table_64_c_0_0" x="32" y="18"/>
+   <asset name="SF_table_64_c_0_1" x="32" y="18"/>
+   <asset name="SF_table_64_c_2_0" flipH="1" source="SF_table_64_c_0_0" x="32" y="18"/>
+   <asset name="SF_table_64_c_2_1" flipH="1" source="SF_table_64_c_0_1" x="32" y="18"/>
+   <asset name="SF_table_64_d_0_0" x="19" y="-9"/>
+   <asset name="SF_table_64_d_0_1" x="22" y="58"/>
+   <asset name="SF_table_64_d_2_0" flipH="1" source="SF_table_64_d_0_0" x="19" y="-9"/>
+   <asset name="SF_table_64_d_2_1" flipH="1" source="SF_table_64_d_0_1" x="22" y="58"/>
+   <asset name="SF_table_64_e_0_0" x="19" y="-9"/>
+   <asset name="SF_table_64_e_0_1" x="53" y="59"/>
+   <asset name="SF_table_64_e_2_0" flipH="1" source="SF_table_64_e_0_0" x="19" y="-9"/>
+   <asset name="SF_table_64_e_2_1" flipH="1" source="SF_table_64_e_0_1" x="53" y="59"/>
+   <asset name="SF_table_64_f_0_0" x="19" y="-9"/>
+   <asset name="SF_table_64_f_0_1" x="31" y="18"/>
+   <asset name="SF_table_64_f_2_0" flipH="1" source="SF_table_64_f_0_0" x="19" y="-9"/>
+   <asset name="SF_table_64_f_2_1" flipH="1" source="SF_table_64_f_0_1" x="31" y="18"/>
+   <asset name="SF_table_64_sd_0_0" x="56" y="11"/>
+   <asset name="SF_table_64_sd_2_0" flipH="1" source="SF_table_64_sd_0_0" x="56" y="11"/>
+   <asset name="SF_table_icon_a" x="16" y="12"/>
+</assets>

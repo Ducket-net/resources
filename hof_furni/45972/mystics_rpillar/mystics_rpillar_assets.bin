@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="mystics_rpillar_32_sd_0_0" x="11" y="2"/>
+  <asset name="mystics_rpillar_32_a_0_0" x="11" y="60"/>
+  <asset name="mystics_rpillar_32_b_0_0" x="12" y="47"/>
+  <asset name="mystics_rpillar_64_sd_0_0" x="20" y="9"/>
+  <asset name="mystics_rpillar_64_a_0_0" x="19" y="122"/>
+  <asset name="mystics_rpillar_64_b_0_0" x="20" y="97"/>
+  <asset name="mystics_rpillar_icon_a" x="6" y="15"/>
+  <asset name="mystics_rpillar_32_sd_2_0" flipH="1" source="mystics_rpillar_32_sd_0_0" x="11" y="2"/>
+  <asset name="mystics_rpillar_32_a_2_0" flipH="1" source="mystics_rpillar_32_a_0_0" x="11" y="60"/>
+  <asset name="mystics_rpillar_32_b_2_0" flipH="1" source="mystics_rpillar_32_b_0_0" x="12" y="47"/>
+  <asset name="mystics_rpillar_64_sd_2_0" flipH="1" source="mystics_rpillar_64_sd_0_0" x="20" y="9"/>
+  <asset name="mystics_rpillar_64_a_2_0" flipH="1" source="mystics_rpillar_64_a_0_0" x="19" y="122"/>
+  <asset name="mystics_rpillar_64_b_2_0" flipH="1" source="mystics_rpillar_64_b_0_0" x="20" y="97"/>
+</assets>

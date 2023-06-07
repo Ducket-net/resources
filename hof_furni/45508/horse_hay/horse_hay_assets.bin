@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="horse_hay_64_sd_2_0" x="29" y="2"/>
+  <asset name="horse_hay_64_a_2_0" x="28" y="38"/>
+  <asset name="horse_hay_32_sd_2_0" x="14" y="1"/>
+  <asset name="horse_hay_32_a_2_0" x="14" y="20"/>
+  <asset name="horse_hay_icon_a" x="15" y="13"/>
+  <asset name="horse_hay_64_sd_4_0" flipH="1" source="horse_hay_64_sd_2_0" x="29" y="2"/>
+  <asset name="horse_hay_64_a_4_0" flipH="1" source="horse_hay_64_a_2_0" x="28" y="38"/>
+  <asset name="horse_hay_32_sd_4_0" flipH="1" source="horse_hay_32_sd_2_0" x="14" y="1"/>
+  <asset name="horse_hay_32_a_4_0" flipH="1" source="horse_hay_32_a_2_0" x="14" y="20"/>
+</assets>

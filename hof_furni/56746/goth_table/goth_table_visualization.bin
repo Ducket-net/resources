@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="goth_table"><graphics>
+  <visualization size="32" layerCount="6" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="1000"/>
+      <layer id="2" z="2000"/>
+      <layer id="3" z="3000"/>
+      <layer id="4" z="4000"/>
+      <layer id="5" alpha="66" z="-500"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="2"/>
+    </directions>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="11" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="1000"/>
+      <layer id="2" z="2000"/>
+      <layer id="3" z="3000"/>
+      <layer id="4" z="4000"/>
+      <layer id="5" alpha="204"/>
+      <layer id="6" alpha="204" z="1000"/>
+      <layer id="7" alpha="204" z="2000"/>
+      <layer id="8" alpha="204" z="3000"/>
+      <layer id="9" alpha="204" z="4000"/>
+      <layer id="10" alpha="66" z="-1000"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="2"/>
+    </directions>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="1" layerCount="1" angle="360">
+    <directions>
+      <direction id="0"/>
+    </directions>
+  </visualization>
+</graphics></visualizationData>

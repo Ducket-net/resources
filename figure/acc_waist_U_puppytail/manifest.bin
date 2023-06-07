@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_puppytail" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_3535_2_0" mimeType="image/png">
+        <param key="offset" value="-11,7"/>
+      </asset>
+      <asset name="h_std_wa_3535_7_0" mimeType="image/png">
+        <param key="offset" value="-27,27"/>
+      </asset>
+      <asset name="h_std_wa_3535_2_0" mimeType="image/png">
+        <param key="offset" value="-5,35"/>
+      </asset>
+      <asset name="h_std_wa_3535_1_0" mimeType="image/png">
+        <param key="offset" value="-7,33"/>
+      </asset>
+      <asset name="h_std_wa_3535_0_0" mimeType="image/png">
+        <param key="offset" value="-13,30"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

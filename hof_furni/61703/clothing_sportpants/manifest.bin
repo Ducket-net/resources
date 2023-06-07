@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_sportpants" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_sportpants_visualization" mimeType="text/xml"/>
+      <asset name="clothing_sportpants_assets" mimeType="text/xml"/>
+      <asset name="clothing_sportpants_logic" mimeType="text/xml"/>
+      <asset name="clothing_sportpants_64_sd_2_0" mimeType="image/png"/>
+      <asset name="clothing_sportpants_64_a_2_0" mimeType="image/png"/>
+      <asset name="clothing_sportpants_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

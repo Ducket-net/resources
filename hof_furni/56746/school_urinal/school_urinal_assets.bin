@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="school_urinal_64_a_2_0" x="41" y="48"/>
+   <asset name="school_urinal_64_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_64_b_2_1" x="31" y="26"/>
+   <asset name="school_urinal_64_b_2_2" x="31" y="27"/>
+   <asset name="school_urinal_64_b_2_3" x="31" y="27"/>
+   <asset name="school_urinal_64_b_2_4" x="31" y="27"/>
+   <asset name="school_urinal_64_b_2_5" x="31" y="6"/>
+   <asset name="school_urinal_64_c_2_0" source="school_urinal_64_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_64_c_2_1" x="26" y="-9"/>
+   <asset name="school_urinal_64_c_2_2" x="26" y="-8"/>
+   <asset name="school_urinal_64_c_2_3" x="26" y="-6"/>
+   <asset name="school_urinal_64_c_2_4" x="27" y="-5"/>
+   <asset name="school_urinal_64_c_2_5" x="27" y="-4"/>
+   <asset name="school_urinal_64_c_2_6" x="22" y="-11"/>
+   <asset name="school_urinal_64_c_2_7" x="17" y="-15"/>
+   <asset name="school_urinal_64_a_4_0" flipH="1" source="school_urinal_64_a_2_0" x="41" y="48"/>
+   <asset name="school_urinal_64_b_4_0" source="school_urinal_64_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_64_b_4_1" flipH="1" source="school_urinal_64_b_2_1" x="31" y="26"/>
+   <asset name="school_urinal_64_b_4_2" flipH="1" source="school_urinal_64_b_2_2" x="31" y="27"/>
+   <asset name="school_urinal_64_b_4_3" flipH="1" source="school_urinal_64_b_2_3" x="31" y="27"/>
+   <asset name="school_urinal_64_b_4_4" flipH="1" source="school_urinal_64_b_2_4" x="31" y="27"/>
+   <asset name="school_urinal_64_b_4_5" flipH="1" source="school_urinal_64_b_2_5" x="31" y="6"/>
+   <asset name="school_urinal_64_c_4_0" source="school_urinal_64_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_64_c_4_1" flipH="1" source="school_urinal_64_c_2_1" x="26" y="-9"/>
+   <asset name="school_urinal_64_c_4_2" flipH="1" source="school_urinal_64_c_2_2" x="26" y="-8"/>
+   <asset name="school_urinal_64_c_4_3" flipH="1" source="school_urinal_64_c_2_3" x="26" y="-6"/>
+   <asset name="school_urinal_64_c_4_4" flipH="1" source="school_urinal_64_c_2_4" x="27" y="-5"/>
+   <asset name="school_urinal_64_c_4_5" flipH="1" source="school_urinal_64_c_2_5" x="27" y="-4"/>
+   <asset name="school_urinal_64_c_4_6" flipH="1" source="school_urinal_64_c_2_6" x="22" y="-11"/>
+   <asset name="school_urinal_64_c_4_7" flipH="1" source="school_urinal_64_c_2_7" x="17" y="-15"/>
+   <asset name="school_urinal_32_a_2_0" x="21" y="24"/>
+   <asset name="school_urinal_32_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_32_b_2_1" x="16" y="12"/>
+   <asset name="school_urinal_32_b_2_2" x="16" y="13"/>
+   <asset name="school_urinal_32_b_2_3" x="16" y="13"/>
+   <asset name="school_urinal_32_b_2_4" x="16" y="13"/>
+   <asset name="school_urinal_32_b_2_5" x="16" y="5"/>
+   <asset name="school_urinal_32_c_2_0" source="school_urinal_32_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_32_c_2_1" x="11" y="-5"/>
+   <asset name="school_urinal_32_c_2_2" x="13" y="-5"/>
+   <asset name="school_urinal_32_c_2_3" x="13" y="-2"/>
+   <asset name="school_urinal_32_c_2_4" x="14" y="-2"/>
+   <asset name="school_urinal_32_c_2_5" x="13" y="-1"/>
+   <asset name="school_urinal_32_c_2_6" x="10" y="-4"/>
+   <asset name="school_urinal_32_c_2_7" x="5" y="-6"/>
+   <asset name="school_urinal_32_a_4_0" flipH="1" source="school_urinal_32_a_2_0" x="21" y="24"/>
+   <asset name="school_urinal_32_b_4_0" source="school_urinal_32_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_32_b_4_1" flipH="1" source="school_urinal_32_b_2_1" x="16" y="12"/>
+   <asset name="school_urinal_32_b_4_2" flipH="1" source="school_urinal_32_b_2_2" x="16" y="13"/>
+   <asset name="school_urinal_32_b_4_3" flipH="1" source="school_urinal_32_b_2_3" x="16" y="13"/>
+   <asset name="school_urinal_32_b_4_4" flipH="1" source="school_urinal_32_b_2_4" x="16" y="13"/>
+   <asset name="school_urinal_32_b_4_5" flipH="1" source="school_urinal_32_b_2_5" x="16" y="5"/>
+   <asset name="school_urinal_32_c_4_0" source="school_urinal_32_b_2_0" x="0" y="0"/>
+   <asset name="school_urinal_32_c_4_1" flipH="1" source="school_urinal_32_c_2_1" x="11" y="-5"/>
+   <asset name="school_urinal_32_c_4_2" flipH="1" source="school_urinal_32_c_2_2" x="13" y="-5"/>
+   <asset name="school_urinal_32_c_4_3" flipH="1" source="school_urinal_32_c_2_3" x="13" y="-2"/>
+   <asset name="school_urinal_32_c_4_4" flipH="1" source="school_urinal_32_c_2_4" x="14" y="-2"/>
+   <asset name="school_urinal_32_c_4_5" flipH="1" source="school_urinal_32_c_2_5" x="13" y="-1"/>
+   <asset name="school_urinal_32_c_4_6" flipH="1" source="school_urinal_32_c_2_6" x="10" y="-4"/>
+   <asset name="school_urinal_32_c_4_7" flipH="1" source="school_urinal_32_c_2_7" x="5" y="-6"/>
+   <asset name="school_urinal_icon_a" x="14" y="16"/>
+</assets>

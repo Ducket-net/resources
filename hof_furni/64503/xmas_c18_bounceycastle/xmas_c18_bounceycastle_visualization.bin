@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="xmas_c18_bounceycastle">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+        <direction id="6"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="12" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="1000"/>
+        <layer id="3" z="2000"/>
+        <layer id="4" z="2300"/>
+        <layer id="5" z="2000"/>
+        <layer id="6" z="2000"/>
+        <layer id="7" z="2300"/>
+        <layer id="8" z="3200"/>
+        <layer id="9" z="3000"/>
+        <layer id="10" z="4000"/>
+        <layer id="11" z="4300"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+        <direction id="6"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3"/>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+          <animationLayer id="6"/>
+          <animationLayer id="7"/>
+          <animationLayer id="8"/>
+          <animationLayer id="9"/>
+          <animationLayer id="10"/>
+          <animationLayer id="11"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1" loopCount="0" frameRepeat="6">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2" loopCount="0" frameRepeat="6">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="3" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="5" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="7" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="8" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="9" frameRepeat="6" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="10" loopCount="0" frameRepeat="6">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="11" loopCount="0" frameRepeat="6">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

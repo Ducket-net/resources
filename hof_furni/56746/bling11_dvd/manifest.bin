@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bling11_dvd" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="bling11_dvd_visualization" mimeType="text/xml"/>
+      <asset name="bling11_dvd_assets" mimeType="text/xml"/>
+      <asset name="bling11_dvd_logic" mimeType="text/xml"/>
+      <asset name="bling11_dvd_32_a_0_0" mimeType="image/png"/>
+      <asset name="bling11_dvd_32_b_0_0" mimeType="image/png"/>
+      <asset name="bling11_dvd_64_a_0_0" mimeType="image/png"/>
+      <asset name="bling11_dvd_64_b_0_0" mimeType="image/png"/>
+      <asset name="bling11_dvd_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

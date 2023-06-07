@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="plant_maze_snow_64_a_2_0" x="34" y="71"/>
+   <asset name="plant_maze_snow_64_a_4_0" x="34" y="73"/>
+   <asset name="plant_maze_snow_64_b_2_0" x="67" y="54"/>
+   <asset name="plant_maze_snow_64_b_4_0" x="-1" y="58"/>
+   <asset name="plant_maze_snow_64_sd_0_0" flipH="1" source="plant_maze_snow_64_sd_4_0" x="35" y="17"/>
+   <asset name="plant_maze_snow_64_sd_2_0" x="67" y="17"/>
+   <asset name="plant_maze_snow_64_sd_4_0" x="35" y="17"/>
+   <asset name="plant_maze_snow_64_sd_6_0" flipH="1" source="plant_maze_snow_64_sd_2_0" x="67" y="17"/>
+   <asset name="plant_maze_snow_icon_a" x="16" y="16"/>
+   <asset name="plant_maze_snow_32_a_2_0" x="16" y="40"/>
+   <asset name="plant_maze_snow_32_a_4_0" x="17" y="39"/>
+   <asset name="plant_maze_snow_32_b_2_0" x="33" y="31"/>
+   <asset name="plant_maze_snow_32_b_4_0" x="-1" y="31"/>
+   <asset name="plant_maze_snow_32_sd_0_0" flipH="1" source="plant_maze_snow_32_sd_4_0" x="17" y="9"/>
+   <asset name="plant_maze_snow_32_sd_2_0" x="33" y="9"/>
+   <asset name="plant_maze_snow_32_sd_4_0" x="17" y="9"/>
+   <asset name="plant_maze_snow_32_sd_6_0" flipH="1" source="plant_maze_snow_32_sd_2_0" x="33" y="9"/>
+</assets>

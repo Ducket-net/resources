@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="romantique_pianochair"><graphics>
+   <visualization size="32" layerCount="2" angle="45">
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+         <direction id="4"/>
+         <direction id="6"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="FF8B8B"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="A1DC67"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="5BD1D2"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FFC924"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="323C46"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="2" angle="45">
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+         <direction id="4"/>
+         <direction id="6"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="FF8B8B"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="A1DC67"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="5BD1D2"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FFC924"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="323C46"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="FF8B8B"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="A1DC67"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="5BD1D2"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FFC924"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="323C46"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

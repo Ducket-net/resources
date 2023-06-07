@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wildwest_pump_64_a_4_0" x="20" y="30"/>
+  <asset name="wildwest_pump_64_b_4_0" x="6" y="70"/>
+  <asset name="wildwest_pump_64_b_4_1" x="6" y="65"/>
+  <asset name="wildwest_pump_64_b_4_2" x="6" y="71"/>
+  <asset name="wildwest_pump_64_c_4_0" x="-8" y="34"/>
+  <asset name="wildwest_pump_64_c_4_1" x="6" y="32"/>
+  <asset name="wildwest_pump_64_c_4_2" x="5" y="31"/>
+  <asset name="wildwest_pump_64_c_4_3" x="6" y="27"/>
+  <asset name="wildwest_pump_64_c_4_4" x="6" y="23"/>
+  <asset name="wildwest_pump_64_c_4_5" x="7" y="19"/>
+  <asset name="wildwest_pump_64_c_4_6" x="8" y="18"/>
+  <asset name="wildwest_pump_64_c_4_7" x="7" y="19"/>
+  <asset name="wildwest_pump_64_c_4_8" x="6" y="17"/>
+  <asset name="wildwest_pump_64_d_4_0" x="-8" y="37"/>
+  <asset name="wildwest_pump_64_d_4_1" x="8" y="32"/>
+  <asset name="wildwest_pump_64_d_4_2" x="10" y="32"/>
+  <asset name="wildwest_pump_64_d_4_3" x="11" y="32"/>
+  <asset name="wildwest_pump_32_a_4_0" x="10" y="15"/>
+  <asset name="wildwest_pump_32_b_4_0" x="3" y="36"/>
+  <asset name="wildwest_pump_32_b_4_1" x="3" y="34"/>
+  <asset name="wildwest_pump_32_b_4_2" x="3" y="37"/>
+  <asset name="wildwest_pump_32_c_4_0" x="-4" y="18"/>
+  <asset name="wildwest_pump_32_c_4_1" x="2" y="16"/>
+  <asset name="wildwest_pump_32_c_4_2" x="2" y="16"/>
+  <asset name="wildwest_pump_32_c_4_3" x="3" y="14"/>
+  <asset name="wildwest_pump_32_c_4_4" x="2" y="12"/>
+  <asset name="wildwest_pump_32_c_4_5" x="3" y="10"/>
+  <asset name="wildwest_pump_32_c_4_6" x="4" y="10"/>
+  <asset name="wildwest_pump_32_c_4_7" x="3" y="10"/>
+  <asset name="wildwest_pump_32_c_4_8" x="3" y="9"/>
+  <asset name="wildwest_pump_32_d_4_0" x="-4" y="19"/>
+  <asset name="wildwest_pump_32_d_4_1" x="3" y="17"/>
+  <asset name="wildwest_pump_32_d_4_2" x="4" y="17"/>
+  <asset name="wildwest_pump_32_d_4_3" x="4" y="17"/>
+  <asset name="wildwest_pump_icon_a" x="8" y="14"/>
+  <asset name="wildwest_pump_64_a_2_0" flipH="1" source="wildwest_pump_64_a_4_0" x="20" y="30"/>
+  <asset name="wildwest_pump_64_b_2_0" flipH="1" source="wildwest_pump_64_b_4_0" x="6" y="70"/>
+  <asset name="wildwest_pump_64_b_2_1" flipH="1" source="wildwest_pump_64_b_4_1" x="6" y="65"/>
+  <asset name="wildwest_pump_64_b_2_2" flipH="1" source="wildwest_pump_64_b_4_2" x="6" y="71"/>
+  <asset name="wildwest_pump_64_c_2_0" flipH="1" source="wildwest_pump_64_c_4_0" x="-8" y="34"/>
+  <asset name="wildwest_pump_64_c_2_1" flipH="1" source="wildwest_pump_64_c_4_1" x="6" y="32"/>
+  <asset name="wildwest_pump_64_c_2_2" flipH="1" source="wildwest_pump_64_c_4_2" x="5" y="31"/>
+  <asset name="wildwest_pump_64_c_2_3" flipH="1" source="wildwest_pump_64_c_4_3" x="6" y="27"/>
+  <asset name="wildwest_pump_64_c_2_4" flipH="1" source="wildwest_pump_64_c_4_4" x="6" y="23"/>
+  <asset name="wildwest_pump_64_c_2_5" flipH="1" source="wildwest_pump_64_c_4_5" x="7" y="19"/>
+  <asset name="wildwest_pump_64_c_2_6" flipH="1" source="wildwest_pump_64_c_4_6" x="8" y="18"/>
+  <asset name="wildwest_pump_64_c_2_7" flipH="1" source="wildwest_pump_64_c_4_7" x="7" y="19"/>
+  <asset name="wildwest_pump_64_c_2_8" flipH="1" source="wildwest_pump_64_c_4_8" x="6" y="17"/>
+  <asset name="wildwest_pump_64_d_2_0" flipH="1" source="wildwest_pump_64_d_4_0" x="-8" y="37"/>
+  <asset name="wildwest_pump_64_d_2_1" flipH="1" source="wildwest_pump_64_d_4_1" x="8" y="32"/>
+  <asset name="wildwest_pump_64_d_2_2" flipH="1" source="wildwest_pump_64_d_4_2" x="10" y="32"/>
+  <asset name="wildwest_pump_64_d_2_3" flipH="1" source="wildwest_pump_64_d_4_3" x="11" y="32"/>
+  <asset name="wildwest_pump_32_a_2_0" flipH="1" source="wildwest_pump_32_a_4_0" x="10" y="15"/>
+  <asset name="wildwest_pump_32_b_2_0" flipH="1" source="wildwest_pump_32_b_4_0" x="3" y="36"/>
+  <asset name="wildwest_pump_32_b_2_1" flipH="1" source="wildwest_pump_32_b_4_1" x="3" y="34"/>
+  <asset name="wildwest_pump_32_b_2_2" flipH="1" source="wildwest_pump_32_b_4_2" x="3" y="37"/>
+  <asset name="wildwest_pump_32_c_2_0" flipH="1" source="wildwest_pump_32_c_4_0" x="-4" y="18"/>
+  <asset name="wildwest_pump_32_c_2_1" flipH="1" source="wildwest_pump_32_c_4_1" x="2" y="16"/>
+  <asset name="wildwest_pump_32_c_2_2" flipH="1" source="wildwest_pump_32_c_4_2" x="2" y="16"/>
+  <asset name="wildwest_pump_32_c_2_3" flipH="1" source="wildwest_pump_32_c_4_3" x="3" y="14"/>
+  <asset name="wildwest_pump_32_c_2_4" flipH="1" source="wildwest_pump_32_c_4_4" x="2" y="12"/>
+  <asset name="wildwest_pump_32_c_2_5" flipH="1" source="wildwest_pump_32_c_4_5" x="3" y="10"/>
+  <asset name="wildwest_pump_32_c_2_6" flipH="1" source="wildwest_pump_32_c_4_6" x="4" y="10"/>
+  <asset name="wildwest_pump_32_c_2_7" flipH="1" source="wildwest_pump_32_c_4_7" x="3" y="10"/>
+  <asset name="wildwest_pump_32_c_2_8" flipH="1" source="wildwest_pump_32_c_4_8" x="3" y="9"/>
+  <asset name="wildwest_pump_32_d_2_0" flipH="1" source="wildwest_pump_32_d_4_0" x="-4" y="19"/>
+  <asset name="wildwest_pump_32_d_2_1" flipH="1" source="wildwest_pump_32_d_4_1" x="3" y="17"/>
+  <asset name="wildwest_pump_32_d_2_2" flipH="1" source="wildwest_pump_32_d_4_2" x="4" y="17"/>
+  <asset name="wildwest_pump_32_d_2_3" flipH="1" source="wildwest_pump_32_d_4_3" x="4" y="17"/>
+</assets>

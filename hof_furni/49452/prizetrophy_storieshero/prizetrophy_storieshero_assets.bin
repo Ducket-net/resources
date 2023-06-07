@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="prizetrophy_storieshero_32_a_4_0" x="11" y="29"/>
+  <asset name="prizetrophy_storieshero_32_sd_4_0" x="8" y="4"/>
+  <asset name="prizetrophy_storieshero_64_a_4_0" x="23" y="59"/>
+  <asset name="prizetrophy_storieshero_64_sd_4_0" x="19" y="9"/>
+  <asset name="prizetrophy_storieshero_icon_a" x="10" y="21"/>
+  <asset name="prizetrophy_storieshero_32_a_2_0" flipH="1" source="prizetrophy_storieshero_32_a_4_0" x="11" y="29"/>
+  <asset name="prizetrophy_storieshero_32_sd_2_0" flipH="1" source="prizetrophy_storieshero_32_sd_4_0" x="8" y="4"/>
+  <asset name="prizetrophy_storieshero_64_a_2_0" flipH="1" source="prizetrophy_storieshero_64_a_4_0" x="23" y="59"/>
+  <asset name="prizetrophy_storieshero_64_sd_2_0" flipH="1" source="prizetrophy_storieshero_64_sd_4_0" x="19" y="9"/>
+</assets>

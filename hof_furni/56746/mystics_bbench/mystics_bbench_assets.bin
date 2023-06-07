@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="mystics_bbench_32_a_6_0" x="15" y="22"/>
+  <asset name="mystics_bbench_32_b_6_0" x="29" y="16"/>
+  <asset name="mystics_bbench_32_c_6_0" x="16" y="23"/>
+  <asset name="mystics_bbench_32_d_6_0" x="30" y="17"/>
+  <asset name="mystics_bbench_32_e_6_0" x="1" y="23"/>
+  <asset name="mystics_bbench_32_f_6_0" x="32" y="17"/>
+  <asset name="mystics_bbench_32_g_6_0" x="1" y="24"/>
+  <asset name="mystics_bbench_32_h_6_0" x="26" y="18"/>
+  <asset name="mystics_bbench_32_a_2_0" x="15" y="34"/>
+  <asset name="mystics_bbench_32_b_2_0" x="35" y="23"/>
+  <asset name="mystics_bbench_32_c_2_0" x="16" y="35"/>
+  <asset name="mystics_bbench_32_d_2_0" x="36" y="24"/>
+  <asset name="mystics_bbench_32_e_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_32_f_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_32_g_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_32_h_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_64_a_6_0" x="26" y="42"/>
+  <asset name="mystics_bbench_64_b_6_0" x="56" y="31"/>
+  <asset name="mystics_bbench_64_c_6_0" x="29" y="44"/>
+  <asset name="mystics_bbench_64_d_6_0" x="58" y="33"/>
+  <asset name="mystics_bbench_64_e_6_0" x="1" y="45"/>
+  <asset name="mystics_bbench_64_f_6_0" x="62" y="32"/>
+  <asset name="mystics_bbench_64_g_6_0" x="1" y="47"/>
+  <asset name="mystics_bbench_64_h_6_0" x="50" y="34"/>
+  <asset name="mystics_bbench_64_a_2_0" x="26" y="66"/>
+  <asset name="mystics_bbench_64_b_2_0" x="67" y="45"/>
+  <asset name="mystics_bbench_64_c_2_0" x="29" y="68"/>
+  <asset name="mystics_bbench_64_d_2_0" x="69" y="47"/>
+  <asset name="mystics_bbench_64_e_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_64_f_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_64_g_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_64_h_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_icon_a" x="12" y="12"/>
+  <asset name="mystics_bbench_32_a_0_0" flipH="1" source="mystics_bbench_32_a_6_0" x="15" y="22"/>
+  <asset name="mystics_bbench_32_b_0_0" flipH="1" source="mystics_bbench_32_b_6_0" x="29" y="16"/>
+  <asset name="mystics_bbench_32_c_0_0" flipH="1" source="mystics_bbench_32_c_6_0" x="16" y="23"/>
+  <asset name="mystics_bbench_32_d_0_0" flipH="1" source="mystics_bbench_32_d_6_0" x="30" y="17"/>
+  <asset name="mystics_bbench_32_e_0_0" flipH="1" source="mystics_bbench_32_e_6_0" x="1" y="23"/>
+  <asset name="mystics_bbench_32_f_0_0" flipH="1" source="mystics_bbench_32_f_6_0" x="32" y="17"/>
+  <asset name="mystics_bbench_32_g_0_0" flipH="1" source="mystics_bbench_32_g_6_0" x="1" y="24"/>
+  <asset name="mystics_bbench_32_h_0_0" flipH="1" source="mystics_bbench_32_h_6_0" x="26" y="18"/>
+  <asset name="mystics_bbench_64_a_0_0" flipH="1" source="mystics_bbench_64_a_6_0" x="26" y="42"/>
+  <asset name="mystics_bbench_64_b_0_0" flipH="1" source="mystics_bbench_64_b_6_0" x="56" y="31"/>
+  <asset name="mystics_bbench_64_c_0_0" flipH="1" source="mystics_bbench_64_c_6_0" x="29" y="44"/>
+  <asset name="mystics_bbench_64_d_0_0" flipH="1" source="mystics_bbench_64_d_6_0" x="58" y="33"/>
+  <asset name="mystics_bbench_64_e_0_0" flipH="1" source="mystics_bbench_64_e_6_0" x="1" y="45"/>
+  <asset name="mystics_bbench_64_f_0_0" flipH="1" source="mystics_bbench_64_f_6_0" x="62" y="32"/>
+  <asset name="mystics_bbench_64_g_0_0" flipH="1" source="mystics_bbench_64_g_6_0" x="1" y="47"/>
+  <asset name="mystics_bbench_64_h_0_0" flipH="1" source="mystics_bbench_64_h_6_0" x="50" y="34"/>
+  <asset name="mystics_bbench_32_a_4_0" flipH="1" source="mystics_bbench_32_a_2_0" x="15" y="34"/>
+  <asset name="mystics_bbench_32_b_4_0" flipH="1" source="mystics_bbench_32_b_2_0" x="35" y="23"/>
+  <asset name="mystics_bbench_32_c_4_0" flipH="1" source="mystics_bbench_32_c_2_0" x="16" y="35"/>
+  <asset name="mystics_bbench_32_d_4_0" flipH="1" source="mystics_bbench_32_d_2_0" x="36" y="24"/>
+  <asset name="mystics_bbench_32_e_4_0" flipH="1" source="mystics_bbench_32_e_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_32_f_4_0" flipH="1" source="mystics_bbench_32_f_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_32_g_4_0" flipH="1" source="mystics_bbench_32_g_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_32_h_4_0" flipH="1" source="mystics_bbench_32_h_2_0" x="30" y="-9"/>
+  <asset name="mystics_bbench_64_a_4_0" flipH="1" source="mystics_bbench_64_a_2_0" x="26" y="66"/>
+  <asset name="mystics_bbench_64_b_4_0" flipH="1" source="mystics_bbench_64_b_2_0" x="67" y="45"/>
+  <asset name="mystics_bbench_64_c_4_0" flipH="1" source="mystics_bbench_64_c_2_0" x="29" y="68"/>
+  <asset name="mystics_bbench_64_d_4_0" flipH="1" source="mystics_bbench_64_d_2_0" x="69" y="47"/>
+  <asset name="mystics_bbench_64_e_4_0" flipH="1" source="mystics_bbench_64_e_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_64_f_4_0" flipH="1" source="mystics_bbench_64_f_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_64_g_4_0" flipH="1" source="mystics_bbench_64_g_2_0" x="57" y="-20"/>
+  <asset name="mystics_bbench_64_h_4_0" flipH="1" source="mystics_bbench_64_h_2_0" x="57" y="-20"/>
+</assets>

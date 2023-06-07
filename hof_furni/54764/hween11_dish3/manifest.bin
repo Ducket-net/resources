@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween11_dish3" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween11_dish3_visualization" mimeType="text/xml"/>
+      <asset name="hween11_dish3_assets" mimeType="text/xml"/>
+      <asset name="hween11_dish3_logic" mimeType="text/xml"/>
+      <asset name="hween11_dish3_64_a_0_0" mimeType="image/png"/>
+      <asset name="hween11_dish3_64_a_0_1" mimeType="image/png"/>
+      <asset name="hween11_dish3_32_a_0_0" mimeType="image/png"/>
+      <asset name="hween11_dish3_32_a_0_1" mimeType="image/png"/>
+      <asset name="hween11_dish3_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

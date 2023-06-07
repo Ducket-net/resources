@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="jacket_U_darkangelwings" version="0.1">
+    <assets>
+      <asset name="h_std_cc_4615_2_0" mimeType="image/png">
+        <param key="offset" value="-1,59"/>
+      </asset>
+      <asset name="h_std_cc_4615_1_0" mimeType="image/png">
+        <param key="offset" value="-3,59"/>
+      </asset>
+      <asset name="h_std_cc_4615_3_0" mimeType="image/png">
+        <param key="offset" value="-4,56"/>
+      </asset>
+      <asset name="h_std_cc_4615_7_0" mimeType="image/png">
+        <param key="offset" value="-7,52"/>
+      </asset>
+      <asset name="h_std_cc_4615_0_0" mimeType="image/png">
+        <param key="offset" value="-2,54"/>
+      </asset>
+      <asset name="h_std_cc_4616_2_0" mimeType="image/png">
+        <param key="offset" value="-2,58"/>
+      </asset>
+      <asset name="h_std_cc_4616_0_0" mimeType="image/png">
+        <param key="offset" value="-4,53"/>
+      </asset>
+      <asset name="h_std_cc_4616_1_0" mimeType="image/png">
+        <param key="offset" value="-4,58"/>
+      </asset>
+      <asset name="h_std_cc_4616_3_0" mimeType="image/png">
+        <param key="offset" value="-5,55"/>
+      </asset>
+      <asset name="h_std_cc_4616_7_0" mimeType="image/png">
+        <param key="offset" value="-8,51"/>
+      </asset>
+      <asset name="h_lay_cc_4615_2_0" mimeType="image/png">
+        <param key="offset" value="18,13"/>
+      </asset>
+      <asset name="h_lay_cc_4616_2_0" mimeType="image/png">
+        <param key="offset" value="17,12"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

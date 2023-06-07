@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="val09_wdrobe_b"><graphics>
+   <visualization size="32" layerCount="1" angle="45">
+      <layers>
+         <layer id="0" z="-3000"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="2">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="2"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="3">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="3"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="4">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="4"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="64" layerCount="1" angle="45">
+      <layers>
+         <layer id="0" z="-3000"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="matic_mech_32_sd_4_0" x="15" y="6"/>
+  <asset name="matic_mech_32_a_4_0" x="16" y="66"/>
+  <asset name="matic_mech_32_a_4_1" x="16" y="65"/>
+  <asset name="matic_mech_32_a_4_2" x="16" y="65"/>
+  <asset name="matic_mech_32_b_4_0" x="22" y="73"/>
+  <asset name="matic_mech_32_b_4_1" x="22" y="72"/>
+  <asset name="matic_mech_32_b_4_2" x="22" y="72"/>
+  <asset name="matic_mech_32_b_4_3" x="22" y="72"/>
+  <asset name="matic_mech_32_b_4_4" x="22" y="72"/>
+  <asset name="matic_mech_32_b_4_5" x="22" y="72"/>
+  <asset name="matic_mech_32_b_4_6" x="22" y="72"/>
+  <asset name="matic_mech_32_c_4_0" x="11" y="17"/>
+  <asset name="matic_mech_32_c_4_1" x="31" y="26"/>
+  <asset name="matic_mech_32_c_4_2" x="31" y="26"/>
+  <asset name="matic_mech_32_c_4_3" x="31" y="26"/>
+  <asset name="matic_mech_64_sd_4_0" x="29" y="11"/>
+  <asset name="matic_mech_64_a_4_0" x="33" y="131"/>
+  <asset name="matic_mech_64_a_4_1" x="33" y="129"/>
+  <asset name="matic_mech_64_a_4_2" x="32" y="129"/>
+  <asset name="matic_mech_64_b_4_0" x="45" y="142"/>
+  <asset name="matic_mech_64_b_4_1" x="45" y="140"/>
+  <asset name="matic_mech_64_b_4_2" x="45" y="140"/>
+  <asset name="matic_mech_64_b_4_3" x="45" y="140"/>
+  <asset name="matic_mech_64_b_4_4" x="45" y="140"/>
+  <asset name="matic_mech_64_b_4_5" x="45" y="140"/>
+  <asset name="matic_mech_64_b_4_6" x="45" y="140"/>
+  <asset name="matic_mech_64_c_4_0" x="21" y="32"/>
+  <asset name="matic_mech_64_c_4_1" x="63" y="49"/>
+  <asset name="matic_mech_64_c_4_2" x="64" y="49"/>
+  <asset name="matic_mech_64_c_4_3" x="64" y="49"/>
+  <asset name="matic_mech_icon_a" x="11" y="14"/>
+  <asset name="matic_mech_32_sd_2_0" flipH="1" source="matic_mech_32_sd_4_0" x="15" y="6"/>
+  <asset name="matic_mech_32_a_2_0" flipH="1" source="matic_mech_32_a_4_0" x="16" y="66"/>
+  <asset name="matic_mech_32_a_2_1" flipH="1" source="matic_mech_32_a_4_1" x="16" y="65"/>
+  <asset name="matic_mech_32_a_2_2" flipH="1" source="matic_mech_32_a_4_2" x="16" y="65"/>
+  <asset name="matic_mech_32_b_2_0" flipH="1" source="matic_mech_32_b_4_0" x="22" y="73"/>
+  <asset name="matic_mech_32_b_2_1" flipH="1" source="matic_mech_32_b_4_1" x="22" y="72"/>
+  <asset name="matic_mech_32_b_2_2" flipH="1" source="matic_mech_32_b_4_2" x="22" y="72"/>
+  <asset name="matic_mech_32_b_2_3" flipH="1" source="matic_mech_32_b_4_3" x="22" y="72"/>
+  <asset name="matic_mech_32_b_2_4" flipH="1" source="matic_mech_32_b_4_4" x="22" y="72"/>
+  <asset name="matic_mech_32_b_2_5" flipH="1" source="matic_mech_32_b_4_5" x="22" y="72"/>
+  <asset name="matic_mech_32_b_2_6" flipH="1" source="matic_mech_32_b_4_6" x="22" y="72"/>
+  <asset name="matic_mech_32_c_2_0" flipH="1" source="matic_mech_32_c_4_0" x="11" y="17"/>
+  <asset name="matic_mech_32_c_2_1" flipH="1" source="matic_mech_32_c_4_1" x="31" y="26"/>
+  <asset name="matic_mech_32_c_2_2" flipH="1" source="matic_mech_32_c_4_2" x="31" y="26"/>
+  <asset name="matic_mech_32_c_2_3" flipH="1" source="matic_mech_32_c_4_3" x="31" y="26"/>
+  <asset name="matic_mech_64_sd_2_0" flipH="1" source="matic_mech_64_sd_4_0" x="29" y="11"/>
+  <asset name="matic_mech_64_a_2_0" flipH="1" source="matic_mech_64_a_4_0" x="33" y="131"/>
+  <asset name="matic_mech_64_a_2_1" flipH="1" source="matic_mech_64_a_4_1" x="33" y="129"/>
+  <asset name="matic_mech_64_a_2_2" flipH="1" source="matic_mech_64_a_4_2" x="32" y="129"/>
+  <asset name="matic_mech_64_b_2_0" flipH="1" source="matic_mech_64_b_4_0" x="45" y="142"/>
+  <asset name="matic_mech_64_b_2_1" flipH="1" source="matic_mech_64_b_4_1" x="45" y="140"/>
+  <asset name="matic_mech_64_b_2_2" flipH="1" source="matic_mech_64_b_4_2" x="45" y="140"/>
+  <asset name="matic_mech_64_b_2_3" flipH="1" source="matic_mech_64_b_4_3" x="45" y="140"/>
+  <asset name="matic_mech_64_b_2_4" flipH="1" source="matic_mech_64_b_4_4" x="45" y="140"/>
+  <asset name="matic_mech_64_b_2_5" flipH="1" source="matic_mech_64_b_4_5" x="45" y="140"/>
+  <asset name="matic_mech_64_b_2_6" flipH="1" source="matic_mech_64_b_4_6" x="45" y="140"/>
+  <asset name="matic_mech_64_c_2_0" flipH="1" source="matic_mech_64_c_4_0" x="21" y="32"/>
+  <asset name="matic_mech_64_c_2_1" flipH="1" source="matic_mech_64_c_4_1" x="63" y="49"/>
+  <asset name="matic_mech_64_c_2_2" flipH="1" source="matic_mech_64_c_4_2" x="64" y="49"/>
+  <asset name="matic_mech_64_c_2_3" flipH="1" source="matic_mech_64_c_4_3" x="64" y="49"/>
+</assets>

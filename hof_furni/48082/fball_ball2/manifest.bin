@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="fball_ball2" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="fball_ball2_visualization" mimeType="text/xml"/>
+      <asset name="fball_ball2_assets" mimeType="text/xml"/>
+      <asset name="fball_ball2_logic" mimeType="text/xml"/>
+      <asset name="fball_ball2_icon_a" mimeType="image/png"/>
+      <asset name="fball_ball2_64_sd_0_0" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_1_1" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_1_2" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_1_3" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_2_1" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_2_2" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_2_3" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_3_1" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_3_2" mimeType="image/png"/>
+      <asset name="fball_ball2_64_a_3_3" mimeType="image/png"/>
+      <asset name="fball_ball2_32_sd_0_0" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_2_3" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_2_2" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_2_1" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_1_3" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_1_2" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_1_1" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_3_3" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_3_2" mimeType="image/png"/>
+      <asset name="fball_ball2_32_a_3_1" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

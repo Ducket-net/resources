@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="exe_artlamp" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="exe_artlamp_visualization" mimeType="text/xml"/>
+         <asset name="exe_artlamp_assets" mimeType="text/xml"/>
+         <asset name="exe_artlamp_logic" mimeType="text/xml"/>
+         <asset name="exe_artlamp_64_a_0_0" mimeType="image/png"/>
+         <asset name="exe_artlamp_64_a_0_1" mimeType="image/png"/>
+         <asset name="exe_artlamp_64_b_0_0" mimeType="image/png"/>
+         <asset name="exe_artlamp_64_b_0_1" mimeType="image/png"/>
+         <asset name="exe_artlamp_64_sd_0_0" mimeType="image/png"/>
+         <asset name="exe_artlamp_icon_a" mimeType="image/png"/>
+         <asset name="exe_artlamp_32_a_0_0" mimeType="image/png"/>
+         <asset name="exe_artlamp_32_a_0_1" mimeType="image/png"/>
+         <asset name="exe_artlamp_32_b_0_0" mimeType="image/png"/>
+         <asset name="exe_artlamp_32_b_0_1" mimeType="image/png"/>
+         <asset name="exe_artlamp_32_sd_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

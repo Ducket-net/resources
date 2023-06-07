@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="sw_chest_32_a_0_0" x="16" y="20"/>
+   <asset name="sw_chest_32_a_0_1" x="19" y="39"/>
+   <asset name="sw_chest_32_a_2_0" flipH="1" source="sw_chest_32_a_0_0" x="16" y="20"/>
+   <asset name="sw_chest_32_a_2_1" flipH="1" source="sw_chest_32_a_0_1" x="19" y="39"/>
+   <asset name="sw_chest_32_b_0_0" x="28" y="14"/>
+   <asset name="sw_chest_32_b_0_1" x="32" y="33"/>
+   <asset name="sw_chest_32_b_2_0" flipH="1" source="sw_chest_32_b_0_0" x="28" y="14"/>
+   <asset name="sw_chest_32_b_2_1" flipH="1" source="sw_chest_32_b_0_1" x="32" y="33"/>
+   <asset name="sw_chest_64_a_0_0" x="33" y="43"/>
+   <asset name="sw_chest_64_a_0_1" x="38" y="80"/>
+   <asset name="sw_chest_64_a_2_0" flipH="1" source="sw_chest_64_a_0_0" x="33" y="43"/>
+   <asset name="sw_chest_64_a_2_1" flipH="1" source="sw_chest_64_a_0_1" x="38" y="80"/>
+   <asset name="sw_chest_64_b_0_0" x="57" y="30"/>
+   <asset name="sw_chest_64_b_0_1" x="64" y="68"/>
+   <asset name="sw_chest_64_b_2_0" flipH="1" source="sw_chest_64_b_0_0" x="57" y="30"/>
+   <asset name="sw_chest_64_b_2_1" flipH="1" source="sw_chest_64_b_0_1" x="64" y="68"/>
+   <asset name="sw_chest_icon_a" x="15" y="13"/>
+</assets>

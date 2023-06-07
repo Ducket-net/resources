@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="ads_idol_piano"><graphics>
+   <visualization size="32" layerCount="1" angle="45">
+      <directions>
+         <direction id="0">
+            <layer id="0" z="1003"/>
+         </direction>
+         <direction id="2">
+            <layer id="0" z="1003"/>
+         </direction>
+         <direction id="4">
+            <layer id="0" z="1003"/>
+         </direction>
+         <direction id="6">
+            <layer id="0" z="1003"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="64" layerCount="1" angle="45">
+      <directions>
+         <direction id="0">
+            <layer id="0" z="1003"/>
+         </direction>
+         <direction id="2">
+            <layer id="0" z="1003"/>
+         </direction>
+         <direction id="4">
+            <layer id="0" z="1003"/>
+         </direction>
+         <direction id="6">
+            <layer id="0" z="1003"/>
+         </direction>
+      </directions>
+      <animations>
+         <animation id="0">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="0"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+         <animation id="1">
+            <animationLayer id="0">
+               <frameSequence>
+                  <frame id="1"/>
+               </frameSequence>
+            </animationLayer>
+         </animation>
+      </animations>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

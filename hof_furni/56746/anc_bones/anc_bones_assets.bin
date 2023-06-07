@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="anc_bones_64_a_4_3" x="44" y="57"/>
+  <asset name="anc_bones_64_a_4_2" x="44" y="57"/>
+  <asset name="anc_bones_64_a_4_1" x="44" y="57"/>
+  <asset name="anc_bones_64_a_4_0" x="44" y="57"/>
+  <asset name="anc_bones_32_a_4_3" x="22" y="29"/>
+  <asset name="anc_bones_32_a_4_2" x="22" y="29"/>
+  <asset name="anc_bones_32_a_4_1" x="22" y="29"/>
+  <asset name="anc_bones_32_a_4_0" x="22" y="29"/>
+  <asset name="anc_bones_icon_a" x="15" y="15"/>
+  <asset name="anc_bones_64_a_2_3" flipH="1" source="anc_bones_64_a_4_3" x="44" y="57"/>
+  <asset name="anc_bones_64_a_2_2" flipH="1" source="anc_bones_64_a_4_2" x="44" y="57"/>
+  <asset name="anc_bones_64_a_2_1" flipH="1" source="anc_bones_64_a_4_1" x="44" y="57"/>
+  <asset name="anc_bones_64_a_2_0" flipH="1" source="anc_bones_64_a_4_0" x="44" y="57"/>
+  <asset name="anc_bones_32_a_2_3" flipH="1" source="anc_bones_32_a_4_3" x="22" y="29"/>
+  <asset name="anc_bones_32_a_2_2" flipH="1" source="anc_bones_32_a_4_2" x="22" y="29"/>
+  <asset name="anc_bones_32_a_2_1" flipH="1" source="anc_bones_32_a_4_1" x="22" y="29"/>
+  <asset name="anc_bones_32_a_2_0" flipH="1" source="anc_bones_32_a_4_0" x="22" y="29"/>
+</assets>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="studio_fencecr_32_sd_6_0" x="5" y="-3"/>
+  <asset name="studio_fencecr_32_sd_0_0" x="9" y="2"/>
+  <asset name="studio_fencecr_32_sd_2_0" x="5" y="-1"/>
+  <asset name="studio_fencecr_32_a_6_0" x="9" y="17"/>
+  <asset name="studio_fencecr_32_a_0_0" x="12" y="22"/>
+  <asset name="studio_fencecr_32_a_2_0" x="12" y="22"/>
+  <asset name="studio_fencecr_64_sd_0_0" x="16" y="8"/>
+  <asset name="studio_fencecr_64_sd_6_0" x="12" y="-1"/>
+  <asset name="studio_fencecr_64_sd_2_0" x="12" y="0"/>
+  <asset name="studio_fencecr_64_a_2_0" x="22" y="44"/>
+  <asset name="studio_fencecr_64_a_0_0" x="22" y="44"/>
+  <asset name="studio_fencecr_64_a_6_0" x="20" y="34"/>
+  <asset name="studio_fencecr_icon_a" x="8" y="23"/>
+  <asset name="studio_fencecr_32_sd_4_0" flipH="1" source="studio_fencecr_32_sd_2_0" x="5" y="-1"/>
+  <asset name="studio_fencecr_32_a_4_0" flipH="1" source="studio_fencecr_32_a_2_0" x="12" y="22"/>
+  <asset name="studio_fencecr_64_sd_4_0" flipH="1" source="studio_fencecr_64_sd_2_0" x="12" y="0"/>
+  <asset name="studio_fencecr_64_a_4_0" flipH="1" source="studio_fencecr_64_a_2_0" x="22" y="44"/>
+</assets>

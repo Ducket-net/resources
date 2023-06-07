@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hcc_sofachair_64_a_0_0" x="8" y="45"/>
+   <asset name="hcc_sofachair_64_a_2_0" x="36" y="71"/>
+   <asset name="hcc_sofachair_64_a_4_0" flipH="1" source="hcc_sofachair_64_a_2_0" x="36" y="71"/>
+   <asset name="hcc_sofachair_64_a_6_0" flipH="1" source="hcc_sofachair_64_a_0_0" x="8" y="45"/>
+   <asset name="hcc_sofachair_64_b_0_0" x="40" y="59"/>
+   <asset name="hcc_sofachair_64_b_2_0" x="32" y="31"/>
+   <asset name="hcc_sofachair_64_b_4_0" flipH="1" source="hcc_sofachair_64_b_2_0" x="32" y="31"/>
+   <asset name="hcc_sofachair_64_b_6_0" flipH="1" source="hcc_sofachair_64_b_0_0" x="40" y="59"/>
+   <asset name="hcc_sofachair_64_sd_0_0" x="30" y="3"/>
+   <asset name="hcc_sofachair_64_sd_2_0" x="29" y="-1"/>
+   <asset name="hcc_sofachair_64_sd_4_0" flipH="1" source="hcc_sofachair_64_sd_2_0" x="29" y="-1"/>
+   <asset name="hcc_sofachair_64_sd_6_0" flipH="1" source="hcc_sofachair_64_sd_0_0" x="30" y="3"/>
+   <asset name="hcc_sofachair_icon_a" x="10" y="18"/>
+   <asset name="hcc_sofachair_32_a_0_0" x="3" y="23"/>
+   <asset name="hcc_sofachair_32_a_2_0" x="18" y="36"/>
+   <asset name="hcc_sofachair_32_a_4_0" flipH="1" source="hcc_sofachair_32_a_2_0" x="18" y="36"/>
+   <asset name="hcc_sofachair_32_a_6_0" flipH="1" source="hcc_sofachair_32_a_0_0" x="3" y="23"/>
+   <asset name="hcc_sofachair_32_b_0_0" x="20" y="30"/>
+   <asset name="hcc_sofachair_32_b_2_0" x="16" y="16"/>
+   <asset name="hcc_sofachair_32_b_4_0" flipH="1" source="hcc_sofachair_32_b_2_0" x="16" y="16"/>
+   <asset name="hcc_sofachair_32_b_6_0" flipH="1" source="hcc_sofachair_32_b_0_0" x="20" y="30"/>
+   <asset name="hcc_sofachair_32_sd_0_0" x="16" y="2"/>
+   <asset name="hcc_sofachair_32_sd_2_0" x="16" y="2"/>
+   <asset name="hcc_sofachair_32_sd_4_0" flipH="1" source="hcc_sofachair_32_sd_2_0" x="16" y="2"/>
+   <asset name="hcc_sofachair_32_sd_6_0" flipH="1" source="hcc_sofachair_32_sd_0_0" x="16" y="2"/>
+</assets>

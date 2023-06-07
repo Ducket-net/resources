@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas13_toyhorse" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas13_toyhorse_visualization" mimeType="text/xml"/>
+      <asset name="xmas13_toyhorse_assets" mimeType="text/xml"/>
+      <asset name="xmas13_toyhorse_logic" mimeType="text/xml"/>
+      <asset name="xmas13_toyhorse_32_sd_0_0" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_32_a_0_2" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_32_a_0_1" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_32_a_0_0" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_64_sd_0_0" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_64_a_0_2" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_64_a_0_1" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_64_a_0_0" mimeType="image/png"/>
+      <asset name="xmas13_toyhorse_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

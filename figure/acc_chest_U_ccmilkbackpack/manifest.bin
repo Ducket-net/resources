@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_ccmilkbackpack" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_4648_2_0" mimeType="image/png">
+        <param key="offset" value="2,24"/>
+      </asset>
+      <asset name="h_std_ca_4648_7_0" mimeType="image/png">
+        <param key="offset" value="-21,47"/>
+      </asset>
+      <asset name="h_std_ca_4648_3_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_std_ca_4648_2_0" mimeType="image/png">
+        <param key="offset" value="-12,52"/>
+      </asset>
+      <asset name="h_std_ca_4648_1_0" mimeType="image/png">
+        <param key="offset" value="-11,46"/>
+      </asset>
+      <asset name="h_std_ca_4648_0_0" mimeType="image/png">
+        <param key="offset" value="-10,48"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

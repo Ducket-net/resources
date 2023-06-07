@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="uni_brotein" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="uni_brotein_visualization" mimeType="text/xml"/>
+      <asset name="uni_brotein_assets" mimeType="text/xml"/>
+      <asset name="uni_brotein_logic" mimeType="text/xml"/>
+      <asset name="uni_brotein_64_a_0_0" mimeType="image/png"/>
+      <asset name="uni_brotein_64_a_0_1" mimeType="image/png"/>
+      <asset name="uni_brotein_32_a_0_0" mimeType="image/png"/>
+      <asset name="uni_brotein_32_a_0_1" mimeType="image/png"/>
+      <asset name="uni_brotein_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

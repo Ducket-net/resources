@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="china_tiger" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="china_tiger_visualization" mimeType="text/xml"/>
+         <asset name="china_tiger_assets" mimeType="text/xml"/>
+         <asset name="china_tiger_logic" mimeType="text/xml"/>
+         <asset name="china_tiger_64_a_4_0" mimeType="image/png"/>
+         <asset name="china_tiger_64_a_6_0" mimeType="image/png"/>
+         <asset name="china_tiger_64_b_4_0" mimeType="image/png"/>
+         <asset name="china_tiger_64_b_6_0" mimeType="image/png"/>
+         <asset name="china_tiger_icon_a" mimeType="image/png"/>
+         <asset name="china_tiger_32_a_4_0" mimeType="image/png"/>
+         <asset name="china_tiger_32_a_6_0" mimeType="image/png"/>
+         <asset name="china_tiger_32_b_4_0" mimeType="image/png"/>
+         <asset name="china_tiger_32_b_6_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

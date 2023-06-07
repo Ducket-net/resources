@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="gothicfountain2" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="gothicfountain2_visualization" mimeType="text/xml"/>
+         <asset name="gothicfountain2_assets" mimeType="text/xml"/>
+         <asset name="gothicfountain2_logic" mimeType="text/xml"/>
+         <asset name="gothicfountain2_icon_a" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_a_2_1" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_b_2_0" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_b_2_1" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_b_2_2" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_b_2_3" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_c_2_0" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_c_2_1" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_c_2_2" mimeType="image/png"/>
+         <asset name="gothicfountain2_64_c_2_3" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_a_2_1" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_b_2_0" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_b_2_1" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_b_2_2" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_b_2_3" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_c_2_0" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_c_2_1" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_c_2_2" mimeType="image/png"/>
+         <asset name="gothicfountain2_32_c_2_3" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

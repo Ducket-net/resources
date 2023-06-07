@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="val15_fujiwall" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="val15_fujiwall_visualization" mimeType="text/xml"/>
+      <asset name="val15_fujiwall_assets" mimeType="text/xml"/>
+      <asset name="val15_fujiwall_logic" mimeType="text/xml"/>
+      <asset name="val15_fujiwall_64_a_2_0" mimeType="image/png"/>
+      <asset name="val15_fujiwall_64_a_2_1" mimeType="image/png"/>
+      <asset name="val15_fujiwall_64_a_4_0" mimeType="image/png"/>
+      <asset name="val15_fujiwall_64_a_4_1" mimeType="image/png"/>
+      <asset name="val15_fujiwall_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

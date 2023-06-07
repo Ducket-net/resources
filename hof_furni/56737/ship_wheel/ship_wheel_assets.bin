@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="ship_wheel_64_sd_4_0" x="14" y="6"/>
+  <asset name="ship_wheel_64_sd_0_0" x="11" y="6"/>
+  <asset name="ship_wheel_64_a_4_0" x="13" y="86"/>
+  <asset name="ship_wheel_64_b_4_0" x="2" y="86"/>
+  <asset name="ship_wheel_64_a_0_0" x="30" y="71"/>
+  <asset name="ship_wheel_64_b_0_0" x="-3" y="64"/>
+  <asset name="ship_wheel_32_sd_4_0" x="7" y="3"/>
+  <asset name="ship_wheel_32_sd_0_0" x="7" y="4"/>
+  <asset name="ship_wheel_32_a_0_0" x="16" y="37"/>
+  <asset name="ship_wheel_32_b_0_0" x="-3" y="33"/>
+  <asset name="ship_wheel_32_a_4_0" x="8" y="44"/>
+  <asset name="ship_wheel_32_b_4_0" x="2" y="44"/>
+  <asset name="ship_wheel_icon_a" x="15" y="16"/>
+  <asset name="ship_wheel_64_sd_6_0" flipH="1" source="ship_wheel_64_sd_0_0" x="11" y="6"/>
+  <asset name="ship_wheel_64_a_6_0" flipH="1" source="ship_wheel_64_a_0_0" x="30" y="71"/>
+  <asset name="ship_wheel_64_b_6_0" flipH="1" source="ship_wheel_64_b_0_0" x="-3" y="64"/>
+  <asset name="ship_wheel_32_sd_6_0" flipH="1" source="ship_wheel_32_sd_0_0" x="7" y="4"/>
+  <asset name="ship_wheel_32_a_6_0" flipH="1" source="ship_wheel_32_a_0_0" x="16" y="37"/>
+  <asset name="ship_wheel_32_b_6_0" flipH="1" source="ship_wheel_32_b_0_0" x="-3" y="33"/>
+  <asset name="ship_wheel_64_sd_2_0" flipH="1" source="ship_wheel_64_sd_4_0" x="14" y="6"/>
+  <asset name="ship_wheel_64_a_2_0" flipH="1" source="ship_wheel_64_a_4_0" x="13" y="86"/>
+  <asset name="ship_wheel_64_b_2_0" flipH="1" source="ship_wheel_64_b_4_0" x="2" y="86"/>
+  <asset name="ship_wheel_32_sd_2_0" flipH="1" source="ship_wheel_32_sd_4_0" x="7" y="3"/>
+  <asset name="ship_wheel_32_a_2_0" flipH="1" source="ship_wheel_32_a_4_0" x="8" y="44"/>
+  <asset name="ship_wheel_32_b_2_0" flipH="1" source="ship_wheel_32_b_4_0" x="2" y="44"/>
+</assets>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_rattail" version="0.1">
+    <assets>
+      <asset name="h_std_wa_3573_7_0" mimeType="image/png">
+        <param key="offset" value="-29,23"/>
+      </asset>
+      <asset name="h_std_wa_3573_3_0" mimeType="image/png">
+        <param key="offset" value="-41,15"/>
+      </asset>
+      <asset name="h_std_wa_3573_2_0" mimeType="image/png">
+        <param key="offset" value="0,26"/>
+      </asset>
+      <asset name="h_std_wa_3573_1_0" mimeType="image/png">
+        <param key="offset" value="1,26"/>
+      </asset>
+      <asset name="h_std_wa_3573_0_0" mimeType="image/png">
+        <param key="offset" value="-7,24"/>
+      </asset>
+      <asset name="h_lay_wa_3573_2_0" mimeType="image/png">
+        <param key="offset" value="-9,3"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

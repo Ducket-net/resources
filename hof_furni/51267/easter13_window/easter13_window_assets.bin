@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="easter13_window_64_2_mask" x="23" y="36"/>
+  <asset name="easter13_window_64_a_2_0" x="34" y="44"/>
+  <asset name="easter13_window_32_2_mask" x="10" y="16"/>
+  <asset name="easter13_window_32_a_2_0" x="17" y="22"/>
+  <asset name="easter13_window_icon_a" x="11" y="14"/>
+  <asset name="easter13_window_64_a_4_0" flipH="1" source="easter13_window_64_a_2_0" x="34" y="44"/>
+  <asset name="easter13_window_32_a_4_0" flipH="1" source="easter13_window_32_a_2_0" x="17" y="22"/>
+</assets>

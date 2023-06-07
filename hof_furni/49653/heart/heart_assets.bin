@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="heart_64_a_2_0" x="55" y="53"/>
+   <asset name="heart_64_a_4_0" flipH="1" source="heart_64_a_2_0" x="55" y="53"/>
+   <asset name="heart_64_b_2_0" x="20" y="56"/>
+   <asset name="heart_64_b_4_0" flipH="1" source="heart_64_b_2_0" x="20" y="56"/>
+   <asset name="heart_64_sd_2_0" x="43" y="12"/>
+   <asset name="heart_64_sd_4_0" flipH="1" source="heart_64_sd_2_0" x="43" y="12"/>
+   <asset name="heart_icon_a" x="14" y="15"/>
+   <asset name="heart_32_a_2_0" x="27" y="26"/>
+   <asset name="heart_32_a_4_0" flipH="1" source="heart_32_a_2_0" x="27" y="26"/>
+   <asset name="heart_32_b_2_0" x="10" y="28"/>
+   <asset name="heart_32_b_4_0" flipH="1" source="heart_32_b_2_0" x="10" y="28"/>
+   <asset name="heart_32_sd_2_0" x="21" y="6"/>
+   <asset name="heart_32_sd_4_0" flipH="1" source="heart_32_sd_2_0" x="21" y="6"/>
+</assets>

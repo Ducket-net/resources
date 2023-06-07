@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="mystics_gbench_icon_a" x="13" y="12"/>
+  <asset name="mystics_gbench_64_sd_4_0" x="35" y="18"/>
+  <asset name="mystics_gbench_64_sd_0_0" x="35" y="18"/>
+  <asset name="mystics_gbench_64_a_4_0" x="35" y="65"/>
+  <asset name="mystics_gbench_64_b_4_0" x="30" y="-3"/>
+  <asset name="mystics_gbench_64_c_4_0" x="0" y="47"/>
+  <asset name="mystics_gbench_64_d_4_0" x="-28" y="39"/>
+  <asset name="mystics_gbench_64_a_0_0" x="13" y="56"/>
+  <asset name="mystics_gbench_64_b_0_0" x="35" y="54"/>
+  <asset name="mystics_gbench_64_c_0_0" x="0" y="33"/>
+  <asset name="mystics_gbench_64_d_0_0" x="0" y="33"/>
+  <asset name="mystics_gbench_32_sd_0_0" x="16" y="10"/>
+  <asset name="mystics_gbench_32_sd_4_0" x="16" y="10"/>
+  <asset name="mystics_gbench_32_a_4_0" x="16" y="33"/>
+  <asset name="mystics_gbench_32_b_4_0" x="14" y="-1"/>
+  <asset name="mystics_gbench_32_c_4_0" x="0" y="24"/>
+  <asset name="mystics_gbench_32_d_4_0" x="-15" y="21"/>
+  <asset name="mystics_gbench_32_a_0_0" x="4" y="29"/>
+  <asset name="mystics_gbench_32_b_0_0" x="16" y="27"/>
+  <asset name="mystics_gbench_32_c_0_0" x="0" y="17"/>
+  <asset name="mystics_gbench_32_d_0_0" x="0" y="17"/>
+  <asset name="mystics_gbench_64_sd_2_0" flipH="1" source="mystics_gbench_64_sd_4_0" x="35" y="18"/>
+  <asset name="mystics_gbench_64_a_2_0" flipH="1" source="mystics_gbench_64_a_4_0" x="35" y="65"/>
+  <asset name="mystics_gbench_64_b_2_0" flipH="1" source="mystics_gbench_64_b_4_0" x="30" y="-3"/>
+  <asset name="mystics_gbench_64_c_2_0" flipH="1" source="mystics_gbench_64_c_4_0" x="0" y="47"/>
+  <asset name="mystics_gbench_64_d_2_0" flipH="1" source="mystics_gbench_64_d_4_0" x="-28" y="39"/>
+  <asset name="mystics_gbench_32_sd_2_0" flipH="1" source="mystics_gbench_32_sd_4_0" x="16" y="10"/>
+  <asset name="mystics_gbench_32_a_2_0" flipH="1" source="mystics_gbench_32_a_4_0" x="16" y="33"/>
+  <asset name="mystics_gbench_32_b_2_0" flipH="1" source="mystics_gbench_32_b_4_0" x="14" y="-1"/>
+  <asset name="mystics_gbench_32_c_2_0" flipH="1" source="mystics_gbench_32_c_4_0" x="0" y="24"/>
+  <asset name="mystics_gbench_32_d_2_0" flipH="1" source="mystics_gbench_32_d_4_0" x="-15" y="21"/>
+  <asset name="mystics_gbench_64_sd_6_0" flipH="1" source="mystics_gbench_64_sd_0_0" x="35" y="18"/>
+  <asset name="mystics_gbench_64_a_6_0" flipH="1" source="mystics_gbench_64_a_0_0" x="13" y="56"/>
+  <asset name="mystics_gbench_64_b_6_0" flipH="1" source="mystics_gbench_64_b_0_0" x="35" y="54"/>
+  <asset name="mystics_gbench_64_c_6_0" flipH="1" source="mystics_gbench_64_c_0_0" x="0" y="33"/>
+  <asset name="mystics_gbench_64_d_6_0" flipH="1" source="mystics_gbench_64_d_0_0" x="0" y="33"/>
+  <asset name="mystics_gbench_32_sd_6_0" flipH="1" source="mystics_gbench_32_sd_0_0" x="16" y="10"/>
+  <asset name="mystics_gbench_32_a_6_0" flipH="1" source="mystics_gbench_32_a_0_0" x="4" y="29"/>
+  <asset name="mystics_gbench_32_b_6_0" flipH="1" source="mystics_gbench_32_b_0_0" x="16" y="27"/>
+  <asset name="mystics_gbench_32_c_6_0" flipH="1" source="mystics_gbench_32_c_0_0" x="0" y="17"/>
+  <asset name="mystics_gbench_32_d_6_0" flipH="1" source="mystics_gbench_32_d_0_0" x="0" y="17"/>
+</assets>

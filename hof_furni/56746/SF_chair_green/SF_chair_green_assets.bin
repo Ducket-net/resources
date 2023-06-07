@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="SF_chair_green_32_a_0_0" x="-1" y="-3"/>
+   <asset name="SF_chair_green_32_a_2_0" x="9" y="34"/>
+   <asset name="SF_chair_green_32_a_4_0" flipH="1" source="SF_chair_green_32_a_2_0" x="9" y="34"/>
+   <asset name="SF_chair_green_32_a_6_0" flipH="1" source="SF_chair_green_32_a_0_0" x="-1" y="-3"/>
+   <asset name="SF_chair_green_32_b_0_0" x="18" y="34"/>
+   <asset name="SF_chair_green_32_b_2_0" x="16" y="28"/>
+   <asset name="SF_chair_green_32_b_4_0" flipH="1" source="SF_chair_green_32_b_2_0" x="16" y="28"/>
+   <asset name="SF_chair_green_32_b_6_0" flipH="1" source="SF_chair_green_32_b_0_0" x="18" y="34"/>
+   <asset name="SF_chair_green_32_sd_0_0" x="11" y="6"/>
+   <asset name="SF_chair_green_32_sd_2_0" x="10" y="4"/>
+   <asset name="SF_chair_green_32_sd_4_0" flipH="1" source="SF_chair_green_32_sd_2_0" x="10" y="4"/>
+   <asset name="SF_chair_green_32_sd_6_0" flipH="1" source="SF_chair_green_32_sd_0_0" x="11" y="6"/>
+   <asset name="SF_chair_green_64_a_0_0" x="-2" y="-5"/>
+   <asset name="SF_chair_green_64_a_2_0" x="19" y="68"/>
+   <asset name="SF_chair_green_64_a_4_0" flipH="1" source="SF_chair_green_64_a_2_0" x="19" y="68"/>
+   <asset name="SF_chair_green_64_a_6_0" flipH="1" source="SF_chair_green_64_a_0_0" x="-2" y="-5"/>
+   <asset name="SF_chair_green_64_b_0_0" x="36" y="71"/>
+   <asset name="SF_chair_green_64_b_2_0" x="30" y="55"/>
+   <asset name="SF_chair_green_64_b_4_0" flipH="1" source="SF_chair_green_64_b_2_0" x="30" y="55"/>
+   <asset name="SF_chair_green_64_b_6_0" flipH="1" source="SF_chair_green_64_b_0_0" x="36" y="71"/>
+   <asset name="SF_chair_green_64_sd_0_0" x="25" y="16"/>
+   <asset name="SF_chair_green_64_sd_2_0" x="22" y="11"/>
+   <asset name="SF_chair_green_64_sd_4_0" flipH="1" source="SF_chair_green_64_sd_2_0" x="22" y="11"/>
+   <asset name="SF_chair_green_64_sd_6_0" flipH="1" source="SF_chair_green_64_sd_0_0" x="25" y="16"/>
+   <asset name="SF_chair_green_icon_a" x="11" y="15"/>
+</assets>

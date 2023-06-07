@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="kuurna_table1_icon_a" x="15" y="19"/>
+  <asset name="kuurna_table1_64_sd_0_0" x="33" y="16"/>
+  <asset name="kuurna_table1_64_a_0_0" x="32" y="56"/>
+  <asset name="kuurna_table1_32_sd_0_0" x="17" y="8"/>
+  <asset name="kuurna_table1_32_a_0_0" x="17" y="29"/>
+  <asset name="kuurna_table1_2_a" flipH="1" source="kuurna_table1_icon_a" x="15" y="19"/>
+  <asset name="kuurna_table1_64_sd_2_0" flipH="1" source="kuurna_table1_64_sd_0_0" x="33" y="16"/>
+  <asset name="kuurna_table1_64_a_2_0" flipH="1" source="kuurna_table1_64_a_0_0" x="32" y="56"/>
+  <asset name="kuurna_table1_32_sd_2_0" flipH="1" source="kuurna_table1_32_sd_0_0" x="17" y="8"/>
+  <asset name="kuurna_table1_32_a_2_0" flipH="1" source="kuurna_table1_32_a_0_0" x="17" y="29"/>
+  <asset name="kuurna_table1_0_a" source="kuurna_table1_icon_a" x="15" y="19"/>
+</assets>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="flag_singapore" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="flag_singapore_visualization" mimeType="text/xml"/>
+         <asset name="flag_singapore_assets" mimeType="text/xml"/>
+         <asset name="flag_singapore_logic" mimeType="text/xml"/>
+         <asset name="flag_singapore_icon_a" mimeType="image/png"/>
+         <asset name="flag_singapore_64_a_2_0" mimeType="image/png"/>
+         <asset name="flag_singapore_64_a_4_0" mimeType="image/png"/>
+         <asset name="flag_singapore_32_a_2_0" mimeType="image/png"/>
+         <asset name="flag_singapore_32_a_4_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

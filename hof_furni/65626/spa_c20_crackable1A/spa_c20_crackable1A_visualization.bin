@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="spa_c20_crackable1A">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+        </animation>
+        <animation id="2">
+          <animationLayer id="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="3"/>
+              <frame id="4"/>
+              <frame id="5"/>
+              <frame id="6"/>
+              <frame id="7"/>
+              <frame id="8"/>
+              <frame id="9"/>
+              <frame id="10"/>
+              <frame id="11"/>
+              <frame id="12"/>
+              <frame id="13"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

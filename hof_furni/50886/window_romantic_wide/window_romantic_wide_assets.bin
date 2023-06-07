@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_romantic_wide_64_a_2_0" x="46" y="55"/>
+   <asset name="window_romantic_wide_64_b_2_0" x="37" y="46"/>
+   <asset name="window_romantic_wide_64_b_2_1" x="36" y="45"/>
+   <asset name="window_romantic_wide_64_2_mask" x="37" y="46"/>
+   <asset name="window_romantic_wide_64_a_4_0" flipH="1" source="window_romantic_wide_64_a_2_0" x="46" y="55"/>
+   <asset name="window_romantic_wide_64_b_4_0" flipH="1" source="window_romantic_wide_64_b_2_0" x="37" y="46"/>
+   <asset name="window_romantic_wide_64_b_4_1" flipH="1" source="window_romantic_wide_64_b_2_1" x="36" y="45"/>
+   <asset name="window_romantic_wide_64_4_mask" flipH="1" source="window_romantic_wide_64_2_mask" x="37" y="46"/>
+   <asset name="window_romantic_wide_32_a_2_0" x="21" y="28"/>
+   <asset name="window_romantic_wide_32_b_2_0" x="16" y="24"/>
+   <asset name="window_romantic_wide_32_b_2_1" x="16" y="24"/>
+   <asset name="window_romantic_wide_32_2_mask" x="15" y="23"/>
+   <asset name="window_romantic_wide_32_a_4_0" flipH="1" source="window_romantic_wide_32_a_2_0" x="21" y="28"/>
+   <asset name="window_romantic_wide_32_b_4_0" flipH="1" source="window_romantic_wide_32_b_2_0" x="16" y="24"/>
+   <asset name="window_romantic_wide_32_b_4_1" flipH="1" source="window_romantic_wide_32_b_2_1" x="16" y="24"/>
+   <asset name="window_romantic_wide_32_4_mask" flipH="1" source="window_romantic_wide_32_2_mask" x="15" y="23"/>
+   <asset name="window_romantic_wide_icon_a" x="14" y="13"/>
+</assets>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="fball_goldenboot2_32_a_2_0" x="13" y="21"/>
+  <asset name="fball_goldenboot2_32_b_2_0" x="12" y="3"/>
+  <asset name="fball_goldenboot2_32_b_2_1" x="-6" y="3"/>
+  <asset name="fball_goldenboot2_32_b_2_2" x="-5" y="4"/>
+  <asset name="fball_goldenboot2_32_b_2_3" x="-5" y="4"/>
+  <asset name="fball_goldenboot2_32_b_2_4" x="-4" y="5"/>
+  <asset name="fball_goldenboot2_32_sd_2_0" x="13" y="5"/>
+  <asset name="fball_goldenboot2_64_a_2_0" x="25" y="44"/>
+  <asset name="fball_goldenboot2_64_b_2_0" x="24" y="6"/>
+  <asset name="fball_goldenboot2_64_b_2_1" x="-11" y="7"/>
+  <asset name="fball_goldenboot2_64_b_2_2" x="-10" y="8"/>
+  <asset name="fball_goldenboot2_64_b_2_3" x="-10" y="8"/>
+  <asset name="fball_goldenboot2_64_b_2_4" x="-9" y="9"/>
+  <asset name="fball_goldenboot2_64_sd_2_0" x="25" y="11"/>
+  <asset name="fball_goldenboot2_icon_a" x="12" y="13"/>
+  <asset name="fball_goldenboot2_32_a_4_0" flipH="1" source="fball_goldenboot2_32_a_2_0" x="13" y="21"/>
+  <asset name="fball_goldenboot2_32_b_4_0" flipH="1" source="fball_goldenboot2_32_b_2_0" x="12" y="3"/>
+  <asset name="fball_goldenboot2_32_b_4_1" flipH="1" source="fball_goldenboot2_32_b_2_1" x="-6" y="3"/>
+  <asset name="fball_goldenboot2_32_b_4_2" flipH="1" source="fball_goldenboot2_32_b_2_2" x="-5" y="4"/>
+  <asset name="fball_goldenboot2_32_b_4_3" flipH="1" source="fball_goldenboot2_32_b_2_3" x="-5" y="4"/>
+  <asset name="fball_goldenboot2_32_b_4_4" flipH="1" source="fball_goldenboot2_32_b_2_4" x="-4" y="5"/>
+  <asset name="fball_goldenboot2_32_sd_4_0" flipH="1" source="fball_goldenboot2_32_sd_2_0" x="13" y="5"/>
+  <asset name="fball_goldenboot2_64_a_4_0" flipH="1" source="fball_goldenboot2_64_a_2_0" x="25" y="44"/>
+  <asset name="fball_goldenboot2_64_b_4_0" flipH="1" source="fball_goldenboot2_64_b_2_0" x="24" y="6"/>
+  <asset name="fball_goldenboot2_64_b_4_1" flipH="1" source="fball_goldenboot2_64_b_2_1" x="-11" y="7"/>
+  <asset name="fball_goldenboot2_64_b_4_2" flipH="1" source="fball_goldenboot2_64_b_2_2" x="-10" y="8"/>
+  <asset name="fball_goldenboot2_64_b_4_3" flipH="1" source="fball_goldenboot2_64_b_2_3" x="-10" y="8"/>
+  <asset name="fball_goldenboot2_64_b_4_4" flipH="1" source="fball_goldenboot2_64_b_2_4" x="-9" y="9"/>
+  <asset name="fball_goldenboot2_64_sd_4_0" flipH="1" source="fball_goldenboot2_64_sd_2_0" x="25" y="11"/>
+</assets>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="gnome_box">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers>
+        <layer id="0"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0" loopCount="0">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="1" randomY="-1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="-1" randomY="-1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="1" randomY="-2"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="-2" randomY="-2"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="1" angle="45">
+      <layers>
+        <layer id="0"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0" loopCount="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="2" randomY="-1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="-2" randomY="-1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="2" randomY="-2"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0" randomX="-4" randomY="-2"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

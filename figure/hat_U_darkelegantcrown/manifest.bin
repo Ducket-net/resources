@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_darkelegantcrown" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_3738_2_0" mimeType="image/png">
+        <param key="offset" value="26,42"/>
+      </asset>
+      <asset name="h_lsp_ha_3738_2_0" mimeType="image/png">
+        <param key="offset" value="-37,-117"/>
+      </asset>
+      <asset name="h_std_ha_3738_7_0" mimeType="image/png">
+        <param key="offset" value="-25,84"/>
+      </asset>
+      <asset name="h_std_ha_3738_3_0" mimeType="image/png">
+        <param key="offset" value="-25,85"/>
+      </asset>
+      <asset name="h_std_ha_3738_2_0" mimeType="image/png">
+        <param key="offset" value="-24,84"/>
+      </asset>
+      <asset name="h_std_ha_3738_1_0" mimeType="image/png">
+        <param key="offset" value="-24,82"/>
+      </asset>
+      <asset name="h_std_ha_3738_0_0" mimeType="image/png">
+        <param key="offset" value="-24,84"/>
+      </asset>
+      <asset name="h_spk_ha_3738_7_0" mimeType="image/png">
+        <param key="offset" value="-25,85"/>
+      </asset>
+      <asset name="h_spk_ha_3738_3_0" mimeType="image/png">
+        <param key="offset" value="-25,86"/>
+      </asset>
+      <asset name="h_spk_ha_3738_2_0" mimeType="image/png">
+        <param key="offset" value="-24,85"/>
+      </asset>
+      <asset name="h_spk_ha_3738_1_0" mimeType="image/png">
+        <param key="offset" value="-24,83"/>
+      </asset>
+      <asset name="h_spk_ha_3738_0_0" mimeType="image/png">
+        <param key="offset" value="-24,85"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

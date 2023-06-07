@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="eco_tree2_64_a_2_0" x="51" y="154"/>
+   <asset name="eco_tree2_64_a_2_1" source="eco_tree2_64_a_2_0" x="51" y="154"/>
+   <asset name="eco_tree2_64_a_4_0" flipH="1" source="eco_tree2_64_a_2_0" x="51" y="154"/>
+   <asset name="eco_tree2_64_a_4_1" flipH="1" source="eco_tree2_64_a_2_0" x="51" y="154"/>
+   <asset name="eco_tree2_icon_a" x="9" y="15"/>
+   <asset name="s_eco_ftree2_a_0_1_1_2_1" source="eco_tree2_32_a_2_0" x="25" y="75"/>
+   <asset name="eco_tree2_32_a_2_0" x="25" y="75"/>
+   <asset name="eco_tree2_32_a_4_0" flipH="1" source="eco_tree2_32_a_2_0" x="25" y="75"/>
+   <asset name="eco_tree2_32_a_4_1" flipH="1" source="eco_tree2_32_a_2_0" x="25" y="75"/>
+</assets>

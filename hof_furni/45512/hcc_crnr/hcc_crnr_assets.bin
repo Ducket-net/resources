@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hcc_crnr_64_a_0_0" x="24" y="120"/>
+   <asset name="hcc_crnr_64_a_2_0" x="9" y="120"/>
+   <asset name="hcc_crnr_64_a_4_0" x="22" y="113"/>
+   <asset name="hcc_crnr_64_a_6_0" flipH="1" source="hcc_crnr_64_a_2_0" x="9" y="120"/>
+   <asset name="hcc_crnr_64_b_0_0" x="10" y="107"/>
+   <asset name="hcc_crnr_64_b_2_0" x="3" y="104"/>
+   <asset name="hcc_crnr_64_b_4_0" x="6" y="104"/>
+   <asset name="hcc_crnr_64_b_6_0" flipH="1" source="hcc_crnr_64_b_2_0" x="3" y="104"/>
+   <asset name="hcc_crnr_icon_a" x="10" y="15"/>
+   <asset name="hcc_crnr_32_a_0_0" x="13" y="61"/>
+   <asset name="hcc_crnr_32_a_2_0" x="6" y="60"/>
+   <asset name="hcc_crnr_32_a_4_0" x="13" y="55"/>
+   <asset name="hcc_crnr_32_a_6_0" flipH="1" source="hcc_crnr_32_a_2_0" x="6" y="60"/>
+   <asset name="hcc_crnr_32_b_0_0" x="5" y="54"/>
+   <asset name="hcc_crnr_32_b_2_0" x="1" y="50"/>
+   <asset name="hcc_crnr_32_b_4_0" x="4" y="48"/>
+   <asset name="hcc_crnr_32_b_6_0" flipH="1" source="hcc_crnr_32_b_2_0" x="1" y="50"/>
+</assets>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="xmas_light_64_a_2_0" x="17" y="17"/>
+   <asset name="xmas_light_64_a_2_1" x="17" y="17"/>
+   <asset name="xmas_light_64_a_2_2" x="17" y="17"/>
+   <asset name="xmas_light_64_b_2_0" x="20" y="-19"/>
+   <asset name="xmas_light_64_b_2_1" x="20" y="19"/>
+   <asset name="xmas_light_64_b_2_2" x="20" y="19"/>
+   <asset name="xmas_light_64_a_4_0" flipH="1" source="xmas_light_64_a_2_0" x="17" y="17"/>
+   <asset name="xmas_light_64_a_4_1" flipH="1" source="xmas_light_64_a_2_1" x="17" y="17"/>
+   <asset name="xmas_light_64_a_4_2" flipH="1" source="xmas_light_64_a_2_2" x="17" y="17"/>
+   <asset name="xmas_light_64_b_4_0" flipH="1" source="xmas_light_64_b_2_0" x="20" y="-19"/>
+   <asset name="xmas_light_64_b_4_1" flipH="1" source="xmas_light_64_b_2_1" x="20" y="19"/>
+   <asset name="xmas_light_64_b_4_2" flipH="1" source="xmas_light_64_b_2_2" x="20" y="19"/>
+   <asset name="xmas_light_32_a_2_0" x="9" y="8"/>
+   <asset name="xmas_light_32_a_2_1" x="9" y="8"/>
+   <asset name="xmas_light_32_a_2_2" x="9" y="8"/>
+   <asset name="xmas_light_32_b_2_0" x="12" y="-12"/>
+   <asset name="xmas_light_32_b_2_1" x="12" y="12"/>
+   <asset name="xmas_light_32_b_2_2" x="12" y="12"/>
+   <asset name="xmas_light_32_a_4_0" flipH="1" source="xmas_light_32_a_2_0" x="9" y="8"/>
+   <asset name="xmas_light_32_a_4_1" flipH="1" source="xmas_light_32_a_2_1" x="9" y="8"/>
+   <asset name="xmas_light_32_a_4_2" flipH="1" source="xmas_light_32_a_2_2" x="9" y="8"/>
+   <asset name="xmas_light_32_b_4_0" flipH="1" source="xmas_light_32_b_2_0" x="12" y="-12"/>
+   <asset name="xmas_light_32_b_4_1" flipH="1" source="xmas_light_32_b_2_1" x="12" y="12"/>
+   <asset name="xmas_light_32_b_4_2" flipH="1" source="xmas_light_32_b_2_2" x="12" y="12"/>
+   <asset name="xmas_light_icon_a" x="9" y="8"/>
+</assets>

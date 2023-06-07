@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cine_ticket_booth_64_a_2_0" x="34" y="144"/>
+  <asset name="cine_ticket_booth_64_b_2_0" x="34" y="144"/>
+  <asset name="cine_ticket_booth_64_a_0_0" x="33" y="140"/>
+  <asset name="cine_ticket_booth_64_b_0_0" x="33" y="140"/>
+  <asset name="cine_ticket_booth_32_a_2_0" x="19" y="71"/>
+  <asset name="cine_ticket_booth_32_b_2_0" x="19" y="71"/>
+  <asset name="cine_ticket_booth_32_a_0_0" x="17" y="71"/>
+  <asset name="cine_ticket_booth_32_b_0_0" x="17" y="71"/>
+  <asset name="cine_ticket_booth_icon_a" x="8" y="16"/>
+  <asset name="cine_ticket_booth_64_a_4_0" flipH="1" source="cine_ticket_booth_64_a_2_0" x="34" y="144"/>
+  <asset name="cine_ticket_booth_64_b_4_0" flipH="1" source="cine_ticket_booth_64_b_2_0" x="34" y="144"/>
+  <asset name="cine_ticket_booth_32_a_4_0" flipH="1" source="cine_ticket_booth_32_a_2_0" x="19" y="71"/>
+  <asset name="cine_ticket_booth_32_b_4_0" flipH="1" source="cine_ticket_booth_32_b_2_0" x="19" y="71"/>
+  <asset name="cine_ticket_booth_64_a_6_0" flipH="1" source="cine_ticket_booth_64_a_0_0" x="33" y="140"/>
+  <asset name="cine_ticket_booth_64_b_6_0" flipH="1" source="cine_ticket_booth_64_b_0_0" x="33" y="140"/>
+  <asset name="cine_ticket_booth_32_a_6_0" flipH="1" source="cine_ticket_booth_32_a_0_0" x="17" y="71"/>
+  <asset name="cine_ticket_booth_32_b_6_0" flipH="1" source="cine_ticket_booth_32_b_0_0" x="17" y="71"/>
+</assets>

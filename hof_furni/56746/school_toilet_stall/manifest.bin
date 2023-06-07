@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="school_toilet_stall" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="school_toilet_stall_visualization" mimeType="text/xml"/>
+      <asset name="school_toilet_stall_assets" mimeType="text/xml"/>
+      <asset name="school_toilet_stall_logic" mimeType="text/xml"/>
+      <asset name="school_toilet_stall_64_sd_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_64_a_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_64_c_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_64_b_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_64_b_2_1" mimeType="image/png"/>
+      <asset name="school_toilet_stall_32_sd_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_32_a_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_32_c_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_32_b_2_0" mimeType="image/png"/>
+      <asset name="school_toilet_stall_32_b_2_1" mimeType="image/png"/>
+      <asset name="school_toilet_stall_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

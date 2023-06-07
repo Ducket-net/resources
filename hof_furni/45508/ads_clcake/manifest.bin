@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="ads_clcake" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="ads_clcake_visualization" mimeType="text/xml"/>
+         <asset name="ads_clcake_assets" mimeType="text/xml"/>
+         <asset name="ads_clcake_logic" mimeType="text/xml"/>
+         <asset name="ads_clcake_64_a_0_0" mimeType="image/png"/>
+         <asset name="ads_clcake_64_b_0_0" mimeType="image/png"/>
+         <asset name="ads_clcake_64_c_0_0" mimeType="image/png"/>
+         <asset name="ads_clcake_icon_a" mimeType="image/png"/>
+         <asset name="ads_clcake_32_a_0_0" mimeType="image/png"/>
+         <asset name="ads_clcake_32_b_0_0" mimeType="image/png"/>
+         <asset name="ads_clcake_32_c_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

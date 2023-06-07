@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="dessertcafe_c17_vase" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_vase_visualization" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_vase_assets" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_vase_logic" mimeType="text/xml"/>
+      <asset name="dessertcafe_c17_vase_64_sd_0_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_0_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_0_1" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_sd_6_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_6_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_6_1" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_sd_2_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_2_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_2_1" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_sd_4_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_4_0" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_64_a_4_1" mimeType="image/png"/>
+      <asset name="dessertcafe_c17_vase_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

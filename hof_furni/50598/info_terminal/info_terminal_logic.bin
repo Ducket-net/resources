@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objectData type="info_terminal">
+  <model>
+    <dimensions x="1" y="1" z="1"/>
+    <directions>
+      <direction id="90"/>
+      <direction id="180"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="64"/>
+    <particlesystem size="32"/>
+  </particlesystems>
+  <action startState="1"/>
+  <customvars>
+    <variable name="internalLink"/>
+  </customvars>
+</objectData>

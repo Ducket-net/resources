@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="marquee_64_a_2_0" x="25" y="109"/>
+   <asset name="marquee_64_a_4_0" flipH="1" source="marquee_64_a_2_0" x="25" y="109"/>
+   <asset name="marquee_64_b_2_0" x="-12" y="23"/>
+   <asset name="marquee_64_b_2_1" x="10" y="91"/>
+   <asset name="marquee_64_b_4_0" flipH="1" source="marquee_64_b_2_0" x="-12" y="23"/>
+   <asset name="marquee_64_b_4_1" flipH="1" source="marquee_64_b_2_1" x="10" y="91"/>
+   <asset name="marquee_64_c_2_0" x="10" y="106"/>
+   <asset name="marquee_64_c_2_1" x="11" y="106"/>
+   <asset name="marquee_64_c_4_0" flipH="1" source="marquee_64_c_2_0" x="10" y="106"/>
+   <asset name="marquee_64_c_4_1" flipH="1" source="marquee_64_c_2_1" x="11" y="106"/>
+   <asset name="marquee_64_d_2_0" x="9" y="104"/>
+   <asset name="marquee_64_d_2_1" x="9" y="105"/>
+   <asset name="marquee_64_d_4_0" flipH="1" source="marquee_64_d_2_0" x="9" y="104"/>
+   <asset name="marquee_64_d_4_1" flipH="1" source="marquee_64_d_2_1" x="9" y="105"/>
+   <asset name="marquee_64_e_2_0" x="25" y="95"/>
+   <asset name="marquee_64_e_4_0" flipH="1" source="marquee_64_e_2_0" x="25" y="95"/>
+   <asset name="marquee_64_sd_2_0" x="-4" y="10"/>
+   <asset name="marquee_64_sd_4_0" flipH="1" source="marquee_64_sd_2_0" x="-4" y="10"/>
+   <asset name="marquee_icon_a" x="8" y="14"/>
+   <asset name="marquee_icon_b" x="3" y="13"/>
+   <asset name="marquee_32_a_2_0" x="13" y="54"/>
+   <asset name="marquee_32_a_4_0" flipH="1" source="marquee_32_a_2_0" x="13" y="54"/>
+   <asset name="marquee_32_b_2_0" x="16" y="0"/>
+   <asset name="marquee_32_b_2_1" x="6" y="45"/>
+   <asset name="marquee_32_b_4_0" flipH="1" source="marquee_32_b_2_0" x="16" y="0"/>
+   <asset name="marquee_32_b_4_1" flipH="1" source="marquee_32_b_2_1" x="6" y="45"/>
+   <asset name="marquee_32_c_2_0" x="6" y="52"/>
+   <asset name="marquee_32_c_2_1" x="6" y="52"/>
+   <asset name="marquee_32_c_4_0" flipH="1" source="marquee_32_c_2_0" x="6" y="52"/>
+   <asset name="marquee_32_c_4_1" flipH="1" source="marquee_32_c_2_1" x="6" y="52"/>
+   <asset name="marquee_32_d_2_0" x="6" y="51"/>
+   <asset name="marquee_32_d_2_1" x="6" y="51"/>
+   <asset name="marquee_32_d_4_0" flipH="1" source="marquee_32_d_2_0" x="6" y="51"/>
+   <asset name="marquee_32_d_4_1" flipH="1" source="marquee_32_d_2_1" x="6" y="51"/>
+   <asset name="marquee_32_e_2_0" x="13" y="47"/>
+   <asset name="marquee_32_e_4_0" flipH="1" source="marquee_32_e_2_0" x="13" y="47"/>
+   <asset name="marquee_32_sd_2_0" x="-3" y="3"/>
+   <asset name="marquee_32_sd_4_0" flipH="1" source="marquee_32_sd_2_0" x="-3" y="3"/>
+</assets>

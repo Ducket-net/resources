@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="traffic_light_32_a_2_0" x="10" y="47"/>
+   <asset name="traffic_light_32_a_4_0" flipH="1" source="traffic_light_32_a_2_0" x="10" y="47"/>
+   <asset name="traffic_light_32_b_2_0" x="5" y="13"/>
+   <asset name="traffic_light_32_b_4_0" flipH="1" source="traffic_light_32_b_2_0" x="5" y="13"/>
+   <asset name="traffic_light_32_c_2_0" x="16" y="37"/>
+   <asset name="traffic_light_32_c_2_1" x="17" y="26"/>
+   <asset name="traffic_light_32_c_4_0" flipH="1" source="traffic_light_32_c_2_0" x="16" y="37"/>
+   <asset name="traffic_light_32_c_4_1" flipH="1" source="traffic_light_32_c_2_1" x="17" y="26"/>
+   <asset name="traffic_light_32_sd_0_0" x="8" y="3"/>
+   <asset name="traffic_light_32_sd_2_0" source="traffic_light_32_sd_0_0" x="8" y="3"/>
+   <asset name="traffic_light_32_sd_4_0" source="traffic_light_32_sd_0_0" x="8" y="3"/>
+   <asset name="traffic_light_64_a_2_0" x="21" y="94"/>
+   <asset name="traffic_light_64_a_4_0" flipH="1" source="traffic_light_64_a_2_0" x="21" y="94"/>
+   <asset name="traffic_light_64_b_2_0" x="12" y="27"/>
+   <asset name="traffic_light_64_b_4_0" flipH="1" source="traffic_light_64_b_2_0" x="12" y="27"/>
+   <asset name="traffic_light_64_c_2_0" x="34" y="74"/>
+   <asset name="traffic_light_64_c_2_1" x="35" y="55"/>
+   <asset name="traffic_light_64_c_4_0" flipH="1" source="traffic_light_64_c_2_0" x="34" y="74"/>
+   <asset name="traffic_light_64_c_4_1" flipH="1" source="traffic_light_64_c_2_1" x="35" y="55"/>
+   <asset name="traffic_light_64_sd_0_0" x="17" y="7"/>
+   <asset name="traffic_light_64_sd_2_0" source="traffic_light_64_sd_0_0" x="17" y="7"/>
+   <asset name="traffic_light_64_sd_4_0" source="traffic_light_64_sd_0_0" x="17" y="7"/>
+   <asset name="traffic_light_icon_a" x="28" y="19"/>
+   <asset name="traffic_light_icon_b" x="24" y="-1"/>
+</assets>

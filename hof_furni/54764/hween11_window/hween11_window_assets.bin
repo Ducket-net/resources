@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hween11_window_icon_a" x="11" y="13"/>
+   <asset name="hween11_window_64_a_2_0" x="34" y="62"/>
+   <asset name="hween11_window_64_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_64_b_2_1" x="21" y="53"/>
+   <asset name="hween11_window_64_b_2_2" x="21" y="32"/>
+   <asset name="hween11_window_64_c_2_0" source="hween11_window_64_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_64_c_2_1" x="17" y="22"/>
+   <asset name="hween11_window_64_c_2_2" x="12" y="15"/>
+   <asset name="hween11_window_64_c_2_3" x="19" y="32"/>
+   <asset name="hween11_window_64_c_2_4" x="12" y="16"/>
+   <asset name="hween11_window_64_d_2_0" x="50" y="73"/>
+   <asset name="hween11_window_64_d_2_1" x="50" y="73"/>
+   <asset name="hween11_window_64_a_4_0" flipH="1" source="hween11_window_64_a_2_0" x="34" y="62"/>
+   <asset name="hween11_window_64_b_4_0" flipH="1" source="hween11_window_64_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_64_b_4_1" flipH="1" source="hween11_window_64_b_2_1" x="21" y="53"/>
+   <asset name="hween11_window_64_b_4_2" flipH="1" source="hween11_window_64_b_2_2" x="21" y="32"/>
+   <asset name="hween11_window_64_c_4_0" flipH="1" source="hween11_window_64_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_64_c_4_1" flipH="1" source="hween11_window_64_c_2_1" x="17" y="22"/>
+   <asset name="hween11_window_64_c_4_2" flipH="1" source="hween11_window_64_c_2_2" x="12" y="15"/>
+   <asset name="hween11_window_64_c_4_3" flipH="1" source="hween11_window_64_c_2_3" x="19" y="32"/>
+   <asset name="hween11_window_64_c_4_4" flipH="1" source="hween11_window_64_c_2_4" x="12" y="16"/>
+   <asset name="hween11_window_64_d_4_0" flipH="1" source="hween11_window_64_d_2_0" x="50" y="73"/>
+   <asset name="hween11_window_64_d_4_1" flipH="1" source="hween11_window_64_d_2_1" x="50" y="73"/>
+   <asset name="hween11_window_32_a_2_0" x="17" y="31"/>
+   <asset name="hween11_window_32_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_32_b_2_1" x="11" y="26"/>
+   <asset name="hween11_window_32_b_2_2" x="12" y="17"/>
+   <asset name="hween11_window_32_c_2_0" source="hween11_window_32_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_32_c_2_1" x="9" y="10"/>
+   <asset name="hween11_window_32_c_2_2" x="6" y="7"/>
+   <asset name="hween11_window_32_c_2_3" x="10" y="15"/>
+   <asset name="hween11_window_32_c_2_4" x="6" y="7"/>
+   <asset name="hween11_window_32_d_2_0" x="25" y="37"/>
+   <asset name="hween11_window_32_d_2_1" x="25" y="37"/>
+   <asset name="hween11_window_32_a_4_0" flipH="1" source="hween11_window_32_a_2_0" x="17" y="31"/>
+   <asset name="hween11_window_32_b_4_0" flipH="1" source="hween11_window_32_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_32_b_4_1" flipH="1" source="hween11_window_32_b_2_1" x="11" y="26"/>
+   <asset name="hween11_window_32_b_4_2" flipH="1" source="hween11_window_32_b_2_2" x="12" y="17"/>
+   <asset name="hween11_window_32_c_4_0" flipH="1" source="hween11_window_32_b_2_0" x="0" y="0"/>
+   <asset name="hween11_window_32_c_4_1" flipH="1" source="hween11_window_32_c_2_1" x="9" y="10"/>
+   <asset name="hween11_window_32_c_4_2" flipH="1" source="hween11_window_32_c_2_2" x="6" y="7"/>
+   <asset name="hween11_window_32_c_4_3" flipH="1" source="hween11_window_32_c_2_3" x="10" y="15"/>
+   <asset name="hween11_window_32_c_4_4" flipH="1" source="hween11_window_32_c_2_4" x="6" y="7"/>
+   <asset name="hween11_window_32_d_4_0" flipH="1" source="hween11_window_32_d_2_0" x="25" y="37"/>
+   <asset name="hween11_window_32_d_4_1" flipH="1" source="hween11_window_32_d_2_1" x="25" y="37"/>
+</assets>

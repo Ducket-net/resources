@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="easter_c18_slatestack" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="easter_c18_slatestack_visualization" mimeType="text/xml"/>
+      <asset name="easter_c18_slatestack_assets" mimeType="text/xml"/>
+      <asset name="easter_c18_slatestack_logic" mimeType="text/xml"/>
+      <asset name="easter_c18_slatestack_64_a_0_0" mimeType="image/png"/>
+      <asset name="easter_c18_slatestack_64_a_0_1" mimeType="image/png"/>
+      <asset name="easter_c18_slatestack_64_a_0_2" mimeType="image/png"/>
+      <asset name="easter_c18_slatestack_64_a_0_3" mimeType="image/png"/>
+      <asset name="easter_c18_slatestack_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

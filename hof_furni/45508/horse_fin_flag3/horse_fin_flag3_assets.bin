@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="horse_fin_flag3_64_sd_4_0" x="16" y="-2"/>
+  <asset name="horse_fin_flag3_64_a_4_0" x="15" y="128"/>
+  <asset name="horse_fin_flag3_64_b_4_0" x="-2" y="122"/>
+  <asset name="horse_fin_flag3_64_b_4_1" x="-2" y="121"/>
+  <asset name="horse_fin_flag3_64_b_4_2" x="-2" y="115"/>
+  <asset name="horse_fin_flag3_64_b_4_3" x="-2" y="115"/>
+  <asset name="horse_fin_flag3_32_sd_4_0" x="9" y="-2"/>
+  <asset name="horse_fin_flag3_32_a_4_0" x="8" y="63"/>
+  <asset name="horse_fin_flag3_32_b_4_0" x="-1" y="61"/>
+  <asset name="horse_fin_flag3_32_b_4_1" x="-1" y="60"/>
+  <asset name="horse_fin_flag3_32_b_4_2" x="-1" y="57"/>
+  <asset name="horse_fin_flag3_32_b_4_3" x="-1" y="57"/>
+  <asset name="horse_fin_flag3_icon_a" x="6" y="69"/>
+  <asset name="horse_fin_flag3_64_sd_2_0" flipH="1" source="horse_fin_flag3_64_sd_4_0" x="16" y="-2"/>
+  <asset name="horse_fin_flag3_64_a_2_0" flipH="1" source="horse_fin_flag3_64_a_4_0" x="15" y="128"/>
+  <asset name="horse_fin_flag3_64_b_2_0" flipH="1" source="horse_fin_flag3_64_b_4_0" x="-2" y="122"/>
+  <asset name="horse_fin_flag3_64_b_2_1" flipH="1" source="horse_fin_flag3_64_b_4_1" x="-2" y="121"/>
+  <asset name="horse_fin_flag3_64_b_2_2" flipH="1" source="horse_fin_flag3_64_b_4_2" x="-2" y="115"/>
+  <asset name="horse_fin_flag3_64_b_2_3" flipH="1" source="horse_fin_flag3_64_b_4_3" x="-2" y="115"/>
+  <asset name="horse_fin_flag3_32_sd_2_0" flipH="1" source="horse_fin_flag3_32_sd_4_0" x="9" y="-2"/>
+  <asset name="horse_fin_flag3_32_a_2_0" flipH="1" source="horse_fin_flag3_32_a_4_0" x="8" y="63"/>
+  <asset name="horse_fin_flag3_32_b_2_0" flipH="1" source="horse_fin_flag3_32_b_4_0" x="-1" y="61"/>
+  <asset name="horse_fin_flag3_32_b_2_1" flipH="1" source="horse_fin_flag3_32_b_4_1" x="-1" y="60"/>
+  <asset name="horse_fin_flag3_32_b_2_2" flipH="1" source="horse_fin_flag3_32_b_4_2" x="-1" y="57"/>
+  <asset name="horse_fin_flag3_32_b_2_3" flipH="1" source="horse_fin_flag3_32_b_4_3" x="-1" y="57"/>
+</assets>

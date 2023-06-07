@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="ads_veet_icon_a" x="7" y="15"/>
+   <asset name="ads_veet_64_a_2_0" x="31" y="69"/>
+   <asset name="ads_veet_64_b_2_0" x="32" y="71"/>
+   <asset name="ads_veet_64_b_2_1" x="32" y="71"/>
+   <asset name="ads_veet_64_b_2_2" x="32" y="71"/>
+   <asset name="ads_veet_64_b_2_3" x="32" y="71"/>
+   <asset name="ads_veet_64_c_2_0" x="33" y="72"/>
+   <asset name="ads_veet_64_a_4_0" flipH="1" source="ads_veet_64_a_2_0" x="31" y="69"/>
+   <asset name="ads_veet_64_b_4_0" flipH="1" source="ads_veet_64_b_2_0" x="32" y="71"/>
+   <asset name="ads_veet_64_b_4_1" flipH="1" source="ads_veet_64_b_2_1" x="32" y="71"/>
+   <asset name="ads_veet_64_b_4_2" flipH="1" source="ads_veet_64_b_2_2" x="32" y="71"/>
+   <asset name="ads_veet_64_b_4_3" flipH="1" source="ads_veet_64_b_2_3" x="32" y="71"/>
+   <asset name="ads_veet_64_c_4_0" flipH="1" source="ads_veet_64_c_2_0" x="33" y="72"/>
+   <asset name="ads_veet_32_a_2_0" x="15" y="33"/>
+   <asset name="ads_veet_32_b_2_0" x="16" y="35"/>
+   <asset name="ads_veet_32_b_2_1" x="16" y="35"/>
+   <asset name="ads_veet_32_b_2_2" x="16" y="35"/>
+   <asset name="ads_veet_32_b_2_3" x="16" y="35"/>
+   <asset name="ads_veet_32_c_2_0" x="17" y="36"/>
+   <asset name="ads_veet_32_a_4_0" flipH="1" source="ads_veet_32_a_2_0" x="15" y="33"/>
+   <asset name="ads_veet_32_b_4_0" flipH="1" source="ads_veet_32_b_2_0" x="16" y="35"/>
+   <asset name="ads_veet_32_b_4_1" flipH="1" source="ads_veet_32_b_2_1" x="16" y="35"/>
+   <asset name="ads_veet_32_b_4_2" flipH="1" source="ads_veet_32_b_2_2" x="16" y="35"/>
+   <asset name="ads_veet_32_b_4_3" flipH="1" source="ads_veet_32_b_2_3" x="16" y="35"/>
+   <asset name="ads_veet_32_c_4_0" flipH="1" source="ads_veet_32_c_2_0" x="17" y="36"/>
+</assets>

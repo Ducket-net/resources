@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_deerstalker" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_4159_2_0" mimeType="image/png">
+        <param key="offset" value="25,41"/>
+      </asset>
+      <asset name="h_lsp_ha_4159_2_0" mimeType="image/png">
+        <param key="offset" value="-39,-119"/>
+      </asset>
+      <asset name="h_std_ha_4159_3_0" mimeType="image/png">
+        <param key="offset" value="-20,77"/>
+      </asset>
+      <asset name="h_std_ha_4159_7_0" mimeType="image/png">
+        <param key="offset" value="-20,77"/>
+      </asset>
+      <asset name="h_std_ha_4159_2_0" mimeType="image/png">
+        <param key="offset" value="-17,80"/>
+      </asset>
+      <asset name="h_std_ha_4159_1_0" mimeType="image/png">
+        <param key="offset" value="-12,80"/>
+      </asset>
+      <asset name="h_std_ha_4159_0_0" mimeType="image/png">
+        <param key="offset" value="-15,79"/>
+      </asset>
+      <asset name="h_spk_ha_4159_3_0" mimeType="image/png">
+        <param key="offset" value="-20,78"/>
+      </asset>
+      <asset name="h_spk_ha_4159_7_0" mimeType="image/png">
+        <param key="offset" value="-20,78"/>
+      </asset>
+      <asset name="h_spk_ha_4159_2_0" mimeType="image/png">
+        <param key="offset" value="-17,81"/>
+      </asset>
+      <asset name="h_spk_ha_4159_1_0" mimeType="image/png">
+        <param key="offset" value="-12,81"/>
+      </asset>
+      <asset name="h_spk_ha_4159_0_0" mimeType="image/png">
+        <param key="offset" value="-15,80"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

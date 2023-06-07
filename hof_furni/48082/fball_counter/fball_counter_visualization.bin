@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="fball_counter"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="8" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="1000"/>
+      <layer id="2" z="1010" tag="start_stop"/>
+      <layer id="3" z="1010" tag="reset"/>
+      <layer id="4" z="1010" tag="seconds_sprite"/>
+      <layer id="5" z="1010" tag="ten_seconds_sprite"/>
+      <layer id="6" z="1010" tag="minutes_sprite"/>
+      <layer id="7" z="1010" tag="ten_minutes_sprite"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4">
+          <layer id="2" x="-15" y="-7"/>
+          <layer id="3" x="-15" y="-7"/>
+      </direction>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="4">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="5">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="6">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="7">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+  </visualization>
+  <visualization size="64" layerCount="8" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="1000"/>
+      <layer id="2" z="1010" tag="start_stop"/>
+      <layer id="3" z="1010" tag="reset"/>
+      <layer id="4" z="1010" tag="seconds_sprite"/>
+      <layer id="5" z="1010" tag="ten_seconds_sprite"/>
+      <layer id="6" z="1010" tag="minutes_sprite"/>
+      <layer id="7" z="1010" tag="ten_minutes_sprite"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4">
+          <layer id="2" x="-34" y="-17"/>
+          <layer id="3" x="-34" y="-17"/>
+      </direction>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="2">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="3">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="4">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="5">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="6">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="7">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+  </visualization>
+</graphics></visualizationData>

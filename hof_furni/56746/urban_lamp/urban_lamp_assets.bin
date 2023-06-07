@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="urban_lamp_32_a_0_0" x="6" y="108"/>
+   <asset name="urban_lamp_32_a_2_0" x="5" y="91"/>
+   <asset name="urban_lamp_32_a_4_0" flipH="1" source="urban_lamp_32_a_2_0" x="5" y="91"/>
+   <asset name="urban_lamp_32_a_6_0" flipH="1" source="urban_lamp_32_a_0_0" x="6" y="108"/>
+   <asset name="urban_lamp_32_b_0_0" x="-17" y="-3"/>
+   <asset name="urban_lamp_32_b_0_1" x="33" y="106"/>
+   <asset name="urban_lamp_32_b_2_0" x="-17" y="-3"/>
+   <asset name="urban_lamp_32_b_2_1" x="28" y="84"/>
+   <asset name="urban_lamp_32_b_4_0" flipH="1" source="urban_lamp_32_b_2_0" x="-17" y="-3"/>
+   <asset name="urban_lamp_32_b_4_1" flipH="1" source="urban_lamp_32_b_2_1" x="28" y="84"/>
+   <asset name="urban_lamp_32_b_6_0" flipH="1" source="urban_lamp_32_b_0_0" x="-17" y="-3"/>
+   <asset name="urban_lamp_32_b_6_1" flipH="1" source="urban_lamp_32_b_0_1" x="33" y="106"/>
+   <asset name="urban_lamp_32_sd_0_0" x="6" y="2"/>
+   <asset name="urban_lamp_32_sd_2_0" source="urban_lamp_32_sd_0_0" x="6" y="2"/>
+   <asset name="urban_lamp_32_sd_4_0" source="urban_lamp_32_sd_0_0" x="6" y="2"/>
+   <asset name="urban_lamp_32_sd_6_0" source="urban_lamp_32_sd_0_0" x="6" y="2"/>
+   <asset name="urban_lamp_64_a_0_0" x="10" y="215"/>
+   <asset name="urban_lamp_64_a_2_0" x="10" y="184"/>
+   <asset name="urban_lamp_64_a_4_0" flipH="1" source="urban_lamp_64_a_2_0" x="10" y="184"/>
+   <asset name="urban_lamp_64_a_6_0" flipH="1" source="urban_lamp_64_a_0_0" x="10" y="215"/>
+   <asset name="urban_lamp_64_b_0_0" x="-1" y="-3"/>
+   <asset name="urban_lamp_64_b_0_1" x="60" y="211"/>
+   <asset name="urban_lamp_64_b_2_0" x="-1" y="-3"/>
+   <asset name="urban_lamp_64_b_2_1" x="57" y="168"/>
+   <asset name="urban_lamp_64_b_4_0" flipH="1" source="urban_lamp_64_b_2_0" x="-1" y="-3"/>
+   <asset name="urban_lamp_64_b_4_1" flipH="1" source="urban_lamp_64_b_2_1" x="57" y="168"/>
+   <asset name="urban_lamp_64_b_6_0" flipH="1" source="urban_lamp_64_b_0_0" x="-1" y="-3"/>
+   <asset name="urban_lamp_64_b_6_1" flipH="1" source="urban_lamp_64_b_0_1" x="60" y="211"/>
+   <asset name="urban_lamp_64_sd_0_0" x="13" y="4"/>
+   <asset name="urban_lamp_64_sd_2_0" source="urban_lamp_64_sd_0_0" x="13" y="4"/>
+   <asset name="urban_lamp_64_sd_4_0" source="urban_lamp_64_sd_0_0" x="13" y="4"/>
+   <asset name="urban_lamp_64_sd_6_0" source="urban_lamp_64_sd_0_0" x="13" y="4"/>
+   <asset name="urban_lamp_icon_a" x="3" y="14"/>
+</assets>

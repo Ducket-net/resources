@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="track12_hurdle"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="1" angle="45">
+    <layers/>
+    <directions>
+      <direction id="2"/>
+      <direction id="6"/>
+      <direction id="4"/>
+      <direction id="0"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0" frameRepeat="2" loopCount="1">
+          <frameSequence>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="1" angle="45">
+    <layers/>
+    <directions>
+      <direction id="2"/>
+      <direction id="6"/>
+      <direction id="4"/>
+      <direction id="0"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0" loopCount="1" frameRepeat="2">
+          <frameSequence>
+            <frame id="1"/>
+            <frame id="1"/>
+            <frame id="0"/>
+            <frame id="1"/>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>

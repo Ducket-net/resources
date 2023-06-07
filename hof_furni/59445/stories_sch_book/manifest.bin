@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="stories_sch_book" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="stories_sch_book_visualization" mimeType="text/xml"/>
+      <asset name="stories_sch_book_assets" mimeType="text/xml"/>
+      <asset name="stories_sch_book_logic" mimeType="text/xml"/>
+      <asset name="stories_sch_book_icon_a" mimeType="image/png"/>
+      <asset name="stories_sch_book_64_sd_4_0" mimeType="image/png"/>
+      <asset name="stories_sch_book_64_a_4_0" mimeType="image/png"/>
+      <asset name="stories_sch_book_64_a_4_1" mimeType="image/png"/>
+      <asset name="stories_sch_book_32_sd_4_0" mimeType="image/png"/>
+      <asset name="stories_sch_book_32_a_4_0" mimeType="image/png"/>
+      <asset name="stories_sch_book_32_a_4_1" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

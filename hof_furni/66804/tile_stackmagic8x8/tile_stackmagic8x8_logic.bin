@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objectData type="tile_stackmagic8x8">
+  <model>
+    <dimensions x="8" y="8" z="0"/>
+    <directions>
+      <direction id="0"/>
+      <direction id="90"/>
+    </directions>
+  </model>
+</objectData>

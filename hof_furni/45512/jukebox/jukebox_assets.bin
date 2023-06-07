@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="jukebox_64_a_4_0" x="30" y="82"/>
+  <asset name="jukebox_64_a_4_1" x="30" y="82"/>
+  <asset name="jukebox_64_a_4_2" x="30" y="82"/>
+  <asset name="jukebox_64_a_4_3" x="30" y="82"/>
+  <asset name="jukebox_64_a_4_4" x="30" y="82"/>
+  <asset name="jukebox_64_a_4_5" x="30" y="82"/>
+  <asset name="jukebox_64_a_4_6" x="30" y="82"/>
+  <asset name="jukebox_64_b_4_0" x="5" y="7"/>
+  <asset name="jukebox_64_b_4_1" x="30" y="51"/>
+  <asset name="jukebox_64_b_4_2" x="37" y="76"/>
+  <asset name="jukebox_64_b_4_3" x="37" y="76"/>
+  <asset name="jukebox_64_b_4_4" x="43" y="90"/>
+  <asset name="jukebox_64_b_4_5" x="43" y="92"/>
+  <asset name="jukebox_64_b_4_6" x="43" y="94"/>
+  <asset name="jukebox_32_a_4_0" x="15" y="41"/>
+  <asset name="jukebox_32_a_4_2" x="15" y="41"/>
+  <asset name="jukebox_32_a_4_3" x="15" y="41"/>
+  <asset name="jukebox_32_a_4_4" x="15" y="41"/>
+  <asset name="jukebox_32_a_4_5" x="15" y="41"/>
+  <asset name="jukebox_32_a_4_6" x="15" y="41"/>
+  <asset name="jukebox_32_b_4_0" x="2" y="4"/>
+  <asset name="jukebox_32_b_4_1" x="16" y="28"/>
+  <asset name="jukebox_32_b_4_2" x="20" y="40"/>
+  <asset name="jukebox_32_b_4_3" x="20" y="41"/>
+  <asset name="jukebox_32_b_4_4" x="24" y="47"/>
+  <asset name="jukebox_32_b_4_5" x="24" y="48"/>
+  <asset name="jukebox_32_b_4_6" x="24" y="50"/>
+  <asset name="jukebox_icon_a" x="15" y="15"/>
+  <asset name="jukebox_64_a_2_0" flipH="1" source="jukebox_64_a_4_0" x="30" y="82"/>
+  <asset name="jukebox_64_a_2_1" flipH="1" source="jukebox_64_a_4_1" x="30" y="82"/>
+  <asset name="jukebox_64_a_2_2" flipH="1" source="jukebox_64_a_4_2" x="30" y="82"/>
+  <asset name="jukebox_64_a_2_3" flipH="1" source="jukebox_64_a_4_3" x="30" y="82"/>
+  <asset name="jukebox_64_a_2_4" flipH="1" source="jukebox_64_a_4_4" x="30" y="82"/>
+  <asset name="jukebox_64_a_2_5" flipH="1" source="jukebox_64_a_4_5" x="30" y="82"/>
+  <asset name="jukebox_64_a_2_6" flipH="1" source="jukebox_64_a_4_6" x="30" y="82"/>
+  <asset name="jukebox_64_b_2_0" flipH="1" source="jukebox_64_b_4_0" x="5" y="7"/>
+  <asset name="jukebox_64_b_2_1" flipH="1" source="jukebox_64_b_4_1" x="30" y="51"/>
+  <asset name="jukebox_64_b_2_2" flipH="1" source="jukebox_64_b_4_2" x="37" y="76"/>
+  <asset name="jukebox_64_b_2_3" flipH="1" source="jukebox_64_b_4_3" x="37" y="76"/>
+  <asset name="jukebox_64_b_2_4" flipH="1" source="jukebox_64_b_4_4" x="43" y="90"/>
+  <asset name="jukebox_64_b_2_5" flipH="1" source="jukebox_64_b_4_5" x="43" y="92"/>
+  <asset name="jukebox_64_b_2_6" flipH="1" source="jukebox_64_b_4_6" x="43" y="94"/>
+  <asset name="jukebox_32_a_2_0" flipH="1" source="jukebox_32_a_4_0" x="15" y="41"/>
+  <asset name="jukebox_32_a_2_2" flipH="1" source="jukebox_32_a_4_2" x="15" y="41"/>
+  <asset name="jukebox_32_a_2_3" flipH="1" source="jukebox_32_a_4_3" x="15" y="41"/>
+  <asset name="jukebox_32_a_2_4" flipH="1" source="jukebox_32_a_4_4" x="15" y="41"/>
+  <asset name="jukebox_32_a_2_5" flipH="1" source="jukebox_32_a_4_5" x="15" y="41"/>
+  <asset name="jukebox_32_a_2_6" flipH="1" source="jukebox_32_a_4_6" x="15" y="41"/>
+  <asset name="jukebox_32_b_2_0" flipH="1" source="jukebox_32_b_4_0" x="2" y="4"/>
+  <asset name="jukebox_32_b_2_1" flipH="1" source="jukebox_32_b_4_1" x="16" y="28"/>
+  <asset name="jukebox_32_b_2_2" flipH="1" source="jukebox_32_b_4_2" x="20" y="40"/>
+  <asset name="jukebox_32_b_2_3" flipH="1" source="jukebox_32_b_4_3" x="20" y="41"/>
+  <asset name="jukebox_32_b_2_4" flipH="1" source="jukebox_32_b_4_4" x="24" y="47"/>
+  <asset name="jukebox_32_b_2_5" flipH="1" source="jukebox_32_b_4_5" x="24" y="48"/>
+  <asset name="jukebox_32_b_2_6" flipH="1" source="jukebox_32_b_4_6" x="24" y="50"/>
+  <asset name="jukebox_32_a_4_1" x="15" y="41"/>
+  <asset name="jukebox_32_a_2_1" flipH="1" source="jukebox_32_a_4_1" x="15" y="41"/>
+</assets>

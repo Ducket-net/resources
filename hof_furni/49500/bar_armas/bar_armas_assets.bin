@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="bar_armas_64_a_2_0" x="34" y="70"/>
+   <asset name="bar_armas_64_a_4_0" flipH="1" source="bar_armas_64_a_2_0" x="34" y="70"/>
+   <asset name="bar_armas_64_b_2_0" x="11" y="60"/>
+   <asset name="bar_armas_64_b_2_1" x="10" y="97"/>
+   <asset name="bar_armas_64_b_4_0" flipH="1" source="bar_armas_64_b_2_0" x="11" y="60"/>
+   <asset name="bar_armas_64_b_4_1" flipH="1" source="bar_armas_64_b_2_1" x="10" y="97"/>
+   <asset name="bar_armas_64_sd_2_0" x="36" y="20"/>
+   <asset name="bar_armas_64_sd_4_0" flipH="1" source="bar_armas_64_sd_2_0" x="36" y="20"/>
+   <asset name="bar_armas_icon_a" x="11" y="15"/>
+   <asset name="bar_armas_32_a_2_0" x="17" y="35"/>
+   <asset name="bar_armas_32_a_4_0" flipH="1" source="bar_armas_32_a_2_0" x="17" y="35"/>
+   <asset name="bar_armas_32_b_2_0" x="16" y="0"/>
+   <asset name="bar_armas_32_b_2_1" x="6" y="49"/>
+   <asset name="bar_armas_32_b_4_0" flipH="1" source="bar_armas_32_b_2_0" x="16" y="0"/>
+   <asset name="bar_armas_32_b_4_1" flipH="1" source="bar_armas_32_b_2_1" x="6" y="49"/>
+   <asset name="bar_armas_32_sd_0_0" flipH="1" source="bar_armas_32_sd_2_0" x="17" y="10"/>
+   <asset name="bar_armas_32_sd_2_0" x="17" y="10"/>
+   <asset name="bar_armas_32_sd_4_0" flipH="1" source="bar_armas_32_sd_2_0" x="17" y="10"/>
+</assets>

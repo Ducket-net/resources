@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hblooza_bubblejuice_64_sd_2_0" x="65" y="16"/>
+  <asset name="hblooza_bubblejuice_64_a_2_0" x="24" y="134"/>
+  <asset name="hblooza_bubblejuice_64_b_2_0" x="65" y="134"/>
+  <asset name="hblooza_bubblejuice_32_sd_2_0" x="33" y="8"/>
+  <asset name="hblooza_bubblejuice_32_a_2_0" x="13" y="67"/>
+  <asset name="hblooza_bubblejuice_32_b_2_0" x="33" y="67"/>
+  <asset name="hblooza_bubblejuice_icon_a" x="9" y="14"/>
+  <asset name="hblooza_bubblejuice_64_sd_4_0" flipH="1" source="hblooza_bubblejuice_64_sd_2_0" x="65" y="16"/>
+  <asset name="hblooza_bubblejuice_64_a_4_0" flipH="1" source="hblooza_bubblejuice_64_a_2_0" x="24" y="134"/>
+  <asset name="hblooza_bubblejuice_64_b_4_0" flipH="1" source="hblooza_bubblejuice_64_b_2_0" x="65" y="134"/>
+  <asset name="hblooza_bubblejuice_32_sd_4_0" flipH="1" source="hblooza_bubblejuice_32_sd_2_0" x="33" y="8"/>
+  <asset name="hblooza_bubblejuice_32_a_4_0" flipH="1" source="hblooza_bubblejuice_32_a_2_0" x="13" y="67"/>
+  <asset name="hblooza_bubblejuice_32_b_4_0" flipH="1" source="hblooza_bubblejuice_32_b_2_0" x="33" y="67"/>
+</assets>

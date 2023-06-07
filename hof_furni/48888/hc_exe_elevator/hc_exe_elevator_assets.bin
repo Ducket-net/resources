@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc_exe_elevator_32_a_4_0" x="16" y="6"/>
+  <asset name="hc_exe_elevator_32_a_4_1" x="13" y="46"/>
+  <asset name="hc_exe_elevator_32_b_4_0" x="16" y="6"/>
+  <asset name="hc_exe_elevator_32_b_4_1" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_4_2" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_4_3" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_4_4" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_4_5" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_4_6" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_c_4_0" x="16" y="6"/>
+  <asset name="hc_exe_elevator_32_c_4_1" x="22" y="61"/>
+  <asset name="hc_exe_elevator_32_d_4_0" x="1" y="-2"/>
+  <asset name="hc_exe_elevator_32_d_4_1" x="13" y="114"/>
+  <asset name="hc_exe_elevator_64_a_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_a_4_1" x="29" y="90"/>
+  <asset name="hc_exe_elevator_64_b_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_b_4_1" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_4_2" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_4_3" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_4_4" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_4_5" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_4_6" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_c_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_c_4_1" x="29" y="227"/>
+  <asset name="hc_exe_elevator_64_d_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_d_4_1" x="43" y="113"/>
+  <asset name="hc_exe_elevator_icon_a" x="10" y="15"/>
+  <asset name="hc_exe_elevator_32_a_2_0" flipH="1" source="hc_exe_elevator_32_a_4_0" x="16" y="6"/>
+  <asset name="hc_exe_elevator_32_a_2_1" flipH="1" source="hc_exe_elevator_32_a_4_1" x="13" y="46"/>
+  <asset name="hc_exe_elevator_32_b_2_0" flipH="1" source="hc_exe_elevator_32_b_4_0" x="16" y="6"/>
+  <asset name="hc_exe_elevator_32_b_2_1" flipH="1" source="hc_exe_elevator_32_b_4_1" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_2_2" flipH="1" source="hc_exe_elevator_32_b_4_2" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_2_3" flipH="1" source="hc_exe_elevator_32_b_4_3" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_2_4" flipH="1" source="hc_exe_elevator_32_b_4_4" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_2_5" flipH="1" source="hc_exe_elevator_32_b_4_5" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_b_2_6" flipH="1" source="hc_exe_elevator_32_b_4_6" x="22" y="114"/>
+  <asset name="hc_exe_elevator_32_c_2_0" flipH="1" source="hc_exe_elevator_32_c_4_0" x="16" y="6"/>
+  <asset name="hc_exe_elevator_32_c_2_1" flipH="1" source="hc_exe_elevator_32_c_4_1" x="22" y="61"/>
+  <asset name="hc_exe_elevator_32_d_2_0" flipH="1" source="hc_exe_elevator_32_d_4_0" x="1" y="-2"/>
+  <asset name="hc_exe_elevator_32_d_2_1" flipH="1" source="hc_exe_elevator_32_d_4_1" x="13" y="114"/>
+  <asset name="hc_exe_elevator_64_a_2_0" flipH="1" source="hc_exe_elevator_64_a_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_a_2_1" flipH="1" source="hc_exe_elevator_64_a_4_1" x="29" y="90"/>
+  <asset name="hc_exe_elevator_64_b_2_0" flipH="1" source="hc_exe_elevator_64_b_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_b_2_1" flipH="1" source="hc_exe_elevator_64_b_4_1" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_2_2" flipH="1" source="hc_exe_elevator_64_b_4_2" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_2_3" flipH="1" source="hc_exe_elevator_64_b_4_3" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_2_4" flipH="1" source="hc_exe_elevator_64_b_4_4" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_2_5" flipH="1" source="hc_exe_elevator_64_b_4_5" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_b_2_6" flipH="1" source="hc_exe_elevator_64_b_4_6" x="43" y="227"/>
+  <asset name="hc_exe_elevator_64_c_2_0" flipH="1" source="hc_exe_elevator_64_c_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_c_2_1" flipH="1" source="hc_exe_elevator_64_c_4_1" x="29" y="227"/>
+  <asset name="hc_exe_elevator_64_d_2_0" flipH="1" source="hc_exe_elevator_64_d_4_0" x="35" y="5"/>
+  <asset name="hc_exe_elevator_64_d_2_1" flipH="1" source="hc_exe_elevator_64_d_4_1" x="43" y="113"/>
+</assets>

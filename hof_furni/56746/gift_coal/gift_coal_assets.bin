@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="gift_coal_32_a_0_0" x="9" y="6"/>
+  <asset name="gift_coal_32_a_0_1" x="8" y="3"/>
+  <asset name="gift_coal_32_a_0_2" x="11" y="7"/>
+  <asset name="gift_coal_64_a_0_0" x="17" y="12"/>
+  <asset name="gift_coal_64_a_0_1" x="14" y="6"/>
+  <asset name="gift_coal_64_a_0_2" x="21" y="14"/>
+  <asset name="gift_coal_icon_a" x="11" y="7"/>
+  <asset name="gift_coal_32_a_2_0" flipH="1" source="gift_coal_32_a_0_0" x="9" y="6"/>
+  <asset name="gift_coal_32_a_2_1" flipH="1" source="gift_coal_32_a_0_1" x="8" y="3"/>
+  <asset name="gift_coal_32_a_2_2" flipH="1" source="gift_coal_32_a_0_2" x="11" y="7"/>
+  <asset name="gift_coal_64_a_2_0" flipH="1" source="gift_coal_64_a_0_0" x="17" y="12"/>
+  <asset name="gift_coal_64_a_2_1" flipH="1" source="gift_coal_64_a_0_1" x="14" y="6"/>
+  <asset name="gift_coal_64_a_2_2" flipH="1" source="gift_coal_64_a_0_2" x="21" y="14"/>
+</assets>

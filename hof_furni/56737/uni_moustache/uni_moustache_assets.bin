@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="uni_moustache_64_a_4_0" x="48" y="32"/>
+  <asset name="uni_moustache_64_a_4_1" x="48" y="32"/>
+  <asset name="uni_moustache_64_a_4_2" x="48" y="32"/>
+  <asset name="uni_moustache_32_a_4_0" x="24" y="15"/>
+  <asset name="uni_moustache_32_a_4_1" x="24" y="15"/>
+  <asset name="uni_moustache_32_a_4_2" x="24" y="15"/>
+  <asset name="uni_moustache_icon_a" x="13" y="9"/>
+  <asset name="uni_moustache_64_a_2_0" flipH="1" source="uni_moustache_64_a_4_0" x="48" y="32"/>
+  <asset name="uni_moustache_64_a_2_1" flipH="1" source="uni_moustache_64_a_4_1" x="48" y="32"/>
+  <asset name="uni_moustache_64_a_2_2" flipH="1" source="uni_moustache_64_a_4_2" x="48" y="32"/>
+  <asset name="uni_moustache_32_a_2_0" flipH="1" source="uni_moustache_32_a_4_0" x="24" y="15"/>
+  <asset name="uni_moustache_32_a_2_1" flipH="1" source="uni_moustache_32_a_4_1" x="24" y="15"/>
+  <asset name="uni_moustache_32_a_2_2" flipH="1" source="uni_moustache_32_a_4_2" x="24" y="15"/>
+</assets>

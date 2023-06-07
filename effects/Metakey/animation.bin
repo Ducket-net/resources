@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<!-- Sims-->
+<animation name="fx.212" desc="Metakey">
+  <sprite id="fx212_1" ink="8" member="std_fx212_1_1" staticY="1">
+    <direction id="0" dz="0"/>
+    <direction id="1" dz="0"/>
+    <direction id="2" dz="0"/>
+    <direction id="3" dz="0"/>
+    <direction id="4" dz="0"/>
+    <direction id="5" dz="0"/>
+    <direction id="6" dz="0"/>
+    <direction id="7" dz="0"/>
+  </sprite>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="0"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="1"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="2"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="3"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="4"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="5"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="6"/>
+  </frame>
+
+  <frame repeats="3">
+    <fx id="fx212_1" action="Default" frame="7"/>
+  </frame>
+</animation>

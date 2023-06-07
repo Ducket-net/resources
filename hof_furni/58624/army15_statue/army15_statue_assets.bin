@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="army15_statue_64_sd_0_0" x="20" y="10"/>
+  <asset name="army15_statue_64_sd_4_0" x="20" y="10"/>
+  <asset name="army15_statue_64_a_4_0" x="21" y="64"/>
+  <asset name="army15_statue_64_a_0_0" x="21" y="61"/>
+  <asset name="army15_statue_icon_a" x="9" y="14"/>
+  <asset name="army15_statue_64_sd_6_0" flipH="1" source="army15_statue_64_sd_0_0" x="20" y="10"/>
+  <asset name="army15_statue_64_a_6_0" flipH="1" source="army15_statue_64_a_0_0" x="21" y="61"/>
+  <asset name="army15_statue_64_sd_2_0" flipH="1" source="army15_statue_64_sd_4_0" x="20" y="10"/>
+  <asset name="army15_statue_64_a_2_0" flipH="1" source="army15_statue_64_a_4_0" x="21" y="64"/>
+</assets>

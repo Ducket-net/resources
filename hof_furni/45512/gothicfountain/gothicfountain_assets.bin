@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="gothicfountain_icon_a" x="10" y="16"/>
+   <asset name="gothicfountain_64_a_2_1" x="17" y="47"/>
+   <asset name="gothicfountain_64_b_2_0" x="7" y="-15"/>
+   <asset name="gothicfountain_64_b_2_1" x="10" y="-15"/>
+   <asset name="gothicfountain_64_b_2_2" x="10" y="-15"/>
+   <asset name="gothicfountain_64_b_2_3" x="10" y="-15"/>
+   <asset name="gothicfountain_64_c_2_0" x="-4" y="20"/>
+   <asset name="gothicfountain_64_c_2_1" x="9" y="20"/>
+   <asset name="gothicfountain_64_c_2_2" x="9" y="20"/>
+   <asset name="gothicfountain_64_c_2_3" x="9" y="20"/>
+   <asset name="gothicfountain_64_a_4_1" flipH="1" source="gothicfountain_64_a_2_1" x="17" y="47"/>
+   <asset name="gothicfountain_64_b_4_1" flipH="1" source="gothicfountain_64_b_2_1" x="10" y="-15"/>
+   <asset name="gothicfountain_64_b_4_2" flipH="1" source="gothicfountain_64_b_2_2" x="10" y="-15"/>
+   <asset name="gothicfountain_64_b_4_3" flipH="1" source="gothicfountain_64_b_2_3" x="10" y="-15"/>
+   <asset name="gothicfountain_64_c_4_1" flipH="1" source="gothicfountain_64_c_2_1" x="9" y="20"/>
+   <asset name="gothicfountain_64_c_4_2" flipH="1" source="gothicfountain_64_c_2_2" x="9" y="20"/>
+   <asset name="gothicfountain_64_c_4_3" flipH="1" source="gothicfountain_64_c_2_3" x="9" y="20"/>
+   <asset name="gothicfountain_32_a_2_1" x="9" y="23"/>
+   <asset name="gothicfountain_32_b_2_0" x="4" y="-8"/>
+   <asset name="gothicfountain_32_b_2_1" x="5" y="-8"/>
+   <asset name="gothicfountain_32_b_2_2" x="5" y="-8"/>
+   <asset name="gothicfountain_32_b_2_3" x="5" y="-8"/>
+   <asset name="gothicfountain_32_c_2_0" x="-3" y="9"/>
+   <asset name="gothicfountain_32_c_2_1" x="4" y="9"/>
+   <asset name="gothicfountain_32_c_2_2" x="4" y="9"/>
+   <asset name="gothicfountain_32_c_2_3" x="4" y="9"/>
+   <asset name="gothicfountain_32_a_4_1" flipH="1" source="gothicfountain_32_a_2_1" x="9" y="23"/>
+   <asset name="gothicfountain_32_b_4_1" flipH="1" source="gothicfountain_32_b_2_1" x="5" y="-8"/>
+   <asset name="gothicfountain_32_b_4_2" flipH="1" source="gothicfountain_32_b_2_2" x="5" y="-8"/>
+   <asset name="gothicfountain_32_b_4_3" flipH="1" source="gothicfountain_32_b_2_3" x="5" y="-8"/>
+   <asset name="gothicfountain_32_c_4_1" flipH="1" source="gothicfountain_32_c_2_1" x="4" y="9"/>
+   <asset name="gothicfountain_32_c_4_2" flipH="1" source="gothicfountain_32_c_2_2" x="4" y="9"/>
+   <asset name="gothicfountain_32_c_4_3" flipH="1" source="gothicfountain_32_c_2_3" x="4" y="9"/>
+</assets>

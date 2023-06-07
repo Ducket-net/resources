@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="matic_brainjar" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="matic_brainjar_visualization" mimeType="text/xml"/>
+      <asset name="matic_brainjar_assets" mimeType="text/xml"/>
+      <asset name="matic_brainjar_logic" mimeType="text/xml"/>
+      <asset name="matic_brainjar_64_sd_0_0" mimeType="image/png"/>
+      <asset name="matic_brainjar_64_a_0_0" mimeType="image/png"/>
+      <asset name="matic_brainjar_64_b_0_1" mimeType="image/png"/>
+      <asset name="matic_brainjar_64_b_0_0" mimeType="image/png"/>
+      <asset name="matic_brainjar_32_sd_0_0" mimeType="image/png"/>
+      <asset name="matic_brainjar_32_a_0_0" mimeType="image/png"/>
+      <asset name="matic_brainjar_32_b_0_1" mimeType="image/png"/>
+      <asset name="matic_brainjar_32_b_0_0" mimeType="image/png"/>
+      <asset name="matic_brainjar_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

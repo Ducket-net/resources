@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_lasereyes_nft" version="0.1">
+    <assets>
+      <asset name="h_lay_ea_4883_2_0" mimeType="image/png">
+        <param key="offset" value="9,35"/>
+      </asset>
+      <asset name="h_lay_ea_4884_2_0" mimeType="image/png">
+        <param key="offset" value="-2,29"/>
+      </asset>
+      <asset name="h_std_ea_4883_0_0" mimeType="image/png">
+        <param key="offset" value="-44,60"/>
+      </asset>
+      <asset name="h_std_ea_4883_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_std_ea_4883_2_0" mimeType="image/png">
+        <param key="offset" value="-31,63"/>
+      </asset>
+      <asset name="h_std_ea_4883_3_0" mimeType="image/png">
+        <param key="offset" value="-24,61"/>
+      </asset>
+      <asset name="h_std_ea_4883_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+      <asset name="h_std_ea_4884_0_0" mimeType="image/png">
+        <param key="offset" value="-44,60"/>
+      </asset>
+      <asset name="h_std_ea_4884_1_0" mimeType="image/png">
+        <param key="offset" value="-43,59"/>
+      </asset>
+      <asset name="h_std_ea_4884_2_0" mimeType="image/png">
+        <param key="offset" value="-41,53"/>
+      </asset>
+      <asset name="h_std_ea_4884_3_0" mimeType="image/png">
+        <param key="offset" value="-33,51"/>
+      </asset>
+      <asset name="h_std_ea_4884_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+      <asset name="h_eyb_ea_4883_0_0" mimeType="image/png">
+        <param key="offset" value="-44,60"/>
+      </asset>
+      <asset name="h_eyb_ea_4883_1_0" mimeType="image/png">
+        <param key="offset" value="-43,59"/>
+      </asset>
+      <asset name="h_eyb_ea_4883_2_0" mimeType="image/png">
+        <param key="offset" value="-41,53"/>
+      </asset>
+      <asset name="h_eyb_ea_4883_3_0" mimeType="image/png">
+        <param key="offset" value="-33,51"/>
+      </asset>
+      <asset name="h_eyb_ea_4883_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+      <asset name="h_eyb_ea_4884_0_0" mimeType="image/png">
+        <param key="offset" value="-44,60"/>
+      </asset>
+      <asset name="h_eyb_ea_4884_1_0" mimeType="image/png">
+        <param key="offset" value="-43,59"/>
+      </asset>
+      <asset name="h_eyb_ea_4884_2_0" mimeType="image/png">
+        <param key="offset" value="-41,53"/>
+      </asset>
+      <asset name="h_eyb_ea_4884_3_0" mimeType="image/png">
+        <param key="offset" value="-33,51"/>
+      </asset>
+      <asset name="h_eyb_ea_4884_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

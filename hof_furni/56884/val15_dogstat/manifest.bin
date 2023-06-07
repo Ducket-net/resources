@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="val15_dogstat" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="val15_dogstat_visualization" mimeType="text/xml"/>
+      <asset name="val15_dogstat_assets" mimeType="text/xml"/>
+      <asset name="val15_dogstat_logic" mimeType="text/xml"/>
+      <asset name="val15_dogstat_64_sd_0_0" mimeType="image/png"/>
+      <asset name="val15_dogstat_64_a_0_0" mimeType="image/png"/>
+      <asset name="val15_dogstat_64_b_0_0" mimeType="image/png"/>
+      <asset name="val15_dogstat_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

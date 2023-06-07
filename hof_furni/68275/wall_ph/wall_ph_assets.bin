@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wall_ph_64_a_2_0" x="16" y="31"/>
+  <asset name="wall_ph_64_a_2_1" x="16" y="31"/>
+  <asset name="wall_ph_64_a_2_2" x="16" y="31"/>
+  <asset name="wall_ph_icon_a" x="11" y="11"/>
+  <asset name="wall_ph_64_a_4_0" flipH="1" source="wall_ph_64_a_2_0" x="16" y="31"/>
+  <asset name="wall_ph_64_a_4_1" flipH="1" source="wall_ph_64_a_2_1" x="16" y="31"/>
+  <asset name="wall_ph_64_a_4_2" flipH="1" source="wall_ph_64_a_2_2" x="16" y="31"/>
+</assets>

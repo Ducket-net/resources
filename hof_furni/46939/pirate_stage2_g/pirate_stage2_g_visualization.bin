@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="pirate_stage2_g">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="6" angle="45">
+      <layers>
+        <layer id="0" z="-1001"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3"/>
+        <layer id="4" ink="ADD" ignoreMouse="1" alpha="200"/>
+        <layer id="5" ignoreMouse="1" ink="ADD" alpha="200"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="3" z="5"/>
+        </direction>
+        <direction id="1">
+          <layer id="2" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="5" z="800"/>
+        </direction>
+        <direction id="2">
+          <layer id="5" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="2" z="800"/>
+        </direction>
+        <direction id="3">
+          <layer id="2" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="4"/>
+          <layer id="5" z="800"/>
+        </direction>
+        <direction id="4">
+          <layer id="5" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="2" z="800"/>
+        </direction>
+        <direction id="5">
+          <layer id="3" z="5"/>
+        </direction>
+        <direction id="6">
+          <layer id="3" z="5"/>
+        </direction>
+        <direction id="7">
+          <layer id="3" z="5"/>
+        </direction>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3"/>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="6" angle="45">
+      <layers>
+        <layer id="0" z="-1001"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3"/>
+        <layer id="4" ink="ADD" ignoreMouse="1" alpha="200"/>
+        <layer id="5" ignoreMouse="1" ink="ADD" alpha="200"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="3" z="5"/>
+        </direction>
+        <direction id="1">
+          <layer id="2" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="5" z="800"/>
+        </direction>
+        <direction id="2">
+          <layer id="5" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="2" z="800"/>
+        </direction>
+        <direction id="3">
+          <layer id="2" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="4"/>
+          <layer id="5" z="800"/>
+        </direction>
+        <direction id="4">
+          <layer id="5" z="800"/>
+          <layer id="3" z="805"/>
+          <layer id="2" z="800"/>
+        </direction>
+        <direction id="5">
+          <layer id="3" z="5"/>
+        </direction>
+        <direction id="6">
+          <layer id="3" z="5"/>
+        </direction>
+        <direction id="7">
+          <layer id="3" z="5"/>
+        </direction>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3"/>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

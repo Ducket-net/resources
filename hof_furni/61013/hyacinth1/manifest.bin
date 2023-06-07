@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="hyacinth1" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="hyacinth1_visualization" mimeType="text/xml"/>
+         <asset name="hyacinth1_assets" mimeType="text/xml"/>
+         <asset name="hyacinth1_logic" mimeType="text/xml"/>
+         <asset name="hyacinth1_64_a_2_0" mimeType="image/png"/>
+         <asset name="hyacinth1_64_a_2_1" mimeType="image/png"/>
+         <asset name="hyacinth1_64_sd_0_0" mimeType="image/png"/>
+         <asset name="hyacinth1_icon_a" mimeType="image/png"/>
+         <asset name="hyacinth1_32_a_2_0" mimeType="image/png"/>
+         <asset name="hyacinth1_32_sd_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

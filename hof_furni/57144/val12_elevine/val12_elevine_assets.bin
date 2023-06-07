@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="val12_elevine_32_a_0_0" x="16" y="11"/>
+  <asset name="val12_elevine_32_a_0_1" x="16" y="17"/>
+  <asset name="val12_elevine_32_a_0_2" x="16" y="26"/>
+  <asset name="val12_elevine_32_a_0_3" x="17" y="34"/>
+  <asset name="val12_elevine_32_a_0_4" x="17" y="42"/>
+  <asset name="val12_elevine_64_a_0_0" x="31" y="20"/>
+  <asset name="val12_elevine_64_a_0_1" x="32" y="31"/>
+  <asset name="val12_elevine_64_a_0_2" x="32" y="50"/>
+  <asset name="val12_elevine_64_a_0_3" x="34" y="66"/>
+  <asset name="val12_elevine_64_a_0_4" x="33" y="82"/>
+  <asset name="val12_elevine_icon_a" x="14" y="12"/>
+  <asset name="val12_elevine_32_a_2_0" flipH="1" source="val12_elevine_32_a_0_0" x="16" y="11"/>
+  <asset name="val12_elevine_32_a_2_1" flipH="1" source="val12_elevine_32_a_0_1" x="16" y="17"/>
+  <asset name="val12_elevine_32_a_2_2" flipH="1" source="val12_elevine_32_a_0_2" x="16" y="26"/>
+  <asset name="val12_elevine_32_a_2_3" flipH="1" source="val12_elevine_32_a_0_3" x="17" y="34"/>
+  <asset name="val12_elevine_32_a_2_4" flipH="1" source="val12_elevine_32_a_0_4" x="17" y="42"/>
+  <asset name="val12_elevine_64_a_2_0" flipH="1" source="val12_elevine_64_a_0_0" x="31" y="20"/>
+  <asset name="val12_elevine_64_a_2_1" flipH="1" source="val12_elevine_64_a_0_1" x="32" y="31"/>
+  <asset name="val12_elevine_64_a_2_2" flipH="1" source="val12_elevine_64_a_0_2" x="32" y="50"/>
+  <asset name="val12_elevine_64_a_2_3" flipH="1" source="val12_elevine_64_a_0_3" x="34" y="66"/>
+  <asset name="val12_elevine_64_a_2_4" flipH="1" source="val12_elevine_64_a_0_4" x="33" y="82"/>
+</assets>

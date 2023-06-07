@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bw_tele_32_a_4_0" x="10" y="51"/>
+  <asset name="bw_tele_32_b_4_0" x="16" y="60"/>
+  <asset name="bw_tele_32_a_4_1" x="27" y="51"/>
+  <asset name="bw_tele_32_b_4_1" x="15" y="60"/>
+  <asset name="bw_tele_32_c_4_0" x="16" y="2"/>
+  <asset name="bw_tele_32_c_4_1" x="30" y="63"/>
+  <asset name="bw_tele_64_a_4_0" x="24" y="100"/>
+  <asset name="bw_tele_64_b_4_0" x="33" y="117"/>
+  <asset name="bw_tele_64_a_4_1" x="54" y="100"/>
+  <asset name="bw_tele_64_b_4_1" x="32" y="117"/>
+  <asset name="bw_tele_64_c_4_0" x="33" y="2"/>
+  <asset name="bw_tele_64_c_4_1" x="65" y="121"/>
+  <asset name="bw_tele_icon_a" x="9" y="14"/>
+  <asset name="bw_tele_32_a_2_0" flipH="1" source="bw_tele_32_a_4_0" x="10" y="51"/>
+  <asset name="bw_tele_32_b_2_0" flipH="1" source="bw_tele_32_b_4_0" x="16" y="60"/>
+  <asset name="bw_tele_32_a_2_1" flipH="1" source="bw_tele_32_a_4_1" x="27" y="51"/>
+  <asset name="bw_tele_32_b_2_1" flipH="1" source="bw_tele_32_b_4_1" x="15" y="60"/>
+  <asset name="bw_tele_32_c_2_0" flipH="1" source="bw_tele_32_c_4_0" x="16" y="2"/>
+  <asset name="bw_tele_32_c_2_1" flipH="1" source="bw_tele_32_c_4_1" x="30" y="63"/>
+  <asset name="bw_tele_64_a_2_0" flipH="1" source="bw_tele_64_a_4_0" x="24" y="100"/>
+  <asset name="bw_tele_64_b_2_0" flipH="1" source="bw_tele_64_b_4_0" x="33" y="117"/>
+  <asset name="bw_tele_64_a_2_1" flipH="1" source="bw_tele_64_a_4_1" x="54" y="100"/>
+  <asset name="bw_tele_64_b_2_1" flipH="1" source="bw_tele_64_b_4_1" x="32" y="117"/>
+  <asset name="bw_tele_64_c_2_0" flipH="1" source="bw_tele_64_c_4_0" x="33" y="2"/>
+  <asset name="bw_tele_64_c_2_1" flipH="1" source="bw_tele_64_c_4_1" x="65" y="121"/>
+</assets>

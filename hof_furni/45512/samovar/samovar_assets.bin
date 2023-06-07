@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="samovar_32_a_2_0" x="15" y="34"/>
+   <asset name="samovar_32_a_4_0" flipH="1" source="samovar_32_a_2_0" x="15" y="34"/>
+   <asset name="samovar_32_sd_0_0" x="9" y="2"/>
+   <asset name="samovar_32_sd_2_0" source="samovar_32_sd_0_0" x="9" y="2"/>
+   <asset name="samovar_32_sd_4_0" source="samovar_32_sd_0_0" x="9" y="2"/>
+   <asset name="samovar_64_a_2_0" x="28" y="69"/>
+   <asset name="samovar_64_a_4_0" flipH="1" source="samovar_64_a_2_0" x="28" y="69"/>
+   <asset name="samovar_64_sd_0_0" x="17" y="9"/>
+   <asset name="samovar_64_sd_2_0" source="samovar_64_sd_0_0" x="17" y="9"/>
+   <asset name="samovar_64_sd_4_0" source="samovar_64_sd_0_0" x="17" y="9"/>
+   <asset name="samovar_icon_a" x="12" y="15"/>
+</assets>

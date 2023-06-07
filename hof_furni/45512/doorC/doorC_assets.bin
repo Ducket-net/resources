@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="doorC_64_a_2_0" flipH="1" source="doorC_64_a_4_0" x="31" y="3"/>
+   <asset name="doorC_64_a_2_1" flipH="1" source="doorC_64_a_4_1" x="53" y="89"/>
+   <asset name="doorC_64_a_4_0" x="31" y="3"/>
+   <asset name="doorC_64_a_4_1" x="53" y="89"/>
+   <asset name="doorC_64_b_2_0" flipH="1" source="doorC_64_b_4_0" x="33" y="114"/>
+   <asset name="doorC_64_b_2_1" flipH="1" source="doorC_64_b_4_1" x="33" y="114"/>
+   <asset name="doorC_64_b_4_0" x="33" y="114"/>
+   <asset name="doorC_64_b_4_1" x="33" y="114"/>
+   <asset name="doorC_64_c_2_0" flipH="1" source="doorC_64_a_4_0" x="31" y="3"/>
+   <asset name="doorC_64_c_2_1" flipH="1" source="doorC_64_c_4_1" x="37" y="118"/>
+   <asset name="doorC_64_c_4_0" source="doorC_64_a_4_0" x="31" y="3"/>
+   <asset name="doorC_64_c_4_1" x="37" y="118"/>
+   <asset name="doorC_icon_a" x="10" y="15"/>
+   <asset name="doorC_32_a_2_0" flipH="1" source="doorC_32_a_4_0" x="16" y="0"/>
+   <asset name="doorC_32_a_2_1" flipH="1" source="doorC_32_a_4_1" x="26" y="45"/>
+   <asset name="doorC_32_a_4_0" x="16" y="0"/>
+   <asset name="doorC_32_a_4_1" x="26" y="45"/>
+   <asset name="doorC_32_b_2_0" flipH="1" source="doorC_32_b_4_0" x="16" y="57"/>
+   <asset name="doorC_32_b_2_1" flipH="1" source="doorC_32_b_4_1" x="16" y="57"/>
+   <asset name="doorC_32_b_4_0" x="16" y="57"/>
+   <asset name="doorC_32_b_4_1" x="16" y="57"/>
+   <asset name="doorC_32_c_2_0" flipH="1" source="doorC_32_a_4_0" x="16" y="0"/>
+   <asset name="doorC_32_c_2_1" flipH="1" source="doorC_32_c_4_1" x="19" y="59"/>
+   <asset name="doorC_32_c_4_0" source="doorC_32_a_4_0" x="16" y="0"/>
+   <asset name="doorC_32_c_4_1" x="19" y="59"/>
+</assets>

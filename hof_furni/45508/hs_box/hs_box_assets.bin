@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hs_box_32_sd_0_0" x="17" y="0"/>
+  <asset name="hs_box_32_a_0_0" x="17" y="24"/>
+  <asset name="hs_box_32_b_0_0" x="21" y="15"/>
+  <asset name="hs_box_32_b_0_1" x="21" y="15"/>
+  <asset name="hs_box_32_b_0_2" x="21" y="15"/>
+  <asset name="hs_box_32_b_0_3" x="21" y="15"/>
+  <asset name="hs_box_64_sd_0_0" x="33" y="1"/>
+  <asset name="hs_box_64_a_0_0" x="31" y="48"/>
+  <asset name="hs_box_64_b_0_0" x="37" y="28"/>
+  <asset name="hs_box_64_b_0_1" x="37" y="28"/>
+  <asset name="hs_box_64_b_0_2" x="37" y="28"/>
+  <asset name="hs_box_64_b_0_3" x="37" y="28"/>
+  <asset name="hs_box_icon_a" x="13" y="13"/>
+  <asset name="hs_box_32_sd_2_0" flipH="1" source="hs_box_32_sd_0_0" x="17" y="0"/>
+  <asset name="hs_box_32_a_2_0" flipH="1" source="hs_box_32_a_0_0" x="17" y="24"/>
+  <asset name="hs_box_32_b_2_0" flipH="1" source="hs_box_32_b_0_0" x="21" y="15"/>
+  <asset name="hs_box_32_b_2_1" flipH="1" source="hs_box_32_b_0_1" x="21" y="15"/>
+  <asset name="hs_box_32_b_2_2" flipH="1" source="hs_box_32_b_0_2" x="21" y="15"/>
+  <asset name="hs_box_32_b_2_3" flipH="1" source="hs_box_32_b_0_3" x="21" y="15"/>
+  <asset name="hs_box_64_sd_2_0" flipH="1" source="hs_box_64_sd_0_0" x="33" y="1"/>
+  <asset name="hs_box_64_a_2_0" flipH="1" source="hs_box_64_a_0_0" x="31" y="48"/>
+  <asset name="hs_box_64_b_2_0" flipH="1" source="hs_box_64_b_0_0" x="37" y="28"/>
+  <asset name="hs_box_64_b_2_1" flipH="1" source="hs_box_64_b_0_1" x="37" y="28"/>
+  <asset name="hs_box_64_b_2_2" flipH="1" source="hs_box_64_b_0_2" x="37" y="28"/>
+  <asset name="hs_box_64_b_2_3" flipH="1" source="hs_box_64_b_0_3" x="37" y="28"/>
+  <asset name="hs_box_32_sd_4_0" source="hs_box_32_sd_0_0" x="17" y="0"/>
+  <asset name="hs_box_32_a_4_0" source="hs_box_32_a_0_0" x="17" y="24"/>
+  <asset name="hs_box_32_b_4_0" source="hs_box_32_b_0_0" x="21" y="15"/>
+  <asset name="hs_box_32_b_4_1" source="hs_box_32_b_0_1" x="21" y="15"/>
+  <asset name="hs_box_32_b_4_2" source="hs_box_32_b_0_2" x="21" y="15"/>
+  <asset name="hs_box_32_b_4_3" source="hs_box_32_b_0_3" x="21" y="15"/>
+  <asset name="hs_box_64_sd_4_0" source="hs_box_64_sd_0_0" x="33" y="1"/>
+  <asset name="hs_box_64_a_4_0" source="hs_box_64_a_0_0" x="31" y="48"/>
+  <asset name="hs_box_64_b_4_0" source="hs_box_64_b_0_0" x="37" y="28"/>
+  <asset name="hs_box_64_b_4_1" source="hs_box_64_b_0_1" x="37" y="28"/>
+  <asset name="hs_box_64_b_4_2" source="hs_box_64_b_0_2" x="37" y="28"/>
+  <asset name="hs_box_64_b_4_3" source="hs_box_64_b_0_3" x="37" y="28"/>
+  <asset name="hs_box_32_sd_6_0" flipH="1" source="hs_box_32_sd_0_0" x="17" y="0"/>
+  <asset name="hs_box_32_a_6_0" flipH="1" source="hs_box_32_a_0_0" x="17" y="24"/>
+  <asset name="hs_box_32_b_6_0" flipH="1" source="hs_box_32_b_0_0" x="21" y="15"/>
+  <asset name="hs_box_32_b_6_1" flipH="1" source="hs_box_32_b_0_1" x="21" y="15"/>
+  <asset name="hs_box_32_b_6_2" flipH="1" source="hs_box_32_b_0_2" x="21" y="15"/>
+  <asset name="hs_box_32_b_6_3" flipH="1" source="hs_box_32_b_0_3" x="21" y="15"/>
+  <asset name="hs_box_64_sd_6_0" flipH="1" source="hs_box_64_sd_0_0" x="33" y="1"/>
+  <asset name="hs_box_64_a_6_0" flipH="1" source="hs_box_64_a_0_0" x="31" y="48"/>
+  <asset name="hs_box_64_b_6_0" flipH="1" source="hs_box_64_b_0_0" x="37" y="28"/>
+  <asset name="hs_box_64_b_6_1" flipH="1" source="hs_box_64_b_0_1" x="37" y="28"/>
+  <asset name="hs_box_64_b_6_2" flipH="1" source="hs_box_64_b_0_2" x="37" y="28"/>
+  <asset name="hs_box_64_b_6_3" flipH="1" source="hs_box_64_b_0_3" x="37" y="28"/>
+</assets>

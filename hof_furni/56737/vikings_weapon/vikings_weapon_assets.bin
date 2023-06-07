@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="vikings_weapon_64_a_4_0" x="22" y="132"/>
+  <asset name="vikings_weapon_64_b_4_0" x="-23" y="101"/>
+  <asset name="vikings_weapon_64_sd_4_0" x="20" y="12"/>
+  <asset name="vikings_weapon_32_a_4_0" x="12" y="67"/>
+  <asset name="vikings_weapon_32_b_4_0" x="-11" y="51"/>
+  <asset name="vikings_weapon_32_sd_4_0" x="11" y="7"/>
+  <asset name="vikings_weapon_icon_a" x="7" y="14"/>
+  <asset name="vikings_weapon_64_a_2_0" flipH="1" source="vikings_weapon_64_a_4_0" x="22" y="132"/>
+  <asset name="vikings_weapon_64_b_2_0" flipH="1" source="vikings_weapon_64_b_4_0" x="-23" y="101"/>
+  <asset name="vikings_weapon_64_sd_2_0" flipH="1" source="vikings_weapon_64_sd_4_0" x="20" y="12"/>
+  <asset name="vikings_weapon_32_a_2_0" flipH="1" source="vikings_weapon_32_a_4_0" x="12" y="67"/>
+  <asset name="vikings_weapon_32_b_2_0" flipH="1" source="vikings_weapon_32_b_4_0" x="-11" y="51"/>
+  <asset name="vikings_weapon_32_sd_2_0" flipH="1" source="vikings_weapon_32_sd_4_0" x="11" y="7"/>
+</assets>

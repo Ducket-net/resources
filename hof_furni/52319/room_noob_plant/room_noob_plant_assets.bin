@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="room_noob_plant_32_sd_0_0" x="8" y="1"/>
+  <asset name="room_noob_plant_32_a_0_0" x="25" y="82"/>
+  <asset name="room_noob_plant_64_sd_0_0" x="19" y="10"/>
+  <asset name="room_noob_plant_64_a_0_0" x="50" y="161"/>
+  <asset name="room_noob_plant_icon_a" x="13" y="13"/>
+  <asset name="room_noob_plant_32_sd_2_0" flipH="1" source="room_noob_plant_32_sd_0_0" x="8" y="1"/>
+  <asset name="room_noob_plant_32_a_2_0" flipH="1" source="room_noob_plant_32_a_0_0" x="25" y="82"/>
+  <asset name="room_noob_plant_64_sd_2_0" flipH="1" source="room_noob_plant_64_sd_0_0" x="19" y="10"/>
+  <asset name="room_noob_plant_64_a_2_0" flipH="1" source="room_noob_plant_64_a_0_0" x="50" y="161"/>
+  <asset name="room_noob_plant_32_a_0_1" x="25" y="59"/>
+  <asset name="room_noob_plant_64_a_0_1" x="50" y="113"/>
+  <asset name="room_noob_plant_32_a_2_1" flipH="1" source="room_noob_plant_32_a_0_1" x="25" y="59"/>
+  <asset name="room_noob_plant_64_a_2_1" flipH="1" source="room_noob_plant_64_a_0_1" x="50" y="113"/>
+</assets>

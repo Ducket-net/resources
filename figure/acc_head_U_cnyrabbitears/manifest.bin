@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_cnyrabbitears" version="0.1">
+    <assets>
+      <asset name="h_lay_he_4729_2_0" mimeType="image/png">
+        <param key="offset" value="37,50"/>
+      </asset>
+      <asset name="h_lay_he_4730_2_0" mimeType="image/png">
+        <param key="offset" value="37,50"/>
+      </asset>
+      <asset name="h_std_he_4729_7_0" mimeType="image/png">
+        <param key="offset" value="-21,91"/>
+      </asset>
+      <asset name="h_std_he_4729_3_0" mimeType="image/png">
+        <param key="offset" value="-21,93"/>
+      </asset>
+      <asset name="h_std_he_4729_0_0" mimeType="image/png">
+        <param key="offset" value="-23,96"/>
+      </asset>
+      <asset name="h_std_he_4729_1_0" mimeType="image/png">
+        <param key="offset" value="-28,93"/>
+      </asset>
+      <asset name="h_std_he_4729_2_0" mimeType="image/png">
+        <param key="offset" value="-21,97"/>
+      </asset>
+      <asset name="h_std_he_4730_7_0" mimeType="image/png">
+        <param key="offset" value="-23,91"/>
+      </asset>
+      <asset name="h_std_he_4730_3_0" mimeType="image/png">
+        <param key="offset" value="-22,93"/>
+      </asset>
+      <asset name="h_std_he_4730_0_0" mimeType="image/png">
+        <param key="offset" value="-25,96"/>
+      </asset>
+      <asset name="h_std_he_4730_1_0" mimeType="image/png">
+        <param key="offset" value="-30,93"/>
+      </asset>
+      <asset name="h_std_he_4730_2_0" mimeType="image/png">
+        <param key="offset" value="-22,97"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

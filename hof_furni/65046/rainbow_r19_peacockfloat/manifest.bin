@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="rainbow_r19_peacockfloat" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="rainbow_r19_peacockfloat_visualization" mimeType="text/xml"/>
+      <asset name="rainbow_r19_peacockfloat_assets" mimeType="text/xml"/>
+      <asset name="rainbow_r19_peacockfloat_logic" mimeType="text/xml"/>
+      <asset name="rainbow_r19_peacockfloat_64_a_4_0" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_b_4_0" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_c_4_1" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_d_4_1" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_a_0_0" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_b_0_0" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_c_0_1" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_64_d_0_1" mimeType="image/png"/>
+      <asset name="rainbow_r19_peacockfloat_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

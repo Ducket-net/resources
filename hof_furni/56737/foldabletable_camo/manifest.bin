@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="foldabletable_camo" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="foldabletable_camo_visualization" mimeType="text/xml"/>
+      <asset name="foldabletable_camo_assets" mimeType="text/xml"/>
+      <asset name="foldabletable_camo_logic" mimeType="text/xml"/>
+      <asset name="foldabletable_camo_64_sd_0_0" mimeType="image/png"/>
+      <asset name="foldabletable_camo_64_a_0_0" mimeType="image/png"/>
+      <asset name="foldabletable_camo_32_sd_0_0" mimeType="image/png"/>
+      <asset name="foldabletable_camo_32_a_0_0" mimeType="image/png"/>
+      <asset name="foldabletable_camo_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

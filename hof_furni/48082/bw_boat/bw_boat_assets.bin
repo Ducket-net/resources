@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bw_boat_64_a_4_0" x="27" y="38"/>
+  <asset name="bw_boat_64_b_4_0" x="68" y="35"/>
+  <asset name="bw_boat_64_c_4_0" x="75" y="13"/>
+  <asset name="bw_boat_64_d_4_0" x="39" y="-10"/>
+  <asset name="bw_boat_64_e_4_0" x="68" y="22"/>
+  <asset name="bw_boat_64_f_4_0" x="39" y="-37"/>
+  <asset name="bw_boat_64_e_4_1" x="71" y="32"/>
+  <asset name="bw_boat_64_f_4_1" x="39" y="-26"/>
+  <asset name="bw_boat_32_a_4_0" x="12" y="19"/>
+  <asset name="bw_boat_32_b_4_0" x="35" y="17"/>
+  <asset name="bw_boat_32_c_4_0" x="38" y="6"/>
+  <asset name="bw_boat_32_d_4_0" x="19" y="-5"/>
+  <asset name="bw_boat_32_e_4_0" x="35" y="10"/>
+  <asset name="bw_boat_32_f_4_0" x="19" y="-21"/>
+  <asset name="bw_boat_32_e_4_1" x="36" y="15"/>
+  <asset name="bw_boat_32_f_4_1" x="19" y="-15"/>
+  <asset name="bw_boat_icon_a" x="16" y="10"/>
+  <asset name="bw_boat_64_a_2_0" flipH="1" source="bw_boat_64_a_4_0" x="27" y="38"/>
+  <asset name="bw_boat_64_b_2_0" flipH="1" source="bw_boat_64_b_4_0" x="68" y="35"/>
+  <asset name="bw_boat_64_c_2_0" flipH="1" source="bw_boat_64_c_4_0" x="75" y="13"/>
+  <asset name="bw_boat_64_d_2_0" flipH="1" source="bw_boat_64_d_4_0" x="39" y="-10"/>
+  <asset name="bw_boat_64_e_2_0" flipH="1" source="bw_boat_64_e_4_0" x="68" y="22"/>
+  <asset name="bw_boat_64_f_2_0" flipH="1" source="bw_boat_64_f_4_0" x="39" y="-37"/>
+  <asset name="bw_boat_64_e_2_1" flipH="1" source="bw_boat_64_e_4_1" x="71" y="32"/>
+  <asset name="bw_boat_64_f_2_1" flipH="1" source="bw_boat_64_f_4_1" x="39" y="-26"/>
+  <asset name="bw_boat_32_a_2_0" flipH="1" source="bw_boat_32_a_4_0" x="12" y="19"/>
+  <asset name="bw_boat_32_b_2_0" flipH="1" source="bw_boat_32_b_4_0" x="35" y="17"/>
+  <asset name="bw_boat_32_c_2_0" flipH="1" source="bw_boat_32_c_4_0" x="38" y="6"/>
+  <asset name="bw_boat_32_d_2_0" flipH="1" source="bw_boat_32_d_4_0" x="19" y="-5"/>
+  <asset name="bw_boat_32_e_2_0" flipH="1" source="bw_boat_32_e_4_0" x="35" y="10"/>
+  <asset name="bw_boat_32_f_2_0" flipH="1" source="bw_boat_32_f_4_0" x="19" y="-21"/>
+  <asset name="bw_boat_32_e_2_1" flipH="1" source="bw_boat_32_e_4_1" x="36" y="15"/>
+  <asset name="bw_boat_32_f_2_1" flipH="1" source="bw_boat_32_f_4_1" x="19" y="-15"/>
+</assets>

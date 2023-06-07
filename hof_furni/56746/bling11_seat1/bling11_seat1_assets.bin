@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="bling11_seat1_32_a_0_0" x="11" y="16"/>
+  <asset name="bling11_seat1_64_a_0_0" x="20" y="26"/>
+  <asset name="bling11_seat1_icon_a" x="10" y="9"/>
+  <asset name="bling11_seat1_32_a_2_0" flipH="1" source="bling11_seat1_32_a_0_0" x="11" y="16"/>
+  <asset name="bling11_seat1_64_a_2_0" flipH="1" source="bling11_seat1_64_a_0_0" x="20" y="26"/>
+  <asset name="bling11_seat1_32_a_4_0" source="bling11_seat1_32_a_0_0" x="11" y="16"/>
+  <asset name="bling11_seat1_64_a_4_0" source="bling11_seat1_64_a_0_0" x="20" y="26"/>
+  <asset name="bling11_seat1_32_a_6_0" flipH="1" source="bling11_seat1_32_a_0_0" x="11" y="16"/>
+  <asset name="bling11_seat1_64_a_6_0" flipH="1" source="bling11_seat1_64_a_0_0" x="20" y="26"/>
+</assets>

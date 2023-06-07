@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="test_festhotdog_64_sd_0_0" x="29" y="14"/>
+  <asset name="test_festhotdog_64_a_0_0" x="42" y="106"/>
+  <asset name="test_festhotdog_32_sd_0_0" x="13" y="7"/>
+  <asset name="test_festhotdog_32_a_0_0" x="21" y="54"/>
+  <asset name="test_festhotdog_icon_a" x="10" y="14"/>
+  <asset name="test_festhotdog_64_sd_2_0" flipH="1" source="test_festhotdog_64_sd_0_0" x="29" y="14"/>
+  <asset name="test_festhotdog_64_a_2_0" flipH="1" source="test_festhotdog_64_a_0_0" x="42" y="106"/>
+  <asset name="test_festhotdog_32_sd_2_0" flipH="1" source="test_festhotdog_32_sd_0_0" x="13" y="7"/>
+  <asset name="test_festhotdog_32_a_2_0" flipH="1" source="test_festhotdog_32_a_0_0" x="21" y="54"/>
+</assets>

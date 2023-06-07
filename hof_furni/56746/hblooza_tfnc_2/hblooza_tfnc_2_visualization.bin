@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="hblooza_tfnc_2">
+  <graphics>
+    <visualization size="1" layerCount="2" angle="360">
+      <directions>
+        <direction id="0"/>
+      </directions>
+      <colors>
+        <color id="1">
+          <colorLayer id="0" color="FF6300"/>
+        </color>
+        <color id="2">
+          <colorLayer id="0" color="3CD1FF"/>
+        </color>
+        <color id="3">
+          <colorLayer id="0" color="FFB200"/>
+        </color>
+        <color id="4">
+          <colorLayer id="0" color="393B3E"/>
+        </color>
+      </colors>
+    </visualization>
+    <visualization size="32" layerCount="4" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3" alpha="100" ignoreMouse="1" ink="ADD"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="0" z="-1"/>
+          <layer id="1" z="-1"/>
+          <layer id="2" z="-1"/>
+          <layer id="3" z="-1"/>
+        </direction>
+        <direction id="2">
+          <layer id="3" z="900"/>
+          <layer id="2" z="900"/>
+          <layer id="1" z="900"/>
+          <layer id="0" z="900"/>
+        </direction>
+        <direction id="4">
+          <layer id="0" z="900"/>
+          <layer id="1" z="900"/>
+          <layer id="2" z="900"/>
+          <layer id="3" z="900"/>
+        </direction>
+        <direction id="6">
+          <layer id="0" z="-1"/>
+          <layer id="1" z="-1"/>
+          <layer id="2" z="-1"/>
+          <layer id="3" z="-1"/>
+        </direction>
+      </directions>
+      <colors>
+        <color id="1">
+          <colorLayer id="1" color="FF6300"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="2">
+          <colorLayer id="1" color="3CD1FF"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="3">
+          <colorLayer id="1" color="FFB200"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="4">
+          <colorLayer id="1" color="393B3E"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+      </colors>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" frameRepeat="3" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="3"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="2">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" frameRepeat="2" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="2"/>
+              <frame id="2"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="3"/>
+              <frame id="3"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="4" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3" alpha="100" ignoreMouse="1" ink="ADD"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="0" z="-1"/>
+          <layer id="1" z="-1"/>
+          <layer id="2" z="-1"/>
+          <layer id="3" z="-1"/>
+        </direction>
+        <direction id="2">
+          <layer id="3" z="900"/>
+          <layer id="2" z="900"/>
+          <layer id="1" z="900"/>
+          <layer id="0" z="900"/>
+        </direction>
+        <direction id="4">
+          <layer id="0" z="900"/>
+          <layer id="1" z="900"/>
+          <layer id="2" z="900"/>
+          <layer id="3" z="900"/>
+        </direction>
+        <direction id="6">
+          <layer id="0" z="-1"/>
+          <layer id="1" z="-1"/>
+          <layer id="2" z="-1"/>
+          <layer id="3" z="-1"/>
+        </direction>
+      </directions>
+      <colors>
+        <color id="1">
+          <colorLayer id="1" color="FF6300"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="2">
+          <colorLayer id="1" color="3CD1FF"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="3">
+          <colorLayer id="1" color="FFB200"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+        <color id="4">
+          <colorLayer id="1" color="393B3E"/>
+          <colorLayer id="2" color="FFFFFF"/>
+        </color>
+      </colors>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3"/>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" frameRepeat="3" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="3"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="2">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" frameRepeat="2" loopCount="0">
+            <frameSequence>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="2"/>
+              <frame id="2"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="3"/>
+              <frame id="3"/>
+              <frame id="0"/>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="CF_350_geode" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="CF_350_geode_visualization" mimeType="text/xml"/>
+      <asset name="CF_350_geode_assets" mimeType="text/xml"/>
+      <asset name="CF_350_geode_logic" mimeType="text/xml"/>
+      <asset name="CF_350_geode_64_sd_0_0" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_a_0_0" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_b_0_0" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_b_0_1" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_b_0_2" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_c_0_0" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_c_0_1" mimeType="image/png"/>
+      <asset name="CF_350_geode_64_c_0_2" mimeType="image/png"/>
+      <asset name="CF_350_geode_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

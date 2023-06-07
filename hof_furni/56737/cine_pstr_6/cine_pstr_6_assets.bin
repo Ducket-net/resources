@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cine_pstr_6_64_sd_4_0" x="33" y="67"/>
+  <asset name="cine_pstr_6_64_a_4_0" x="33" y="74"/>
+  <asset name="cine_pstr_6_32_sd_4_0" x="17" y="34"/>
+  <asset name="cine_pstr_6_32_a_4_0" x="17" y="36"/>
+  <asset name="cine_pstr_6_icon_a" x="6" y="13"/>
+  <asset name="cine_pstr_6_64_sd_2_0" flipH="1" source="cine_pstr_6_64_sd_4_0" x="33" y="67"/>
+  <asset name="cine_pstr_6_64_a_2_0" flipH="1" source="cine_pstr_6_64_a_4_0" x="33" y="74"/>
+  <asset name="cine_pstr_6_32_sd_2_0" flipH="1" source="cine_pstr_6_32_sd_4_0" x="17" y="34"/>
+  <asset name="cine_pstr_6_32_a_2_0" flipH="1" source="cine_pstr_6_32_a_4_0" x="17" y="36"/>
+</assets>

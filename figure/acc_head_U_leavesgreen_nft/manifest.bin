@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_leavesgreen_nft" version="0.1">
+    <assets>
+      <asset name="h_std_he_4324_0_0" mimeType="image/png">
+        <param key="offset" value="-21,99"/>
+      </asset>
+      <asset name="h_std_he_4324_1_0" mimeType="image/png">
+        <param key="offset" value="-16,99"/>
+      </asset>
+      <asset name="h_std_he_4324_2_0" mimeType="image/png">
+        <param key="offset" value="-9,99"/>
+      </asset>
+      <asset name="h_std_he_4324_3_0" mimeType="image/png">
+        <param key="offset" value="-10,103"/>
+      </asset>
+      <asset name="h_std_he_4324_7_0" mimeType="image/png">
+        <param key="offset" value="-21,102"/>
+      </asset>
+      <asset name="h_lay_he_4324_2_0" mimeType="image/png">
+        <param key="offset" value="31,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

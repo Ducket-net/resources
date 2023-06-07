@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="xmas13_throne">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="3" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" ink="COPY" z="500"/>
+        <layer id="2" ink="ADD" alpha="100" ignoreMouse="1" z="500"/>
+      </layers>
+      <directions>
+        <direction id="2"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="3" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" ink="COPY" z="500"/>
+        <layer id="2" ink="ADD" ignoreMouse="1" z="500" alpha="100"/>
+      </layers>
+      <directions>
+        <direction id="2"/>
+        <direction id="4"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

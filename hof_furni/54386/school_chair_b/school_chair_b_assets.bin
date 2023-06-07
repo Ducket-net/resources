@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="school_chair_b_32_sd_0_0" x="9" y="6"/>
+  <asset name="school_chair_b_32_sd_2_0" x="9" y="6"/>
+  <asset name="school_chair_b_32_a_0_0" x="9" y="15"/>
+  <asset name="school_chair_b_32_a_2_0" x="10" y="26"/>
+  <asset name="school_chair_b_32_b_0_0" x="11" y="22"/>
+  <asset name="school_chair_b_64_sd_0_0" x="22" y="10"/>
+  <asset name="school_chair_b_64_sd_2_0" x="22" y="10"/>
+  <asset name="school_chair_b_64_a_0_0" x="23" y="29"/>
+  <asset name="school_chair_b_64_b_0_0" x="24" y="44"/>
+  <asset name="school_chair_b_64_a_2_0" x="22" y="52"/>
+  <asset name="school_chair_b_icon_a" x="10" y="15"/>
+  <asset name="school_chair_b_32_sd_4_0" flipH="1" source="school_chair_b_32_sd_2_0" x="9" y="6"/>
+  <asset name="school_chair_b_32_a_4_0" flipH="1" source="school_chair_b_32_a_2_0" x="10" y="26"/>
+  <asset name="school_chair_b_64_sd_4_0" flipH="1" source="school_chair_b_64_sd_2_0" x="22" y="10"/>
+  <asset name="school_chair_b_64_a_4_0" flipH="1" source="school_chair_b_64_a_2_0" x="22" y="52"/>
+  <asset name="school_chair_b_32_sd_6_0" flipH="1" source="school_chair_b_32_sd_0_0" x="9" y="6"/>
+  <asset name="school_chair_b_32_a_6_0" flipH="1" source="school_chair_b_32_a_0_0" x="9" y="15"/>
+  <asset name="school_chair_b_32_b_6_0" flipH="1" source="school_chair_b_32_b_0_0" x="11" y="22"/>
+  <asset name="school_chair_b_64_sd_6_0" flipH="1" source="school_chair_b_64_sd_0_0" x="22" y="10"/>
+  <asset name="school_chair_b_64_a_6_0" flipH="1" source="school_chair_b_64_a_0_0" x="23" y="29"/>
+  <asset name="school_chair_b_64_b_6_0" flipH="1" source="school_chair_b_64_b_0_0" x="24" y="44"/>
+</assets>

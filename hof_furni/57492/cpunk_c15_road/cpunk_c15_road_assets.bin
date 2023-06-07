@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cpunk_c15_road_64_a_4_0" x="66" y="19"/>
+  <asset name="cpunk_c15_road_64_b_0_0" x="65" y="18"/>
+  <asset name="cpunk_c15_road_64_b_2_0" x="65" y="18"/>
+  <asset name="cpunk_c15_road_64_b_4_0" x="65" y="18"/>
+  <asset name="cpunk_c15_road_64_b_6_0" x="65" y="18"/>
+  <asset name="cpunk_c15_road_64_c_0_0" x="0" y="-48"/>
+  <asset name="cpunk_c15_road_64_c_6_1" x="46" y="10"/>
+  <asset name="cpunk_c15_road_64_c_0_1" x="8" y="10"/>
+  <asset name="cpunk_c15_road_64_c_4_1" x="46" y="-9"/>
+  <asset name="cpunk_c15_road_64_c_2_1" x="8" y="-9"/>
+  <asset name="cpunk_c15_road_64_c_6_2" x="41" y="8"/>
+  <asset name="cpunk_c15_road_64_c_2_3" x="30" y="3"/>
+  <asset name="cpunk_c15_road_64_c_4_3" x="41" y="1"/>
+  <asset name="cpunk_c15_road_64_c_6_3" x="22" y="6"/>
+  <asset name="cpunk_c15_road_64_c_0_3" x="23" y="2"/>
+  <asset name="cpunk_c15_road_64_c_4_4" x="33" y="0"/>
+  <asset name="cpunk_c15_road_64_c_4_5" x="19" y="-2"/>
+  <asset name="cpunk_c15_road_64_c_2_5" x="19" y="-3"/>
+  <asset name="cpunk_c15_road_64_c_6_5" x="7" y="-3"/>
+  <asset name="cpunk_c15_road_64_c_0_5" x="19" y="-9"/>
+  <asset name="cpunk_c15_road_icon_a" x="14" y="7"/>
+  <asset name="cpunk_c15_road_64_a_2_0" flipH="1" source="cpunk_c15_road_64_a_4_0" x="66" y="19"/>
+  <asset name="cpunk_c15_road_64_a_0_0" flipH="1" source="cpunk_c15_road_64_a_4_0" x="66" y="19"/>
+  <asset name="cpunk_c15_road_64_a_6_0" flipH="1" source="cpunk_c15_road_64_a_4_0" x="66" y="19"/>
+  <asset name="cpunk_c15_road_64_c_2_0" flipH="1" source="cpunk_c15_road_64_c_0_0" x="1" y="-48"/>
+  <asset name="cpunk_c15_road_64_4_0_0" flipH="1" source="cpunk_c15_road_64_c_0_0" x="1" y="-48"/>
+  <asset name="cpunk_c15_road_64_c_6_0" flipH="1" source="cpunk_c15_road_64_c_0_0" x="1" y="-48"/>
+  <asset name="cpunk_c15_road_64_c_4_2" source="cpunk_c15_road_64_c_6_2" x="41" y="8"/>
+  <asset name="cpunk_c15_road_64_c_2_2" flipH="1" source="cpunk_c15_road_64_c_6_2" x="41" y="8"/>
+  <asset name="cpunk_c15_road_64_c_0_2" flipH="1" source="cpunk_c15_road_64_c_6_2" x="41" y="8"/>
+  <asset name="cpunk_c15_road_64_c_2_4" flipH="1" source="cpunk_c15_road_64_c_4_4" x="33" y="0"/>
+  <asset name="cpunk_c15_road_64_c_6_4" flipH="1" source="cpunk_c15_road_64_c_4_4" x="29" y="2"/>
+  <asset name="cpunk_c15_road_64_c_0_4" source="cpunk_c15_road_64_c_4_4" x="29" y="2"/>
+</assets>

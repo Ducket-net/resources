@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_festivereindeerhat" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_4681_2_0" mimeType="image/png">
+        <param key="offset" value="41,55"/>
+      </asset>
+      <asset name="h_lsp_ha_4681_2_0" mimeType="image/png">
+        <param key="offset" value="-22,-104"/>
+      </asset>
+      <asset name="h_std_ha_4681_7_0" mimeType="image/png">
+        <param key="offset" value="-16,87"/>
+      </asset>
+      <asset name="h_std_ha_4681_3_0" mimeType="image/png">
+        <param key="offset" value="-16,89"/>
+      </asset>
+      <asset name="h_std_ha_4681_2_0" mimeType="image/png">
+        <param key="offset" value="-8,95"/>
+      </asset>
+      <asset name="h_std_ha_4681_1_0" mimeType="image/png">
+        <param key="offset" value="-16,86"/>
+      </asset>
+      <asset name="h_std_ha_4681_0_0" mimeType="image/png">
+        <param key="offset" value="-16,91"/>
+      </asset>
+      <asset name="h_spk_ha_4681_7_0" mimeType="image/png">
+        <param key="offset" value="-16,88"/>
+      </asset>
+      <asset name="h_spk_ha_4681_3_0" mimeType="image/png">
+        <param key="offset" value="-16,90"/>
+      </asset>
+      <asset name="h_spk_ha_4681_2_0" mimeType="image/png">
+        <param key="offset" value="-8,96"/>
+      </asset>
+      <asset name="h_spk_ha_4681_1_0" mimeType="image/png">
+        <param key="offset" value="-16,87"/>
+      </asset>
+      <asset name="h_spk_ha_4681_0_0" mimeType="image/png">
+        <param key="offset" value="-16,92"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

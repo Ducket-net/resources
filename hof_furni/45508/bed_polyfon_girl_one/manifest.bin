@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="bed_polyfon_girl_one" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="bed_polyfon_girl_one_visualization" mimeType="text/xml"/>
+         <asset name="bed_polyfon_girl_one_assets" mimeType="text/xml"/>
+         <asset name="bed_polyfon_girl_one_logic" mimeType="text/xml"/>
+         <asset name="bed_polyfon_girl_one_64_a_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_64_b_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_64_c_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_64_d_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_64_e_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_icon_a" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_icon_b" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_32_a_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_32_b_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_32_c_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_32_d_0_0" mimeType="image/png"/>
+         <asset name="bed_polyfon_girl_one_32_e_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

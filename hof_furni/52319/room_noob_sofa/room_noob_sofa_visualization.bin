@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="room_noob_sofa">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="4" angle="45">
+      <layers>
+        <layer id="0" ignoreMouse="1"/>
+        <layer id="1" ignoreMouse="1"/>
+        <layer id="2" ignoreMouse="1"/>
+        <layer id="3" ignoreMouse="1"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="0" z="500"/>
+          <layer id="1" z="1500"/>
+          <layer id="2" z="2500"/>
+          <layer id="3" z="2000"/>
+        </direction>
+        <direction id="4">
+          <layer id="1" z="1000"/>
+          <layer id="2" z="2000"/>
+        </direction>
+        <direction id="6">
+          <layer id="0" z="500"/>
+          <layer id="1" z="1500"/>
+          <layer id="2" z="2500"/>
+          <layer id="3" z="2000"/>
+        </direction>
+        <direction id="2">
+          <layer id="1" z="1000"/>
+          <layer id="2" z="2000"/>
+        </direction>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="4" angle="45">
+      <layers>
+        <layer id="0" ignoreMouse="1"/>
+        <layer id="1" ignoreMouse="1"/>
+        <layer id="2" ignoreMouse="1"/>
+        <layer id="3" ignoreMouse="1"/>
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="0" z="500"/>
+          <layer id="1" z="1500"/>
+          <layer id="2" z="2500"/>
+          <layer id="3" z="2000"/>
+        </direction>
+        <direction id="4">
+          <layer id="1" z="1000"/>
+          <layer id="2" z="2000"/>
+        </direction>
+        <direction id="6">
+          <layer id="3" z="2000"/>
+          <layer id="2" z="2500"/>
+          <layer id="1" z="1500"/>
+          <layer id="0" z="500"/>
+        </direction>
+        <direction id="2">
+          <layer id="1" z="1000"/>
+          <layer id="2" z="2000"/>
+        </direction>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

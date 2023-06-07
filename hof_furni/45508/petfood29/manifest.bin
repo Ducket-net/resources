@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="petfood29" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="petfood29_visualization" mimeType="text/xml"/>
+      <asset name="petfood29_assets" mimeType="text/xml"/>
+      <asset name="petfood29_logic" mimeType="text/xml"/>
+      <asset name="petfood29_32_a_2_0" mimeType="image/png"/>
+      <asset name="petfood29_32_a_2_1" mimeType="image/png"/>
+      <asset name="petfood29_32_a_2_2" mimeType="image/png"/>
+      <asset name="petfood29_32_a_2_3" mimeType="image/png"/>
+      <asset name="petfood29_32_a_2_4" mimeType="image/png"/>
+      <asset name="petfood29_64_a_2_0" mimeType="image/png"/>
+      <asset name="petfood29_64_a_2_1" mimeType="image/png"/>
+      <asset name="petfood29_64_a_2_2" mimeType="image/png"/>
+      <asset name="petfood29_64_a_2_3" mimeType="image/png"/>
+      <asset name="petfood29_64_a_2_4" mimeType="image/png"/>
+      <asset name="petfood29_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="noob_window_double_64_a_2_0" x="60" y="63"/>
+   <asset name="noob_window_double_64_2_mask" x="55" y="52"/>
+   <asset name="noob_window_double_icon_a" x="9" y="8"/>
+   <asset name="noob_window_double_64_a_4_0" flipH="1" source="noob_window_double_64_a_2_0" x="60" y="63"/>
+   <asset name="noob_window_double_64_4_mask" flipH="1" source="noob_window_double_64_2_mask" x="55" y="52"/>
+   <asset name="noob_window_double_32_a_2_0" x="31" y="32"/>
+   <asset name="noob_window_double_32_2_mask" x="28" y="25"/>
+   <asset name="noob_window_double_32_a_4_0" flipH="1" source="noob_window_double_32_a_2_0" x="31" y="32"/>
+   <asset name="noob_window_double_32_4_mask" flipH="1" source="noob_window_double_32_2_mask" x="28" y="25"/>
+</assets>

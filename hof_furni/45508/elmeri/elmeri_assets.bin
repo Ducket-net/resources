@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="elmeri_64_a_2_0" x="21" y="50"/>
+  <asset name="elmeri_64_sd_2_0" x="21" y="10"/>
+  <asset name="elmeri_64_a_4_0" flipH="1" source="elmeri_64_a_2_0" x="23" y="50"/>
+  <asset name="elmeri_64_sd_4_0" flipH="1" source="elmeri_64_sd_2_0" x="23" y="10"/>
+  <asset name="elmeri_32_a_2_0" x="11" y="26"/>
+  <asset name="elmeri_32_sd_2_0" x="11" y="5"/>
+  <asset name="elmeri_32_a_4_0" flipH="1" source="elmeri_32_a_2_0" x="9" y="26"/>
+  <asset name="elmeri_32_sd_4_0" flipH="1" source="elmeri_32_sd_2_0" x="9" y="5"/>
+  <asset name="elmeri_icon_a" x="9" y="15"/>
+</assets>

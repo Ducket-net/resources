@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="party_wc_girl_64_a_2_0" x="12" y="25"/>
+   <asset name="party_wc_girl_64_b_2_0" x="1" y="1"/>
+   <asset name="party_wc_girl_64_b_2_1" x="26" y="38"/>
+   <asset name="party_wc_girl_icon_a" x="7" y="13"/>
+   <asset name="party_wc_girl_64_a_4_0" flipH="1" source="party_wc_girl_64_a_2_0" x="12" y="25"/>
+   <asset name="party_wc_girl_64_b_4_0" flipH="1" source="party_wc_girl_64_b_2_0" x="1" y="1"/>
+   <asset name="party_wc_girl_64_b_4_1" flipH="1" source="party_wc_girl_64_b_2_1" x="26" y="38"/>
+   <asset name="party_wc_girl_32_a_2_0" x="7" y="13"/>
+   <asset name="party_wc_girl_32_b_2_0" x="1" y="1"/>
+   <asset name="party_wc_girl_32_b_2_1" x="14" y="19"/>
+   <asset name="party_wc_girl_32_a_4_0" flipH="1" source="party_wc_girl_32_a_2_0" x="7" y="13"/>
+   <asset name="party_wc_girl_32_b_4_0" flipH="1" source="party_wc_girl_32_b_2_0" x="1" y="1"/>
+   <asset name="party_wc_girl_32_b_4_1" flipH="1" source="party_wc_girl_32_b_2_1" x="14" y="19"/>
+</assets>

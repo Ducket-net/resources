@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hygge_c18_stove" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hygge_c18_stove_visualization" mimeType="text/xml"/>
+      <asset name="hygge_c18_stove_assets" mimeType="text/xml"/>
+      <asset name="hygge_c18_stove_logic" mimeType="text/xml"/>
+      <asset name="hygge_c18_stove_64_sd_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_a_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_a_2_1" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_b_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_c_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_d_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_d_2_1" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_d_2_2" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_d_2_3" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_e_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_e_2_1" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_e_2_2" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_e_2_3" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_f_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_g_2_0" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_g_2_1" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_g_2_2" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_64_g_2_3" mimeType="image/png"/>
+      <asset name="hygge_c18_stove_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

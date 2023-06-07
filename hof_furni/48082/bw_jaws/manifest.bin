@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bw_jaws" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="bw_jaws_visualization" mimeType="text/xml"/>
+      <asset name="bw_jaws_assets" mimeType="text/xml"/>
+      <asset name="bw_jaws_logic" mimeType="text/xml"/>
+      <asset name="bw_jaws_icon_a" mimeType="image/png"/>
+      <asset name="bw_jaws_64_sd_4_0" mimeType="image/png"/>
+      <asset name="bw_jaws_64_a_4_0" mimeType="image/png"/>
+      <asset name="bw_jaws_32_sd_4_0" mimeType="image/png"/>
+      <asset name="bw_jaws_32_a_4_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

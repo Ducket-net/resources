@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="guild_customized" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="guild_customized_visualization" mimeType="text/xml"/>
+         <asset name="guild_customized_assets" mimeType="text/xml"/>
+         <asset name="guild_customized_logic" mimeType="text/xml"/>
+         <asset name="guild_customized_64_a_0_0" mimeType="image/png"/>
+         <asset name="guild_customized_64_sd_0_0" mimeType="image/png"/>
+         <asset name="guild_customized_icon_a" mimeType="image/png"/>
+         <asset name="guild_customized_32_a_0_0" mimeType="image/png"/>
+         <asset name="guild_customized_32_sd_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

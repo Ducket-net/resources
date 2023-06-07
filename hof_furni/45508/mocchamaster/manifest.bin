@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="mocchamaster" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="mocchamaster_visualization" mimeType="text/xml"/>
+         <asset name="mocchamaster_assets" mimeType="text/xml"/>
+         <asset name="mocchamaster_logic" mimeType="text/xml"/>
+         <asset name="mocchamaster_64_a_2_0" mimeType="image/png"/>
+         <asset name="mocchamaster_64_a_2_1" mimeType="image/png"/>
+         <asset name="mocchamaster_64_sd_2_0" mimeType="image/png"/>
+         <asset name="mocchamaster_icon_a" mimeType="image/png"/>
+         <asset name="mocchamaster_32_a_2_0" mimeType="image/png"/>
+         <asset name="mocchamaster_32_a_2_1" mimeType="image/png"/>
+         <asset name="mocchamaster_32_sd_2_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

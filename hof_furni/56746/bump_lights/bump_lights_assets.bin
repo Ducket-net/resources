@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="bump_lights_64_a_0_0" x="13" y="103"/>
+   <asset name="bump_lights_64_a_2_0" flipH="1" source="bump_lights_64_a_4_0" x="13" y="103"/>
+   <asset name="bump_lights_64_a_4_0" x="13" y="103"/>
+   <asset name="bump_lights_64_a_6_0" flipH="1" source="bump_lights_64_a_0_0" x="13" y="103"/>
+   <asset name="bump_lights_64_b_0_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_b_0_1" x="-3" y="78"/>
+   <asset name="bump_lights_64_b_2_0" flipH="1" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_b_2_1" flipH="1" source="bump_lights_64_b_4_1" x="17" y="76"/>
+   <asset name="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_b_4_1" x="17" y="76"/>
+   <asset name="bump_lights_64_b_6_0" flipH="1" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_b_6_1" flipH="1" source="bump_lights_64_b_0_1" x="-3" y="78"/>
+   <asset name="bump_lights_64_c_0_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_c_0_1" x="-11" y="89"/>
+   <asset name="bump_lights_64_c_2_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_c_2_1" flipH="1" source="bump_lights_64_c_4_1" x="17" y="87"/>
+   <asset name="bump_lights_64_c_4_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_c_4_1" x="17" y="87"/>
+   <asset name="bump_lights_64_c_6_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_c_6_1" flipH="1" source="bump_lights_64_c_0_1" x="-11" y="89"/>
+   <asset name="bump_lights_64_d_0_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_d_0_1" x="-7" y="100"/>
+   <asset name="bump_lights_64_d_2_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_d_2_1" flipH="1" source="bump_lights_64_d_4_1" x="17" y="98"/>
+   <asset name="bump_lights_64_d_4_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_d_4_1" x="17" y="98"/>
+   <asset name="bump_lights_64_d_6_0" source="bump_lights_64_b_4_0" x="1" y="4"/>
+   <asset name="bump_lights_64_d_6_1" flipH="1" source="bump_lights_64_d_0_1" x="-7" y="100"/>
+   <asset name="bump_lights_icon_a" x="7" y="15"/>
+   <asset name="bump_lights_32_a_0_0" x="7" y="51"/>
+   <asset name="bump_lights_32_a_2_0" flipH="1" source="bump_lights_32_a_4_0" x="8" y="51"/>
+   <asset name="bump_lights_32_a_4_0" x="8" y="51"/>
+   <asset name="bump_lights_32_a_6_0" flipH="1" source="bump_lights_32_a_0_0" x="7" y="51"/>
+   <asset name="bump_lights_32_b_0_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_b_0_1" x="-5" y="40"/>
+   <asset name="bump_lights_32_b_2_0" flipH="1" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_b_2_1" flipH="1" source="bump_lights_32_b_4_1" x="10" y="38"/>
+   <asset name="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_b_4_1" x="10" y="38"/>
+   <asset name="bump_lights_32_b_6_0" flipH="1" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_b_6_1" flipH="1" source="bump_lights_32_b_0_1" x="-5" y="40"/>
+   <asset name="bump_lights_32_c_0_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_c_0_1" x="-7" y="44"/>
+   <asset name="bump_lights_32_c_2_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_c_2_1" flipH="1" source="bump_lights_32_c_4_1" x="10" y="42"/>
+   <asset name="bump_lights_32_c_4_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_c_4_1" x="10" y="42"/>
+   <asset name="bump_lights_32_c_6_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_c_6_1" flipH="1" source="bump_lights_32_c_0_1" x="-7" y="44"/>
+   <asset name="bump_lights_32_d_0_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_d_0_1" x="-6" y="49"/>
+   <asset name="bump_lights_32_d_2_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_d_2_1" flipH="1" source="bump_lights_32_d_4_1" x="10" y="47"/>
+   <asset name="bump_lights_32_d_4_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_d_4_1" x="10" y="47"/>
+   <asset name="bump_lights_32_d_6_0" source="bump_lights_32_b_4_0" x="1" y="1"/>
+   <asset name="bump_lights_32_d_6_1" flipH="1" source="bump_lights_32_d_0_1" x="-6" y="49"/>
+</assets>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="es_big2" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="es_big2_visualization" mimeType="text/xml"/>
+      <asset name="es_big2_assets" mimeType="text/xml"/>
+      <asset name="es_big2_logic" mimeType="text/xml"/>
+      <asset name="es_big2_32_a_2_0" mimeType="image/png"/>
+      <asset name="es_big2_32_b_2_0" mimeType="image/png"/>
+      <asset name="es_big2_64_a_2_0" mimeType="image/png"/>
+      <asset name="es_big2_64_b_2_0" mimeType="image/png"/>
+      <asset name="es_big2_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

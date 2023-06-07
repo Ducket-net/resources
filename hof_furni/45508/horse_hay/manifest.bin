@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="horse_hay" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="horse_hay_visualization" mimeType="text/xml"/>
+      <asset name="horse_hay_assets" mimeType="text/xml"/>
+      <asset name="horse_hay_logic" mimeType="text/xml"/>
+      <asset name="horse_hay_64_sd_2_0" mimeType="image/png"/>
+      <asset name="horse_hay_64_a_2_0" mimeType="image/png"/>
+      <asset name="horse_hay_32_sd_2_0" mimeType="image/png"/>
+      <asset name="horse_hay_32_a_2_0" mimeType="image/png"/>
+      <asset name="horse_hay_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="badge_display4_32_a_4_0" x="16" y="25"/>
+  <asset name="badge_display4_32_b_4_0" x="10" y="21"/>
+  <asset name="badge_display4_32_b_2_0" x="10" y="21"/>
+  <asset name="badge_display4_32_c_4_0" x="16" y="37"/>
+  <asset name="badge_display4_32_d_4_0" x="14" y="46"/>
+  <asset name="badge_display4_64_a_4_0" x="31" y="52"/>
+  <asset name="badge_display4_64_b_4_0" x="20" y="44"/>
+  <asset name="badge_display4_64_b_2_0" x="20" y="44"/>
+  <asset name="badge_display4_64_c_4_0" x="31" y="74"/>
+  <asset name="badge_display4_64_d_4_0" x="27" y="93"/>
+  <asset name="badge_display4_icon_a" x="12" y="14"/>
+  <asset name="badge_display4_32_a_2_0" flipH="1" source="badge_display4_32_a_4_0" x="16" y="25"/>
+  <asset name="badge_display4_32_c_2_0" flipH="1" source="badge_display4_32_c_4_0" x="16" y="37"/>
+  <asset name="badge_display4_32_d_2_0" source="badge_display4_32_d_4_0" x="14" y="46"/>
+  <asset name="badge_display4_64_a_2_0" flipH="1" source="badge_display4_64_a_4_0" x="31" y="52"/>
+  <asset name="badge_display4_64_c_2_0" flipH="1" source="badge_display4_64_c_4_0" x="31" y="74"/>
+  <asset name="badge_display4_64_d_2_0" source="badge_display4_64_d_4_0" x="27" y="93"/>
+</assets>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><objectData type="present_wrap">
+  <model>
+    <dimensions x="1" y="1" z="1"/>
+    <directions>
+      <direction id="0"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="64" canvas_id="5" offset_y="10" blend="1.0" bgcolor="ffffff">
+      <emitter id="1" sprite_id="1" explosion_animation="" fuse_time="1" name="present" max_num_particles="150" particles_per_frame="30" burst_pulse="2">
+        <simulation force="300" direction="-1.0" energy="150" shape="sphere" gravity="30.0" airfriction="0.2"/>
+        <particles>
+          <particle is_emitter="false" lifetime="30" fade="false">
+            <frame name="present_wrap_64_e_0_1"/>
+            <frame name="present_wrap_64_e_0_1"/>
+            <frame name="present_wrap_64_e_0_1"/>
+            <frame name="present_wrap_64_e_0_1"/>
+            <frame name="present_wrap_64_e_0_1"/>
+            <frame name="present_wrap_64_e_0_2"/>
+            <frame name="present_wrap_64_e_0_2"/>
+            <frame name="present_wrap_64_e_0_2"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_10"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_12"/>
+            <frame name="present_wrap_64_e_0_12"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_9"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_8"/>
+            <frame name="present_wrap_64_e_0_8"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_11"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_7"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_6"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_5"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_4"/>
+            <frame name="present_wrap_64_e_0_3"/>
+            <frame name="present_wrap_64_e_0_3"/>
+          </particle>
+        </particles>
+      </emitter>
+    </particlesystem>
+    <particlesystem size="32" canvas_id="5" offset_y="10" blend="1.0" bgcolor="ffffff">
+      <emitter id="1" sprite_id="1" explosion_animation="" fuse_time="1" name="present" max_num_particles="150" particles_per_frame="30" burst_pulse="2">
+        <simulation force="300" direction="-1.0" energy="150" shape="sphere" gravity="30.0" airfriction="0.2"/>
+        <particles>
+          <particle is_emitter="false" lifetime="30" fade="false">
+            <frame name="present_wrap_32_e_0_1"/>
+            <frame name="present_wrap_32_e_0_1"/>
+            <frame name="present_wrap_32_e_0_1"/>
+            <frame name="present_wrap_32_e_0_1"/>
+            <frame name="present_wrap_32_e_0_1"/>
+            <frame name="present_wrap_32_e_0_2"/>
+            <frame name="present_wrap_32_e_0_2"/>
+            <frame name="present_wrap_32_e_0_2"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_10"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_12"/>
+            <frame name="present_wrap_32_e_0_12"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_9"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_8"/>
+            <frame name="present_wrap_32_e_0_8"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_11"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_7"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_6"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_5"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_4"/>
+            <frame name="present_wrap_32_e_0_3"/>
+            <frame name="present_wrap_32_e_0_3"/>
+          </particle>
+        </particles>
+      </emitter>
+    </particlesystem>
+    <particlesystem size="1"/>
+  </particlesystems>
+</objectData>

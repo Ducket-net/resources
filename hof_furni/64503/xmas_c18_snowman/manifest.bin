@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="xmas_c18_snowman" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="xmas_c18_snowman_visualization" mimeType="text/xml"/>
+      <asset name="xmas_c18_snowman_assets" mimeType="text/xml"/>
+      <asset name="xmas_c18_snowman_logic" mimeType="text/xml"/>
+      <asset name="xmas_c18_snowman_64_sd_0_0" mimeType="image/png"/>
+      <asset name="xmas_c18_snowman_64_a_0_0" mimeType="image/png"/>
+      <asset name="xmas_c18_snowman_64_b_0_0" mimeType="image/png"/>
+      <asset name="xmas_c18_snowman_64_b_0_1" mimeType="image/png"/>
+      <asset name="xmas_c18_snowman_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

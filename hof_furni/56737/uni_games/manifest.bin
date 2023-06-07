@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="uni_games" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="uni_games_visualization" mimeType="text/xml"/>
+      <asset name="uni_games_assets" mimeType="text/xml"/>
+      <asset name="uni_games_logic" mimeType="text/xml"/>
+      <asset name="uni_games_64_a_0_0" mimeType="image/png"/>
+      <asset name="uni_games_64_a_0_1" mimeType="image/png"/>
+      <asset name="uni_games_32_a_0_0" mimeType="image/png"/>
+      <asset name="uni_games_32_a_0_1" mimeType="image/png"/>
+      <asset name="uni_games_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

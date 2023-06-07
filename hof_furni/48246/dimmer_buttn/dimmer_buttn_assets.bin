@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="dimmer_buttn_icon_a" x="5" y="7"/>
+   <asset name="dimmer_buttn_64_a_2_0" x="4" y="6"/>
+   <asset name="dimmer_buttn_64_a_2_1" x="4" y="6"/>
+   <asset name="dimmer_buttn_64_b_2_0" x="6" y="7"/>
+   <asset name="dimmer_buttn_64_a_4_0" flipH="1" source="dimmer_buttn_64_a_2_0" x="4" y="6"/>
+   <asset name="dimmer_buttn_64_a_4_1" flipH="1" source="dimmer_buttn_64_a_2_1" x="4" y="6"/>
+   <asset name="dimmer_buttn_64_b_4_0" flipH="1" source="dimmer_buttn_64_b_2_0" x="6" y="7"/>
+   <asset name="dimmer_buttn_32_a_2_0" x="2" y="5"/>
+   <asset name="dimmer_buttn_32_a_2_1" x="2" y="5"/>
+   <asset name="dimmer_buttn_32_b_2_0" x="3" y="6"/>
+   <asset name="dimmer_buttn_32_a_4_0" flipH="1" source="dimmer_buttn_32_a_2_0" x="2" y="5"/>
+   <asset name="dimmer_buttn_32_a_4_1" flipH="1" source="dimmer_buttn_32_a_2_1" x="2" y="5"/>
+   <asset name="dimmer_buttn_32_b_4_0" flipH="1" source="dimmer_buttn_32_b_2_0" x="3" y="6"/>
+</assets>

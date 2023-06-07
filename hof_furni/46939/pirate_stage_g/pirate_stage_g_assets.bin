@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pirate_stage_g_32_a_0_0" x="15" y="22"/>
+  <asset name="pirate_stage_g_32_b_0_0" x="33" y="14"/>
+  <asset name="pirate_stage_g_32_c_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_f_0_0" x="15" y="25"/>
+  <asset name="pirate_stage_g_32_g_0_0" x="36" y="18"/>
+  <asset name="pirate_stage_g_32_h_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_d_0_0" x="34" y="-7"/>
+  <asset name="pirate_stage_g_32_d_2_0" x="34" y="-4"/>
+  <asset name="pirate_stage_g_32_e_2_0" x="16" y="-12"/>
+  <asset name="pirate_stage_g_32_b_0_1" x="33" y="29"/>
+  <asset name="pirate_stage_g_32_c_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_g_0_1" x="36" y="33"/>
+  <asset name="pirate_stage_g_32_h_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_b_0_2" x="33" y="44"/>
+  <asset name="pirate_stage_g_32_c_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_g_0_2" x="36" y="48"/>
+  <asset name="pirate_stage_g_32_h_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_b_0_3" x="33" y="59"/>
+  <asset name="pirate_stage_g_32_c_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_32_g_0_3" x="36" y="63"/>
+  <asset name="pirate_stage_g_32_h_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_32_d_2_3" x="34" y="34"/>
+  <asset name="pirate_stage_g_32_e_2_3" x="16" y="34"/>
+  <asset name="pirate_stage_g_64_a_0_0" x="31" y="42"/>
+  <asset name="pirate_stage_g_64_b_0_0" x="65" y="26"/>
+  <asset name="pirate_stage_g_64_c_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_d_0_0" x="65" y="-14"/>
+  <asset name="pirate_stage_g_64_f_0_0" x="31" y="47"/>
+  <asset name="pirate_stage_g_64_g_0_0" x="71" y="33"/>
+  <asset name="pirate_stage_g_64_h_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_d_2_0" x="68" y="-8"/>
+  <asset name="pirate_stage_g_64_e_2_0" x="32" y="-25"/>
+  <asset name="pirate_stage_g_64_b_0_1" x="65" y="56"/>
+  <asset name="pirate_stage_g_64_c_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_g_0_1" x="71" y="63"/>
+  <asset name="pirate_stage_g_64_h_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_b_0_2" x="65" y="86"/>
+  <asset name="pirate_stage_g_64_c_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_g_0_2" x="71" y="93"/>
+  <asset name="pirate_stage_g_64_h_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_b_0_3" x="65" y="116"/>
+  <asset name="pirate_stage_g_64_c_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_64_g_0_3" x="71" y="123"/>
+  <asset name="pirate_stage_g_64_h_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_64_d_2_3" x="68" y="66"/>
+  <asset name="pirate_stage_g_64_e_2_3" x="32" y="65"/>
+  <asset name="pirate_stage_g_icon_a" x="13" y="8"/>
+  <asset name="pirate_stage_g_32_e_0_0" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-24"/>
+  <asset name="pirate_stage_g_32_a_2_0" source="pirate_stage_g_32_a_0_0" x="15" y="22"/>
+  <asset name="pirate_stage_g_32_b_2_0" source="pirate_stage_g_32_b_0_0" x="33" y="14"/>
+  <asset name="pirate_stage_g_32_c_2_0" source="pirate_stage_g_32_c_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_f_2_0" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="25"/>
+  <asset name="pirate_stage_g_32_g_2_0" flipH="1" source="pirate_stage_g_32_g_0_0" x="36" y="18"/>
+  <asset name="pirate_stage_g_32_h_2_0" flipH="1" source="pirate_stage_g_32_h_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_a_0_1" source="pirate_stage_g_32_a_0_0" x="15" y="37"/>
+  <asset name="pirate_stage_g_32_f_0_1" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="40"/>
+  <asset name="pirate_stage_g_32_a_2_1" source="pirate_stage_g_32_a_0_0" x="15" y="37"/>
+  <asset name="pirate_stage_g_32_b_2_1" source="pirate_stage_g_32_b_0_1" x="33" y="29"/>
+  <asset name="pirate_stage_g_32_c_2_1" source="pirate_stage_g_32_c_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_f_2_1" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="40"/>
+  <asset name="pirate_stage_g_32_g_2_1" flipH="1" source="pirate_stage_g_32_g_0_1" x="36" y="33"/>
+  <asset name="pirate_stage_g_32_h_2_1" flipH="1" source="pirate_stage_g_32_h_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_d_2_1" source="pirate_stage_g_32_d_2_0" x="34" y="-4"/>
+  <asset name="pirate_stage_g_32_e_2_1" source="pirate_stage_g_32_e_2_0" x="16" y="-12"/>
+  <asset name="pirate_stage_g_32_d_0_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="-33" y="-7"/>
+  <asset name="pirate_stage_g_32_e_0_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-24"/>
+  <asset name="pirate_stage_g_32_a_0_2" source="pirate_stage_g_32_a_0_0" x="15" y="52"/>
+  <asset name="pirate_stage_g_32_f_0_2" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="55"/>
+  <asset name="pirate_stage_g_32_a_2_2" source="pirate_stage_g_32_a_0_0" x="15" y="52"/>
+  <asset name="pirate_stage_g_32_b_2_2" source="pirate_stage_g_32_b_0_2" x="33" y="44"/>
+  <asset name="pirate_stage_g_32_c_2_2" source="pirate_stage_g_32_c_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_f_2_2" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="55"/>
+  <asset name="pirate_stage_g_32_g_2_2" flipH="1" source="pirate_stage_g_32_g_0_2" x="36" y="48"/>
+  <asset name="pirate_stage_g_32_h_2_2" flipH="1" source="pirate_stage_g_32_h_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_d_2_2" source="pirate_stage_g_32_d_2_0" x="34" y="-4"/>
+  <asset name="pirate_stage_g_32_e_2_2" source="pirate_stage_g_32_e_2_0" x="16" y="-12"/>
+  <asset name="pirate_stage_g_32_d_0_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="-33" y="-7"/>
+  <asset name="pirate_stage_g_32_e_0_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-24"/>
+  <asset name="pirate_stage_g_32_a_0_3" source="pirate_stage_g_32_a_0_0" x="15" y="67"/>
+  <asset name="pirate_stage_g_32_f_0_3" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="70"/>
+  <asset name="pirate_stage_g_32_a_2_3" source="pirate_stage_g_32_a_0_0" x="15" y="67"/>
+  <asset name="pirate_stage_g_32_b_2_3" source="pirate_stage_g_32_b_0_3" x="33" y="59"/>
+  <asset name="pirate_stage_g_32_c_2_3" source="pirate_stage_g_32_c_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_32_f_2_3" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="70"/>
+  <asset name="pirate_stage_g_32_g_2_3" flipH="1" source="pirate_stage_g_32_g_0_3" x="36" y="63"/>
+  <asset name="pirate_stage_g_32_h_2_3" flipH="1" source="pirate_stage_g_32_h_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_64_e_0_0" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_2_0" source="pirate_stage_g_64_a_0_0" x="31" y="42"/>
+  <asset name="pirate_stage_g_64_b_2_0" source="pirate_stage_g_64_b_0_0" x="65" y="26"/>
+  <asset name="pirate_stage_g_64_c_2_0" source="pirate_stage_g_64_c_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_f_2_0" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="47"/>
+  <asset name="pirate_stage_g_64_g_2_0" flipH="1" source="pirate_stage_g_64_g_0_0" x="71" y="33"/>
+  <asset name="pirate_stage_g_64_h_2_0" flipH="1" source="pirate_stage_g_64_h_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_a_0_1" source="pirate_stage_g_64_a_0_0" x="31" y="72"/>
+  <asset name="pirate_stage_g_64_f_0_1" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="77"/>
+  <asset name="pirate_stage_g_64_d_0_1" flipH="1" source="pirate_stage_g_64_d_0_0" x="-64" y="-14"/>
+  <asset name="pirate_stage_g_64_e_0_1" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_2_1" source="pirate_stage_g_64_a_0_0" x="31" y="72"/>
+  <asset name="pirate_stage_g_64_b_2_1" source="pirate_stage_g_64_b_0_1" x="65" y="56"/>
+  <asset name="pirate_stage_g_64_c_2_1" source="pirate_stage_g_64_c_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_d_2_1" source="pirate_stage_g_64_d_2_0" x="68" y="-8"/>
+  <asset name="pirate_stage_g_64_e_2_1" source="pirate_stage_g_64_e_2_0" x="32" y="-25"/>
+  <asset name="pirate_stage_g_64_f_2_1" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="77"/>
+  <asset name="pirate_stage_g_64_g_2_1" flipH="1" source="pirate_stage_g_64_g_0_1" x="71" y="63"/>
+  <asset name="pirate_stage_g_64_h_2_1" flipH="1" source="pirate_stage_g_64_h_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_d_0_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="-64" y="-14"/>
+  <asset name="pirate_stage_g_64_e_0_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_0_2" source="pirate_stage_g_64_a_0_0" x="31" y="102"/>
+  <asset name="pirate_stage_g_64_a_2_2" source="pirate_stage_g_64_a_0_0" x="31" y="102"/>
+  <asset name="pirate_stage_g_64_b_2_2" source="pirate_stage_g_64_b_0_2" x="65" y="86"/>
+  <asset name="pirate_stage_g_64_c_2_2" source="pirate_stage_g_64_c_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_f_0_2" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="107"/>
+  <asset name="pirate_stage_g_64_f_2_2" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="107"/>
+  <asset name="pirate_stage_g_64_g_2_2" flipH="1" source="pirate_stage_g_64_g_0_2" x="71" y="93"/>
+  <asset name="pirate_stage_g_64_h_2_2" flipH="1" source="pirate_stage_g_64_h_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_d_2_2" source="pirate_stage_g_64_d_2_0" x="68" y="-8"/>
+  <asset name="pirate_stage_g_64_e_2_2" source="pirate_stage_g_64_e_2_0" x="32" y="-25"/>
+  <asset name="pirate_stage_g_64_d_0_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="-64" y="-14"/>
+  <asset name="pirate_stage_g_64_e_0_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_0_3" source="pirate_stage_g_64_a_0_0" x="31" y="132"/>
+  <asset name="pirate_stage_g_64_f_0_3" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="137"/>
+  <asset name="pirate_stage_g_64_a_2_3" source="pirate_stage_g_64_a_0_0" x="31" y="132"/>
+  <asset name="pirate_stage_g_64_b_2_3" source="pirate_stage_g_64_b_0_3" x="65" y="116"/>
+  <asset name="pirate_stage_g_64_c_2_3" source="pirate_stage_g_64_c_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_64_f_2_3" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="137"/>
+  <asset name="pirate_stage_g_64_g_2_3" flipH="1" source="pirate_stage_g_64_g_0_3" x="71" y="123"/>
+  <asset name="pirate_stage_g_64_h_2_3" flipH="1" source="pirate_stage_g_64_h_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_32_a_6_0" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="22"/>
+  <asset name="pirate_stage_g_32_b_6_0" flipH="1" source="pirate_stage_g_32_b_0_0" x="33" y="14"/>
+  <asset name="pirate_stage_g_32_c_6_0" flipH="1" source="pirate_stage_g_32_c_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_f_6_0" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="25"/>
+  <asset name="pirate_stage_g_32_g_6_0" flipH="1" source="pirate_stage_g_32_g_0_0" x="36" y="18"/>
+  <asset name="pirate_stage_g_32_h_6_0" flipH="1" source="pirate_stage_g_32_h_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_d_6_0" flipH="1" source="pirate_stage_g_32_d_0_0" x="34" y="-7"/>
+  <asset name="pirate_stage_g_32_b_6_1" flipH="1" source="pirate_stage_g_32_b_0_1" x="33" y="29"/>
+  <asset name="pirate_stage_g_32_c_6_1" flipH="1" source="pirate_stage_g_32_c_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_g_6_1" flipH="1" source="pirate_stage_g_32_g_0_1" x="36" y="33"/>
+  <asset name="pirate_stage_g_32_h_6_1" flipH="1" source="pirate_stage_g_32_h_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_b_6_2" flipH="1" source="pirate_stage_g_32_b_0_2" x="33" y="44"/>
+  <asset name="pirate_stage_g_32_c_6_2" flipH="1" source="pirate_stage_g_32_c_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_g_6_2" flipH="1" source="pirate_stage_g_32_g_0_2" x="36" y="48"/>
+  <asset name="pirate_stage_g_32_h_6_2" flipH="1" source="pirate_stage_g_32_h_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_b_6_3" flipH="1" source="pirate_stage_g_32_b_0_3" x="33" y="59"/>
+  <asset name="pirate_stage_g_32_c_6_3" flipH="1" source="pirate_stage_g_32_c_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_32_g_6_3" flipH="1" source="pirate_stage_g_32_g_0_3" x="36" y="63"/>
+  <asset name="pirate_stage_g_32_h_6_3" flipH="1" source="pirate_stage_g_32_h_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_64_a_6_0" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="42"/>
+  <asset name="pirate_stage_g_64_b_6_0" flipH="1" source="pirate_stage_g_64_b_0_0" x="65" y="26"/>
+  <asset name="pirate_stage_g_64_c_6_0" flipH="1" source="pirate_stage_g_64_c_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_d_6_0" flipH="1" source="pirate_stage_g_64_d_0_0" x="65" y="-14"/>
+  <asset name="pirate_stage_g_64_f_6_0" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="47"/>
+  <asset name="pirate_stage_g_64_g_6_0" flipH="1" source="pirate_stage_g_64_g_0_0" x="71" y="33"/>
+  <asset name="pirate_stage_g_64_h_6_0" flipH="1" source="pirate_stage_g_64_h_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_b_6_1" flipH="1" source="pirate_stage_g_64_b_0_1" x="65" y="56"/>
+  <asset name="pirate_stage_g_64_c_6_1" flipH="1" source="pirate_stage_g_64_c_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_g_6_1" flipH="1" source="pirate_stage_g_64_g_0_1" x="71" y="63"/>
+  <asset name="pirate_stage_g_64_h_6_1" flipH="1" source="pirate_stage_g_64_h_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_b_6_2" flipH="1" source="pirate_stage_g_64_b_0_2" x="65" y="86"/>
+  <asset name="pirate_stage_g_64_c_6_2" flipH="1" source="pirate_stage_g_64_c_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_g_6_2" flipH="1" source="pirate_stage_g_64_g_0_2" x="71" y="93"/>
+  <asset name="pirate_stage_g_64_h_6_2" flipH="1" source="pirate_stage_g_64_h_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_b_6_3" flipH="1" source="pirate_stage_g_64_b_0_3" x="65" y="116"/>
+  <asset name="pirate_stage_g_64_c_6_3" flipH="1" source="pirate_stage_g_64_c_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_64_g_6_3" flipH="1" source="pirate_stage_g_64_g_0_3" x="71" y="123"/>
+  <asset name="pirate_stage_g_64_h_6_3" flipH="1" source="pirate_stage_g_64_h_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_32_e_6_0" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-24"/>
+  <asset name="pirate_stage_g_32_a_6_1" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="37"/>
+  <asset name="pirate_stage_g_32_f_6_1" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="40"/>
+  <asset name="pirate_stage_g_32_d_6_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="-33" y="-7"/>
+  <asset name="pirate_stage_g_32_e_6_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-24"/>
+  <asset name="pirate_stage_g_32_a_6_2" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="52"/>
+  <asset name="pirate_stage_g_32_f_6_2" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="55"/>
+  <asset name="pirate_stage_g_32_d_6_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="-33" y="-7"/>
+  <asset name="pirate_stage_g_32_e_6_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-24"/>
+  <asset name="pirate_stage_g_32_a_6_3" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="67"/>
+  <asset name="pirate_stage_g_32_f_6_3" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="70"/>
+  <asset name="pirate_stage_g_64_e_6_0" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_6_1" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="72"/>
+  <asset name="pirate_stage_g_64_f_6_1" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="77"/>
+  <asset name="pirate_stage_g_64_d_6_1" flipH="1" source="pirate_stage_g_64_d_0_0" x="-64" y="-14"/>
+  <asset name="pirate_stage_g_64_e_6_1" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_d_6_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="-64" y="-14"/>
+  <asset name="pirate_stage_g_64_e_6_2" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_6_2" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="102"/>
+  <asset name="pirate_stage_g_64_f_6_2" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="107"/>
+  <asset name="pirate_stage_g_64_d_6_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="-64" y="-14"/>
+  <asset name="pirate_stage_g_64_e_6_3" flipH="1" source="pirate_stage_g_64_d_0_0" x="1" y="-47"/>
+  <asset name="pirate_stage_g_64_a_6_3" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="132"/>
+  <asset name="pirate_stage_g_64_f_6_3" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="137"/>
+  <asset name="pirate_stage_g_32_d_4_0" flipH="1" source="pirate_stage_g_32_d_2_0" x="34" y="-4"/>
+  <asset name="pirate_stage_g_32_e_4_0" flipH="1" source="pirate_stage_g_32_e_2_0" x="16" y="-12"/>
+  <asset name="pirate_stage_g_32_d_4_3" flipH="1" source="pirate_stage_g_32_d_2_3" x="34" y="34"/>
+  <asset name="pirate_stage_g_32_e_4_3" flipH="1" source="pirate_stage_g_32_e_2_3" x="16" y="34"/>
+  <asset name="pirate_stage_g_64_d_4_0" flipH="1" source="pirate_stage_g_64_d_2_0" x="68" y="-8"/>
+  <asset name="pirate_stage_g_64_e_4_0" flipH="1" source="pirate_stage_g_64_e_2_0" x="32" y="-25"/>
+  <asset name="pirate_stage_g_64_d_4_3" flipH="1" source="pirate_stage_g_64_d_2_3" x="68" y="66"/>
+  <asset name="pirate_stage_g_64_e_4_3" flipH="1" source="pirate_stage_g_64_e_2_3" x="32" y="65"/>
+  <asset name="pirate_stage_g_32_a_4_0" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="22"/>
+  <asset name="pirate_stage_g_32_b_4_0" flipH="1" source="pirate_stage_g_32_b_0_0" x="33" y="14"/>
+  <asset name="pirate_stage_g_32_c_4_0" flipH="1" source="pirate_stage_g_32_c_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_f_4_0" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="25"/>
+  <asset name="pirate_stage_g_32_g_4_0" flipH="1" source="pirate_stage_g_32_g_0_0" x="36" y="18"/>
+  <asset name="pirate_stage_g_32_h_4_0" flipH="1" source="pirate_stage_g_32_h_0_0" x="16" y="6"/>
+  <asset name="pirate_stage_g_32_a_4_1" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="37"/>
+  <asset name="pirate_stage_g_32_b_4_1" flipH="1" source="pirate_stage_g_32_b_0_1" x="33" y="29"/>
+  <asset name="pirate_stage_g_32_c_4_1" flipH="1" source="pirate_stage_g_32_c_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_f_4_1" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="40"/>
+  <asset name="pirate_stage_g_32_g_4_1" flipH="1" source="pirate_stage_g_32_g_0_1" x="36" y="33"/>
+  <asset name="pirate_stage_g_32_h_4_1" flipH="1" source="pirate_stage_g_32_h_0_1" x="16" y="21"/>
+  <asset name="pirate_stage_g_32_d_4_1" flipH="1" source="pirate_stage_g_32_d_2_0" x="34" y="-4"/>
+  <asset name="pirate_stage_g_32_e_4_1" flipH="1" source="pirate_stage_g_32_e_2_0" x="16" y="-12"/>
+  <asset name="pirate_stage_g_32_a_4_2" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="52"/>
+  <asset name="pirate_stage_g_32_b_4_2" flipH="1" source="pirate_stage_g_32_b_0_2" x="33" y="44"/>
+  <asset name="pirate_stage_g_32_c_4_2" flipH="1" source="pirate_stage_g_32_c_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_f_4_2" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="55"/>
+  <asset name="pirate_stage_g_32_g_4_2" flipH="1" source="pirate_stage_g_32_g_0_2" x="36" y="48"/>
+  <asset name="pirate_stage_g_32_h_4_2" flipH="1" source="pirate_stage_g_32_h_0_2" x="16" y="36"/>
+  <asset name="pirate_stage_g_32_d_4_2" flipH="1" source="pirate_stage_g_32_d_2_0" x="34" y="-4"/>
+  <asset name="pirate_stage_g_32_e_4_2" flipH="1" source="pirate_stage_g_32_e_2_0" x="16" y="-12"/>
+  <asset name="pirate_stage_g_32_a_4_3" flipH="1" source="pirate_stage_g_32_a_0_0" x="15" y="67"/>
+  <asset name="pirate_stage_g_32_b_4_3" flipH="1" source="pirate_stage_g_32_b_0_3" x="33" y="59"/>
+  <asset name="pirate_stage_g_32_c_4_3" flipH="1" source="pirate_stage_g_32_c_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_32_f_4_3" flipH="1" source="pirate_stage_g_32_f_0_0" x="15" y="70"/>
+  <asset name="pirate_stage_g_32_g_4_3" flipH="1" source="pirate_stage_g_32_g_0_3" x="36" y="63"/>
+  <asset name="pirate_stage_g_32_h_4_3" flipH="1" source="pirate_stage_g_32_h_0_3" x="16" y="51"/>
+  <asset name="pirate_stage_g_64_a_4_0" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="42"/>
+  <asset name="pirate_stage_g_64_b_4_0" flipH="1" source="pirate_stage_g_64_b_0_0" x="65" y="26"/>
+  <asset name="pirate_stage_g_64_c_4_0" flipH="1" source="pirate_stage_g_64_c_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_f_4_0" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="47"/>
+  <asset name="pirate_stage_g_64_g_4_0" flipH="1" source="pirate_stage_g_64_g_0_0" x="71" y="33"/>
+  <asset name="pirate_stage_g_64_h_4_0" flipH="1" source="pirate_stage_g_64_h_0_0" x="32" y="10"/>
+  <asset name="pirate_stage_g_64_a_4_1" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="72"/>
+  <asset name="pirate_stage_g_64_b_4_1" flipH="1" source="pirate_stage_g_64_b_0_1" x="65" y="56"/>
+  <asset name="pirate_stage_g_64_c_4_1" flipH="1" source="pirate_stage_g_64_c_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_d_4_1" flipH="1" source="pirate_stage_g_64_d_2_0" x="68" y="-8"/>
+  <asset name="pirate_stage_g_64_e_4_1" flipH="1" source="pirate_stage_g_64_e_2_0" x="32" y="-25"/>
+  <asset name="pirate_stage_g_64_f_4_1" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="77"/>
+  <asset name="pirate_stage_g_64_g_4_1" flipH="1" source="pirate_stage_g_64_g_0_1" x="71" y="63"/>
+  <asset name="pirate_stage_g_64_h_4_1" flipH="1" source="pirate_stage_g_64_h_0_1" x="32" y="40"/>
+  <asset name="pirate_stage_g_64_a_4_2" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="102"/>
+  <asset name="pirate_stage_g_64_b_4_2" flipH="1" source="pirate_stage_g_64_b_0_2" x="65" y="86"/>
+  <asset name="pirate_stage_g_64_c_4_2" flipH="1" source="pirate_stage_g_64_c_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_f_4_2" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="107"/>
+  <asset name="pirate_stage_g_64_g_4_2" flipH="1" source="pirate_stage_g_64_g_0_2" x="71" y="93"/>
+  <asset name="pirate_stage_g_64_h_4_2" flipH="1" source="pirate_stage_g_64_h_0_2" x="32" y="70"/>
+  <asset name="pirate_stage_g_64_d_4_2" flipH="1" source="pirate_stage_g_64_d_2_0" x="68" y="-8"/>
+  <asset name="pirate_stage_g_64_e_4_2" flipH="1" source="pirate_stage_g_64_e_2_0" x="32" y="-25"/>
+  <asset name="pirate_stage_g_64_a_4_3" flipH="1" source="pirate_stage_g_64_a_0_0" x="31" y="132"/>
+  <asset name="pirate_stage_g_64_b_4_3" flipH="1" source="pirate_stage_g_64_b_0_3" x="65" y="116"/>
+  <asset name="pirate_stage_g_64_c_4_3" flipH="1" source="pirate_stage_g_64_c_0_3" x="32" y="100"/>
+  <asset name="pirate_stage_g_64_f_4_3" flipH="1" source="pirate_stage_g_64_f_0_0" x="31" y="137"/>
+  <asset name="pirate_stage_g_64_g_4_3" flipH="1" source="pirate_stage_g_64_g_0_3" x="71" y="123"/>
+  <asset name="pirate_stage_g_64_h_4_3" flipH="1" source="pirate_stage_g_64_h_0_3" x="32" y="100"/>
+</assets>

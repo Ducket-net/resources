@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="test_shipside">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="5" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1"/>
+        <layer id="2"/>
+        <layer id="3"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="5" angle="45">
+      <layers>
+        <layer id="0" z="-3000"/>
+        <layer id="1" z="-4000"/>
+        <layer id="2" z="6500"/>
+        <layer id="3" z="7000"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

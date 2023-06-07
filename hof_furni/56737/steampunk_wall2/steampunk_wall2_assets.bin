@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="steampunk_wall2_64_a_4_0" x="34" y="93"/>
+  <asset name="steampunk_wall2_64_a_4_1" x="34" y="93"/>
+  <asset name="steampunk_wall2_64_a_4_2" x="34" y="93"/>
+  <asset name="steampunk_wall2_32_a_4_0" x="16" y="46"/>
+  <asset name="steampunk_wall2_32_a_4_1" x="16" y="46"/>
+  <asset name="steampunk_wall2_32_a_4_2" x="16" y="46"/>
+  <asset name="steampunk_wall2_icon_a" x="9" y="19"/>
+  <asset name="steampunk_wall2_64_a_2_0" flipH="1" source="steampunk_wall2_64_a_4_0" x="34" y="93"/>
+  <asset name="steampunk_wall2_64_a_2_1" flipH="1" source="steampunk_wall2_64_a_4_1" x="34" y="93"/>
+  <asset name="steampunk_wall2_64_a_2_2" flipH="1" source="steampunk_wall2_64_a_4_2" x="34" y="93"/>
+  <asset name="steampunk_wall2_32_a_2_0" flipH="1" source="steampunk_wall2_32_a_4_0" x="16" y="46"/>
+  <asset name="steampunk_wall2_32_a_2_1" flipH="1" source="steampunk_wall2_32_a_4_1" x="16" y="46"/>
+  <asset name="steampunk_wall2_32_a_2_2" flipH="1" source="steampunk_wall2_32_a_4_2" x="16" y="46"/>
+</assets>

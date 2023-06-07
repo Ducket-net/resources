@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wildwest_bench_64_sd_0_0" x="33" y="16"/>
+  <asset name="wildwest_bench_64_sd_2_0" x="65" y="16"/>
+  <asset name="wildwest_bench_64_a_2_0" x="31" y="68"/>
+  <asset name="wildwest_bench_64_b_2_0" x="32" y="-32"/>
+  <asset name="wildwest_bench_64_c_2_0" x="70" y="52"/>
+  <asset name="wildwest_bench_64_d_2_0" x="32" y="-32"/>
+  <asset name="wildwest_bench_64_a_0_0" x="33" y="42"/>
+  <asset name="wildwest_bench_64_b_0_0" x="44" y="47"/>
+  <asset name="wildwest_bench_64_c_0_0" x="1" y="27"/>
+  <asset name="wildwest_bench_64_d_0_0" x="6" y="29"/>
+  <asset name="wildwest_bench_32_sd_2_0" x="33" y="8"/>
+  <asset name="wildwest_bench_32_sd_0_0" x="17" y="8"/>
+  <asset name="wildwest_bench_32_a_2_0" x="16" y="34"/>
+  <asset name="wildwest_bench_32_b_2_0" x="17" y="-16"/>
+  <asset name="wildwest_bench_32_c_2_0" x="37" y="26"/>
+  <asset name="wildwest_bench_32_d_2_0" x="17" y="-16"/>
+  <asset name="wildwest_bench_32_a_0_0" x="18" y="21"/>
+  <asset name="wildwest_bench_32_b_0_0" x="23" y="23"/>
+  <asset name="wildwest_bench_32_c_0_0" x="1" y="13"/>
+  <asset name="wildwest_bench_32_d_0_0" x="4" y="14"/>
+  <asset name="wildwest_bench_icon_a" x="14" y="13"/>
+  <asset name="wildwest_bench_64_sd_6_0" flipH="1" source="wildwest_bench_64_sd_0_0" x="33" y="16"/>
+  <asset name="wildwest_bench_64_a_6_0" flipH="1" source="wildwest_bench_64_a_0_0" x="33" y="42"/>
+  <asset name="wildwest_bench_64_b_6_0" flipH="1" source="wildwest_bench_64_b_0_0" x="44" y="47"/>
+  <asset name="wildwest_bench_64_c_6_0" flipH="1" source="wildwest_bench_64_c_0_0" x="1" y="27"/>
+  <asset name="wildwest_bench_64_d_6_0" flipH="1" source="wildwest_bench_64_d_0_0" x="6" y="29"/>
+  <asset name="wildwest_bench_32_sd_6_0" flipH="1" source="wildwest_bench_32_sd_0_0" x="17" y="8"/>
+  <asset name="wildwest_bench_32_a_6_0" flipH="1" source="wildwest_bench_32_a_0_0" x="18" y="21"/>
+  <asset name="wildwest_bench_32_b_6_0" flipH="1" source="wildwest_bench_32_b_0_0" x="23" y="23"/>
+  <asset name="wildwest_bench_32_c_6_0" flipH="1" source="wildwest_bench_32_c_0_0" x="1" y="13"/>
+  <asset name="wildwest_bench_32_d_6_0" flipH="1" source="wildwest_bench_32_d_0_0" x="4" y="14"/>
+  <asset name="wildwest_bench_64_sd_4_0" flipH="1" source="wildwest_bench_64_sd_2_0" x="65" y="16"/>
+  <asset name="wildwest_bench_64_a_4_0" flipH="1" source="wildwest_bench_64_a_2_0" x="31" y="68"/>
+  <asset name="wildwest_bench_64_b_4_0" flipH="1" source="wildwest_bench_64_b_2_0" x="32" y="-32"/>
+  <asset name="wildwest_bench_64_c_4_0" flipH="1" source="wildwest_bench_64_c_2_0" x="70" y="52"/>
+  <asset name="wildwest_bench_64_d_4_0" flipH="1" source="wildwest_bench_64_d_2_0" x="32" y="-32"/>
+  <asset name="wildwest_bench_32_sd_4_0" flipH="1" source="wildwest_bench_32_sd_2_0" x="33" y="8"/>
+  <asset name="wildwest_bench_32_a_4_0" flipH="1" source="wildwest_bench_32_a_2_0" x="16" y="34"/>
+  <asset name="wildwest_bench_32_b_4_0" flipH="1" source="wildwest_bench_32_b_2_0" x="17" y="-16"/>
+  <asset name="wildwest_bench_32_c_4_0" flipH="1" source="wildwest_bench_32_c_2_0" x="37" y="26"/>
+  <asset name="wildwest_bench_32_d_4_0" flipH="1" source="wildwest_bench_32_d_2_0" x="17" y="-16"/>
+</assets>

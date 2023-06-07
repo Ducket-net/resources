@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objectData type="vwave_c21_wall">
+  <model>
+    <dimensions x="1" y="2" z="3.95"/>
+    <directions>
+      <direction id="90"/>
+      <direction id="0"/>
+    </directions>
+  </model>
+</objectData>

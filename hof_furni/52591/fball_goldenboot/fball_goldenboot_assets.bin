@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="fball_goldenboot_64_sd_2_0" x="25" y="11"/>
+  <asset name="fball_goldenboot_64_a_2_0" x="25" y="44"/>
+  <asset name="fball_goldenboot_64_b_2_0" x="25" y="45"/>
+  <asset name="fball_goldenboot_64_c_2_0" x="23" y="7"/>
+  <asset name="fball_goldenboot_64_c_2_1" x="22" y="39"/>
+  <asset name="fball_goldenboot_64_c_2_2" x="21" y="40"/>
+  <asset name="fball_goldenboot_64_c_2_3" x="19" y="40"/>
+  <asset name="fball_goldenboot_64_c_2_4" x="17" y="24"/>
+  <asset name="fball_goldenboot_64_c_2_5" x="15" y="25"/>
+  <asset name="fball_goldenboot_64_c_2_6" x="11" y="25"/>
+  <asset name="fball_goldenboot_64_c_2_7" x="8" y="25"/>
+  <asset name="fball_goldenboot_64_c_2_8" x="5" y="6"/>
+  <asset name="fball_goldenboot_64_c_2_9" x="6" y="7"/>
+  <asset name="fball_goldenboot_64_c_2_10" x="7" y="8"/>
+  <asset name="fball_goldenboot_64_c_2_11" x="8" y="9"/>
+  <asset name="fball_goldenboot_64_c_2_12" x="8" y="9"/>
+  <asset name="fball_goldenboot_64_c_2_13" x="8" y="9"/>
+  <asset name="fball_goldenboot_64_c_2_14" x="9" y="10"/>
+  <asset name="fball_goldenboot_32_sd_2_0" x="13" y="5"/>
+  <asset name="fball_goldenboot_32_a_2_0" x="13" y="21"/>
+  <asset name="fball_goldenboot_32_b_2_0" x="13" y="22"/>
+  <asset name="fball_goldenboot_32_c_2_0" x="12" y="3"/>
+  <asset name="fball_goldenboot_32_c_2_1" x="11" y="3"/>
+  <asset name="fball_goldenboot_32_c_2_2" x="10" y="2"/>
+  <asset name="fball_goldenboot_32_c_2_3" x="9" y="1"/>
+  <asset name="fball_goldenboot_32_c_2_4" x="7" y="1"/>
+  <asset name="fball_goldenboot_32_c_2_5" x="5" y="2"/>
+  <asset name="fball_goldenboot_32_c_2_6" x="4" y="3"/>
+  <asset name="fball_goldenboot_32_c_2_7" x="5" y="4"/>
+  <asset name="fball_goldenboot_32_c_2_8" x="5" y="4"/>
+  <asset name="fball_goldenboot_icon_a" x="12" y="13"/>
+  <asset name="fball_goldenboot_64_sd_4_0" flipH="1" source="fball_goldenboot_64_sd_2_0" x="25" y="11"/>
+  <asset name="fball_goldenboot_64_a_4_0" flipH="1" source="fball_goldenboot_64_a_2_0" x="25" y="44"/>
+  <asset name="fball_goldenboot_64_b_4_0" flipH="1" source="fball_goldenboot_64_b_2_0" x="25" y="45"/>
+  <asset name="fball_goldenboot_64_c_4_0" flipH="1" source="fball_goldenboot_64_c_2_0" x="23" y="7"/>
+  <asset name="fball_goldenboot_64_c_4_1" flipH="1" source="fball_goldenboot_64_c_2_1" x="22" y="39"/>
+  <asset name="fball_goldenboot_64_c_4_2" flipH="1" source="fball_goldenboot_64_c_2_2" x="21" y="40"/>
+  <asset name="fball_goldenboot_64_c_4_3" flipH="1" source="fball_goldenboot_64_c_2_3" x="19" y="40"/>
+  <asset name="fball_goldenboot_64_c_4_4" flipH="1" source="fball_goldenboot_64_c_2_4" x="17" y="24"/>
+  <asset name="fball_goldenboot_64_c_4_5" flipH="1" source="fball_goldenboot_64_c_2_5" x="15" y="25"/>
+  <asset name="fball_goldenboot_64_c_4_6" flipH="1" source="fball_goldenboot_64_c_2_6" x="11" y="25"/>
+  <asset name="fball_goldenboot_64_c_4_7" flipH="1" source="fball_goldenboot_64_c_2_7" x="8" y="25"/>
+  <asset name="fball_goldenboot_64_c_4_8" flipH="1" source="fball_goldenboot_64_c_2_8" x="5" y="6"/>
+  <asset name="fball_goldenboot_64_c_4_9" flipH="1" source="fball_goldenboot_64_c_2_9" x="6" y="7"/>
+  <asset name="fball_goldenboot_64_c_4_10" flipH="1" source="fball_goldenboot_64_c_2_10" x="7" y="8"/>
+  <asset name="fball_goldenboot_64_c_4_11" flipH="1" source="fball_goldenboot_64_c_2_11" x="8" y="9"/>
+  <asset name="fball_goldenboot_64_c_4_12" flipH="1" source="fball_goldenboot_64_c_2_12" x="8" y="9"/>
+  <asset name="fball_goldenboot_64_c_4_13" flipH="1" source="fball_goldenboot_64_c_2_13" x="8" y="9"/>
+  <asset name="fball_goldenboot_64_c_4_14" flipH="1" source="fball_goldenboot_64_c_2_14" x="9" y="10"/>
+  <asset name="fball_goldenboot_32_sd_4_0" flipH="1" source="fball_goldenboot_32_sd_2_0" x="13" y="5"/>
+  <asset name="fball_goldenboot_32_a_4_0" flipH="1" source="fball_goldenboot_32_a_2_0" x="13" y="21"/>
+  <asset name="fball_goldenboot_32_b_4_0" flipH="1" source="fball_goldenboot_32_b_2_0" x="13" y="22"/>
+  <asset name="fball_goldenboot_32_c_4_0" flipH="1" source="fball_goldenboot_32_c_2_0" x="12" y="3"/>
+  <asset name="fball_goldenboot_32_c_4_1" flipH="1" source="fball_goldenboot_32_c_2_1" x="11" y="3"/>
+  <asset name="fball_goldenboot_32_c_4_2" flipH="1" source="fball_goldenboot_32_c_2_2" x="10" y="2"/>
+  <asset name="fball_goldenboot_32_c_4_3" flipH="1" source="fball_goldenboot_32_c_2_3" x="9" y="1"/>
+  <asset name="fball_goldenboot_32_c_4_4" flipH="1" source="fball_goldenboot_32_c_2_4" x="7" y="1"/>
+  <asset name="fball_goldenboot_32_c_4_5" flipH="1" source="fball_goldenboot_32_c_2_5" x="5" y="2"/>
+  <asset name="fball_goldenboot_32_c_4_6" flipH="1" source="fball_goldenboot_32_c_2_6" x="4" y="3"/>
+  <asset name="fball_goldenboot_32_c_4_7" flipH="1" source="fball_goldenboot_32_c_2_7" x="5" y="4"/>
+  <asset name="fball_goldenboot_32_c_4_8" flipH="1" source="fball_goldenboot_32_c_2_8" x="5" y="4"/>
+</assets>

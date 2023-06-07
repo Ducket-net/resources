@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_sd_2_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_2_0" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_2_1" x="8" y="13"/>
+  <asset name="wildwest_weed_32_a_2_2" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_2_3" x="9" y="14"/>
+  <asset name="wildwest_weed_32_sd_3_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_3_0" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_3_1" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_3_2" x="9" y="13"/>
+  <asset name="wildwest_weed_32_sd_7_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_7_3" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_7_0" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_7_1" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_7_2" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_0_0" x="9" y="14"/>
+  <asset name="wildwest_weed_32_a_0_1" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_0_2" x="8" y="13"/>
+  <asset name="wildwest_weed_32_a_0_3" x="9" y="13"/>
+  <asset name="wildwest_weed_32_sd_1_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_1_0" x="9" y="14"/>
+  <asset name="wildwest_weed_32_a_1_1" x="8" y="14"/>
+  <asset name="wildwest_weed_32_a_1_2" x="8" y="14"/>
+  <asset name="wildwest_weed_32_a_1_3" x="8" y="14"/>
+  <asset name="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_sd_2_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_2_0" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_2_1" x="16" y="27"/>
+  <asset name="wildwest_weed_64_a_2_2" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_2_3" x="17" y="29"/>
+  <asset name="wildwest_weed_64_sd_3_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_3_0" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_3_1" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_3_2" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_3_3" x="17" y="28"/>
+  <asset name="wildwest_weed_64_sd_7_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_7_0" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_7_1" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_7_2" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_7_3" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_0_0" x="17" y="29"/>
+  <asset name="wildwest_weed_64_a_0_1" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_0_2" x="16" y="27"/>
+  <asset name="wildwest_weed_64_a_0_3" x="17" y="28"/>
+  <asset name="wildwest_weed_64_sd_1_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_1_0" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_1_1" x="15" y="27"/>
+  <asset name="wildwest_weed_64_a_1_2" x="15" y="28"/>
+  <asset name="wildwest_weed_64_a_1_3" x="16" y="27"/>
+  <asset name="wildwest_weed_icon_a" x="13" y="14"/>
+  <asset name="wildwest_weed_32_sd_5_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_5_0" flipH="1" source="wildwest_weed_32_a_1_0" x="9" y="14"/>
+  <asset name="wildwest_weed_32_a_5_1" flipH="1" source="wildwest_weed_32_a_1_1" x="8" y="14"/>
+  <asset name="wildwest_weed_32_a_5_2" flipH="1" source="wildwest_weed_32_a_1_2" x="8" y="14"/>
+  <asset name="wildwest_weed_32_a_5_3" flipH="1" source="wildwest_weed_32_a_1_3" x="8" y="14"/>
+  <asset name="wildwest_weed_64_sd_5_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_5_0" flipH="1" source="wildwest_weed_64_a_1_0" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_5_1" flipH="1" source="wildwest_weed_64_a_1_1" x="15" y="27"/>
+  <asset name="wildwest_weed_64_a_5_2" flipH="1" source="wildwest_weed_64_a_1_2" x="15" y="28"/>
+  <asset name="wildwest_weed_64_a_5_3" flipH="1" source="wildwest_weed_64_a_1_3" x="16" y="27"/>
+  <asset name="wildwest_weed_32_sd_6_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_6_0" flipH="1" source="wildwest_weed_32_a_0_0" x="9" y="14"/>
+  <asset name="wildwest_weed_32_a_6_1" flipH="1" source="wildwest_weed_32_a_0_1" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_6_2" flipH="1" source="wildwest_weed_32_a_0_2" x="8" y="13"/>
+  <asset name="wildwest_weed_32_a_6_3" flipH="1" source="wildwest_weed_32_a_0_3" x="9" y="13"/>
+  <asset name="wildwest_weed_64_sd_6_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_6_0" flipH="1" source="wildwest_weed_64_a_0_0" x="17" y="29"/>
+  <asset name="wildwest_weed_64_a_6_1" flipH="1" source="wildwest_weed_64_a_0_1" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_6_2" flipH="1" source="wildwest_weed_64_a_0_2" x="16" y="27"/>
+  <asset name="wildwest_weed_64_a_6_3" flipH="1" source="wildwest_weed_64_a_0_3" x="17" y="28"/>
+  <asset name="wildwest_weed_32_sd_4_0" flipH="1" source="wildwest_weed_32_sd_0_0" x="6" y="0"/>
+  <asset name="wildwest_weed_32_a_4_0" flipH="1" source="wildwest_weed_32_a_2_0" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_4_1" flipH="1" source="wildwest_weed_32_a_2_1" x="8" y="13"/>
+  <asset name="wildwest_weed_32_a_4_2" flipH="1" source="wildwest_weed_32_a_2_2" x="9" y="13"/>
+  <asset name="wildwest_weed_32_a_4_3" flipH="1" source="wildwest_weed_32_a_2_3" x="9" y="14"/>
+  <asset name="wildwest_weed_64_sd_4_0" flipH="1" source="wildwest_weed_64_sd_0_0" x="13" y="3"/>
+  <asset name="wildwest_weed_64_a_4_0" flipH="1" source="wildwest_weed_64_a_2_0" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_4_1" flipH="1" source="wildwest_weed_64_a_2_1" x="16" y="27"/>
+  <asset name="wildwest_weed_64_a_4_2" flipH="1" source="wildwest_weed_64_a_2_2" x="17" y="28"/>
+  <asset name="wildwest_weed_64_a_4_3" flipH="1" source="wildwest_weed_64_a_2_3" x="17" y="29"/>
+</assets>

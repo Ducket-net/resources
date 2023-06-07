@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wildwest_wagon" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wildwest_wagon_visualization" mimeType="text/xml"/>
+      <asset name="wildwest_wagon_assets" mimeType="text/xml"/>
+      <asset name="wildwest_wagon_logic" mimeType="text/xml"/>
+      <asset name="wildwest_wagon_64_sd_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_a_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_b_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_c_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_d_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_e_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_a_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_b_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_c_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_d_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_e_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_a_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_b_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_c_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_d_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_e_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_a_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_b_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_c_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_d_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_64_e_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_sd_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_a_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_b_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_c_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_d_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_e_4_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_a_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_b_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_c_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_d_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_e_4_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_a_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_b_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_c_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_d_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_e_0_0" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_a_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_b_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_c_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_d_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_32_e_0_1" mimeType="image/png"/>
+      <asset name="wildwest_wagon_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="gothiccafe_c20_bookcase" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="gothiccafe_c20_bookcase_visualization" mimeType="text/xml"/>
+      <asset name="gothiccafe_c20_bookcase_assets" mimeType="text/xml"/>
+      <asset name="gothiccafe_c20_bookcase_logic" mimeType="text/xml"/>
+      <asset name="gothiccafe_c20_bookcase_64_sd_0_0" mimeType="image/png"/>
+      <asset name="gothiccafe_c20_bookcase_64_a_0_0" mimeType="image/png"/>
+      <asset name="gothiccafe_c20_bookcase_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

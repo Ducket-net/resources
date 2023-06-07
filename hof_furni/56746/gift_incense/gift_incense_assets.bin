@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="gift_incense_32_sd_0_0" x="4" y="-1"/>
+  <asset name="gift_incense_32_a_0_0" x="5" y="7"/>
+  <asset name="gift_incense_32_b_0_0" x="2" y="-2"/>
+  <asset name="gift_incense_32_b_0_1" x="1" y="20"/>
+  <asset name="gift_incense_32_b_0_2" x="2" y="17"/>
+  <asset name="gift_incense_32_b_0_3" x="2" y="23"/>
+  <asset name="gift_incense_32_b_0_4" x="2" y="19"/>
+  <asset name="gift_incense_64_sd_0_0" x="7" y="-1"/>
+  <asset name="gift_incense_64_a_0_0" x="8" y="14"/>
+  <asset name="gift_incense_64_b_0_0" x="2" y="-4"/>
+  <asset name="gift_incense_64_b_0_1" x="2" y="41"/>
+  <asset name="gift_incense_64_b_0_2" x="3" y="42"/>
+  <asset name="gift_incense_64_b_0_3" x="4" y="47"/>
+  <asset name="gift_incense_64_b_0_4" x="3" y="49"/>
+  <asset name="gift_incense_icon_a" x="7" y="8"/>
+  <asset name="gift_incense_32_sd_2_0" flipH="1" source="gift_incense_32_sd_0_0" x="4" y="-1"/>
+  <asset name="gift_incense_32_a_2_0" flipH="1" source="gift_incense_32_a_0_0" x="5" y="7"/>
+  <asset name="gift_incense_32_b_2_0" flipH="1" source="gift_incense_32_b_0_0" x="2" y="-2"/>
+  <asset name="gift_incense_32_b_2_1" flipH="1" source="gift_incense_32_b_0_1" x="1" y="20"/>
+  <asset name="gift_incense_32_b_2_2" flipH="1" source="gift_incense_32_b_0_2" x="2" y="17"/>
+  <asset name="gift_incense_32_b_2_3" flipH="1" source="gift_incense_32_b_0_3" x="2" y="23"/>
+  <asset name="gift_incense_32_b_2_4" flipH="1" source="gift_incense_32_b_0_4" x="2" y="19"/>
+  <asset name="gift_incense_64_sd_2_0" flipH="1" source="gift_incense_64_sd_0_0" x="7" y="-1"/>
+  <asset name="gift_incense_64_a_2_0" flipH="1" source="gift_incense_64_a_0_0" x="8" y="14"/>
+  <asset name="gift_incense_64_b_2_0" flipH="1" source="gift_incense_64_b_0_0" x="2" y="-4"/>
+  <asset name="gift_incense_64_b_2_1" flipH="1" source="gift_incense_64_b_0_1" x="2" y="41"/>
+  <asset name="gift_incense_64_b_2_2" flipH="1" source="gift_incense_64_b_0_2" x="3" y="42"/>
+  <asset name="gift_incense_64_b_2_3" flipH="1" source="gift_incense_64_b_0_3" x="4" y="47"/>
+  <asset name="gift_incense_64_b_2_4" flipH="1" source="gift_incense_64_b_0_4" x="3" y="49"/>
+</assets>

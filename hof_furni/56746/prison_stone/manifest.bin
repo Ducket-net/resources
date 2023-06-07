@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="prison_stone" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="prison_stone_visualization" mimeType="text/xml"/>
+      <asset name="prison_stone_assets" mimeType="text/xml"/>
+      <asset name="prison_stone_logic" mimeType="text/xml"/>
+      <asset name="prison_stone_32_a_0_0" mimeType="image/png"/>
+      <asset name="prison_stone_32_a_0_1" mimeType="image/png"/>
+      <asset name="prison_stone_32_a_0_2" mimeType="image/png"/>
+      <asset name="prison_stone_32_a_0_3" mimeType="image/png"/>
+      <asset name="prison_stone_64_a_0_0" mimeType="image/png"/>
+      <asset name="prison_stone_64_a_0_1" mimeType="image/png"/>
+      <asset name="prison_stone_64_a_0_2" mimeType="image/png"/>
+      <asset name="prison_stone_64_a_0_3" mimeType="image/png"/>
+      <asset name="prison_stone_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

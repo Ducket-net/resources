@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="sf_mbar_32_a_0_0" flipH="1" source="sf_mbar_32_a_6_0" x="15" y="42"/>
+   <asset name="sf_mbar_32_a_2_0" x="14" y="42"/>
+   <asset name="sf_mbar_32_a_4_0" flipH="1" source="sf_mbar_32_a_2_0" x="14" y="42"/>
+   <asset name="sf_mbar_32_a_6_0" x="15" y="42"/>
+   <asset name="sf_mbar_32_b_0_0" flipH="1" source="sf_mbar_32_b_6_0" x="11" y="41"/>
+   <asset name="sf_mbar_32_b_2_0" x="11" y="41"/>
+   <asset name="sf_mbar_32_b_4_0" flipH="1" source="sf_mbar_32_b_2_0" x="11" y="41"/>
+   <asset name="sf_mbar_32_b_6_0" x="11" y="41"/>
+   <asset name="sf_mbar_32_c_0_0" flipH="1" source="sf_mbar_32_c_6_0" x="12" y="31"/>
+   <asset name="sf_mbar_32_c_0_1" flipH="1" source="sf_mbar_32_c_6_1" x="7" y="33"/>
+   <asset name="sf_mbar_32_c_2_0" x="12" y="25"/>
+   <asset name="sf_mbar_32_c_2_1" x="7" y="33"/>
+   <asset name="sf_mbar_32_c_4_0" flipH="1" source="sf_mbar_32_c_2_0" x="12" y="25"/>
+   <asset name="sf_mbar_32_c_4_1" flipH="1" source="sf_mbar_32_c_2_1" x="7" y="33"/>
+   <asset name="sf_mbar_32_c_6_0" x="12" y="31"/>
+   <asset name="sf_mbar_32_c_6_1" x="7" y="33"/>
+   <asset name="sf_mbar_64_a_0_0" flipH="1" source="sf_mbar_64_a_6_0" x="28" y="85"/>
+   <asset name="sf_mbar_64_a_2_0" x="26" y="85"/>
+   <asset name="sf_mbar_64_a_4_0" flipH="1" source="sf_mbar_64_a_2_0" x="26" y="85"/>
+   <asset name="sf_mbar_64_a_6_0" x="28" y="85"/>
+   <asset name="sf_mbar_64_b_0_0" flipH="1" source="sf_mbar_64_b_6_0" x="21" y="84"/>
+   <asset name="sf_mbar_64_b_2_0" x="21" y="84"/>
+   <asset name="sf_mbar_64_b_4_0" flipH="1" source="sf_mbar_64_b_2_0" x="21" y="84"/>
+   <asset name="sf_mbar_64_b_6_0" x="21" y="84"/>
+   <asset name="sf_mbar_64_c_0_0" flipH="1" source="sf_mbar_64_c_6_0" x="7" y="61"/>
+   <asset name="sf_mbar_64_c_0_1" flipH="1" source="sf_mbar_64_c_6_1" x="14" y="69"/>
+   <asset name="sf_mbar_64_c_2_0" x="-6" y="44"/>
+   <asset name="sf_mbar_64_c_2_1" x="14" y="69"/>
+   <asset name="sf_mbar_64_c_4_0" flipH="1" source="sf_mbar_64_c_2_0" x="-6" y="44"/>
+   <asset name="sf_mbar_64_c_4_1" flipH="1" source="sf_mbar_64_c_2_1" x="14" y="69"/>
+   <asset name="sf_mbar_64_c_6_0" x="7" y="61"/>
+   <asset name="sf_mbar_64_c_6_1" x="14" y="69"/>
+   <asset name="sf_mbar_icon_a" x="9" y="18"/>
+</assets>

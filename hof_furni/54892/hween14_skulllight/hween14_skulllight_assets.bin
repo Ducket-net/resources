@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hween14_skulllight_64_sd_4_0" x="10" y="5"/>
+  <asset name="hween14_skulllight_64_a_4_0" x="12" y="194"/>
+  <asset name="hween14_skulllight_64_b_4_0" x="23" y="149"/>
+  <asset name="hween14_skulllight_64_b_4_1" x="-12" y="128"/>
+  <asset name="hween14_skulllight_32_sd_4_0" x="6" y="2"/>
+  <asset name="hween14_skulllight_32_a_4_0" x="6" y="99"/>
+  <asset name="hween14_skulllight_32_b_4_0" x="12" y="74"/>
+  <asset name="hween14_skulllight_32_b_4_1" x="-5" y="64"/>
+  <asset name="hween14_skulllight_icon_a" x="5" y="14"/>
+  <asset name="hween14_skulllight_64_sd_2_0" flipH="1" source="hween14_skulllight_64_sd_4_0" x="10" y="5"/>
+  <asset name="hween14_skulllight_64_a_2_0" flipH="1" source="hween14_skulllight_64_a_4_0" x="12" y="194"/>
+  <asset name="hween14_skulllight_64_b_2_0" flipH="1" source="hween14_skulllight_64_b_4_0" x="23" y="149"/>
+  <asset name="hween14_skulllight_64_b_2_1" flipH="1" source="hween14_skulllight_64_b_4_1" x="-12" y="128"/>
+  <asset name="hween14_skulllight_32_sd_2_0" flipH="1" source="hween14_skulllight_32_sd_4_0" x="6" y="2"/>
+  <asset name="hween14_skulllight_32_a_2_0" flipH="1" source="hween14_skulllight_32_a_4_0" x="6" y="99"/>
+  <asset name="hween14_skulllight_32_b_2_0" flipH="1" source="hween14_skulllight_32_b_4_0" x="12" y="74"/>
+  <asset name="hween14_skulllight_32_b_2_1" flipH="1" source="hween14_skulllight_32_b_4_1" x="-5" y="64"/>
+</assets>

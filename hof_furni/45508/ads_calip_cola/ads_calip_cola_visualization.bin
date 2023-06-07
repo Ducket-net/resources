@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="ads_calip_cola"><graphics>
+   <visualization size="32" layerCount="5" angle="45">
+      <layers>
+         <layer id="0" z="200"/>
+         <layer id="1" z="190"/>
+         <layer id="2" ink="ADD" z="190"/>
+         <layer id="3" z="100"/>
+         <layer id="4" z="200"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="3" color="d2ff00"/>
+         </color>
+         <color id="2">
+            <colorLayer id="3" color="a32300"/>
+         </color>
+         <color id="3">
+            <colorLayer id="3" color="fd2c36"/>
+         </color>
+         <color id="4">
+            <colorLayer id="3" color="00c6ff"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="5" angle="45">
+      <layers>
+         <layer id="0" z="200"/>
+         <layer id="1" z="190"/>
+         <layer id="2" ink="ADD" z="190"/>
+         <layer id="3" z="100"/>
+         <layer id="4" z="200"/>
+      </layers>
+      <directions>
+         <direction id="2"/>
+         <direction id="4"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="3" color="d2ff00"/>
+         </color>
+         <color id="2">
+            <colorLayer id="3" color="a32300"/>
+         </color>
+         <color id="3">
+            <colorLayer id="3" color="fd2c36"/>
+         </color>
+         <color id="4">
+            <colorLayer id="3" color="00c6ff"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="d2ff00"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="a32300"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="fd2c36"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="00c6ff"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

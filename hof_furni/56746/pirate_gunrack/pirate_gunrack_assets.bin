@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pirate_gunrack_32_sd_2_0" x="29" y="7"/>
+  <asset name="pirate_gunrack_32_a_2_0" x="1" y="50"/>
+  <asset name="pirate_gunrack_32_b_2_0" x="29" y="54"/>
+  <asset name="pirate_gunrack_32_b_2_1" x="29" y="54"/>
+  <asset name="pirate_gunrack_64_sd_2_0" x="60" y="13"/>
+  <asset name="pirate_gunrack_64_a_2_0" x="28" y="107"/>
+  <asset name="pirate_gunrack_64_a_2_1" x="28" y="107"/>
+  <asset name="pirate_gunrack_64_b_2_0" x="59" y="90"/>
+  <asset name="pirate_gunrack_icon_a" x="-5" y="14"/>
+  <asset name="pirate_gunrack_32_a_2_1" source="pirate_gunrack_32_a_2_0" x="1" y="50"/>
+  <asset name="pirate_gunrack_64_b_2_1" source="pirate_gunrack_64_b_2_0" x="59" y="90"/>
+  <asset name="pirate_gunrack_32_sd_4_0" flipH="1" source="pirate_gunrack_32_sd_2_0" x="29" y="7"/>
+  <asset name="pirate_gunrack_32_a_4_0" flipH="1" source="pirate_gunrack_32_a_2_0" x="1" y="50"/>
+  <asset name="pirate_gunrack_32_b_4_0" flipH="1" source="pirate_gunrack_32_b_2_0" x="29" y="54"/>
+  <asset name="pirate_gunrack_32_b_4_1" flipH="1" source="pirate_gunrack_32_b_2_1" x="29" y="54"/>
+  <asset name="pirate_gunrack_64_sd_4_0" flipH="1" source="pirate_gunrack_64_sd_2_0" x="60" y="13"/>
+  <asset name="pirate_gunrack_64_a_4_0" flipH="1" source="pirate_gunrack_64_a_2_0" x="28" y="107"/>
+  <asset name="pirate_gunrack_64_a_4_1" flipH="1" source="pirate_gunrack_64_a_2_1" x="28" y="107"/>
+  <asset name="pirate_gunrack_64_b_4_0" flipH="1" source="pirate_gunrack_64_b_2_0" x="59" y="90"/>
+  <asset name="pirate_gunrack_32_a_4_1" flipH="1" source="pirate_gunrack_32_a_2_0" x="1" y="50"/>
+  <asset name="pirate_gunrack_64_b_4_1" flipH="1" source="pirate_gunrack_64_b_2_0" x="59" y="90"/>
+</assets>

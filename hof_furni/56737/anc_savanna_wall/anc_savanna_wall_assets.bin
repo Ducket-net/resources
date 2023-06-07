@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="anc_savanna_wall_64_a_2_0" x="76" y="228"/>
+  <asset name="anc_savanna_wall_64_a_2_1" x="69" y="229"/>
+  <asset name="anc_savanna_wall_32_a_2_0" x="38" y="113"/>
+  <asset name="anc_savanna_wall_32_a_2_1" x="34" y="114"/>
+  <asset name="anc_savanna_wall_64_a_4_0" flipH="1" source="anc_savanna_wall_64_a_2_0" x="76" y="228"/>
+  <asset name="anc_savanna_wall_64_a_4_1" flipH="1" source="anc_savanna_wall_64_a_2_1" x="69" y="229"/>
+  <asset name="anc_savanna_wall_32_a_4_0" flipH="1" source="anc_savanna_wall_32_a_2_0" x="38" y="113"/>
+  <asset name="anc_savanna_wall_32_a_4_1" flipH="1" source="anc_savanna_wall_32_a_2_1" x="34" y="114"/>
+  <asset name="anc_savanna_wall_icon_a" x="6" y="15"/>
+</assets>

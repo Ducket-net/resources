@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cine_platform_32_sd_2_0" x="62" y="7"/>
+  <asset name="cine_platform_32_a_2_0" x="16" y="38"/>
+  <asset name="cine_platform_32_a_2_1" x="16" y="48"/>
+  <asset name="cine_platform_32_a_2_2" x="16" y="58"/>
+  <asset name="cine_platform_32_a_6_0" x="0" y="32"/>
+  <asset name="cine_platform_32_a_6_1" x="0" y="42"/>
+  <asset name="cine_platform_32_a_6_2" x="0" y="52"/>
+  <asset name="cine_platform_32_b_2_0" x="32" y="28"/>
+  <asset name="cine_platform_32_b_2_1" x="32" y="38"/>
+  <asset name="cine_platform_32_b_2_2" x="32" y="48"/>
+  <asset name="cine_platform_32_b_6_0" x="16" y="24"/>
+  <asset name="cine_platform_32_b_6_1" x="16" y="34"/>
+  <asset name="cine_platform_32_b_6_2" x="16" y="44"/>
+  <asset name="cine_platform_32_c_2_0" x="46" y="20"/>
+  <asset name="cine_platform_32_c_2_1" x="46" y="30"/>
+  <asset name="cine_platform_32_c_2_2" x="46" y="40"/>
+  <asset name="cine_platform_32_c_6_0" x="32" y="16"/>
+  <asset name="cine_platform_32_c_6_1" x="32" y="26"/>
+  <asset name="cine_platform_32_c_6_2" x="32" y="36"/>
+  <asset name="cine_platform_32_d_2_0" x="68" y="13"/>
+  <asset name="cine_platform_32_d_2_1" x="68" y="23"/>
+  <asset name="cine_platform_32_d_2_2" x="68" y="33"/>
+  <asset name="cine_platform_32_d_6_0" x="66" y="8"/>
+  <asset name="cine_platform_32_d_6_1" x="66" y="18"/>
+  <asset name="cine_platform_32_d_6_2" x="66" y="28"/>
+  <asset name="cine_platform_32_e_6_0" x="56" y="8"/>
+  <asset name="cine_platform_32_e_6_1" x="56" y="18"/>
+  <asset name="cine_platform_32_e_6_2" x="56" y="28"/>
+  <asset name="cine_platform_32_e_2_0" x="49" y="-32"/>
+  <asset name="cine_platform_32_e_2_1" x="49" y="-32"/>
+  <asset name="cine_platform_32_e_2_2" x="49" y="-32"/>
+  <asset name="cine_platform_64_sd_2_0" x="128" y="15"/>
+  <asset name="cine_platform_64_a_2_0" x="32" y="73"/>
+  <asset name="cine_platform_64_a_2_1" x="32" y="93"/>
+  <asset name="cine_platform_64_a_2_2" x="32" y="113"/>
+  <asset name="cine_platform_64_a_6_0" x="0" y="61"/>
+  <asset name="cine_platform_64_a_6_1" x="0" y="81"/>
+  <asset name="cine_platform_64_a_6_2" x="0" y="101"/>
+  <asset name="cine_platform_64_b_2_0" x="64" y="53"/>
+  <asset name="cine_platform_64_b_2_1" x="64" y="73"/>
+  <asset name="cine_platform_64_b_2_2" x="64" y="93"/>
+  <asset name="cine_platform_64_b_6_0" x="32" y="45"/>
+  <asset name="cine_platform_64_b_6_1" x="32" y="65"/>
+  <asset name="cine_platform_64_b_6_2" x="32" y="85"/>
+  <asset name="cine_platform_64_c_2_0" x="96" y="37"/>
+  <asset name="cine_platform_64_c_2_1" x="96" y="57"/>
+  <asset name="cine_platform_64_c_2_2" x="96" y="77"/>
+  <asset name="cine_platform_64_c_6_0" x="64" y="29"/>
+  <asset name="cine_platform_64_c_6_1" x="64" y="49"/>
+  <asset name="cine_platform_64_c_6_2" x="64" y="69"/>
+  <asset name="cine_platform_64_d_2_0" x="132" y="21"/>
+  <asset name="cine_platform_64_d_2_1" x="132" y="41"/>
+  <asset name="cine_platform_64_d_2_2" x="132" y="61"/>
+  <asset name="cine_platform_64_d_6_0" x="132" y="13"/>
+  <asset name="cine_platform_64_d_6_1" x="132" y="33"/>
+  <asset name="cine_platform_64_d_6_2" x="132" y="53"/>
+  <asset name="cine_platform_64_e_6_0" x="108" y="13"/>
+  <asset name="cine_platform_64_e_6_1" x="108" y="33"/>
+  <asset name="cine_platform_64_e_6_2" x="108" y="53"/>
+  <asset name="cine_platform_64_e_2_0" x="99" y="-66"/>
+  <asset name="cine_platform_64_e_2_1" x="99" y="-66"/>
+  <asset name="cine_platform_64_e_2_2" x="99" y="-66"/>
+  <asset name="cine_platform_icon_a" x="15" y="13"/>
+  <asset name="cine_platform_32_sd_6_0" source="cine_platform_32_sd_2_0" x="62" y="7"/>
+  <asset name="cine_platform_64_sd_6_0" source="cine_platform_64_sd_2_0" x="128" y="15"/>
+  <asset name="cine_platform_32_a_0_0" flipH="1" source="cine_platform_32_a_6_0" x="0" y="32"/>
+  <asset name="cine_platform_32_a_0_1" flipH="1" source="cine_platform_32_a_6_1" x="0" y="42"/>
+  <asset name="cine_platform_32_a_0_2" flipH="1" source="cine_platform_32_a_6_2" x="0" y="52"/>
+  <asset name="cine_platform_32_b_0_0" flipH="1" source="cine_platform_32_b_6_0" x="16" y="24"/>
+  <asset name="cine_platform_32_b_0_1" flipH="1" source="cine_platform_32_b_6_1" x="16" y="34"/>
+  <asset name="cine_platform_32_b_0_2" flipH="1" source="cine_platform_32_b_6_2" x="16" y="44"/>
+  <asset name="cine_platform_32_c_0_0" flipH="1" source="cine_platform_32_c_6_0" x="32" y="16"/>
+  <asset name="cine_platform_32_c_0_1" flipH="1" source="cine_platform_32_c_6_1" x="32" y="26"/>
+  <asset name="cine_platform_32_c_0_2" flipH="1" source="cine_platform_32_c_6_2" x="32" y="36"/>
+  <asset name="cine_platform_32_d_0_0" flipH="1" source="cine_platform_32_d_6_0" x="66" y="8"/>
+  <asset name="cine_platform_32_d_0_1" flipH="1" source="cine_platform_32_d_6_1" x="66" y="18"/>
+  <asset name="cine_platform_32_d_0_2" flipH="1" source="cine_platform_32_d_6_2" x="66" y="28"/>
+  <asset name="cine_platform_32_e_0_0" flipH="1" source="cine_platform_32_e_6_0" x="56" y="8"/>
+  <asset name="cine_platform_32_e_0_1" flipH="1" source="cine_platform_32_e_6_1" x="56" y="18"/>
+  <asset name="cine_platform_32_e_0_2" flipH="1" source="cine_platform_32_e_6_2" x="56" y="28"/>
+  <asset name="cine_platform_64_a_0_0" flipH="1" source="cine_platform_64_a_6_0" x="0" y="61"/>
+  <asset name="cine_platform_64_a_0_1" flipH="1" source="cine_platform_64_a_6_1" x="0" y="81"/>
+  <asset name="cine_platform_64_a_0_2" flipH="1" source="cine_platform_64_a_6_2" x="0" y="101"/>
+  <asset name="cine_platform_64_b_0_0" flipH="1" source="cine_platform_64_b_6_0" x="32" y="45"/>
+  <asset name="cine_platform_64_b_0_1" flipH="1" source="cine_platform_64_b_6_1" x="32" y="65"/>
+  <asset name="cine_platform_64_b_0_2" flipH="1" source="cine_platform_64_b_6_2" x="32" y="85"/>
+  <asset name="cine_platform_64_c_0_0" flipH="1" source="cine_platform_64_c_6_0" x="64" y="29"/>
+  <asset name="cine_platform_64_c_0_1" flipH="1" source="cine_platform_64_c_6_1" x="64" y="49"/>
+  <asset name="cine_platform_64_c_0_2" flipH="1" source="cine_platform_64_c_6_2" x="64" y="69"/>
+  <asset name="cine_platform_64_d_0_0" flipH="1" source="cine_platform_64_d_6_0" x="132" y="13"/>
+  <asset name="cine_platform_64_d_0_1" flipH="1" source="cine_platform_64_d_6_1" x="132" y="33"/>
+  <asset name="cine_platform_64_d_0_2" flipH="1" source="cine_platform_64_d_6_2" x="132" y="53"/>
+  <asset name="cine_platform_64_e_0_0" flipH="1" source="cine_platform_64_e_6_0" x="108" y="13"/>
+  <asset name="cine_platform_64_e_0_1" flipH="1" source="cine_platform_64_e_6_1" x="108" y="33"/>
+  <asset name="cine_platform_64_e_0_2" flipH="1" source="cine_platform_64_e_6_2" x="108" y="53"/>
+  <asset name="cine_platform_32_sd_0_0" flipH="1" source="cine_platform_32_sd_2_0" x="62" y="7"/>
+  <asset name="cine_platform_64_sd_0_0" flipH="1" source="cine_platform_64_sd_2_0" x="128" y="15"/>
+  <asset name="cine_platform_32_sd_4_0" flipH="1" source="cine_platform_32_sd_2_0" x="62" y="7"/>
+  <asset name="cine_platform_32_a_4_0" flipH="1" source="cine_platform_32_a_2_0" x="16" y="38"/>
+  <asset name="cine_platform_32_a_4_1" flipH="1" source="cine_platform_32_a_2_1" x="16" y="48"/>
+  <asset name="cine_platform_32_a_4_2" flipH="1" source="cine_platform_32_a_2_2" x="16" y="58"/>
+  <asset name="cine_platform_32_b_4_0" flipH="1" source="cine_platform_32_b_2_0" x="32" y="28"/>
+  <asset name="cine_platform_32_b_4_1" flipH="1" source="cine_platform_32_b_2_1" x="32" y="38"/>
+  <asset name="cine_platform_32_b_4_2" flipH="1" source="cine_platform_32_b_2_2" x="32" y="48"/>
+  <asset name="cine_platform_32_c_4_0" flipH="1" source="cine_platform_32_c_2_0" x="46" y="20"/>
+  <asset name="cine_platform_32_c_4_1" flipH="1" source="cine_platform_32_c_2_1" x="46" y="30"/>
+  <asset name="cine_platform_32_c_4_2" flipH="1" source="cine_platform_32_c_2_2" x="46" y="40"/>
+  <asset name="cine_platform_32_d_4_0" flipH="1" source="cine_platform_32_d_2_0" x="68" y="13"/>
+  <asset name="cine_platform_32_d_4_1" flipH="1" source="cine_platform_32_d_2_1" x="68" y="23"/>
+  <asset name="cine_platform_32_d_4_2" flipH="1" source="cine_platform_32_d_2_2" x="68" y="33"/>
+  <asset name="cine_platform_32_e_4_0" flipH="1" source="cine_platform_32_e_2_0" x="49" y="-32"/>
+  <asset name="cine_platform_32_e_4_1" flipH="1" source="cine_platform_32_e_2_1" x="49" y="-32"/>
+  <asset name="cine_platform_32_e_4_2" flipH="1" source="cine_platform_32_e_2_2" x="49" y="-32"/>
+  <asset name="cine_platform_64_sd_4_0" flipH="1" source="cine_platform_64_sd_2_0" x="128" y="15"/>
+  <asset name="cine_platform_64_a_4_0" flipH="1" source="cine_platform_64_a_2_0" x="32" y="73"/>
+  <asset name="cine_platform_64_a_4_1" flipH="1" source="cine_platform_64_a_2_1" x="32" y="93"/>
+  <asset name="cine_platform_64_a_4_2" flipH="1" source="cine_platform_64_a_2_2" x="32" y="113"/>
+  <asset name="cine_platform_64_b_4_0" flipH="1" source="cine_platform_64_b_2_0" x="64" y="53"/>
+  <asset name="cine_platform_64_b_4_1" flipH="1" source="cine_platform_64_b_2_1" x="64" y="73"/>
+  <asset name="cine_platform_64_b_4_2" flipH="1" source="cine_platform_64_b_2_2" x="64" y="93"/>
+  <asset name="cine_platform_64_c_4_0" flipH="1" source="cine_platform_64_c_2_0" x="96" y="37"/>
+  <asset name="cine_platform_64_c_4_1" flipH="1" source="cine_platform_64_c_2_1" x="96" y="57"/>
+  <asset name="cine_platform_64_c_4_2" flipH="1" source="cine_platform_64_c_2_2" x="96" y="77"/>
+  <asset name="cine_platform_64_d_4_0" flipH="1" source="cine_platform_64_d_2_0" x="132" y="21"/>
+  <asset name="cine_platform_64_d_4_1" flipH="1" source="cine_platform_64_d_2_1" x="132" y="41"/>
+  <asset name="cine_platform_64_d_4_2" flipH="1" source="cine_platform_64_d_2_2" x="132" y="61"/>
+  <asset name="cine_platform_64_e_4_0" flipH="1" source="cine_platform_64_e_2_0" x="99" y="-66"/>
+  <asset name="cine_platform_64_e_4_1" flipH="1" source="cine_platform_64_e_2_1" x="99" y="-66"/>
+  <asset name="cine_platform_64_e_4_2" flipH="1" source="cine_platform_64_e_2_2" x="99" y="-66"/>
+</assets>

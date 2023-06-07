@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="olympics_c16_swissball">
+  <graphics>
+    <visualization size="1" layerCount="2" angle="360">
+      <colors>
+        <color id="1">
+          <colorLayer id="0" color="0e9cc2"/>
+        </color>
+        <color id="2">
+          <colorLayer id="0" color="4ba100"/>
+        </color>
+        <color id="3">
+          <colorLayer id="0" color="ea7e00"/>
+        </color>
+        <color id="4">
+          <colorLayer id="0" color="5c7376"/>
+          &gt;
+        </color>
+        <color id="5">
+          <colorLayer id="0" color="d93f97"/>
+        </color>
+        <color id="6">
+          <colorLayer id="0" color="7138a6"/>
+        </color>
+      </colors>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+        <direction id="4"/>
+        <direction id="6"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="2" angle="45">
+      <layers>
+        <layer id="0"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+        <direction id="4"/>
+        <direction id="6"/>
+      </directions>
+      <colors>
+        <color id="1">
+          <colorLayer id="0" color="0e9cc2"/>
+        </color>
+        <color id="2">
+          <colorLayer id="0" color="4ba100"/>
+        </color>
+        <color id="3">
+          <colorLayer id="0" color="ea7e00"/>
+        </color>
+        <color id="4">
+          <colorLayer id="0" color="5c7376"/>
+          &gt;
+        </color>
+        <color id="5">
+          <colorLayer id="0" color="d93f97"/>
+        </color>
+        <color id="6">
+          <colorLayer id="0" color="7138a6"/>
+        </color>
+      </colors>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="100" transitionTo="0">
+          <animationLayer id="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1" frameRepeat="2">
+            <frameSequence>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

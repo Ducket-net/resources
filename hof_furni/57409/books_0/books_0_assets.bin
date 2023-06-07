@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="books_0_32_a_0_0" x="12" y="10"/>
+  <asset name="books_0_32_a_0_1" x="10" y="17"/>
+  <asset name="books_0_64_a_0_0" x="23" y="15"/>
+  <asset name="books_0_64_a_0_1" x="19" y="27"/>
+  <asset name="books_0_icon_a" x="9" y="10"/>
+  <asset name="books_0_32_a_2_0" flipH="1" source="books_0_32_a_0_0" x="12" y="10"/>
+  <asset name="books_0_32_a_2_1" flipH="1" source="books_0_32_a_0_1" x="10" y="17"/>
+  <asset name="books_0_64_a_2_0" flipH="1" source="books_0_64_a_0_0" x="23" y="15"/>
+  <asset name="books_0_64_a_2_1" flipH="1" source="books_0_64_a_0_1" x="19" y="27"/>
+</assets>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="track12_hammer_32_a_0_0" x="11" y="14"/>
+  <asset name="track12_hammer_32_a_0_1" x="13" y="6"/>
+  <asset name="track12_hammer_32_a_0_2" x="8" y="8"/>
+  <asset name="track12_hammer_32_a_0_4" x="6" y="10"/>
+  <asset name="track12_hammer_64_a_0_0" x="16" y="24"/>
+  <asset name="track12_hammer_64_a_0_1" x="24" y="11"/>
+  <asset name="track12_hammer_64_a_0_2" x="11" y="15"/>
+  <asset name="track12_hammer_64_a_0_4" x="11" y="19"/>
+  <asset name="track12_hammer_icon_a" x="10" y="11"/>
+  <asset name="track12_hammer_32_a_0_3" flipH="1" source="track12_hammer_32_a_0_1" x="13" y="6"/>
+  <asset name="track12_hammer_64_a_0_3" flipH="1" source="track12_hammer_64_a_0_1" x="22" y="11"/>
+</assets>

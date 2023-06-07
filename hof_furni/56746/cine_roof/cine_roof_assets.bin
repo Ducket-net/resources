@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cine_roof_32_a_2_0" x="1" y="64"/>
+  <asset name="cine_roof_32_b_2_0" x="49" y="71"/>
+  <asset name="cine_roof_32_c_2_0" x="46" y="69"/>
+  <asset name="cine_roof_64_a_2_0" x="3" y="129"/>
+  <asset name="cine_roof_64_b_2_0" x="99" y="140"/>
+  <asset name="cine_roof_64_c_2_0" x="94" y="137"/>
+  <asset name="cine_roof_icon_a" x="14" y="16"/>
+  <asset name="cine_roof_32_d_2_0" source="cine_roof_32_a_2_0" x="-47" y="40"/>
+  <asset name="cine_roof_32_e_2_0" source="cine_roof_32_b_2_0" x="1" y="47"/>
+  <asset name="cine_roof_32_a_4_0" flipH="1" source="cine_roof_32_a_2_0" x="3" y="64"/>
+  <asset name="cine_roof_32_b_4_0" flipH="1" source="cine_roof_32_b_2_0" x="51" y="71"/>
+  <asset name="cine_roof_32_c_4_0" flipH="1" source="cine_roof_32_c_2_0" x="48" y="69"/>
+  <asset name="cine_roof_32_d_4_0" flipH="1" source="cine_roof_32_a_2_0" x="-45" y="40"/>
+  <asset name="cine_roof_32_e_4_0" flipH="1" source="cine_roof_32_b_2_0" x="3" y="47"/>
+  <asset name="cine_roof_64_d_2_0" source="cine_roof_64_a_2_0" x="-93" y="81"/>
+  <asset name="cine_roof_64_e_2_0" source="cine_roof_64_b_2_0" x="3" y="92"/>
+  <asset name="cine_roof_64_a_4_0" flipH="1" source="cine_roof_64_a_2_0" x="5" y="129"/>
+  <asset name="cine_roof_64_b_4_0" flipH="1" source="cine_roof_64_b_2_0" x="101" y="140"/>
+  <asset name="cine_roof_64_c_4_0" flipH="1" source="cine_roof_64_c_2_0" x="96" y="137"/>
+  <asset name="cine_roof_64_d_4_0" flipH="1" source="cine_roof_64_a_2_0" x="-91" y="81"/>
+  <asset name="cine_roof_64_e_4_0" flipH="1" source="cine_roof_64_b_2_0" x="5" y="92"/>
+  <asset name="cine_roof_32_sd_2_0" x="47" y="9"/>
+  <asset name="cine_roof_64_sd_2_0" x="96" y="17"/>
+  <asset name="cine_roof_32_d_2_0" source="cine_roof_32_a_2_0" x="-47" y="40"/>
+  <asset name="cine_roof_32_e_2_0" source="cine_roof_32_b_2_0" x="1" y="47"/>
+  <asset name="cine_roof_32_sd_4_0" flipH="1" source="cine_roof_32_sd_2_0" x="49" y="9"/>
+  <asset name="cine_roof_32_a_4_0" flipH="1" source="cine_roof_32_a_2_0" x="3" y="64"/>
+  <asset name="cine_roof_32_b_4_0" flipH="1" source="cine_roof_32_b_2_0" x="51" y="71"/>
+  <asset name="cine_roof_32_c_4_0" flipH="1" source="cine_roof_32_c_2_0" x="48" y="69"/>
+  <asset name="cine_roof_32_d_4_0" flipH="1" source="cine_roof_32_a_2_0" x="-45" y="40"/>
+  <asset name="cine_roof_32_e_4_0" flipH="1" source="cine_roof_32_b_2_0" x="3" y="47"/>
+  <asset name="cine_roof_64_sd_4_0" flipH="1" source="cine_roof_64_sd_2_0" x="98" y="17"/>
+  <asset name="cine_roof_64_d_2_0" source="cine_roof_64_a_2_0" x="-93" y="81"/>
+  <asset name="cine_roof_64_e_2_0" source="cine_roof_64_b_2_0" x="3" y="92"/>
+  <asset name="cine_roof_64_a_4_0" flipH="1" source="cine_roof_64_a_2_0" x="5" y="129"/>
+  <asset name="cine_roof_64_b_4_0" flipH="1" source="cine_roof_64_b_2_0" x="101" y="140"/>
+  <asset name="cine_roof_64_c_4_0" flipH="1" source="cine_roof_64_c_2_0" x="96" y="137"/>
+  <asset name="cine_roof_64_d_4_0" flipH="1" source="cine_roof_64_a_2_0" x="-91" y="81"/>
+  <asset name="cine_roof_64_e_4_0" flipH="1" source="cine_roof_64_b_2_0" x="5" y="92"/>
+</assets>

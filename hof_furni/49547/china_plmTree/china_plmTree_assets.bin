@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="china_plmTree_64_a_0_0" x="27" y="91"/>
+   <asset name="china_plmTree_64_a_2_0" x="20" y="118"/>
+   <asset name="china_plmTree_64_a_4_0" flipH="1" source="china_plmTree_64_a_0_0" x="27" y="91"/>
+   <asset name="china_plmTree_64_a_6_0" flipH="1" source="china_plmTree_64_a_2_0" x="20" y="118"/>
+   <asset name="china_plmTree_64_b_0_0" x="26" y="95"/>
+   <asset name="china_plmTree_64_b_0_1" x="17" y="-1"/>
+   <asset name="china_plmTree_64_b_2_0" x="13" y="122"/>
+   <asset name="china_plmTree_64_b_2_1" x="15" y="1"/>
+   <asset name="china_plmTree_64_b_4_0" flipH="1" source="china_plmTree_64_b_0_0" x="26" y="95"/>
+   <asset name="china_plmTree_64_b_4_1" flipH="1" source="china_plmTree_64_b_0_1" x="17" y="-1"/>
+   <asset name="china_plmTree_64_b_6_0" flipH="1" source="china_plmTree_64_b_2_0" x="13" y="122"/>
+   <asset name="china_plmTree_64_b_6_1" flipH="1" source="china_plmTree_64_b_2_1" x="15" y="1"/>
+   <asset name="china_plmTree_64_sd_0_0" x="27" y="-1"/>
+   <asset name="china_plmTree_64_sd_2_0" x="20" y="-1"/>
+   <asset name="china_plmTree_64_sd_4_0" flipH="1" source="china_plmTree_64_sd_0_0" x="27" y="-1"/>
+   <asset name="china_plmTree_64_sd_6_0" flipH="1" source="china_plmTree_64_sd_2_0" x="20" y="-1"/>
+   <asset name="china_plmTree_icon_a" x="12" y="15"/>
+   <asset name="china_plmTree_32_a_0_0" x="10" y="60"/>
+   <asset name="china_plmTree_32_a_2_0" x="9" y="46"/>
+   <asset name="china_plmTree_32_a_4_0" flipH="1" source="china_plmTree_32_a_0_0" x="10" y="60"/>
+   <asset name="china_plmTree_32_a_6_0" flipH="1" source="china_plmTree_32_a_2_0" x="9" y="46"/>
+   <asset name="china_plmTree_32_b_0_0" x="7" y="63"/>
+   <asset name="china_plmTree_32_b_0_1" x="7" y="3"/>
+   <asset name="china_plmTree_32_b_2_0" x="9" y="48"/>
+   <asset name="china_plmTree_32_b_2_1" x="7" y="3"/>
+   <asset name="china_plmTree_32_b_4_0" flipH="1" source="china_plmTree_32_b_0_0" x="7" y="63"/>
+   <asset name="china_plmTree_32_b_4_1" flipH="1" source="china_plmTree_32_b_0_1" x="7" y="3"/>
+   <asset name="china_plmTree_32_b_6_0" flipH="1" source="china_plmTree_32_b_2_0" x="9" y="48"/>
+   <asset name="china_plmTree_32_b_6_1" flipH="1" source="china_plmTree_32_b_2_1" x="7" y="3"/>
+   <asset name="china_plmTree_32_sd_0_0" x="11" y="1"/>
+   <asset name="china_plmTree_32_sd_2_0" x="9" y="0"/>
+   <asset name="china_plmTree_32_sd_4_0" flipH="1" source="china_plmTree_32_sd_0_0" x="11" y="1"/>
+   <asset name="china_plmTree_32_sd_6_0" flipH="1" source="china_plmTree_32_sd_2_0" x="9" y="0"/>
+</assets>

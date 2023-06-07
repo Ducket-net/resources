@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="bench_puffet" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="bench_puffet_visualization" mimeType="text/xml"/>
+         <asset name="bench_puffet_assets" mimeType="text/xml"/>
+         <asset name="bench_puffet_logic" mimeType="text/xml"/>
+         <asset name="bench_buffet_sd_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_a_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_b_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_b_4_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_b_6_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_c_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_d_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_d_4_0" mimeType="image/png"/>
+         <asset name="bench_puffet_64_d_6_0" mimeType="image/png"/>
+         <asset name="bench_puffet_icon_a" mimeType="image/png"/>
+         <asset name="s_bench_buffet_sd_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_a_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_b_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_b_4_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_b_6_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_c_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_d_2_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_d_4_0" mimeType="image/png"/>
+         <asset name="bench_puffet_32_d_6_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

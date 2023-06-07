@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="pcnc_tiledirt" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="pcnc_tiledirt_visualization" mimeType="text/xml"/>
+      <asset name="pcnc_tiledirt_assets" mimeType="text/xml"/>
+      <asset name="pcnc_tiledirt_logic" mimeType="text/xml"/>
+      <asset name="pcnc_tiledirt_32_a_0_0" mimeType="image/png"/>
+      <asset name="pcnc_tiledirt_64_a_0_0" mimeType="image/png"/>
+      <asset name="pcnc_tiledirt_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

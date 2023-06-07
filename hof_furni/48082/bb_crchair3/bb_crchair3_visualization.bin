@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="bb_crchair3"><graphics>
+  <visualization size="1" layerCount="1" angle="360"/>
+  <visualization size="32" layerCount="2" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="666"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+  </visualization>
+  <visualization size="64" layerCount="2" angle="45">
+    <layers>
+      <layer id="0"/>
+      <layer id="1" z="666"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+  </visualization>
+</graphics></visualizationData>

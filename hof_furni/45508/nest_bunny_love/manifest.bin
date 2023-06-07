@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="nest_bunny_love" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="nest_bunny_love_visualization" mimeType="text/xml"/>
+      <asset name="nest_bunny_love_assets" mimeType="text/xml"/>
+      <asset name="nest_bunny_love_logic" mimeType="text/xml"/>
+      <asset name="nest_bunny_love_32_sd_0_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_32_a_0_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_64_sd_0_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_64_a_0_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_32_sd_2_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_32_a_2_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_64_sd_2_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_64_a_2_0" mimeType="image/png"/>
+      <asset name="nest_bunny_love_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

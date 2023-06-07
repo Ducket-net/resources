@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="vikings_throne_64_sd_4_0" x="33" y="16"/>
+  <asset name="vikings_throne_64_a_4_0" x="33" y="206"/>
+  <asset name="vikings_throne_64_b_4_0" x="5" y="53"/>
+  <asset name="vikings_throne_32_sd_4_0" x="17" y="8"/>
+  <asset name="vikings_throne_32_a_4_0" x="17" y="104"/>
+  <asset name="vikings_throne_32_b_4_0" x="3" y="26"/>
+  <asset name="vikings_throne_icon_a" x="8" y="19"/>
+  <asset name="vikings_throne_64_sd_2_0" flipH="1" source="vikings_throne_64_sd_4_0" x="33" y="16"/>
+  <asset name="vikings_throne_64_a_2_0" flipH="1" source="vikings_throne_64_a_4_0" x="33" y="206"/>
+  <asset name="vikings_throne_64_b_2_0" flipH="1" source="vikings_throne_64_b_4_0" x="5" y="53"/>
+  <asset name="vikings_throne_32_sd_2_0" flipH="1" source="vikings_throne_32_sd_4_0" x="17" y="8"/>
+  <asset name="vikings_throne_32_a_2_0" flipH="1" source="vikings_throne_32_a_4_0" x="17" y="104"/>
+  <asset name="vikings_throne_32_b_2_0" flipH="1" source="vikings_throne_32_b_4_0" x="3" y="26"/>
+</assets>

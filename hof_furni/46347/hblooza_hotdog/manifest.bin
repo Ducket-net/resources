@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hblooza_hotdog" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hblooza_hotdog_visualization" mimeType="text/xml"/>
+      <asset name="hblooza_hotdog_assets" mimeType="text/xml"/>
+      <asset name="hblooza_hotdog_logic" mimeType="text/xml"/>
+      <asset name="hblooza_hotdog_64_sd_0_0" mimeType="image/png"/>
+      <asset name="hblooza_hotdog_64_a_0_0" mimeType="image/png"/>
+      <asset name="hblooza_hotdog_32_sd_0_0" mimeType="image/png"/>
+      <asset name="hblooza_hotdog_32_a_0_0" mimeType="image/png"/>
+      <asset name="hblooza_hotdog_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

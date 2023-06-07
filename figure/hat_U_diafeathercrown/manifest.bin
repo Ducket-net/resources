@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_diafeathercrown" version="0.1">
+    <assets>
+      <asset name="h_std_ha_4774_2_0" mimeType="image/png">
+        <param key="offset" value="-14,83"/>
+      </asset>
+      <asset name="h_std_ha_4774_1_0" mimeType="image/png">
+        <param key="offset" value="-16,83"/>
+      </asset>
+      <asset name="h_std_ha_4774_0_0" mimeType="image/png">
+        <param key="offset" value="-11,88"/>
+      </asset>
+      <asset name="h_std_ha_4774_3_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_std_ha_4774_7_0" mimeType="image/png">
+        <param key="offset" value="-14,83"/>
+      </asset>
+      <asset name="h_spk_ha_4774_2_0" mimeType="image/png">
+        <param key="offset" value="-14,84"/>
+      </asset>
+      <asset name="h_spk_ha_4774_1_0" mimeType="image/png">
+        <param key="offset" value="-16,84"/>
+      </asset>
+      <asset name="h_spk_ha_4774_0_0" mimeType="image/png">
+        <param key="offset" value="-11,89"/>
+      </asset>
+      <asset name="h_spk_ha_4774_3_0" mimeType="image/png">
+        <param key="offset" value="-14,82"/>
+      </asset>
+      <asset name="h_spk_ha_4774_7_0" mimeType="image/png">
+        <param key="offset" value="-14,84"/>
+      </asset>
+      <asset name="h_lay_ha_4774_2_0" mimeType="image/png">
+        <param key="offset" value="27,46"/>
+      </asset>
+      <asset name="h_lsp_ha_4774_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-113"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

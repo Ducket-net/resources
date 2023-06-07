@@ -1,0 +1,1 @@
+<?xml version='1.0'?><animation name="fx.139" desc="Golden microphone">	<add id="ri" align="rightitem" base="fx139_1" />	<frame>		<bodypart id="rightarm" action="UseItem" frame="0" />		<bodypart id="rightitem" action="UseItem" frame="0" base="fx139_1" />	</frame></animation>

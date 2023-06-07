@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="pirate_bottle_10" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="pirate_bottle_10_visualization" mimeType="text/xml"/>
+      <asset name="pirate_bottle_10_assets" mimeType="text/xml"/>
+      <asset name="pirate_bottle_10_logic" mimeType="text/xml"/>
+      <asset name="pirate_bottle_10_32_sd_0_0" mimeType="image/png"/>
+      <asset name="pirate_bottle_10_32_a_0_0" mimeType="image/png"/>
+      <asset name="pirate_bottle_10_64_sd_0_0" mimeType="image/png"/>
+      <asset name="pirate_bottle_10_64_a_0_0" mimeType="image/png"/>
+      <asset name="pirate_bottle_10_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wf_act_give_reward" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wf_act_give_reward_visualization" mimeType="text/xml"/>
+      <asset name="wf_act_give_reward_assets" mimeType="text/xml"/>
+      <asset name="wf_act_give_reward_logic" mimeType="text/xml"/>
+      <asset name="wf_act_give_reward_64_a_2_0" mimeType="image/png"/>
+      <asset name="wf_act_give_reward_64_a_2_1" mimeType="image/png"/>      <asset name="wf_act_give_reward_64_a_2_2" mimeType="image/png"/>      <asset name="wf_act_give_reward_64_a_2_3" mimeType="image/png"/>      <asset name="wf_act_give_reward_64_a_2_4" mimeType="image/png"/>      <asset name="wf_act_give_reward_32_a_2_0" mimeType="image/png"/>      <asset name="wf_act_give_reward_32_a_2_1" mimeType="image/png"/>
+      <asset name="wf_act_give_reward_32_a_2_2" mimeType="image/png"/>
+      <asset name="wf_act_give_reward_32_a_2_3" mimeType="image/png"/>
+      <asset name="wf_act_give_reward_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

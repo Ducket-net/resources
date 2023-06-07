@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="ads_nokiax3_wall" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ads_nokiax3_wall_visualization" mimeType="text/xml"/>
+      <asset name="ads_nokiax3_wall_assets" mimeType="text/xml"/>
+      <asset name="ads_nokiax3_wall_logic" mimeType="text/xml"/>
+      <asset name="ads_nokiax3_wall_icon_a" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_c_4_2" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_b_4_2" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_a_4_2" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_c_4_1" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_b_4_1" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_a_4_1" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_c_4_0" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_b_4_0" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_64_a_4_0" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_c_4_2" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_b_4_2" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_a_4_2" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_c_4_1" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_b_4_1" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_a_4_1" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_c_4_0" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_b_4_0" mimeType="image/png"/>
+      <asset name="ads_nokiax3_wall_32_a_4_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

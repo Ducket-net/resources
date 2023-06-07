@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="st_uni_ooze_64_sd_4_0" x="18" y="9"/>
+  <asset name="st_uni_ooze_64_a_4_0" x="19" y="47"/>
+  <asset name="st_uni_ooze_64_b_4_0" x="-5" y="28"/>
+  <asset name="st_uni_ooze_64_b_4_1" x="10" y="0"/>
+  <asset name="st_uni_ooze_64_b_4_2" x="11" y="5"/>
+  <asset name="st_uni_ooze_64_b_4_3" x="10" y="10"/>
+  <asset name="st_uni_ooze_64_b_4_4" x="11" y="16"/>
+  <asset name="st_uni_ooze_64_b_4_5" x="11" y="21"/>
+  <asset name="st_uni_ooze_64_b_4_6" x="12" y="26"/>
+  <asset name="st_uni_ooze_64_b_4_7" x="9" y="28"/>
+  <asset name="st_uni_ooze_64_c_4_0" x="6" y="-8"/>
+  <asset name="st_uni_ooze_64_c_4_1" x="1" y="19"/>
+  <asset name="st_uni_ooze_64_c_4_2" x="1" y="19"/>
+  <asset name="st_uni_ooze_64_c_4_3" x="1" y="19"/>
+  <asset name="st_uni_ooze_32_sd_4_0" x="9" y="3"/>
+  <asset name="st_uni_ooze_32_a_4_0" x="10" y="23"/>
+  <asset name="st_uni_ooze_32_b_4_0" x="-4" y="11"/>
+  <asset name="st_uni_ooze_32_b_4_1" x="5" y="-2"/>
+  <asset name="st_uni_ooze_32_b_4_2" x="5" y="2"/>
+  <asset name="st_uni_ooze_32_b_4_3" x="5" y="4"/>
+  <asset name="st_uni_ooze_32_b_4_4" x="7" y="7"/>
+  <asset name="st_uni_ooze_32_b_4_5" x="6" y="9"/>
+  <asset name="st_uni_ooze_32_b_4_6" x="7" y="12"/>
+  <asset name="st_uni_ooze_32_b_4_7" x="5" y="13"/>
+  <asset name="st_uni_ooze_32_c_4_0" x="5" y="-5"/>
+  <asset name="st_uni_ooze_32_c_4_1" x="3" y="9"/>
+  <asset name="st_uni_ooze_32_c_4_2" x="3" y="9"/>
+  <asset name="st_uni_ooze_32_c_4_3" x="3" y="9"/>
+  <asset name="st_uni_ooze_icon_a" x="8" y="13"/>
+  <asset name="st_uni_ooze_64_sd_2_0" flipH="1" source="st_uni_ooze_64_sd_4_0" x="18" y="9"/>
+  <asset name="st_uni_ooze_64_a_2_0" flipH="1" source="st_uni_ooze_64_a_4_0" x="19" y="47"/>
+  <asset name="st_uni_ooze_64_b_2_0" flipH="1" source="st_uni_ooze_64_b_4_0" x="-5" y="28"/>
+  <asset name="st_uni_ooze_64_b_2_1" flipH="1" source="st_uni_ooze_64_b_4_1" x="10" y="0"/>
+  <asset name="st_uni_ooze_64_b_2_2" flipH="1" source="st_uni_ooze_64_b_4_2" x="11" y="5"/>
+  <asset name="st_uni_ooze_64_b_2_3" flipH="1" source="st_uni_ooze_64_b_4_3" x="10" y="10"/>
+  <asset name="st_uni_ooze_64_b_2_4" flipH="1" source="st_uni_ooze_64_b_4_4" x="11" y="16"/>
+  <asset name="st_uni_ooze_64_b_2_5" flipH="1" source="st_uni_ooze_64_b_4_5" x="11" y="21"/>
+  <asset name="st_uni_ooze_64_b_2_6" flipH="1" source="st_uni_ooze_64_b_4_6" x="12" y="26"/>
+  <asset name="st_uni_ooze_64_b_2_7" flipH="1" source="st_uni_ooze_64_b_4_7" x="9" y="28"/>
+  <asset name="st_uni_ooze_64_c_2_0" flipH="1" source="st_uni_ooze_64_c_4_0" x="6" y="-8"/>
+  <asset name="st_uni_ooze_64_c_2_1" flipH="1" source="st_uni_ooze_64_c_4_1" x="1" y="19"/>
+  <asset name="st_uni_ooze_64_c_2_2" flipH="1" source="st_uni_ooze_64_c_4_2" x="1" y="19"/>
+  <asset name="st_uni_ooze_64_c_2_3" flipH="1" source="st_uni_ooze_64_c_4_3" x="1" y="19"/>
+  <asset name="st_uni_ooze_32_sd_2_0" flipH="1" source="st_uni_ooze_32_sd_4_0" x="9" y="3"/>
+  <asset name="st_uni_ooze_32_a_2_0" flipH="1" source="st_uni_ooze_32_a_4_0" x="10" y="23"/>
+  <asset name="st_uni_ooze_32_b_2_0" flipH="1" source="st_uni_ooze_32_b_4_0" x="-4" y="11"/>
+  <asset name="st_uni_ooze_32_b_2_1" flipH="1" source="st_uni_ooze_32_b_4_1" x="5" y="-2"/>
+  <asset name="st_uni_ooze_32_b_2_2" flipH="1" source="st_uni_ooze_32_b_4_2" x="5" y="2"/>
+  <asset name="st_uni_ooze_32_b_2_3" flipH="1" source="st_uni_ooze_32_b_4_3" x="5" y="4"/>
+  <asset name="st_uni_ooze_32_b_2_4" flipH="1" source="st_uni_ooze_32_b_4_4" x="7" y="7"/>
+  <asset name="st_uni_ooze_32_b_2_5" flipH="1" source="st_uni_ooze_32_b_4_5" x="6" y="9"/>
+  <asset name="st_uni_ooze_32_b_2_6" flipH="1" source="st_uni_ooze_32_b_4_6" x="7" y="12"/>
+  <asset name="st_uni_ooze_32_b_2_7" flipH="1" source="st_uni_ooze_32_b_4_7" x="5" y="13"/>
+  <asset name="st_uni_ooze_32_c_2_0" flipH="1" source="st_uni_ooze_32_c_4_0" x="5" y="-5"/>
+  <asset name="st_uni_ooze_32_c_2_1" flipH="1" source="st_uni_ooze_32_c_4_1" x="3" y="9"/>
+  <asset name="st_uni_ooze_32_c_2_2" flipH="1" source="st_uni_ooze_32_c_4_2" x="3" y="9"/>
+  <asset name="st_uni_ooze_32_c_2_3" flipH="1" source="st_uni_ooze_32_c_4_3" x="3" y="9"/>
+</assets>

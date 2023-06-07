@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="nft_h23_teleport_64_sd_4_0" x="22" y="12"/>
+  <asset name="nft_h23_teleport_64_a_4_0" x="24" y="80"/>
+  <asset name="nft_h23_teleport_64_b_4_0" x="25" y="115"/>
+  <asset name="nft_h23_teleport_64_c_4_0" x="31" y="85"/>
+  <asset name="nft_h23_teleport_64_c_4_1" x="53" y="85"/>
+  <asset name="nft_h23_teleport_64_d_4_0" x="11" y="-7"/>
+  <asset name="nft_h23_teleport_64_d_4_1" x="38" y="123"/>
+  <asset name="nft_h23_teleport_64_sd_2_0" flipH="1" source="nft_h23_teleport_64_sd_4_0" x="22" y="12"/>
+  <asset name="nft_h23_teleport_64_a_2_0" flipH="1" source="nft_h23_teleport_64_a_4_0" x="24" y="80"/>
+  <asset name="nft_h23_teleport_64_b_2_0" flipH="1" source="nft_h23_teleport_64_b_4_0" x="25" y="115"/>
+  <asset name="nft_h23_teleport_64_c_2_0" flipH="1" source="nft_h23_teleport_64_c_4_0" x="31" y="85"/>
+  <asset name="nft_h23_teleport_64_c_2_1" flipH="1" source="nft_h23_teleport_64_c_4_1" x="53" y="85"/>
+  <asset name="nft_h23_teleport_64_d_2_0" flipH="1" source="nft_h23_teleport_64_d_4_0" x="11" y="-7"/>
+  <asset name="nft_h23_teleport_64_d_2_1" flipH="1" source="nft_h23_teleport_64_d_4_1" x="38" y="123"/>
+  <asset name="nft_h23_teleport_icon_a" x="14" y="14"/>
+</assets>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="ads_wowpball_32_sd_4_0" x="10" y="-1"/>
+  <asset name="ads_wowpball_32_a_4_0" x="10" y="43"/>
+  <asset name="ads_wowpball_32_b_4_0" x="1" y="25"/>
+  <asset name="ads_wowpball_32_b_4_1" x="23" y="58"/>
+  <asset name="ads_wowpball_64_sd_4_0" x="20" y="0"/>
+  <asset name="ads_wowpball_64_a_4_0" x="20" y="89"/>
+  <asset name="ads_wowpball_64_b_4_0" x="1" y="52"/>
+  <asset name="ads_wowpball_64_b_4_1" x="47" y="119"/>
+  <asset name="ads_wowpball_icon_a" x="5" y="16"/>
+  <asset name="ads_wowpball_32_sd_2_0" flipH="1" source="ads_wowpball_32_sd_4_0" x="10" y="-1"/>
+  <asset name="ads_wowpball_32_a_2_0" flipH="1" source="ads_wowpball_32_a_4_0" x="10" y="43"/>
+  <asset name="ads_wowpball_32_b_2_0" flipH="1" source="ads_wowpball_32_b_4_0" x="1" y="25"/>
+  <asset name="ads_wowpball_32_b_2_1" flipH="1" source="ads_wowpball_32_b_4_1" x="23" y="58"/>
+  <asset name="ads_wowpball_64_sd_2_0" flipH="1" source="ads_wowpball_64_sd_4_0" x="20" y="0"/>
+  <asset name="ads_wowpball_64_a_2_0" flipH="1" source="ads_wowpball_64_a_4_0" x="20" y="89"/>
+  <asset name="ads_wowpball_64_b_2_0" flipH="1" source="ads_wowpball_64_b_4_0" x="1" y="52"/>
+  <asset name="ads_wowpball_64_b_2_1" flipH="1" source="ads_wowpball_64_b_4_1" x="47" y="119"/>
+</assets>

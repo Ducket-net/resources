@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_gold13" version="0.1">
+    <assets>
+      <asset name="h_lay_he_3568_2_0" mimeType="image/png">
+        <param key="offset" value="23,47"/>
+      </asset>
+      <asset name="h_std_he_3568_0_0" mimeType="image/png">
+        <param key="offset" value="-25,81"/>
+      </asset>
+      <asset name="h_std_he_3568_1_0" mimeType="image/png">
+        <param key="offset" value="-32,83"/>
+      </asset>
+      <asset name="h_std_he_3568_2_0" mimeType="image/png">
+        <param key="offset" value="-26,84"/>
+      </asset>
+      <asset name="h_std_he_3568_3_0" mimeType="image/png">
+        <param key="offset" value="-21,83"/>
+      </asset>
+      <asset name="h_std_he_3568_7_0" mimeType="image/png">
+        <param key="offset" value="-21,83"/>
+      </asset>
+      <asset name="h_spk_he_3568_0_0" mimeType="image/png">
+        <param key="offset" value="-25,82"/>
+      </asset>
+      <asset name="h_spk_he_3568_1_0" mimeType="image/png">
+        <param key="offset" value="-32,84"/>
+      </asset>
+      <asset name="h_spk_he_3568_2_0" mimeType="image/png">
+        <param key="offset" value="-26,85"/>
+      </asset>
+      <asset name="h_spk_he_3568_3_0" mimeType="image/png">
+        <param key="offset" value="-21,84"/>
+      </asset>
+      <asset name="h_spk_he_3568_7_0" mimeType="image/png">
+        <param key="offset" value="-21,84"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

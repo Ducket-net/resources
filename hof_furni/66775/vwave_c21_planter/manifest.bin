@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="vwave_c21_planter" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="vwave_c21_planter_visualization" mimeType="text/xml"/>
+      <asset name="vwave_c21_planter_assets" mimeType="text/xml"/>
+      <asset name="vwave_c21_planter_logic" mimeType="text/xml"/>
+      <asset name="vwave_c21_planter_64_sd_0_0" mimeType="image/png"/>
+      <asset name="vwave_c21_planter_64_a_0_0" mimeType="image/png"/>
+      <asset name="vwave_c21_planter_64_b_0_0" mimeType="image/png"/>
+      <asset name="vwave_c21_planter_64_c_0_0" mimeType="image/png"/>
+      <asset name="vwave_c21_planter_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

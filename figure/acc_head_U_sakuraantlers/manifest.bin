@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_sakuraantlers" version="0.1">
+    <assets>
+      <asset name="h_lay_he_4865_2_0" mimeType="image/png">
+        <param key="offset" value="41,51"/>
+      </asset>
+      <asset name="h_std_he_4865_2_0" mimeType="image/png">
+        <param key="offset" value="-9,97"/>
+      </asset>
+      <asset name="h_std_he_4865_1_0" mimeType="image/png">
+        <param key="offset" value="-14,97"/>
+      </asset>
+      <asset name="h_std_he_4865_0_0" mimeType="image/png">
+        <param key="offset" value="-12,96"/>
+      </asset>
+      <asset name="h_std_he_4865_3_0" mimeType="image/png">
+        <param key="offset" value="-5,92"/>
+      </asset>
+      <asset name="h_std_he_4865_7_0" mimeType="image/png">
+        <param key="offset" value="-5,92"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

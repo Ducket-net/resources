@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_mummyacc_nft" version="0.1">
+    <assets>
+      <asset name="h_std_he_5049_7_0" mimeType="image/png">
+        <param key="offset" value="-40,48"/>
+      </asset>
+      <asset name="h_std_he_5049_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_std_he_5049_0_0" mimeType="image/png">
+        <param key="offset" value="-17,75"/>
+      </asset>
+      <asset name="h_std_he_5049_1_0" mimeType="image/png">
+        <param key="offset" value="-19,79"/>
+      </asset>
+      <asset name="h_std_he_5049_2_0" mimeType="image/png">
+        <param key="offset" value="-21,76"/>
+      </asset>
+      <asset name="h_lay_he_5049_2_0" mimeType="image/png">
+        <param key="offset" value="16,47"/>
+      </asset>
+      <asset name="h_spk_he_5049_7_0" mimeType="image/png">
+        <param key="offset" value="-40,49"/>
+      </asset>
+      <asset name="h_spk_he_5049_3_0" mimeType="image/png">
+        <param key="offset" value="-19,76"/>
+      </asset>
+      <asset name="h_spk_he_5049_0_0" mimeType="image/png">
+        <param key="offset" value="-17,76"/>
+      </asset>
+      <asset name="h_spk_he_5049_1_0" mimeType="image/png">
+        <param key="offset" value="-19,80"/>
+      </asset>
+      <asset name="h_spk_he_5049_2_0" mimeType="image/png">
+        <param key="offset" value="-21,77"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

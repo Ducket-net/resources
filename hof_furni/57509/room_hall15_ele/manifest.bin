@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="room_hall15_ele" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="room_hall15_ele_visualization" mimeType="text/xml"/>
+      <asset name="room_hall15_ele_assets" mimeType="text/xml"/>
+      <asset name="room_hall15_ele_logic" mimeType="text/xml"/>
+      <asset name="room_hall15_ele_64_a_0_0" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_b_0_0" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_c_0_0" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_c_0_1" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_c_0_2" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_c_0_3" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_c_0_4" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_c_0_5" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_d_0_0" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_d_0_1" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_d_0_2" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_d_0_3" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_d_0_4" mimeType="image/png"/>
+      <asset name="room_hall15_ele_64_d_0_5" mimeType="image/png"/>
+      <asset name="room_hall15_ele_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

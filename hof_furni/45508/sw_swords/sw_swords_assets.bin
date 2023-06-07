@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="sw_swords_64_a_2_0" x="28" y="18"/>
+   <asset name="sw_swords_64_b_2_0" x="29" y="34"/>
+   <asset name="sw_swords_64_c_2_0" x="20" y="9"/>
+   <asset name="sw_swords_64_a_4_0" flipH="1" source="sw_swords_64_a_2_0" x="28" y="18"/>
+   <asset name="sw_swords_64_b_4_0" flipH="1" source="sw_swords_64_b_2_0" x="29" y="34"/>
+   <asset name="sw_swords_64_c_4_0" flipH="1" source="sw_swords_64_c_2_0" x="20" y="9"/>
+   <asset name="sw_swords_32_a_2_0" x="-4" y="9"/>
+   <asset name="sw_swords_32_b_2_0" x="15" y="17"/>
+   <asset name="sw_swords_32_c_2_0" x="10" y="3"/>
+   <asset name="sw_swords_32_a_4_0" flipH="1" source="sw_swords_32_a_2_0" x="-4" y="9"/>
+   <asset name="sw_swords_32_b_4_0" flipH="1" source="sw_swords_32_b_2_0" x="15" y="17"/>
+   <asset name="sw_swords_32_c_4_0" flipH="1" source="sw_swords_32_c_2_0" x="10" y="3"/>
+   <asset name="sw_swords_icon_a" x="14" y="15"/>
+</assets>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="xmas12_pork_32_a_4_0" x="12" y="16"/>
+  <asset name="xmas12_pork_32_b_4_0" x="30" y="10"/>
+  <asset name="xmas12_pork_32_a_4_1" x="11" y="16"/>
+  <asset name="xmas12_pork_32_b_4_1" x="30" y="10"/>
+  <asset name="xmas12_pork_32_a_4_2" x="12" y="16"/>
+  <asset name="xmas12_pork_32_b_4_2" x="30" y="8"/>
+  <asset name="xmas12_pork_32_a_4_3" x="11" y="11"/>
+  <asset name="xmas12_pork_32_b_4_3" x="30" y="5"/>
+  <asset name="xmas12_pork_32_a_4_4" x="15" y="18"/>
+  <asset name="xmas12_pork_32_b_4_4" x="33" y="2"/>
+  <asset name="xmas12_pork_64_a_4_0" x="29" y="32"/>
+  <asset name="xmas12_pork_64_b_4_0" x="62" y="19"/>
+  <asset name="xmas12_pork_64_a_4_1" x="25" y="32"/>
+  <asset name="xmas12_pork_64_b_4_1" x="62" y="19"/>
+  <asset name="xmas12_pork_64_a_4_2" x="25" y="32"/>
+  <asset name="xmas12_pork_64_b_4_2" x="62" y="12"/>
+  <asset name="xmas12_pork_64_a_4_3" x="26" y="22"/>
+  <asset name="xmas12_pork_64_b_4_3" x="62" y="7"/>
+  <asset name="xmas12_pork_64_a_4_4" x="32" y="18"/>
+  <asset name="xmas12_pork_64_b_4_4" x="62" y="2"/>
+  <asset name="xmas12_pork_icon_a" x="49" y="-5"/>
+  <asset name="xmas12_pork_32_a_2_0" flipH="1" source="xmas12_pork_32_a_4_0" x="12" y="16"/>
+  <asset name="xmas12_pork_32_b_2_0" flipH="1" source="xmas12_pork_32_b_4_0" x="30" y="10"/>
+  <asset name="xmas12_pork_32_a_2_1" flipH="1" source="xmas12_pork_32_a_4_1" x="11" y="16"/>
+  <asset name="xmas12_pork_32_b_2_1" flipH="1" source="xmas12_pork_32_b_4_1" x="30" y="10"/>
+  <asset name="xmas12_pork_32_a_2_2" flipH="1" source="xmas12_pork_32_a_4_2" x="12" y="16"/>
+  <asset name="xmas12_pork_32_b_2_2" flipH="1" source="xmas12_pork_32_b_4_2" x="30" y="8"/>
+  <asset name="xmas12_pork_32_a_2_3" flipH="1" source="xmas12_pork_32_a_4_3" x="11" y="11"/>
+  <asset name="xmas12_pork_32_b_2_3" flipH="1" source="xmas12_pork_32_b_4_3" x="30" y="5"/>
+  <asset name="xmas12_pork_32_a_2_4" flipH="1" source="xmas12_pork_32_a_4_4" x="15" y="18"/>
+  <asset name="xmas12_pork_32_b_2_4" flipH="1" source="xmas12_pork_32_b_4_4" x="33" y="2"/>
+  <asset name="xmas12_pork_64_a_2_0" flipH="1" source="xmas12_pork_64_a_4_0" x="29" y="32"/>
+  <asset name="xmas12_pork_64_b_2_0" flipH="1" source="xmas12_pork_64_b_4_0" x="62" y="19"/>
+  <asset name="xmas12_pork_64_a_2_1" flipH="1" source="xmas12_pork_64_a_4_1" x="25" y="32"/>
+  <asset name="xmas12_pork_64_b_2_1" flipH="1" source="xmas12_pork_64_b_4_1" x="62" y="19"/>
+  <asset name="xmas12_pork_64_a_2_2" flipH="1" source="xmas12_pork_64_a_4_2" x="25" y="32"/>
+  <asset name="xmas12_pork_64_b_2_2" flipH="1" source="xmas12_pork_64_b_4_2" x="62" y="12"/>
+  <asset name="xmas12_pork_64_a_2_3" flipH="1" source="xmas12_pork_64_a_4_3" x="26" y="22"/>
+  <asset name="xmas12_pork_64_b_2_3" flipH="1" source="xmas12_pork_64_b_4_3" x="62" y="7"/>
+  <asset name="xmas12_pork_64_a_2_4" flipH="1" source="xmas12_pork_64_a_4_4" x="32" y="18"/>
+  <asset name="xmas12_pork_64_b_2_4" flipH="1" source="xmas12_pork_64_b_4_4" x="62" y="2"/>
+</assets>

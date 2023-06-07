@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="runway_display_32_sd_4_0" x="13" y="7"/>
+  <asset name="runway_display_32_a_4_0" x="15" y="53"/>
+  <asset name="runway_display_64_sd_4_0" x="25" y="12"/>
+  <asset name="runway_display_64_a_4_0" x="32" y="107"/>
+  <asset name="runway_display_icon_a" x="8" y="14"/>
+  <asset name="runway_display_32_sd_2_0" flipH="1" source="runway_display_32_sd_4_0" x="13" y="7"/>
+  <asset name="runway_display_32_a_2_0" flipH="1" source="runway_display_32_a_4_0" x="15" y="53"/>
+  <asset name="runway_display_64_sd_2_0" flipH="1" source="runway_display_64_sd_4_0" x="25" y="12"/>
+  <asset name="runway_display_64_a_2_0" flipH="1" source="runway_display_64_a_4_0" x="32" y="107"/>
+</assets>

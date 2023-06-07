@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="totem_head_32_a_2_0" x="14" y="36"/>
+   <asset name="totem_head_32_a_2_1" x="13" y="36"/>
+   <asset name="totem_head_32_a_2_2" x="11" y="36"/>
+   <asset name="totem_head_32_a_2_3" x="14" y="36"/>
+   <asset name="totem_head_32_a_2_4" x="13" y="36"/>
+   <asset name="totem_head_32_a_2_5" x="21" y="36"/>
+   <asset name="totem_head_32_a_4_0" flipH="1" source="totem_head_32_a_2_0" x="14" y="36"/>
+   <asset name="totem_head_32_a_4_1" flipH="1" source="totem_head_32_a_2_1" x="13" y="36"/>
+   <asset name="totem_head_32_a_4_2" flipH="1" source="totem_head_32_a_2_2" x="11" y="36"/>
+   <asset name="totem_head_32_a_4_3" flipH="1" source="totem_head_32_a_2_3" x="14" y="36"/>
+   <asset name="totem_head_32_a_4_4" flipH="1" source="totem_head_32_a_2_4" x="13" y="36"/>
+   <asset name="totem_head_32_a_4_5" flipH="1" source="totem_head_32_a_2_5" x="21" y="36"/>
+   <asset name="totem_head_32_b_2_0" x="8" y="10"/>
+   <asset name="totem_head_32_b_2_1" x="16" y="41"/>
+   <asset name="totem_head_32_b_2_10" x="14" y="43"/>
+   <asset name="totem_head_32_b_2_11" x="17" y="45"/>
+   <asset name="totem_head_32_b_2_12" x="17" y="47"/>
+   <asset name="totem_head_32_b_2_13" x="14" y="43"/>
+   <asset name="totem_head_32_b_2_14" x="12" y="39"/>
+   <asset name="totem_head_32_b_2_15" x="15" y="38"/>
+   <asset name="totem_head_32_b_2_16" x="16" y="46"/>
+   <asset name="totem_head_32_b_2_17" x="17" y="48"/>
+   <asset name="totem_head_32_b_2_18" x="14" y="43"/>
+   <asset name="totem_head_32_b_2_19" x="17" y="42"/>
+   <asset name="totem_head_32_b_2_2" x="17" y="45"/>
+   <asset name="totem_head_32_b_2_20" x="17" y="42"/>
+   <asset name="totem_head_32_b_2_21" x="17" y="41"/>
+   <asset name="totem_head_32_b_2_22" x="16" y="40"/>
+   <asset name="totem_head_32_b_2_23" x="16" y="40"/>
+   <asset name="totem_head_32_b_2_24" x="14" y="39"/>
+   <asset name="totem_head_32_b_2_25" x="16" y="43"/>
+   <asset name="totem_head_32_b_2_26" x="17" y="50"/>
+   <asset name="totem_head_32_b_2_27" x="16" y="46"/>
+   <asset name="totem_head_32_b_2_3" x="17" y="45"/>
+   <asset name="totem_head_32_b_2_4" x="14" y="40"/>
+   <asset name="totem_head_32_b_2_5" x="14" y="43"/>
+   <asset name="totem_head_32_b_2_6" x="14" y="43"/>
+   <asset name="totem_head_32_b_2_7" x="16" y="44"/>
+   <asset name="totem_head_32_b_2_8" x="15" y="46"/>
+   <asset name="totem_head_32_b_2_9" x="17" y="46"/>
+   <asset name="totem_head_32_b_4_0" flipH="1" source="totem_head_32_b_2_0" x="8" y="10"/>
+   <asset name="totem_head_32_b_4_1" flipH="1" source="totem_head_32_b_2_1" x="16" y="41"/>
+   <asset name="totem_head_32_b_4_10" flipH="1" source="totem_head_32_b_2_10" x="14" y="43"/>
+   <asset name="totem_head_32_b_4_11" flipH="1" source="totem_head_32_b_2_11" x="17" y="45"/>
+   <asset name="totem_head_32_b_4_12" flipH="1" source="totem_head_32_b_2_12" x="17" y="47"/>
+   <asset name="totem_head_32_b_4_13" flipH="1" source="totem_head_32_b_2_13" x="14" y="43"/>
+   <asset name="totem_head_32_b_4_14" flipH="1" source="totem_head_32_b_2_14" x="12" y="39"/>
+   <asset name="totem_head_32_b_4_15" flipH="1" source="totem_head_32_b_2_15" x="15" y="38"/>
+   <asset name="totem_head_32_b_4_16" flipH="1" source="totem_head_32_b_2_16" x="16" y="46"/>
+   <asset name="totem_head_32_b_4_17" flipH="1" source="totem_head_32_b_2_17" x="17" y="48"/>
+   <asset name="totem_head_32_b_4_18" flipH="1" source="totem_head_32_b_2_18" x="14" y="43"/>
+   <asset name="totem_head_32_b_4_19" flipH="1" source="totem_head_32_b_2_19" x="17" y="42"/>
+   <asset name="totem_head_32_b_4_2" flipH="1" source="totem_head_32_b_2_2" x="17" y="45"/>
+   <asset name="totem_head_32_b_4_20" flipH="1" source="totem_head_32_b_2_20" x="17" y="42"/>
+   <asset name="totem_head_32_b_4_21" flipH="1" source="totem_head_32_b_2_21" x="17" y="41"/>
+   <asset name="totem_head_32_b_4_22" flipH="1" source="totem_head_32_b_2_22" x="16" y="40"/>
+   <asset name="totem_head_32_b_4_23" flipH="1" source="totem_head_32_b_2_23" x="16" y="40"/>
+   <asset name="totem_head_32_b_4_24" flipH="1" source="totem_head_32_b_2_24" x="14" y="39"/>
+   <asset name="totem_head_32_b_4_25" flipH="1" source="totem_head_32_b_2_25" x="16" y="43"/>
+   <asset name="totem_head_32_b_4_26" flipH="1" source="totem_head_32_b_2_26" x="17" y="50"/>
+   <asset name="totem_head_32_b_4_27" flipH="1" source="totem_head_32_b_2_27" x="16" y="46"/>
+   <asset name="totem_head_32_b_4_3" flipH="1" source="totem_head_32_b_2_3" x="17" y="45"/>
+   <asset name="totem_head_32_b_4_4" flipH="1" source="totem_head_32_b_2_4" x="14" y="40"/>
+   <asset name="totem_head_32_b_4_5" flipH="1" source="totem_head_32_b_2_5" x="14" y="43"/>
+   <asset name="totem_head_32_b_4_6" flipH="1" source="totem_head_32_b_2_6" x="14" y="43"/>
+   <asset name="totem_head_32_b_4_7" flipH="1" source="totem_head_32_b_2_7" x="16" y="44"/>
+   <asset name="totem_head_32_b_4_8" flipH="1" source="totem_head_32_b_2_8" x="15" y="46"/>
+   <asset name="totem_head_32_b_4_9" flipH="1" source="totem_head_32_b_2_9" x="17" y="46"/>
+   <asset name="totem_head_64_a_2_0" x="28" y="74"/>
+   <asset name="totem_head_64_a_2_1" x="26" y="74"/>
+   <asset name="totem_head_64_a_2_2" x="22" y="74"/>
+   <asset name="totem_head_64_a_2_3" x="28" y="74"/>
+   <asset name="totem_head_64_a_2_4" x="26" y="74"/>
+   <asset name="totem_head_64_a_2_5" x="43" y="74"/>
+   <asset name="totem_head_64_a_4_0" flipH="1" source="totem_head_64_a_2_0" x="28" y="74"/>
+   <asset name="totem_head_64_a_4_1" flipH="1" source="totem_head_64_a_2_1" x="26" y="74"/>
+   <asset name="totem_head_64_a_4_2" flipH="1" source="totem_head_64_a_2_2" x="22" y="74"/>
+   <asset name="totem_head_64_a_4_3" flipH="1" source="totem_head_64_a_2_3" x="28" y="74"/>
+   <asset name="totem_head_64_a_4_4" flipH="1" source="totem_head_64_a_2_4" x="26" y="74"/>
+   <asset name="totem_head_64_a_4_5" flipH="1" source="totem_head_64_a_2_5" x="43" y="74"/>
+   <asset name="totem_head_64_b_2_0" x="-4" y="-11"/>
+   <asset name="totem_head_64_b_2_1" x="33" y="82"/>
+   <asset name="totem_head_64_b_2_10" x="28" y="86"/>
+   <asset name="totem_head_64_b_2_11" x="34" y="89"/>
+   <asset name="totem_head_64_b_2_12" x="34" y="93"/>
+   <asset name="totem_head_64_b_2_13" x="28" y="87"/>
+   <asset name="totem_head_64_b_2_14" x="24" y="79"/>
+   <asset name="totem_head_64_b_2_15" x="29" y="78"/>
+   <asset name="totem_head_64_b_2_16" x="32" y="91"/>
+   <asset name="totem_head_64_b_2_17" x="34" y="95"/>
+   <asset name="totem_head_64_b_2_18" x="28" y="86"/>
+   <asset name="totem_head_64_b_2_19" x="34" y="83"/>
+   <asset name="totem_head_64_b_2_2" x="35" y="90"/>
+   <asset name="totem_head_64_b_2_20" x="35" y="83"/>
+   <asset name="totem_head_64_b_2_21" x="35" y="82"/>
+   <asset name="totem_head_64_b_2_22" x="31" y="81"/>
+   <asset name="totem_head_64_b_2_23" x="31" y="81"/>
+   <asset name="totem_head_64_b_2_24" x="28" y="80"/>
+   <asset name="totem_head_64_b_2_25" x="31" y="85"/>
+   <asset name="totem_head_64_b_2_26" x="34" y="100"/>
+   <asset name="totem_head_64_b_2_27" x="32" y="92"/>
+   <asset name="totem_head_64_b_2_3" x="35" y="90"/>
+   <asset name="totem_head_64_b_2_4" x="28" y="82"/>
+   <asset name="totem_head_64_b_2_5" x="27" y="88"/>
+   <asset name="totem_head_64_b_2_6" x="28" y="88"/>
+   <asset name="totem_head_64_b_2_7" x="33" y="87"/>
+   <asset name="totem_head_64_b_2_8" x="30" y="92"/>
+   <asset name="totem_head_64_b_2_9" x="34" y="92"/>
+   <asset name="totem_head_64_b_4_0" flipH="1" source="totem_head_64_b_2_0" x="-4" y="-11"/>
+   <asset name="totem_head_64_b_4_1" flipH="1" source="totem_head_64_b_2_1" x="33" y="82"/>
+   <asset name="totem_head_64_b_4_10" flipH="1" source="totem_head_64_b_2_10" x="28" y="86"/>
+   <asset name="totem_head_64_b_4_11" flipH="1" source="totem_head_64_b_2_11" x="34" y="89"/>
+   <asset name="totem_head_64_b_4_12" flipH="1" source="totem_head_64_b_2_12" x="34" y="93"/>
+   <asset name="totem_head_64_b_4_13" flipH="1" source="totem_head_64_b_2_13" x="28" y="87"/>
+   <asset name="totem_head_64_b_4_14" flipH="1" source="totem_head_64_b_2_14" x="24" y="79"/>
+   <asset name="totem_head_64_b_4_15" flipH="1" source="totem_head_64_b_2_15" x="29" y="78"/>
+   <asset name="totem_head_64_b_4_16" flipH="1" source="totem_head_64_b_2_16" x="32" y="91"/>
+   <asset name="totem_head_64_b_4_17" flipH="1" source="totem_head_64_b_2_17" x="34" y="95"/>
+   <asset name="totem_head_64_b_4_18" flipH="1" source="totem_head_64_b_2_18" x="28" y="86"/>
+   <asset name="totem_head_64_b_4_19" flipH="1" source="totem_head_64_b_2_19" x="34" y="83"/>
+   <asset name="totem_head_64_b_4_2" flipH="1" source="totem_head_64_b_2_2" x="35" y="90"/>
+   <asset name="totem_head_64_b_4_20" flipH="1" source="totem_head_64_b_2_20" x="35" y="83"/>
+   <asset name="totem_head_64_b_4_21" flipH="1" source="totem_head_64_b_2_21" x="35" y="82"/>
+   <asset name="totem_head_64_b_4_22" flipH="1" source="totem_head_64_b_2_22" x="31" y="81"/>
+   <asset name="totem_head_64_b_4_23" flipH="1" source="totem_head_64_b_2_23" x="31" y="81"/>
+   <asset name="totem_head_64_b_4_24" flipH="1" source="totem_head_64_b_2_24" x="28" y="80"/>
+   <asset name="totem_head_64_b_4_25" flipH="1" source="totem_head_64_b_2_25" x="31" y="85"/>
+   <asset name="totem_head_64_b_4_26" flipH="1" source="totem_head_64_b_2_26" x="34" y="100"/>
+   <asset name="totem_head_64_b_4_27" flipH="1" source="totem_head_64_b_2_27" x="32" y="92"/>
+   <asset name="totem_head_64_b_4_3" flipH="1" source="totem_head_64_b_2_3" x="35" y="90"/>
+   <asset name="totem_head_64_b_4_4" flipH="1" source="totem_head_64_b_2_4" x="28" y="82"/>
+   <asset name="totem_head_64_b_4_5" flipH="1" source="totem_head_64_b_2_5" x="27" y="88"/>
+   <asset name="totem_head_64_b_4_6" flipH="1" source="totem_head_64_b_2_6" x="28" y="88"/>
+   <asset name="totem_head_64_b_4_7" flipH="1" source="totem_head_64_b_2_7" x="33" y="87"/>
+   <asset name="totem_head_64_b_4_8" flipH="1" source="totem_head_64_b_2_8" x="30" y="92"/>
+   <asset name="totem_head_64_b_4_9" flipH="1" source="totem_head_64_b_2_9" x="34" y="92"/>
+   <asset name="totem_head_icon_a" x="12" y="14"/>
+</assets>

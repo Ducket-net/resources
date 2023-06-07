@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="ktchn_gate_64_a_0_0" x="25" y="137"/>
+   <asset name="ktchn_gate_64_a_2_0" flipH="1" source="ktchn_gate_64_a_0_0" x="25" y="137"/>
+   <asset name="ktchn_gate_64_b_0_0" x="17" y="120"/>
+   <asset name="ktchn_gate_64_b_0_1" x="41" y="120"/>
+   <asset name="ktchn_gate_64_b_2_0" flipH="1" source="ktchn_gate_64_b_0_0" x="17" y="120"/>
+   <asset name="ktchn_gate_64_b_2_1" flipH="1" source="ktchn_gate_64_b_0_1" x="41" y="120"/>
+   <asset name="ktchn_gate_64_c_0_0" x="7" y="106"/>
+   <asset name="ktchn_gate_64_c_0_1" x="31" y="103"/>
+   <asset name="ktchn_gate_64_c_2_0" flipH="1" source="ktchn_gate_64_c_0_0" x="7" y="106"/>
+   <asset name="ktchn_gate_64_c_2_1" flipH="1" source="ktchn_gate_64_c_0_1" x="31" y="103"/>
+   <asset name="ktchn_gate_64_d_0_0" x="-11" y="107"/>
+   <asset name="ktchn_gate_64_d_0_1" x="-5" y="97"/>
+   <asset name="ktchn_gate_64_d_2_0" flipH="1" source="ktchn_gate_64_d_0_0" x="-11" y="107"/>
+   <asset name="ktchn_gate_64_d_2_1" flipH="1" source="ktchn_gate_64_d_0_1" x="-5" y="97"/>
+   <asset name="ktchn_gate_64_e_0_0" x="-20" y="92"/>
+   <asset name="ktchn_gate_64_e_0_1" x="-15" y="80"/>
+   <asset name="ktchn_gate_64_e_2_0" flipH="1" source="ktchn_gate_64_e_0_0" x="-20" y="92"/>
+   <asset name="ktchn_gate_64_e_2_1" flipH="1" source="ktchn_gate_64_e_0_1" x="-15" y="80"/>
+   <asset name="ktchn_gate_64_f_0_0" x="5" y="134"/>
+   <asset name="ktchn_gate_64_f_2_0" flipH="1" source="ktchn_gate_64_f_0_0" x="5" y="134"/>
+   <asset name="ktchn_gate_64_sd_0_0" x="19" y="8"/>
+   <asset name="ktchn_gate_64_sd_2_0" flipH="1" source="ktchn_gate_64_sd_0_0" x="19" y="8"/>
+   <asset name="ktchn_gate_icon_a" x="9" y="15"/>
+   <asset name="ktchn_gate_32_a_0_0" x="12" y="69"/>
+   <asset name="ktchn_gate_32_a_2_0" x="-3" y="69"/>
+   <asset name="ktchn_gate_32_b_0_0" x="8" y="60"/>
+   <asset name="ktchn_gate_32_b_0_1" x="21" y="61"/>
+   <asset name="ktchn_gate_32_b_2_0" x="4" y="60"/>
+   <asset name="ktchn_gate_32_b_2_1" x="-5" y="61"/>
+   <asset name="ktchn_gate_32_c_0_0" x="3" y="52"/>
+   <asset name="ktchn_gate_32_c_0_1" x="15" y="51"/>
+   <asset name="ktchn_gate_32_c_2_0" x="0" y="52"/>
+   <asset name="ktchn_gate_32_c_2_1" x="-12" y="51"/>
+   <asset name="ktchn_gate_32_d_0_0" x="-6" y="54"/>
+   <asset name="ktchn_gate_32_d_0_1" x="-3" y="49"/>
+   <asset name="ktchn_gate_32_d_2_0" x="16" y="54"/>
+   <asset name="ktchn_gate_32_d_2_1" x="16" y="49"/>
+   <asset name="ktchn_gate_32_e_0_0" x="-11" y="45"/>
+   <asset name="ktchn_gate_32_e_0_1" x="-9" y="39"/>
+   <asset name="ktchn_gate_32_e_2_0" x="14" y="45"/>
+   <asset name="ktchn_gate_32_e_2_1" x="12" y="39"/>
+   <asset name="ktchn_gate_32_f_0_0" x="1" y="67"/>
+   <asset name="ktchn_gate_32_f_2_0" x="27" y="67"/>
+   <asset name="ktchn_gate_32_sd_0_0" x="8" y="2"/>
+   <asset name="ktchn_gate_32_sd_2_0" x="16" y="2"/>
+</assets>

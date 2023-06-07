@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wildwest_minecart" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wildwest_minecart_visualization" mimeType="text/xml"/>
+      <asset name="wildwest_minecart_assets" mimeType="text/xml"/>
+      <asset name="wildwest_minecart_logic" mimeType="text/xml"/>
+      <asset name="wildwest_minecart_64_sd_2_0" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_0" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_1" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_2" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_3" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_4" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_5" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_6" mimeType="image/png"/>
+      <asset name="wildwest_minecart_64_a_2_7" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_sd_2_0" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_0" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_1" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_2" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_3" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_4" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_5" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_6" mimeType="image/png"/>
+      <asset name="wildwest_minecart_32_a_2_7" mimeType="image/png"/>
+      <asset name="wildwest_minecart_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

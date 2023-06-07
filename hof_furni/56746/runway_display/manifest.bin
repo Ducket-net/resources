@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="runway_display" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="runway_display_visualization" mimeType="text/xml"/>
+      <asset name="runway_display_assets" mimeType="text/xml"/>
+      <asset name="runway_display_logic" mimeType="text/xml"/>
+      <asset name="runway_display_32_sd_4_0" mimeType="image/png"/>
+      <asset name="runway_display_32_a_4_0" mimeType="image/png"/>
+      <asset name="runway_display_64_sd_4_0" mimeType="image/png"/>
+      <asset name="runway_display_64_a_4_0" mimeType="image/png"/>
+      <asset name="runway_display_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

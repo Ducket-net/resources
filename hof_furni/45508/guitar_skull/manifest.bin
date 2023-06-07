@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="guitar_skull" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="guitar_skull_visualization" mimeType="text/xml"/>
+         <asset name="guitar_skull_assets" mimeType="text/xml"/>
+         <asset name="guitar_skull_logic" mimeType="text/xml"/>
+         <asset name="guitar_skull_icon_a" mimeType="image/png"/>
+         <asset name="guitar_skull_64_a_2_0" mimeType="image/png"/>
+         <asset name="guitar_skull_64_b_2_0" mimeType="image/png"/>
+         <asset name="guitar_skull_32_a_2_0" mimeType="image/png"/>
+         <asset name="guitar_skull_32_b_2_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

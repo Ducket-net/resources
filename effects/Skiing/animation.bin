@@ -1,0 +1,76 @@
+<?xml version='1.0'?>
+<animation name="fx.213" desc="Skiing">
+	<remove id="sh" />
+    <remove id="lg" />
+	<add id="fx213_1" align="bottom" />
+	<add id="fx213_2" align="top" />
+    <add id="fx213_3" align="bottom" />
+
+	<!-- Stand override -->
+	<override name="std_skiing" override="std">
+		<frame>
+			<bodypart id="leftarm" action="CarryItem" frame="0"/>
+			<bodypart id="rightarm" action="CarryItem" frame="0"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="bd" base="fx213_1"/>
+                			</bodypart>	
+                <fx id="fx213_1" action="Default" frame="0" />
+                <fx id="fx213_2" action="Default" frame="0" />
+                <fx id="fx213_3" action="Default" frame="0" />
+		
+		</frame>
+	</override>
+
+	<!-- Move override -->
+	<override name="mv_skiing" override="mv">
+		<frame>
+			<bodypart id="leftarm" action="Default" frame="0"/>
+			<bodypart id="rightarm" action="Default" frame="0"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="bd" base="fx213_1"/>
+                			</bodypart>	
+                <fx id="fx213_1" action="Default" frame="1" />
+                <fx id="fx213_2" action="Default" frame="1" />
+                <fx id="fx213_3" action="Default" frame="1" />
+		
+		</frame>
+        		<frame>
+			<bodypart id="leftarm" action="Default" frame="0"/>
+			<bodypart id="rightarm" action="Default" frame="0"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="bd" base="fx213_1"/>
+                			</bodypart>	
+                <fx id="fx213_1" action="Default" frame="1" />
+                <fx id="fx213_2" action="Default" frame="1" />
+                <fx id="fx213_3" action="Default" frame="1" />
+		
+		</frame>
+        		<frame>
+			<bodypart id="leftarm" action="Default" frame="0"/>
+			<bodypart id="rightarm" action="Default" frame="0"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="bd" base="fx213_1"/>
+                			</bodypart>	
+                <fx id="fx213_1" action="Default" frame="1" />
+                <fx id="fx213_2" action="Default" frame="1" />
+                <fx id="fx213_3" action="Default" frame="1" />
+		
+		</frame>
+        		<frame>
+			<bodypart id="leftarm" action="Default" frame="0"/>
+			<bodypart id="rightarm" action="Default" frame="0"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="bd" base="fx213_1"/>
+                			</bodypart>	
+                <fx id="fx213_1" action="Default" frame="1" />
+                <fx id="fx213_2" action="Default" frame="1" />
+                <fx id="fx213_3" action="Default" frame="1" />
+		
+		</frame>
+
+
+
+	</override>
+    
+    
+</animation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="jp_divider_32_a_0_0" x="10" y="61"/>
+  <asset name="jp_divider_32_b_0_0" x="10" y="60"/>
+  <asset name="jp_divider_64_a_0_0" x="17" y="122"/>
+  <asset name="jp_divider_64_b_0_0" x="17" y="121"/>
+  <asset name="jp_divider_icon_a" x="6" y="24"/>
+  <asset name="jp_divider_32_a_2_0" flipH="1" source="jp_divider_32_a_0_0" x="10" y="61"/>
+  <asset name="jp_divider_32_b_2_0" flipH="1" source="jp_divider_32_b_0_0" x="10" y="60"/>
+  <asset name="jp_divider_64_a_2_0" flipH="1" source="jp_divider_64_a_0_0" x="17" y="122"/>
+  <asset name="jp_divider_64_b_2_0" flipH="1" source="jp_divider_64_b_0_0" x="17" y="121"/>
+</assets>

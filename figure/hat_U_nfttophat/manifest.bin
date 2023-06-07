@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_nfttophat" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_4600_2_0" mimeType="image/png">
+        <param key="offset" value="31,43"/>
+      </asset>
+      <asset name="h_lsp_ha_4600_2_0" mimeType="image/png">
+        <param key="offset" value="-32,-116"/>
+      </asset>
+      <asset name="h_std_ha_4600_0_0" mimeType="image/png">
+        <param key="offset" value="-13,84"/>
+      </asset>
+      <asset name="h_std_ha_4600_1_0" mimeType="image/png">
+        <param key="offset" value="-11,87"/>
+      </asset>
+      <asset name="h_std_ha_4600_2_0" mimeType="image/png">
+        <param key="offset" value="-13,87"/>
+      </asset>
+      <asset name="h_std_ha_4600_3_0" mimeType="image/png">
+        <param key="offset" value="-14,87"/>
+      </asset>
+      <asset name="h_std_ha_4600_7_0" mimeType="image/png">
+        <param key="offset" value="-14,86"/>
+      </asset>
+      <asset name="h_spk_ha_4600_0_0" mimeType="image/png">
+        <param key="offset" value="-13,85"/>
+      </asset>
+      <asset name="h_spk_ha_4600_1_0" mimeType="image/png">
+        <param key="offset" value="-11,88"/>
+      </asset>
+      <asset name="h_spk_ha_4600_2_0" mimeType="image/png">
+        <param key="offset" value="-13,88"/>
+      </asset>
+      <asset name="h_spk_ha_4600_3_0" mimeType="image/png">
+        <param key="offset" value="-14,88"/>
+      </asset>
+      <asset name="h_spk_ha_4600_7_0" mimeType="image/png">
+        <param key="offset" value="-14,87"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

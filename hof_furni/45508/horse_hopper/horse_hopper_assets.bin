@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="horse_hopper_32_a_2_0" x="17" y="46"/>
+  <asset name="horse_hopper_32_b_2_0" x="16" y="68"/>
+  <asset name="horse_hopper_32_b_2_1" x="16" y="68"/>
+  <asset name="horse_hopper_32_c_2_1" x="0" y="33"/>
+  <asset name="horse_hopper_32_d_2_1" x="13" y="70"/>
+  <asset name="horse_hopper_32_d_2_2" x="13" y="83"/>
+  <asset name="horse_hopper_64_a_2_0" x="36" y="94"/>
+  <asset name="horse_hopper_64_b_2_0" x="35" y="136"/>
+  <asset name="horse_hopper_64_b_2_1" x="35" y="136"/>
+  <asset name="horse_hopper_64_c_2_0" x="2" y="79"/>
+  <asset name="horse_hopper_64_c_2_1" x="3" y="67"/>
+  <asset name="horse_hopper_64_d_2_1" x="28" y="142"/>
+  <asset name="horse_hopper_64_d_2_2" x="28" y="167"/>
+  <asset name="horse_hopper_icon_a" x="9" y="15"/>
+  <asset name="horse_hopper_32_c_2_0" flipH="1" source="horse_hopper_64_c_2_0" x="-1" y="79"/>
+  <asset name="horse_hopper_32_d_2_0" flipH="1" source="horse_hopper_64_c_2_0" x="-1" y="79"/>
+  <asset name="horse_hopper_32_a_4_0" flipH="1" source="horse_hopper_32_a_2_0" x="19" y="46"/>
+  <asset name="horse_hopper_32_b_4_0" flipH="1" source="horse_hopper_32_b_2_0" x="18" y="68"/>
+  <asset name="horse_hopper_32_b_4_1" flipH="1" source="horse_hopper_32_b_2_1" x="18" y="68"/>
+  <asset name="horse_hopper_32_c_4_0" flipH="1" source="horse_hopper_64_c_2_0" x="4" y="79"/>
+  <asset name="horse_hopper_32_c_4_1" flipH="1" source="horse_hopper_32_c_2_1" x="2" y="33"/>
+  <asset name="horse_hopper_32_d_4_0" flipH="1" source="horse_hopper_64_c_2_0" x="4" y="79"/>
+  <asset name="horse_hopper_32_d_4_1" flipH="1" source="horse_hopper_32_d_2_1" x="15" y="70"/>
+  <asset name="horse_hopper_32_d_4_2" flipH="1" source="horse_hopper_32_d_2_2" x="15" y="83"/>
+  <asset name="horse_hopper_64_d_2_0" flipH="1" source="horse_hopper_64_c_2_0" x="-1" y="79"/>
+  <asset name="horse_hopper_64_a_4_0" flipH="1" source="horse_hopper_64_a_2_0" x="36" y="94"/>
+  <asset name="horse_hopper_64_b_4_0" flipH="1" source="horse_hopper_64_b_2_0" x="35" y="136"/>
+  <asset name="horse_hopper_64_b_4_1" flipH="1" source="horse_hopper_64_b_2_1" x="35" y="136"/>
+  <asset name="horse_hopper_64_c_4_0" flipH="1" source="horse_hopper_64_c_2_0" x="2" y="79"/>
+  <asset name="horse_hopper_64_c_4_1" flipH="1" source="horse_hopper_64_c_2_1" x="3" y="67"/>
+  <asset name="horse_hopper_64_d_4_0" flipH="1" source="horse_hopper_64_c_2_0" x="2" y="79"/>
+  <asset name="horse_hopper_64_d_4_1" flipH="1" source="horse_hopper_64_d_2_1" x="28" y="142"/>
+  <asset name="horse_hopper_64_d_4_2" flipH="1" source="horse_hopper_64_d_2_2" x="28" y="167"/>
+</assets>

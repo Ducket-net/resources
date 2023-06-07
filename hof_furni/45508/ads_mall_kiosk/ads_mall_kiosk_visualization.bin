@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="ads_mall_kiosk"><graphics>
+   <visualization size="32" layerCount="10" angle="45">
+      <layers>
+         <layer id="0" z="10"/>
+         <layer id="1" z="1010"/>
+         <layer id="2" alpha="179" ignoreMouse="1" z="20"/>
+         <layer id="3" alpha="179" ignoreMouse="1" z="1020"/>
+         <layer id="4" ignoreMouse="1" z="30"/>
+         <layer id="5" ignoreMouse="1" z="1030"/>
+         <layer id="6" alpha="179" ignoreMouse="1" z="1"/>
+         <layer id="7" alpha="179" ignoreMouse="1" z="1001"/>
+         <layer id="8" ignoreMouse="1" z="10"/>
+         <layer id="9" ignoreMouse="1" z="1010"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+   </visualization>
+   <visualization size="64" layerCount="10" angle="45">
+      <layers>
+         <layer id="0" z="10"/>
+         <layer id="1" z="1010"/>
+         <layer id="2" alpha="179" ignoreMouse="1" z="20"/>
+         <layer id="3" alpha="179" ignoreMouse="1" z="1020"/>
+         <layer id="4" ignoreMouse="1" z="30"/>
+         <layer id="5" ignoreMouse="1" z="1030"/>
+         <layer id="6" alpha="179" ignoreMouse="1" z="1"/>
+         <layer id="7" alpha="179" ignoreMouse="1" z="1001"/>
+         <layer id="8" ignoreMouse="1" z="10"/>
+         <layer id="9" ignoreMouse="1" z="1010"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+         <direction id="2"/>
+      </directions>
+   </visualization>
+   <visualization size="1" layerCount="1" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+   </visualization>
+</graphics></visualizationData>

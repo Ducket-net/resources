@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="boutique_hcsign" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="boutique_hcsign_visualization" mimeType="text/xml"/>
+      <asset name="boutique_hcsign_assets" mimeType="text/xml"/>
+      <asset name="boutique_hcsign_logic" mimeType="text/xml"/>
+      <asset name="boutique_hcsign_64_sd_0_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_64_sd" mimeType="image/png"/>
+      <asset name="boutique_hcsign_64_a_0_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_64_sd_2_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_64_a_2_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_32_sd" mimeType="image/png"/>
+      <asset name="boutique_hcsign_32_sd_0_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_32_a_0_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_32_sd_2_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_32_a_2_0" mimeType="image/png"/>
+      <asset name="boutique_hcsign_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

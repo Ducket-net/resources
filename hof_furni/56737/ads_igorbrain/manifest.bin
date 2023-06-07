@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="ads_igorbrain" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="ads_igorbrain_visualization" mimeType="text/xml"/>
+         <asset name="ads_igorbrain_assets" mimeType="text/xml"/>
+         <asset name="ads_igorbrain_logic" mimeType="text/xml"/>
+         <asset name="ads_igorbrain_64_a_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_a_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_b_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_c_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_c_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_c_4_2" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_d_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_e_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_f_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_g_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_h_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_h_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_h_4_2" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_h_4_3" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_i_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_i_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_j_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_j_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_64_sd_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_icon_a" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_a_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_a_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_b_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_c_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_c_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_c_4_2" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_d_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_e_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_f_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_g_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_h_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_h_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_h_4_2" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_h_4_3" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_i_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_i_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_j_4_0" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_j_4_1" mimeType="image/png"/>
+         <asset name="ads_igorbrain_32_sd_4_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="val13_wall_2_32_a_2_0" x="20" y="83"/>
+  <asset name="val13_wall_2_32_a_2_1" x="20" y="83"/>
+  <asset name="val13_wall_2_32_a_2_2" x="20" y="83"/>
+  <asset name="val13_wall_2_32_a_2_3" x="20" y="83"/>
+  <asset name="val13_wall_2_32_b_2_0" x="-15" y="83"/>
+  <asset name="val13_wall_2_64_a_2_0" x="40" y="165"/>
+  <asset name="val13_wall_2_64_a_2_1" x="40" y="165"/>
+  <asset name="val13_wall_2_64_a_2_2" x="40" y="165"/>
+  <asset name="val13_wall_2_64_a_2_3" x="40" y="165"/>
+  <asset name="val13_wall_2_64_b_2_0" x="-28" y="164"/>
+  <asset name="val13_wall_2_icon_a" x="11" y="14"/>
+  <asset name="val13_wall_2_32_a_4_0" flipH="1" source="val13_wall_2_32_a_2_0" x="20" y="83"/>
+  <asset name="val13_wall_2_32_a_4_1" flipH="1" source="val13_wall_2_32_a_2_1" x="20" y="83"/>
+  <asset name="val13_wall_2_32_a_4_2" flipH="1" source="val13_wall_2_32_a_2_2" x="20" y="83"/>
+  <asset name="val13_wall_2_32_a_4_3" flipH="1" source="val13_wall_2_32_a_2_3" x="20" y="83"/>
+  <asset name="val13_wall_2_32_b_4_0" flipH="1" source="val13_wall_2_32_b_2_0" x="-15" y="83"/>
+  <asset name="val13_wall_2_64_a_4_0" flipH="1" source="val13_wall_2_64_a_2_0" x="40" y="165"/>
+  <asset name="val13_wall_2_64_a_4_1" flipH="1" source="val13_wall_2_64_a_2_1" x="40" y="165"/>
+  <asset name="val13_wall_2_64_a_4_2" flipH="1" source="val13_wall_2_64_a_2_2" x="40" y="165"/>
+  <asset name="val13_wall_2_64_a_4_3" flipH="1" source="val13_wall_2_64_a_2_3" x="40" y="165"/>
+  <asset name="val13_wall_2_64_b_4_0" flipH="1" source="val13_wall_2_64_b_2_0" x="-28" y="164"/>
+</assets>

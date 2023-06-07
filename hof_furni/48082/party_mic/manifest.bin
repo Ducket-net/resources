@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="party_mic" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="party_mic_visualization" mimeType="text/xml"/>
+         <asset name="party_mic_assets" mimeType="text/xml"/>
+         <asset name="party_mic_logic" mimeType="text/xml"/>
+         <asset name="party_mic_64_a_0_0" mimeType="image/png"/>
+         <asset name="party_mic_64_a_4_0" mimeType="image/png"/>
+         <asset name="party_mic_64_sd_0_0" mimeType="image/png"/>
+         <asset name="party_mic_icon_a" mimeType="image/png"/>
+         <asset name="party_mic_32_a_0_0" mimeType="image/png"/>
+         <asset name="party_mic_32_a_2_0" mimeType="image/png"/>
+         <asset name="party_mic_32_sd_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

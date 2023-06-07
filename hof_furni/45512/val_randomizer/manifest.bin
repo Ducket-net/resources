@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="val_randomizer" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="val_randomizer_visualization" mimeType="text/xml"/>
+         <asset name="val_randomizer_assets" mimeType="text/xml"/>
+         <asset name="val_randomizer_logic" mimeType="text/xml"/>
+         <asset name="val_randomizer_32_a_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_b_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_c_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_d_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_e_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_e_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_32_f_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_g_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_h_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_i_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_i_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_32_j_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_j_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_32_k_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_k_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_32_l_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_32_l_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_64_a_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_b_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_c_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_d_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_e_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_e_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_64_f_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_g_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_h_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_i_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_i_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_64_j_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_j_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_64_k_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_k_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_64_l_4_0" mimeType="image/png"/>
+         <asset name="val_randomizer_64_l_4_1" mimeType="image/png"/>
+         <asset name="val_randomizer_icon_a" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

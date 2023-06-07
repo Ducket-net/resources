@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="table_norja_med"><graphics>
+   <visualization size="32" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" z="1000"/>
+         <layer id="1" z="1010"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="2">
+            <colorLayer id="1" color="525252"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="ABD0D2"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="EE7EA4"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="5EAAF8"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="7CB135"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="FFD837"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="E14218"/>
+         </color>
+         <color id="0">
+            <colorLayer id="1" color="F7EBBC"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="764DA5"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="2" angle="45">
+      <layers>
+         <layer id="0" z="1000"/>
+         <layer id="1" z="1010"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="2">
+            <colorLayer id="1" color="525252"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="ABD0D2"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="EE7EA4"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="5EAAF8"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="7CB135"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="FFD837"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="E14218"/>
+         </color>
+         <color id="0">
+            <colorLayer id="1" color="F7EBBC"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="764DA5"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="2">
+            <colorLayer id="1" color="525252"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="ABD0D2"/>
+         </color>
+         <color id="5">
+            <colorLayer id="1" color="EE7EA4"/>
+         </color>
+         <color id="6">
+            <colorLayer id="1" color="5EAAF8"/>
+         </color>
+         <color id="7">
+            <colorLayer id="1" color="7CB135"/>
+         </color>
+         <color id="8">
+            <colorLayer id="1" color="FFD837"/>
+         </color>
+         <color id="9">
+            <colorLayer id="1" color="E14218"/>
+         </color>
+         <color id="0">
+            <colorLayer id="1" color="F7EBBC"/>
+         </color>
+         <color id="10">
+            <colorLayer id="1" color="764DA5"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

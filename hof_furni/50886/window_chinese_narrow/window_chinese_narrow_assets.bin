@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="window_chinese_narrow_64_a_2_0" x="20" y="53"/>
+   <asset name="window_chinese_narrow_64_2_mask" x="12" y="41"/>
+   <asset name="window_chinese_narrow_64_a_4_0" flipH="1" source="window_chinese_narrow_64_a_2_0" x="20" y="53"/>
+   <asset name="window_chinese_narrow_64_4_mask" flipH="1" source="window_chinese_narrow_64_2_mask" x="12" y="41"/>
+   <asset name="window_chinese_narrow_32_a_2_0" x="9" y="27"/>
+   <asset name="window_chinese_narrow_32_2_mask" x="5" y="20"/>
+   <asset name="window_chinese_narrow_32_a_4_0" flipH="1" source="window_chinese_narrow_32_a_2_0" x="9" y="27"/>
+   <asset name="window_chinese_narrow_32_4_mask" flipH="1" source="window_chinese_narrow_32_2_mask" x="5" y="20"/>
+   <asset name="window_chinese_narrow_icon_a" x="4" y="11"/>
+</assets>

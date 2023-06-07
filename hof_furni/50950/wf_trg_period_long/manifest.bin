@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wf_trg_period_long" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wf_trg_period_long_visualization" mimeType="text/xml"/>
+      <asset name="wf_trg_period_long_assets" mimeType="text/xml"/>
+      <asset name="wf_trg_period_long_logic" mimeType="text/xml"/>
+      <asset name="wf_trg_period_long_64_a_0_0" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_0_1" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_0_2" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_0_3" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_0_4" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_0_5" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_0_6" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_0" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_1" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_2" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_3" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_4" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_5" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_64_a_6_6" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_0" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_1" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_2" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_3" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_4" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_5" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_0_6" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_0" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_1" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_2" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_3" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_4" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_5" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_32_a_6_6" mimeType="image/png"/>
+      <asset name="wf_trg_period_long_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

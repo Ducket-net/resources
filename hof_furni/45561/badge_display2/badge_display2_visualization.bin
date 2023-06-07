@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="badge_display2"><graphics>
+  <visualization size="1" layerCount="1" angle="360">
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="32" layerCount="4" angle="45">
+    <layers>
+      <layer id="0" z="1100"/>
+      <layer id="1" z="1150" tag="BADGE" x="-10" y="-29"/>
+      <layer id="2" z="1200"/>
+      <layer id="3" z="2100"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="4" angle="45">
+    <layers>
+      <layer id="0" z="1100"/>
+      <layer id="1" z="1150" tag="BADGE" x="-19" y="-55"/>
+      <layer id="2" z="1200"/>
+      <layer id="3" z="2100"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>

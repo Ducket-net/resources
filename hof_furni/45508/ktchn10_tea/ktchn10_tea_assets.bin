@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="ktchn10_tea_32_a_0_0" x="8" y="10"/>
+  <asset name="ktchn10_tea_32_a_2_0" x="10" y="10"/>
+  <asset name="ktchn10_tea_32_b_0_0" x="-8" y="7"/>
+  <asset name="ktchn10_tea_32_b_0_1" x="-8" y="12"/>
+  <asset name="ktchn10_tea_32_b_0_2" x="-7" y="13"/>
+  <asset name="ktchn10_tea_32_b_0_3" x="-5" y="17"/>
+  <asset name="ktchn10_tea_32_b_0_4" x="-5" y="17"/>
+  <asset name="ktchn10_tea_32_b_0_5" x="-8" y="17"/>
+  <asset name="ktchn10_tea_32_b_0_6" x="-8" y="16"/>
+  <asset name="ktchn10_tea_32_b_2_0" x="-7" y="4"/>
+  <asset name="ktchn10_tea_32_b_2_1" x="-6" y="9"/>
+  <asset name="ktchn10_tea_32_b_2_2" x="-6" y="10"/>
+  <asset name="ktchn10_tea_32_b_2_3" x="-8" y="14"/>
+  <asset name="ktchn10_tea_32_b_2_4" x="-7" y="14"/>
+  <asset name="ktchn10_tea_32_b_2_5" x="-6" y="14"/>
+  <asset name="ktchn10_tea_32_b_2_6" x="-7" y="13"/>
+  <asset name="ktchn10_tea_64_a_0_0" x="16" y="19"/>
+  <asset name="ktchn10_tea_64_a_2_0" x="19" y="19"/>
+  <asset name="ktchn10_tea_64_b_0_0" x="-16" y="14"/>
+  <asset name="ktchn10_tea_64_b_0_1" x="-15" y="24"/>
+  <asset name="ktchn10_tea_64_b_0_2" x="-9" y="27"/>
+  <asset name="ktchn10_tea_64_b_0_3" x="-8" y="34"/>
+  <asset name="ktchn10_tea_64_b_0_4" x="-9" y="34"/>
+  <asset name="ktchn10_tea_64_b_0_5" x="-11" y="34"/>
+  <asset name="ktchn10_tea_64_b_0_6" x="-14" y="33"/>
+  <asset name="ktchn10_tea_64_b_2_0" x="-14" y="8"/>
+  <asset name="ktchn10_tea_64_b_2_1" x="-11" y="17"/>
+  <asset name="ktchn10_tea_64_b_2_2" x="-11" y="20"/>
+  <asset name="ktchn10_tea_64_b_2_3" x="-13" y="27"/>
+  <asset name="ktchn10_tea_64_b_2_4" x="-13" y="27"/>
+  <asset name="ktchn10_tea_64_b_2_5" x="-13" y="27"/>
+  <asset name="ktchn10_tea_64_b_2_6" x="-14" y="26"/>
+  <asset name="ktchn10_tea_icon_a" x="13" y="10"/>
+  <asset name="ktchn10_tea_32_a_6_0" flipH="1" source="ktchn10_tea_32_a_0_0" x="8" y="10"/>
+  <asset name="ktchn10_tea_32_a_4_0" flipH="1" source="ktchn10_tea_32_a_2_0" x="10" y="10"/>
+  <asset name="ktchn10_tea_32_b_6_0" flipH="1" source="ktchn10_tea_32_b_0_0" x="-8" y="7"/>
+  <asset name="ktchn10_tea_32_b_6_1" flipH="1" source="ktchn10_tea_32_b_0_1" x="-8" y="12"/>
+  <asset name="ktchn10_tea_32_b_6_2" flipH="1" source="ktchn10_tea_32_b_0_2" x="-7" y="13"/>
+  <asset name="ktchn10_tea_32_b_6_3" flipH="1" source="ktchn10_tea_32_b_0_3" x="-5" y="17"/>
+  <asset name="ktchn10_tea_32_b_6_4" flipH="1" source="ktchn10_tea_32_b_0_4" x="-5" y="17"/>
+  <asset name="ktchn10_tea_32_b_6_5" flipH="1" source="ktchn10_tea_32_b_0_5" x="-8" y="17"/>
+  <asset name="ktchn10_tea_32_b_6_6" flipH="1" source="ktchn10_tea_32_b_0_6" x="-8" y="16"/>
+  <asset name="ktchn10_tea_32_b_4_0" flipH="1" source="ktchn10_tea_32_b_2_0" x="-7" y="4"/>
+  <asset name="ktchn10_tea_32_b_4_1" flipH="1" source="ktchn10_tea_32_b_2_1" x="-6" y="9"/>
+  <asset name="ktchn10_tea_32_b_4_2" flipH="1" source="ktchn10_tea_32_b_2_2" x="-6" y="10"/>
+  <asset name="ktchn10_tea_32_b_4_3" flipH="1" source="ktchn10_tea_32_b_2_3" x="-8" y="14"/>
+  <asset name="ktchn10_tea_32_b_4_4" flipH="1" source="ktchn10_tea_32_b_2_4" x="-7" y="14"/>
+  <asset name="ktchn10_tea_32_b_4_5" flipH="1" source="ktchn10_tea_32_b_2_5" x="-6" y="14"/>
+  <asset name="ktchn10_tea_32_b_4_6" flipH="1" source="ktchn10_tea_32_b_2_6" x="-7" y="13"/>
+  <asset name="ktchn10_tea_64_a_6_0" flipH="1" source="ktchn10_tea_64_a_0_0" x="16" y="19"/>
+  <asset name="ktchn10_tea_64_a_4_0" flipH="1" source="ktchn10_tea_64_a_2_0" x="19" y="19"/>
+  <asset name="ktchn10_tea_64_b_6_0" flipH="1" source="ktchn10_tea_64_b_0_0" x="-16" y="14"/>
+  <asset name="ktchn10_tea_64_b_6_1" flipH="1" source="ktchn10_tea_64_b_0_1" x="-15" y="24"/>
+  <asset name="ktchn10_tea_64_b_6_2" flipH="1" source="ktchn10_tea_64_b_0_2" x="-9" y="27"/>
+  <asset name="ktchn10_tea_64_b_6_3" flipH="1" source="ktchn10_tea_64_b_0_3" x="-8" y="34"/>
+  <asset name="ktchn10_tea_64_b_6_4" flipH="1" source="ktchn10_tea_64_b_0_4" x="-9" y="34"/>
+  <asset name="ktchn10_tea_64_b_6_5" flipH="1" source="ktchn10_tea_64_b_0_5" x="-11" y="34"/>
+  <asset name="ktchn10_tea_64_b_6_6" flipH="1" source="ktchn10_tea_64_b_0_6" x="-14" y="33"/>
+  <asset name="ktchn10_tea_64_b_4_0" flipH="1" source="ktchn10_tea_64_b_2_0" x="-14" y="8"/>
+  <asset name="ktchn10_tea_64_b_4_1" flipH="1" source="ktchn10_tea_64_b_2_1" x="-11" y="17"/>
+  <asset name="ktchn10_tea_64_b_4_2" flipH="1" source="ktchn10_tea_64_b_2_2" x="-11" y="20"/>
+  <asset name="ktchn10_tea_64_b_4_3" flipH="1" source="ktchn10_tea_64_b_2_3" x="-13" y="27"/>
+  <asset name="ktchn10_tea_64_b_4_4" flipH="1" source="ktchn10_tea_64_b_2_4" x="-13" y="27"/>
+  <asset name="ktchn10_tea_64_b_4_5" flipH="1" source="ktchn10_tea_64_b_2_5" x="-13" y="27"/>
+  <asset name="ktchn10_tea_64_b_4_6" flipH="1" source="ktchn10_tea_64_b_2_6" x="-14" y="26"/>
+</assets>

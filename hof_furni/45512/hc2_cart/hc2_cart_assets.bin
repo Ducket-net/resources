@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc2_cart_icon_a" x="17" y="20"/>
+  <asset name="hc2_cart_64_sd_2_0" x="29" y="5"/>
+  <asset name="hc2_cart_64_a_2_0" x="35" y="65"/>
+  <asset name="hc2_cart_32_sd_2_0" x="13" y="2"/>
+  <asset name="hc2_cart_32_a_2_0" x="17" y="32"/>
+  <asset name="hc2_cart_64_sd_4_0" flipH="1" source="hc2_cart_64_sd_2_0" x="29" y="5"/>
+  <asset name="hc2_cart_64_a_4_0" flipH="1" source="hc2_cart_64_a_2_0" x="35" y="65"/>
+  <asset name="hc2_cart_32_sd_4_0" flipH="1" source="hc2_cart_32_sd_2_0" x="13" y="2"/>
+  <asset name="hc2_cart_32_a_4_0" flipH="1" source="hc2_cart_32_a_2_0" x="17" y="32"/>
+</assets>

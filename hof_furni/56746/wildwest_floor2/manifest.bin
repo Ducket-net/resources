@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wildwest_floor2" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wildwest_floor2_visualization" mimeType="text/xml"/>
+      <asset name="wildwest_floor2_assets" mimeType="text/xml"/>
+      <asset name="wildwest_floor2_logic" mimeType="text/xml"/>
+      <asset name="wildwest_floor2_32_a_0_0" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_0_0" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_0_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_0_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_2_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_2_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_4_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_4_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_6_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_b_6_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_c_0_0" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_c_0_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_32_c_0_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_a_0_0" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_0_0" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_0_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_0_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_2_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_2_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_4_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_4_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_6_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_b_6_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_c_0_0" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_c_0_1" mimeType="image/png"/>
+      <asset name="wildwest_floor2_64_c_0_2" mimeType="image/png"/>
+      <asset name="wildwest_floor2_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

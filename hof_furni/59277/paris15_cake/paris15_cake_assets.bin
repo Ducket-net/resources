@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="paris15_cake_64_a_4_0" x="29" y="102"/>
+  <asset name="paris15_cake_64_a_4_1" x="29" y="102"/>
+  <asset name="paris15_cake_64_a_6_0" x="31" y="105"/>
+  <asset name="paris15_cake_64_a_6_1" x="31" y="105"/>
+  <asset name="paris15_cake_icon_a" x="5" y="14"/>
+  <asset name="paris15_cake_64_a_2_0" flipH="1" source="paris15_cake_64_a_4_0" x="29" y="102"/>
+  <asset name="paris15_cake_64_a_2_1" flipH="1" source="paris15_cake_64_a_4_1" x="29" y="102"/>
+  <asset name="paris15_cake_64_a_0_0" flipH="1" source="paris15_cake_64_a_6_0" x="31" y="105"/>
+  <asset name="paris15_cake_64_a_0_1" flipH="1" source="paris15_cake_64_a_6_1" x="31" y="105"/>
+</assets>

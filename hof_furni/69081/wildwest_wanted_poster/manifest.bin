@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wildwest_wanted_poster" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wildwest_wanted_poster_visualization" mimeType="text/xml"/>
+      <asset name="wildwest_wanted_poster_assets" mimeType="text/xml"/>
+      <asset name="wildwest_wanted_poster_logic" mimeType="text/xml"/>
+      <asset name="wildwest_wanted_poster_64_a_2_1" mimeType="image/png"/>
+      <asset name="wildwest_wanted_poster_64_a_2_0" mimeType="image/png"/>
+      <asset name="wildwest_wanted_poster_32_a_2_1" mimeType="image/png"/>
+      <asset name="wildwest_wanted_poster_32_a_2_0" mimeType="image/png"/>
+      <asset name="wildwest_wanted_poster_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

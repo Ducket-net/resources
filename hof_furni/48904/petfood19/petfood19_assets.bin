@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="petfood19_64_sd_4_0" x="12" y="2"/>
+  <asset name="petfood19_64_a_4_0" x="13" y="19"/>
+  <asset name="petfood19_64_a_4_1" x="13" y="19"/>
+  <asset name="petfood19_64_a_4_2" x="16" y="14"/>
+  <asset name="petfood19_64_a_4_3" x="13" y="13"/>
+  <asset name="petfood19_32_sd_4_0" x="6" y="4"/>
+  <asset name="petfood19_32_a_4_0" x="7" y="9"/>
+  <asset name="petfood19_32_a_4_1" x="7" y="8"/>
+  <asset name="petfood19_32_a_4_2" x="8" y="6"/>
+  <asset name="petfood19_32_a_4_3" x="7" y="5"/>
+  <asset name="petfood19_icon_a" x="16" y="12"/>
+  <asset name="petfood19_64_sd_6_0" flipH="1" source="petfood19_64_sd_4_0" x="12" y="2"/>
+  <asset name="petfood19_64_a_6_0" flipH="1" source="petfood19_64_a_4_0" x="13" y="19"/>
+  <asset name="petfood19_64_a_6_1" flipH="1" source="petfood19_64_a_4_1" x="13" y="19"/>
+  <asset name="petfood19_64_a_6_2" flipH="1" source="petfood19_64_a_4_2" x="16" y="14"/>
+  <asset name="petfood19_64_a_6_3" flipH="1" source="petfood19_64_a_4_3" x="13" y="13"/>
+  <asset name="petfood19_32_sd_6_0" flipH="1" source="petfood19_32_sd_4_0" x="6" y="4"/>
+  <asset name="petfood19_32_a_6_0" flipH="1" source="petfood19_32_a_4_0" x="7" y="9"/>
+  <asset name="petfood19_32_a_6_1" flipH="1" source="petfood19_32_a_4_1" x="7" y="8"/>
+  <asset name="petfood19_32_a_6_2" flipH="1" source="petfood19_32_a_4_2" x="8" y="6"/>
+  <asset name="petfood19_32_a_6_3" flipH="1" source="petfood19_32_a_4_3" x="7" y="5"/>
+  <asset name="petfood19_0_a" source="petfood19_icon_a" x="16" y="12"/>
+</assets>

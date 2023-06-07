@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="sofa_polyfon_girl"><graphics>
+   <visualization size="32" layerCount="8" angle="45">
+      <layers>
+         <layer id="2" z="-2"/>
+         <layer id="3" z="-1"/>
+      </layers>
+      <directions>
+         <direction id="0">
+            <layer id="0" z="1201"/>
+            <layer id="4" z="-1"/>
+            <layer id="5" z="1000"/>
+            <layer id="6" z="1201"/>
+            <layer id="7" z="600"/>
+         </direction>
+         <direction id="2">
+            <layer id="0" z="1201"/>
+            <layer id="1" z="1001"/>
+            <layer id="4" z="1000"/>
+            <layer id="5" z="-1"/>
+            <layer id="6" z="1001"/>
+            <layer id="7" z="1"/>
+         </direction>
+         <direction id="4">
+            <layer id="0" z="1201"/>
+            <layer id="1" z="1001"/>
+            <layer id="4" z="1000"/>
+            <layer id="5" z="-1"/>
+            <layer id="6" z="1001"/>
+            <layer id="7" z="1"/>
+         </direction>
+         <direction id="6">
+            <layer id="0" z="1201"/>
+            <layer id="4" z="-1"/>
+            <layer id="5" z="1000"/>
+            <layer id="6" z="1201"/>
+            <layer id="7" z="600"/>
+         </direction>
+      </directions>
+      <colors>
+         <color id="0">
+            <colorLayer id="4" color="EE7EA4"/>
+            <colorLayer id="5" color="EE7EA4"/>
+            <colorLayer id="6" color="EE7EA4"/>
+            <colorLayer id="7" color="EE7EA4"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="8" angle="45">
+      <layers>
+         <layer id="2" z="-2"/>
+         <layer id="3" z="-1"/>
+      </layers>
+      <directions>
+         <direction id="0">
+            <layer id="0" z="1201"/>
+            <layer id="4" z="-1"/>
+            <layer id="5" z="1000"/>
+            <layer id="6" z="1201"/>
+            <layer id="7" z="600"/>
+         </direction>
+         <direction id="2">
+            <layer id="0" z="1201"/>
+            <layer id="1" z="1001"/>
+            <layer id="4" z="1000"/>
+            <layer id="5" z="-1"/>
+            <layer id="6" z="1001"/>
+            <layer id="7" z="1"/>
+         </direction>
+         <direction id="4">
+            <layer id="0" z="1201"/>
+            <layer id="1" z="1001"/>
+            <layer id="4" z="1000"/>
+            <layer id="5" z="-1"/>
+            <layer id="6" z="1001"/>
+            <layer id="7" z="1"/>
+         </direction>
+         <direction id="6">
+            <layer id="0" z="1201"/>
+            <layer id="4" z="-1"/>
+            <layer id="5" z="1000"/>
+            <layer id="6" z="1201"/>
+            <layer id="7" z="600"/>
+         </direction>
+      </directions>
+      <colors>
+         <color id="0">
+            <colorLayer id="4" color="EE7EA4"/>
+            <colorLayer id="5" color="EE7EA4"/>
+            <colorLayer id="6" color="EE7EA4"/>
+            <colorLayer id="7" color="EE7EA4"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="2" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="0">
+            <colorLayer id="1" color="EE7EA4"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

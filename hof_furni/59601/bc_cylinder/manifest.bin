@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="bc_cylinder" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="bc_cylinder_visualization" mimeType="text/xml"/>
+      <asset name="bc_cylinder_assets" mimeType="text/xml"/>
+      <asset name="bc_cylinder_logic" mimeType="text/xml"/>
+      <asset name="bc_cylinder_64_a_0_0" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_b_0_0" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_c_0_0" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_d_0_0" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_a_0_1" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_b_0_1" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_c_0_1" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_d_0_1" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_a_0_2" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_b_0_2" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_c_0_2" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_d_0_2" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_a_0_3" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_b_0_3" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_c_0_3" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_d_0_3" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_a_0_4" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_b_0_4" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_c_0_4" mimeType="image/png"/>
+      <asset name="bc_cylinder_64_d_0_4" mimeType="image/png"/>
+      <asset name="bc_cylinder_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween14_doll6" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween14_doll6_visualization" mimeType="text/xml"/>
+      <asset name="hween14_doll6_assets" mimeType="text/xml"/>
+      <asset name="hween14_doll6_logic" mimeType="text/xml"/>
+      <asset name="hween14_doll6_64_sd_2_0" mimeType="image/png"/>
+      <asset name="hween14_doll6_64_a_2_0" mimeType="image/png"/>
+      <asset name="hween14_doll6_32_sd_2_0" mimeType="image/png"/>
+      <asset name="hween14_doll6_32_a_2_0" mimeType="image/png"/>
+      <asset name="hween14_doll6_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

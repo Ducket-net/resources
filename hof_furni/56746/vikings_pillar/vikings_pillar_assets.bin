@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="vikings_pillar_32_sd_0_0" x="16" y="7"/>
+  <asset name="vikings_pillar_32_a_0_0" x="18" y="86"/>
+  <asset name="vikings_pillar_32_b_0_0" x="0" y="-6"/>
+  <asset name="vikings_pillar_32_b_0_1" x="22" y="96"/>
+  <asset name="vikings_pillar_64_sd_0_0" x="31" y="15"/>
+  <asset name="vikings_pillar_64_a_0_0" x="37" y="172"/>
+  <asset name="vikings_pillar_64_b_0_0" x="0" y="-11"/>
+  <asset name="vikings_pillar_64_b_0_1" x="44" y="190"/>
+  <asset name="vikings_pillar_icon_a" x="9" y="13"/>
+  <asset name="vikings_pillar_32_sd_2_0" flipH="1" source="vikings_pillar_32_sd_0_0" x="16" y="7"/>
+  <asset name="vikings_pillar_32_a_2_0" flipH="1" source="vikings_pillar_32_a_0_0" x="18" y="86"/>
+  <asset name="vikings_pillar_32_b_2_0" flipH="1" source="vikings_pillar_32_b_0_0" x="0" y="-6"/>
+  <asset name="vikings_pillar_32_b_2_1" flipH="1" source="vikings_pillar_32_b_0_1" x="22" y="96"/>
+  <asset name="vikings_pillar_64_sd_2_0" flipH="1" source="vikings_pillar_64_sd_0_0" x="31" y="15"/>
+  <asset name="vikings_pillar_64_a_2_0" flipH="1" source="vikings_pillar_64_a_0_0" x="37" y="172"/>
+  <asset name="vikings_pillar_64_b_2_0" flipH="1" source="vikings_pillar_64_b_0_0" x="0" y="-11"/>
+  <asset name="vikings_pillar_64_b_2_1" flipH="1" source="vikings_pillar_64_b_0_1" x="44" y="190"/>
+</assets>

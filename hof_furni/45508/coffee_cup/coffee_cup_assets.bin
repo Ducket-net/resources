@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="coffee_cup_64_a_2_0" x="-3" y="7"/>
+  <asset name="coffee_cup_64_b_2_4" x="-9" y="50"/>
+  <asset name="coffee_cup_64_b_2_3" x="-9" y="49"/>
+  <asset name="coffee_cup_64_b_2_2" x="-7" y="63"/>
+  <asset name="coffee_cup_64_b_2_1" x="-7" y="63"/>
+  <asset name="coffee_cup_64_b_2_0" x="-7" y="62"/>
+  <asset name="coffee_cup_32_a_2_0" x="0" y="3"/>
+  <asset name="coffee_cup_32_b_2_4" x="-3" y="24"/>
+  <asset name="coffee_cup_32_b_2_3" x="-3" y="20"/>
+  <asset name="coffee_cup_32_b_2_2" x="-2" y="30"/>
+  <asset name="coffee_cup_32_b_2_1" x="-2" y="28"/>
+  <asset name="coffee_cup_32_b_2_0" x="-2" y="30"/>
+  <asset name="coffee_cup_icon_a" x="8" y="12"/>
+  <asset name="coffee_cup_64_a_4_0" flipH="1" source="coffee_cup_64_a_2_0" x="-3" y="7"/>
+  <asset name="coffee_cup_64_b_4_4" flipH="1" source="coffee_cup_64_b_2_4" x="-9" y="50"/>
+  <asset name="coffee_cup_64_b_4_3" flipH="1" source="coffee_cup_64_b_2_3" x="-9" y="49"/>
+  <asset name="coffee_cup_64_b_4_2" flipH="1" source="coffee_cup_64_b_2_2" x="-7" y="63"/>
+  <asset name="coffee_cup_64_b_4_1" flipH="1" source="coffee_cup_64_b_2_1" x="-7" y="63"/>
+  <asset name="coffee_cup_64_b_4_0" flipH="1" source="coffee_cup_64_b_2_0" x="-7" y="62"/>
+  <asset name="coffee_cup_32_a_4_0" flipH="1" source="coffee_cup_32_a_2_0" x="0" y="3"/>
+  <asset name="coffee_cup_32_b_4_4" flipH="1" source="coffee_cup_32_b_2_4" x="-3" y="24"/>
+  <asset name="coffee_cup_32_b_4_3" flipH="1" source="coffee_cup_32_b_2_3" x="-3" y="20"/>
+  <asset name="coffee_cup_32_b_4_2" flipH="1" source="coffee_cup_32_b_2_2" x="-2" y="30"/>
+  <asset name="coffee_cup_32_b_4_1" flipH="1" source="coffee_cup_32_b_2_1" x="-2" y="28"/>
+  <asset name="coffee_cup_32_b_4_0" flipH="1" source="coffee_cup_32_b_2_0" x="-2" y="30"/>
+</assets>

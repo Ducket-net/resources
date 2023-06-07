@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objectData type="snst_fireplace_nfs">
+  <model>
+    <dimensions x="3" y="3" z="1"/>
+    <directions>
+      <direction id="90"/>
+    </directions>
+  </model>
+  <particlesystems>
+    <particlesystem size="32"/>
+  </particlesystems>
+</objectData>

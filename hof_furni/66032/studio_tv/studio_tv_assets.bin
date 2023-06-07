@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="studio_tv_32_a_7_0" x="13" y="173"/>
+  <asset name="studio_tv_32_b_7_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_32_b_7_1" x="8" y="113"/>
+  <asset name="studio_tv_32_c_7_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_32_c_7_1" x="16" y="113"/>
+  <asset name="studio_tv_32_a_4_0" x="13" y="173"/>
+  <asset name="studio_tv_32_b_4_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_32_b_4_1" x="10" y="113"/>
+  <asset name="studio_tv_32_c_4_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_32_c_4_1" x="22" y="114"/>
+  <asset name="studio_tv_32_a_2_0" flipH="1" source="studio_tv_32_a_4_0" x="13" y="173"/>
+  <asset name="studio_tv_32_b_2_0" flipH="1" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_32_b_2_1" flipH="1" source="studio_tv_32_b_4_1" x="10" y="113"/>
+  <asset name="studio_tv_32_c_2_0" flipH="1" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_32_c_2_1" flipH="1" source="studio_tv_32_c_4_1" x="22" y="114"/>
+  <asset name="studio_tv_64_a_7_0" x="26" y="486"/>
+  <asset name="studio_tv_64_b_7_0" x="18" y="223"/>
+  <asset name="studio_tv_64_b_7_1" x="18" y="223"/>
+  <asset name="studio_tv_64_c_7_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_64_c_7_1" x="20" y="224"/>
+  <asset name="studio_tv_64_c_7_2" x="20" y="224"/>
+  <asset name="studio_tv_64_d_7_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_64_d_7_1" x="36" y="223"/>
+  <asset name="studio_tv_64_d_7_2" x="36" y="223"/>
+  <asset name="studio_tv_64_d_7_3" x="36" y="223"/>
+  <asset name="studio_tv_64_a_4_0" x="25" y="486"/>
+  <asset name="studio_tv_64_b_4_0" x="20" y="232"/>
+  <asset name="studio_tv_64_b_4_1" x="20" y="232"/>
+  <asset name="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_64_c_4_1" x="20" y="232"/>
+  <asset name="studio_tv_64_c_4_2" x="20" y="232"/>
+  <asset name="studio_tv_64_d_4_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_64_d_4_1" x="42" y="232"/>
+  <asset name="studio_tv_64_d_4_2" x="42" y="232"/>
+  <asset name="studio_tv_64_d_4_3" x="42" y="232"/>
+  <asset name="studio_tv_64_a_2_0" flipH="1" source="studio_tv_64_a_4_0" x="25" y="486"/>
+  <asset name="studio_tv_64_b_2_0" flipH="1" source="studio_tv_64_b_4_0" x="20" y="232"/>
+  <asset name="studio_tv_64_b_2_1" flipH="1" source="studio_tv_64_b_4_1" x="20" y="232"/>
+  <asset name="studio_tv_64_c_2_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_64_c_2_1" flipH="1" source="studio_tv_64_c_4_1" x="20" y="232"/>
+  <asset name="studio_tv_64_c_2_2" flipH="1" source="studio_tv_64_c_4_2" x="20" y="232"/>
+  <asset name="studio_tv_64_d_2_0" source="studio_tv_64_c_4_0" x="0" y="0"/>
+  <asset name="studio_tv_64_d_2_1" flipH="1" source="studio_tv_64_d_4_1" x="42" y="232"/>
+  <asset name="studio_tv_64_d_2_2" flipH="1" source="studio_tv_64_d_4_2" x="42" y="232"/>
+  <asset name="studio_tv_64_d_2_3" flipH="1" source="studio_tv_64_d_4_3" x="42" y="232"/>
+  <asset name="studio_tv_icon_a" x="9" y="16"/>
+</assets>

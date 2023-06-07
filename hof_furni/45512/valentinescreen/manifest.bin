@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="valentinescreen" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="valentinescreen_visualization" mimeType="text/xml"/>
+         <asset name="valentinescreen_assets" mimeType="text/xml"/>
+         <asset name="valentinescreen_logic" mimeType="text/xml"/>
+         <asset name="valentinescreen_32_a_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_32_b_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_32_c_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_32_d_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_32_sd_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_64_a_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_64_b_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_64_c_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_64_d_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_64_sd_2_0" mimeType="image/png"/>
+         <asset name="valentinescreen_icon_a" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

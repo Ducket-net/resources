@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="gift_thing" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="gift_thing_visualization" mimeType="text/xml"/>
+      <asset name="gift_thing_assets" mimeType="text/xml"/>
+      <asset name="gift_thing_logic" mimeType="text/xml"/>
+      <asset name="gift_thing_32_sd_0_0" mimeType="image/png"/>
+      <asset name="gift_thing_32_a_0_0" mimeType="image/png"/>
+      <asset name="gift_thing_32_a_0_1" mimeType="image/png"/>
+      <asset name="gift_thing_32_a_0_2" mimeType="image/png"/>
+      <asset name="gift_thing_64_sd_0_0" mimeType="image/png"/>
+      <asset name="gift_thing_64_a_0_0" mimeType="image/png"/>
+      <asset name="gift_thing_64_a_0_1" mimeType="image/png"/>
+      <asset name="gift_thing_64_a_0_2" mimeType="image/png"/>
+      <asset name="gift_thing_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

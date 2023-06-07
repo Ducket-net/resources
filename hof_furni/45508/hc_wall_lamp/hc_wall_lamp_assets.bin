@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="hc_wall_lamp_icon_a" x="12" y="14"/>
+   <asset name="hc_wall_lamp_64_a_2_1" x="23" y="40"/>
+   <asset name="hc_wall_lamp_64_b_2_1" x="5" y="35"/>
+   <asset name="hc_wall_lamp_64_c_2_0" x="12" y="-24"/>
+   <asset name="hc_wall_lamp_64_c_2_1" x="20" y="-17"/>
+   <asset name="hc_wall_lamp_64_d_2_0" x="16" y="-26"/>
+   <asset name="hc_wall_lamp_64_d_2_1" x="18" y="16"/>
+   <asset name="hc_wall_lamp_64_d_2_2" x="18" y="16"/>
+   <asset name="hc_wall_lamp_64_a_4_1" flipH="1" source="hc_wall_lamp_64_a_2_1" x="23" y="40"/>
+   <asset name="hc_wall_lamp_64_b_4_1" flipH="1" source="hc_wall_lamp_64_b_2_1" x="5" y="35"/>
+   <asset name="hc_wall_lamp_64_c_4_0" flipH="1" source="hc_wall_lamp_64_c_2_0" x="12" y="-24"/>
+   <asset name="hc_wall_lamp_64_c_4_1" flipH="1" source="hc_wall_lamp_64_c_2_1" x="20" y="-17"/>
+   <asset name="hc_wall_lamp_64_d_4_0" flipH="1" source="hc_wall_lamp_64_d_2_0" x="16" y="-26"/>
+   <asset name="hc_wall_lamp_64_d_4_1" flipH="1" source="hc_wall_lamp_64_d_2_1" x="18" y="16"/>
+   <asset name="hc_wall_lamp_64_d_4_2" flipH="1" source="hc_wall_lamp_64_d_2_2" x="18" y="16"/>
+   <asset name="hc_wall_lamp_32_a_2_1" x="12" y="20"/>
+   <asset name="hc_wall_lamp_32_b_2_1" x="3" y="17"/>
+   <asset name="hc_wall_lamp_32_c_2_0" x="8" y="-12"/>
+   <asset name="hc_wall_lamp_32_c_2_1" x="7" y="-6"/>
+   <asset name="hc_wall_lamp_32_d_2_0" x="8" y="-16"/>
+   <asset name="hc_wall_lamp_32_d_2_1" x="9" y="7"/>
+   <asset name="hc_wall_lamp_32_d_2_2" x="9" y="7"/>
+   <asset name="hc_wall_lamp_32_a_4_1" flipH="1" source="hc_wall_lamp_32_a_2_1" x="12" y="20"/>
+   <asset name="hc_wall_lamp_32_b_4_1" flipH="1" source="hc_wall_lamp_32_b_2_1" x="3" y="17"/>
+   <asset name="hc_wall_lamp_32_c_4_0" flipH="1" source="hc_wall_lamp_32_c_2_0" x="8" y="-12"/>
+   <asset name="hc_wall_lamp_32_c_4_1" flipH="1" source="hc_wall_lamp_32_c_2_1" x="7" y="-6"/>
+   <asset name="hc_wall_lamp_32_d_4_0" flipH="1" source="hc_wall_lamp_32_d_2_0" x="8" y="-16"/>
+   <asset name="hc_wall_lamp_32_d_4_1" flipH="1" source="hc_wall_lamp_32_d_2_1" x="9" y="7"/>
+   <asset name="hc_wall_lamp_32_d_4_2" flipH="1" source="hc_wall_lamp_32_d_2_2" x="9" y="7"/>
+</assets>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="pixel_table_red" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="pixel_table_red_visualization" mimeType="text/xml"/>
+      <asset name="pixel_table_red_assets" mimeType="text/xml"/>
+      <asset name="pixel_table_red_logic" mimeType="text/xml"/>
+      <asset name="pixel_table_red_64_sd_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_64_a_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_64_b_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_64_c_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_32_sd_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_32_a_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_32_b_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_32_c_2_0" mimeType="image/png"/>
+      <asset name="pixel_table_red_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="cland15_ltd3" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="cland15_ltd3_visualization" mimeType="text/xml"/>
+      <asset name="cland15_ltd3_assets" mimeType="text/xml"/>
+      <asset name="cland15_ltd3_logic" mimeType="text/xml"/>
+      <asset name="cland15_ltd3_64_sd_2_0" mimeType="image/png"/>
+      <asset name="cland15_ltd3_64_a_2_0" mimeType="image/png"/>
+      <asset name="cland15_ltd3_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="attic15_window_64_a_2_0" x="106" y="198"/>
+  <asset name="attic15_window_64_a_2_1" x="106" y="198"/>
+  <asset name="attic15_window_64_b_2_0" x="106" y="125"/>
+  <asset name="attic15_window_64_b_2_1" x="87" y="172"/>
+  <asset name="attic15_window_64_b_2_2" x="90" y="173"/>
+  <asset name="attic15_window_64_b_2_3" x="88" y="175"/>
+  <asset name="attic15_window_64_b_2_4" x="85" y="173"/>
+  <asset name="attic15_window_64_b_2_5" x="85" y="170"/>
+  <asset name="attic15_window_64_c_2_1" x="96" y="188"/>
+  <asset name="attic15_window_icon_a" x="14" y="14"/>
+  <asset name="attic15_window_64_c_2_0" flipH="1" source="attic15_window_64_b_2_0" x="106" y="125"/>
+  <asset name="attic15_window_64_a_4_0" flipH="1" source="attic15_window_64_a_2_0" x="106" y="198"/>
+  <asset name="attic15_window_64_a_4_1" flipH="1" source="attic15_window_64_a_2_1" x="106" y="198"/>
+  <asset name="attic15_window_64_b_4_0" flipH="1" source="attic15_window_64_b_2_0" x="106" y="125"/>
+  <asset name="attic15_window_64_b_4_1" flipH="1" source="attic15_window_64_b_2_1" x="87" y="172"/>
+  <asset name="attic15_window_64_b_4_2" flipH="1" source="attic15_window_64_b_2_2" x="90" y="173"/>
+  <asset name="attic15_window_64_b_4_3" flipH="1" source="attic15_window_64_b_2_3" x="88" y="175"/>
+  <asset name="attic15_window_64_b_4_4" flipH="1" source="attic15_window_64_b_2_4" x="85" y="173"/>
+  <asset name="attic15_window_64_b_4_5" flipH="1" source="attic15_window_64_b_2_5" x="85" y="170"/>
+  <asset name="attic15_window_64_c_4_1" flipH="1" source="attic15_window_64_c_2_1" x="96" y="188"/>
+  <asset name="attic15_window_64_c_4_0" flipH="1" source="attic15_window_64_b_2_0" x="106" y="125"/>
+</assets>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hc3_divider_icon_a" x="13" y="18"/>
+  <asset name="hc3_divider_64_sd_4_0" x="93" y="11"/>
+  <asset name="hc3_divider_64_a_4_0" x="0" y="99"/>
+  <asset name="hc3_divider_64_b_4_0" x="39" y="80"/>
+  <asset name="hc3_divider_64_c_4_0" x="93" y="79"/>
+  <asset name="hc3_divider_32_sd_4_0" x="45" y="3"/>
+  <asset name="hc3_divider_32_a_4_0" x="-1" y="49"/>
+  <asset name="hc3_divider_32_b_4_0" x="23" y="39"/>
+  <asset name="hc3_divider_32_c_4_0" x="45" y="31"/>
+  <asset name="hc3_divider_64_sd_2_0" flipH="1" source="hc3_divider_64_sd_4_0" x="93" y="11"/>
+  <asset name="hc3_divider_64_a_2_0" flipH="1" source="hc3_divider_64_a_4_0" x="0" y="99"/>
+  <asset name="hc3_divider_64_b_2_0" flipH="1" source="hc3_divider_64_b_4_0" x="39" y="80"/>
+  <asset name="hc3_divider_64_c_2_0" flipH="1" source="hc3_divider_64_c_4_0" x="93" y="79"/>
+  <asset name="hc3_divider_32_sd_2_0" flipH="1" source="hc3_divider_32_sd_4_0" x="45" y="3"/>
+  <asset name="hc3_divider_32_a_2_0" flipH="1" source="hc3_divider_32_a_4_0" x="-1" y="49"/>
+  <asset name="hc3_divider_32_b_2_0" flipH="1" source="hc3_divider_32_b_4_0" x="23" y="39"/>
+  <asset name="hc3_divider_32_c_2_0" flipH="1" source="hc3_divider_32_c_4_0" x="45" y="31"/>
+</assets>

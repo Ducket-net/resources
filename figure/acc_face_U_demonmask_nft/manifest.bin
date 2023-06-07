@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_demonmask_nft" version="0.1">
+    <assets>
+      <asset name="h_std_fa_4258_2_0" mimeType="image/png">
+        <param key="offset" value="-23,81"/>
+      </asset>
+      <asset name="h_std_fa_4258_1_0" mimeType="image/png">
+        <param key="offset" value="-30,81"/>
+      </asset>
+      <asset name="h_std_fa_4258_0_0" mimeType="image/png">
+        <param key="offset" value="-30,88"/>
+      </asset>
+      <asset name="h_std_fa_4258_3_0" mimeType="image/png">
+        <param key="offset" value="-16,78"/>
+      </asset>
+      <asset name="h_std_fa_4258_7_0" mimeType="image/png">
+        <param key="offset" value="-16,85"/>
+      </asset>
+      <asset name="h_spk_fa_4258_2_0" mimeType="image/png">
+        <param key="offset" value="-23,82"/>
+      </asset>
+      <asset name="h_spk_fa_4258_1_0" mimeType="image/png">
+        <param key="offset" value="-30,82"/>
+      </asset>
+      <asset name="h_spk_fa_4258_0_0" mimeType="image/png">
+        <param key="offset" value="-30,89"/>
+      </asset>
+      <asset name="h_spk_fa_4258_3_0" mimeType="image/png">
+        <param key="offset" value="-16,79"/>
+      </asset>
+      <asset name="h_spk_fa_4258_7_0" mimeType="image/png">
+        <param key="offset" value="-16,86"/>
+      </asset>
+      <asset name="h_lay_fa_4258_2_0" mimeType="image/png">
+        <param key="offset" value="27,47"/>
+      </asset>
+      <asset name="h_lsp_fa_4258_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-112"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="olympics_c16_merch_64_a_4_0" x="33" y="75"/>
+  <asset name="olympics_c16_merch_64_b_4_0" x="10" y="79"/>
+  <asset name="olympics_c16_merch_64_b_4_1" x="3" y="-17"/>
+  <asset name="olympics_c16_merch_icon_a" x="8" y="11"/>
+  <asset name="olympics_c16_merch_64_a_2_0" flipH="1" source="olympics_c16_merch_64_a_4_0" x="33" y="75"/>
+  <asset name="olympics_c16_merch_64_b_2_0" flipH="1" source="olympics_c16_merch_64_b_4_0" x="10" y="79"/>
+  <asset name="olympics_c16_merch_64_b_2_1" flipH="1" source="olympics_c16_merch_64_b_4_1" x="3" y="-17"/>
+</assets>

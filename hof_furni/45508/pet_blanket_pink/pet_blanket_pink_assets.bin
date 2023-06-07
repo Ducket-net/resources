@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pet_blanket_pink_32_sd_2_0" x="10" y="-3"/>
+  <asset name="pet_blanket_pink_32_a_2_0" x="13" y="8"/>
+  <asset name="pet_blanket_pink_64_sd_2_0" x="27" y="0"/>
+  <asset name="pet_blanket_pink_64_a_2_0" x="26" y="17"/>
+  <asset name="pet_blanket_pink_icon_a" x="12" y="6"/>
+  <asset name="pet_blanket_pink_32_sd_4_0" flipH="1" source="pet_blanket_pink_32_sd_2_0" x="10" y="-3"/>
+  <asset name="pet_blanket_pink_32_a_4_0" flipH="1" source="pet_blanket_pink_32_a_2_0" x="13" y="8"/>
+  <asset name="pet_blanket_pink_64_sd_4_0" flipH="1" source="pet_blanket_pink_64_sd_2_0" x="27" y="0"/>
+  <asset name="pet_blanket_pink_64_a_4_0" flipH="1" source="pet_blanket_pink_64_a_2_0" x="26" y="17"/>
+  <asset name="icon_a" x="12" y="6"/>
+</assets>

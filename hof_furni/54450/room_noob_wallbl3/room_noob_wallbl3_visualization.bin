@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="room_noob_wallbl3">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="15" angle="45">
+      <layers>
+        <layer id="0" ignoreMouse="1"/>
+        <layer id="1" z="1000" ignoreMouse="1"/>
+        <layer id="2" z="2000" ignoreMouse="1"/>
+        <layer id="3" z="3000" ignoreMouse="1"/>
+        <layer id="4" z="4000" ignoreMouse="1"/>
+        <layer id="5" z="5000" ignoreMouse="1"/>
+        <layer id="6" z="6000" ignoreMouse="1"/>
+        <layer id="7" z="7000" ignoreMouse="1"/>
+        <layer id="8" z="8000" ignoreMouse="1"/>
+        <layer id="9" z="9000" ignoreMouse="1"/>
+        <layer id="10" z="10000" ignoreMouse="1"/>
+        <layer id="11" z="11000" ignoreMouse="1"/>
+        <layer id="12" z="12000" ignoreMouse="1"/>
+        <layer id="13" z="13000" ignoreMouse="1"/>
+        <layer id="14" z="13000" ink="ADD" ignoreMouse="1"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="64" layerCount="15" angle="45">
+      <layers>
+        <layer id="0" ignoreMouse="1"/>
+        <layer id="1" z="1000" ignoreMouse="1"/>
+        <layer id="2" z="2000" ignoreMouse="1"/>
+        <layer id="3" z="3000" ignoreMouse="1"/>
+        <layer id="4" z="4000" ignoreMouse="1"/>
+        <layer id="5" z="5000" ignoreMouse="1"/>
+        <layer id="6" z="6000" ignoreMouse="1"/>
+        <layer id="7" z="7000" ignoreMouse="1"/>
+        <layer id="8" z="8000" ignoreMouse="1"/>
+        <layer id="9" z="9000" ignoreMouse="1"/>
+        <layer id="10" z="10000" ignoreMouse="1"/>
+        <layer id="11" z="11000" ignoreMouse="1"/>
+        <layer id="12" z="12000" ignoreMouse="1"/>
+        <layer id="13" z="13000" ignoreMouse="1"/>
+        <layer id="14" z="13000" ink="ADD" ignoreMouse="1"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

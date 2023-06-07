@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="val_r22_peacockspider" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="val_r22_peacockspider_visualization" mimeType="text/xml"/>
+      <asset name="val_r22_peacockspider_assets" mimeType="text/xml"/>
+      <asset name="val_r22_peacockspider_logic" mimeType="text/xml"/>
+      <asset name="val_r22_peacockspider_64_sd_2_0" mimeType="image/png"/>
+      <asset name="val_r22_peacockspider_64_a_2_0" mimeType="image/png"/>
+      <asset name="val_r22_peacockspider_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

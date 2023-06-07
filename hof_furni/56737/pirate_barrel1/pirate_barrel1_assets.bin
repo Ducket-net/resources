@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="pirate_barrel1_64_sd_0_0" x="20" y="9"/>
+  <asset name="pirate_barrel1_64_a_0_0" x="25" y="62"/>
+  <asset name="pirate_barrel1_32_sd_0_0" x="10" y="5"/>
+  <asset name="pirate_barrel1_32_a_0_0" x="13" y="33"/>
+  <asset name="pirate_barrel1_icon_a" x="11" y="14"/>
+  <asset name="pirate_barrel1_64_sd_2_0" flipH="1" source="pirate_barrel1_64_sd_0_0" x="20" y="9"/>
+  <asset name="pirate_barrel1_64_a_2_0" flipH="1" source="pirate_barrel1_64_a_0_0" x="25" y="62"/>
+  <asset name="pirate_barrel1_32_sd_2_0" flipH="1" source="pirate_barrel1_32_sd_0_0" x="10" y="5"/>
+  <asset name="pirate_barrel1_32_a_2_0" flipH="1" source="pirate_barrel1_32_a_0_0" x="13" y="33"/>
+</assets>

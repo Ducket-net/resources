@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="hlympic_bear_32_a_0_0" x="15" y="43"/>
+  <asset name="hlympic_bear_32_a_0_1" x="15" y="43"/>
+  <asset name="hlympic_bear_32_a_0_3" x="17" y="43"/>
+  <asset name="hlympic_bear_64_a_0_0" x="32" y="85"/>
+  <asset name="hlympic_bear_64_a_0_1" x="32" y="85"/>
+  <asset name="hlympic_bear_64_a_0_3" x="36" y="85"/>
+  <asset name="hlympic_bear_icon_a" x="9" y="14"/>
+  <asset name="hlympic_bear_32_a_0_2" source="hlympic_bear_32_a_0_0" x="15" y="43"/>
+  <asset name="hlympic_bear_64_a_0_2" source="hlympic_bear_64_a_0_0" x="32" y="85"/>
+  <asset name="hlympic_bear_32_a_2_0" flipH="1" source="hlympic_bear_32_a_0_0" x="15" y="43"/>
+  <asset name="hlympic_bear_32_a_2_1" flipH="1" source="hlympic_bear_32_a_0_1" x="15" y="43"/>
+  <asset name="hlympic_bear_32_a_2_3" flipH="1" source="hlympic_bear_32_a_0_3" x="17" y="43"/>
+  <asset name="hlympic_bear_64_a_2_0" flipH="1" source="hlympic_bear_64_a_0_0" x="32" y="85"/>
+  <asset name="hlympic_bear_64_a_2_1" flipH="1" source="hlympic_bear_64_a_0_1" x="32" y="85"/>
+  <asset name="hlympic_bear_64_a_2_3" flipH="1" source="hlympic_bear_64_a_0_3" x="36" y="85"/>
+  <asset name="hlympic_bear_32_a_2_2" flipH="1" source="hlympic_bear_32_a_0_0" x="15" y="43"/>
+  <asset name="hlympic_bear_64_a_2_2" flipH="1" source="hlympic_bear_64_a_0_0" x="32" y="85"/>
+</assets>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="prizetrophy_track12" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="prizetrophy_track12_visualization" mimeType="text/xml"/>
+      <asset name="prizetrophy_track12_assets" mimeType="text/xml"/>
+      <asset name="prizetrophy_track12_logic" mimeType="text/xml"/>
+      <asset name="prizetrophy_track12_32_a_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_track12_32_b_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_track12_32_c_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_track12_64_a_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_track12_64_b_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_track12_64_c_0_0" mimeType="image/png"/>
+      <asset name="prizetrophy_track12_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

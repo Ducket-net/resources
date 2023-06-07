@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="xmas13_throne_32_a_2_0" x="40" y="90"/>
+  <asset name="xmas13_throne_32_b_2_0" x="19" y="37"/>
+  <asset name="xmas13_throne_32_c_2_0" x="40" y="90"/>
+  <asset name="xmas13_throne_64_a_2_0" x="76" y="178"/>
+  <asset name="xmas13_throne_64_b_2_0" x="33" y="72"/>
+  <asset name="xmas13_throne_64_c_2_0" x="77" y="179"/>
+  <asset name="xmas13_throne_icon_a" x="10" y="14"/>
+  <asset name="xmas13_throne_32_a_4_0" flipH="1" source="xmas13_throne_32_a_2_0" x="40" y="90"/>
+  <asset name="xmas13_throne_32_b_4_0" flipH="1" source="xmas13_throne_32_b_2_0" x="19" y="37"/>
+  <asset name="xmas13_throne_32_c_4_0" flipH="1" source="xmas13_throne_32_c_2_0" x="40" y="90"/>
+  <asset name="xmas13_throne_64_a_4_0" flipH="1" source="xmas13_throne_64_a_2_0" x="76" y="178"/>
+  <asset name="xmas13_throne_64_b_4_0" flipH="1" source="xmas13_throne_64_b_2_0" x="33" y="72"/>
+  <asset name="xmas13_throne_64_c_4_0" flipH="1" source="xmas13_throne_64_c_2_0" x="77" y="179"/>
+</assets>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="ads_chocapic" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="ads_chocapic_visualization" mimeType="text/xml"/>
+         <asset name="ads_chocapic_assets" mimeType="text/xml"/>
+         <asset name="ads_chocapic_logic" mimeType="text/xml"/>
+         <asset name="ads_chocapic_64_a_2_0" mimeType="image/png"/>
+         <asset name="ads_chocapic_64_a_2_1" mimeType="image/png"/>
+         <asset name="ads_chocapic_64_a_4_0" mimeType="image/png"/>
+         <asset name="ads_chocapic_64_a_4_1" mimeType="image/png"/>
+         <asset name="ads_chocapic_icon_a" mimeType="image/png"/>
+         <asset name="ads_chocapic_32_a_2_0" mimeType="image/png"/>
+         <asset name="ads_chocapic_32_a_2_1" mimeType="image/png"/>
+         <asset name="ads_chocapic_32_a_4_0" mimeType="image/png"/>
+         <asset name="ads_chocapic_32_a_4_1" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

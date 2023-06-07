@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="sunsetcafe_c20_wallcorner" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="sunsetcafe_c20_wallcorner_visualization" mimeType="text/xml"/>
+      <asset name="sunsetcafe_c20_wallcorner_assets" mimeType="text/xml"/>
+      <asset name="sunsetcafe_c20_wallcorner_logic" mimeType="text/xml"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_sd_7_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_b_7_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_c_7_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_e_7_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_f_7_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_sd_3_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_a_3_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_b_3_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_c_3_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_d_3_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_e_3_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_f_3_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_a_5_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_b_5_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_sd_5_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_c_5_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_d_5_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_e_5_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_f_5_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_a_1_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_b_1_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_c_1_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_d_1_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_e_1_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_f_1_1" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_64_sd_1_0" mimeType="image/png"/>
+      <asset name="sunsetcafe_c20_wallcorner_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

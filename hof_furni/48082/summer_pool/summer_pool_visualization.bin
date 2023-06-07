@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="summer_pool"><graphics>
+   <visualization size="32" layerCount="9" angle="45">
+      <layers>
+         <layer id="0" z="-60"/>
+         <layer id="1" z="1060"/>
+         <layer id="2" z="1061"/>
+         <layer id="3" z="2061"/>
+         <layer id="4" alpha="204" z="-59"/>
+         <layer id="5" alpha="204" z="500"/>
+         <layer id="6" alpha="204" z="1060"/>
+         <layer id="7" alpha="204" z="2060"/>
+         <layer id="8" z="400"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="00C8C8"/>
+            <colorLayer id="1" color="00C8C8"/>
+            <colorLayer id="2" color="00C8C8"/>
+            <colorLayer id="3" color="00C8C8"/>
+            <colorLayer id="8" color="00C8C8"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="FF3219"/>
+            <colorLayer id="1" color="FF3219"/>
+            <colorLayer id="2" color="FF3219"/>
+            <colorLayer id="3" color="FF3219"/>
+            <colorLayer id="8" color="FF3219"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="19C819"/>
+            <colorLayer id="1" color="19C819"/>
+            <colorLayer id="2" color="19C819"/>
+            <colorLayer id="3" color="19C819"/>
+            <colorLayer id="8" color="19C819"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="FFD837"/>
+            <colorLayer id="1" color="FFD837"/>
+            <colorLayer id="2" color="FFD837"/>
+            <colorLayer id="3" color="FFD837"/>
+            <colorLayer id="8" color="FFD837"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="64" layerCount="9" angle="45">
+      <layers>
+         <layer id="0" z="-60"/>
+         <layer id="1" z="1060"/>
+         <layer id="2" z="1061"/>
+         <layer id="3" z="2061"/>
+         <layer id="4" alpha="204" z="-59"/>
+         <layer id="5" alpha="204" z="500"/>
+         <layer id="6" alpha="204" z="1060"/>
+         <layer id="7" alpha="204" z="2060"/>
+         <layer id="8" z="400"/>
+      </layers>
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="0" color="00C8C8"/>
+            <colorLayer id="1" color="00C8C8"/>
+            <colorLayer id="2" color="00C8C8"/>
+            <colorLayer id="3" color="00C8C8"/>
+            <colorLayer id="8" color="00C8C8"/>
+         </color>
+         <color id="2">
+            <colorLayer id="0" color="FF3219"/>
+            <colorLayer id="1" color="FF3219"/>
+            <colorLayer id="2" color="FF3219"/>
+            <colorLayer id="3" color="FF3219"/>
+            <colorLayer id="8" color="FF3219"/>
+         </color>
+         <color id="3">
+            <colorLayer id="0" color="19C819"/>
+            <colorLayer id="1" color="19C819"/>
+            <colorLayer id="2" color="19C819"/>
+            <colorLayer id="3" color="19C819"/>
+            <colorLayer id="8" color="19C819"/>
+         </color>
+         <color id="4">
+            <colorLayer id="0" color="FFD837"/>
+            <colorLayer id="1" color="FFD837"/>
+            <colorLayer id="2" color="FFD837"/>
+            <colorLayer id="3" color="FFD837"/>
+            <colorLayer id="8" color="FFD837"/>
+         </color>
+      </colors>
+   </visualization>
+   <visualization size="1" layerCount="3" angle="360">
+      <directions>
+         <direction id="0"/>
+      </directions>
+      <colors>
+         <color id="1">
+            <colorLayer id="1" color="00C8C8"/>
+         </color>
+         <color id="2">
+            <colorLayer id="1" color="FF3219"/>
+         </color>
+         <color id="3">
+            <colorLayer id="1" color="19C819"/>
+         </color>
+         <color id="4">
+            <colorLayer id="1" color="FFD837"/>
+         </color>
+      </colors>
+   </visualization>
+</graphics></visualizationData>

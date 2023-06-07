@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="qt_xm10_bench_64_sd_0_0" x="30" y="15"/>
+  <asset name="qt_xm10_bench_64_a_0_0" x="30" y="35"/>
+  <asset name="qt_xm10_bench_64_b_0_0" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_64_c_0_0" x="28" y="20"/>
+  <asset name="qt_xm10_bench_64_c_0_5" x="10" y="41"/>
+  <asset name="qt_xm10_bench_64_c_0_4" x="8" y="39"/>
+  <asset name="qt_xm10_bench_64_c_0_3" x="6" y="37"/>
+  <asset name="qt_xm10_bench_64_c_0_2" x="5" y="36"/>
+  <asset name="qt_xm10_bench_64_c_0_1" x="4" y="35"/>
+  <asset name="qt_xm10_bench_64_d_0_0" x="-55" y="0"/>
+  <asset name="qt_xm10_bench_64_d_0_10" x="-26" y="-7"/>
+  <asset name="qt_xm10_bench_64_d_0_9" x="-28" y="-9"/>
+  <asset name="qt_xm10_bench_64_d_0_8" x="-30" y="-11"/>
+  <asset name="qt_xm10_bench_64_d_0_7" x="-31" y="-12"/>
+  <asset name="qt_xm10_bench_64_d_0_6" x="-32" y="-13"/>
+  <asset name="qt_xm10_bench_64_d_0_5" x="-53" y="10"/>
+  <asset name="qt_xm10_bench_64_d_0_4" x="-55" y="8"/>
+  <asset name="qt_xm10_bench_64_d_0_3" x="-57" y="6"/>
+  <asset name="qt_xm10_bench_64_d_0_2" x="-58" y="5"/>
+  <asset name="qt_xm10_bench_64_d_0_1" x="-59" y="4"/>
+  <asset name="qt_xm10_bench_32_sd_0_0" x="13" y="3"/>
+  <asset name="qt_xm10_bench_32_b_0_0" x="-4" y="8"/>
+  <asset name="qt_xm10_bench_32_a_0_0" x="11" y="16"/>
+  <asset name="qt_xm10_bench_32_c_0_5" x="2" y="21"/>
+  <asset name="qt_xm10_bench_32_c_0_4" x="0" y="19"/>
+  <asset name="qt_xm10_bench_32_c_0_3" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_c_0_2" x="-2" y="17"/>
+  <asset name="qt_xm10_bench_32_c_0_1" x="-3" y="16"/>
+  <asset name="qt_xm10_bench_32_c_0_0" x="9" y="9"/>
+  <asset name="qt_xm10_bench_32_d_0_10" x="-26" y="6"/>
+  <asset name="qt_xm10_bench_32_d_0_9" x="-28" y="4"/>
+  <asset name="qt_xm10_bench_32_d_0_8" x="-29" y="3"/>
+  <asset name="qt_xm10_bench_32_d_0_7" x="-30" y="2"/>
+  <asset name="qt_xm10_bench_32_d_0_6" x="-31" y="1"/>
+  <asset name="qt_xm10_bench_32_d_0_5" x="-13" y="-2"/>
+  <asset name="qt_xm10_bench_32_d_0_4" x="-15" y="-4"/>
+  <asset name="qt_xm10_bench_32_d_0_3" x="-16" y="-5"/>
+  <asset name="qt_xm10_bench_32_d_0_2" x="-17" y="-6"/>
+  <asset name="qt_xm10_bench_32_d_0_1" x="-18" y="-7"/>
+  <asset name="qt_xm10_bench_32_d_0_0" x="-20" y="-4"/>
+  <asset name="qt_xm10_bench_icon_a" x="15" y="11"/>
+  <asset name="qt_xm10_bench_64_sd_4_0" source="qt_xm10_bench_64_sd_0_0" x="30" y="15"/>
+  <asset name="qt_xm10_bench_64_a_4_0" source="qt_xm10_bench_64_a_0_0" x="30" y="35"/>
+  <asset name="qt_xm10_bench_64_b_4_0" source="qt_xm10_bench_64_b_0_0" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_sd_4_0" source="qt_xm10_bench_32_sd_0_0" x="13" y="3"/>
+  <asset name="qt_xm10_bench_32_b_4_0" source="qt_xm10_bench_32_b_0_0" x="-4" y="8"/>
+  <asset name="qt_xm10_bench_32_a_4_0" source="qt_xm10_bench_32_a_0_0" x="11" y="16"/>
+  <asset name="qt_xm10_bench_64_sd_2_0" flipH="1" source="qt_xm10_bench_64_sd_0_0" x="30" y="15"/>
+  <asset name="qt_xm10_bench_64_a_2_0" flipH="1" source="qt_xm10_bench_64_a_0_0" x="30" y="35"/>
+  <asset name="qt_xm10_bench_64_b_2_0" flipH="1" source="qt_xm10_bench_64_b_0_0" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_sd_2_0" flipH="1" source="qt_xm10_bench_32_sd_0_0" x="13" y="3"/>
+  <asset name="qt_xm10_bench_32_b_2_0" flipH="1" source="qt_xm10_bench_32_b_0_0" x="-4" y="8"/>
+  <asset name="qt_xm10_bench_32_a_2_0" flipH="1" source="qt_xm10_bench_32_a_0_0" x="11" y="16"/>
+  <asset name="qt_xm10_bench_64_sd_6_0" flipH="1" source="qt_xm10_bench_64_sd_0_0" x="30" y="15"/>
+  <asset name="qt_xm10_bench_64_a_6_0" flipH="1" source="qt_xm10_bench_64_a_0_0" x="30" y="35"/>
+  <asset name="qt_xm10_bench_64_b_6_0" flipH="1" source="qt_xm10_bench_64_b_0_0" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_sd_6_0" flipH="1" source="qt_xm10_bench_32_sd_0_0" x="13" y="3"/>
+  <asset name="qt_xm10_bench_32_b_6_0" flipH="1" source="qt_xm10_bench_32_b_0_0" x="-4" y="8"/>
+  <asset name="qt_xm10_bench_32_a_6_0" flipH="1" source="qt_xm10_bench_32_a_0_0" x="11" y="16"/>
+  <asset name="qt_xm10_bench_64_c_4_0" source="qt_xm10_bench_64_c_0_0" x="28" y="20"/>
+  <asset name="qt_xm10_bench_64_c_4_5" source="qt_xm10_bench_64_c_0_5" x="10" y="41"/>
+  <asset name="qt_xm10_bench_64_c_4_4" source="qt_xm10_bench_64_c_0_4" x="8" y="39"/>
+  <asset name="qt_xm10_bench_64_c_4_3" source="qt_xm10_bench_64_c_0_3" x="6" y="37"/>
+  <asset name="qt_xm10_bench_64_c_4_2" source="qt_xm10_bench_64_c_0_2" x="5" y="36"/>
+  <asset name="qt_xm10_bench_64_c_4_1" source="qt_xm10_bench_64_c_0_1" x="4" y="35"/>
+  <asset name="qt_xm10_bench_64_d_4_0" source="qt_xm10_bench_64_d_0_0" x="-55" y="0"/>
+  <asset name="qt_xm10_bench_64_d_4_10" source="qt_xm10_bench_64_d_0_10" x="-26" y="-7"/>
+  <asset name="qt_xm10_bench_64_d_4_9" source="qt_xm10_bench_64_d_0_9" x="-28" y="-9"/>
+  <asset name="qt_xm10_bench_64_d_4_8" source="qt_xm10_bench_64_d_0_8" x="-30" y="-11"/>
+  <asset name="qt_xm10_bench_64_d_4_7" source="qt_xm10_bench_64_d_0_7" x="-31" y="-12"/>
+  <asset name="qt_xm10_bench_64_d_4_6" source="qt_xm10_bench_64_d_0_6" x="-32" y="-13"/>
+  <asset name="qt_xm10_bench_64_d_4_5" source="qt_xm10_bench_64_d_0_5" x="-53" y="10"/>
+  <asset name="qt_xm10_bench_64_d_4_4" source="qt_xm10_bench_64_d_0_4" x="-55" y="8"/>
+  <asset name="qt_xm10_bench_64_d_4_3" source="qt_xm10_bench_64_d_0_3" x="-57" y="6"/>
+  <asset name="qt_xm10_bench_64_d_4_2" source="qt_xm10_bench_64_d_0_2" x="-58" y="5"/>
+  <asset name="qt_xm10_bench_64_d_4_1" source="qt_xm10_bench_64_d_0_1" x="-59" y="4"/>
+  <asset name="qt_xm10_bench_32_c_4_5" source="qt_xm10_bench_32_c_0_5" x="2" y="21"/>
+  <asset name="qt_xm10_bench_32_c_4_4" source="qt_xm10_bench_32_c_0_4" x="0" y="19"/>
+  <asset name="qt_xm10_bench_32_c_4_3" source="qt_xm10_bench_32_c_0_3" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_c_4_2" source="qt_xm10_bench_32_c_0_2" x="-2" y="17"/>
+  <asset name="qt_xm10_bench_32_c_4_1" source="qt_xm10_bench_32_c_0_1" x="-3" y="16"/>
+  <asset name="qt_xm10_bench_32_c_4_0" source="qt_xm10_bench_32_c_0_0" x="9" y="9"/>
+  <asset name="qt_xm10_bench_32_d_4_10" source="qt_xm10_bench_32_d_0_10" x="-26" y="6"/>
+  <asset name="qt_xm10_bench_32_d_4_9" source="qt_xm10_bench_32_d_0_9" x="-28" y="4"/>
+  <asset name="qt_xm10_bench_32_d_4_8" source="qt_xm10_bench_32_d_0_8" x="-29" y="3"/>
+  <asset name="qt_xm10_bench_32_d_4_7" source="qt_xm10_bench_32_d_0_7" x="-30" y="2"/>
+  <asset name="qt_xm10_bench_32_d_4_6" source="qt_xm10_bench_32_d_0_6" x="-31" y="1"/>
+  <asset name="qt_xm10_bench_32_d_4_5" source="qt_xm10_bench_32_d_0_5" x="-13" y="-2"/>
+  <asset name="qt_xm10_bench_32_d_4_4" source="qt_xm10_bench_32_d_0_4" x="-15" y="-4"/>
+  <asset name="qt_xm10_bench_32_d_4_3" source="qt_xm10_bench_32_d_0_3" x="-16" y="-5"/>
+  <asset name="qt_xm10_bench_32_d_4_2" source="qt_xm10_bench_32_d_0_2" x="-17" y="-6"/>
+  <asset name="qt_xm10_bench_32_d_4_1" source="qt_xm10_bench_32_d_0_1" x="-18" y="-7"/>
+  <asset name="qt_xm10_bench_32_d_4_0" source="qt_xm10_bench_32_d_0_0" x="-20" y="-4"/>
+  <asset name="qt_xm10_bench_64_c_2_0" flipH="1" source="qt_xm10_bench_64_c_0_0" x="28" y="20"/>
+  <asset name="qt_xm10_bench_64_c_2_5" flipH="1" source="qt_xm10_bench_64_c_0_5" x="10" y="41"/>
+  <asset name="qt_xm10_bench_64_c_2_4" flipH="1" source="qt_xm10_bench_64_c_0_4" x="8" y="39"/>
+  <asset name="qt_xm10_bench_64_c_2_3" flipH="1" source="qt_xm10_bench_64_c_0_3" x="6" y="37"/>
+  <asset name="qt_xm10_bench_64_c_2_2" flipH="1" source="qt_xm10_bench_64_c_0_2" x="5" y="36"/>
+  <asset name="qt_xm10_bench_64_c_2_1" flipH="1" source="qt_xm10_bench_64_c_0_1" x="4" y="35"/>
+  <asset name="qt_xm10_bench_64_d_2_0" flipH="1" source="qt_xm10_bench_64_d_0_0" x="-55" y="0"/>
+  <asset name="qt_xm10_bench_64_d_2_10" flipH="1" source="qt_xm10_bench_64_d_0_10" x="-26" y="-7"/>
+  <asset name="qt_xm10_bench_64_d_2_9" flipH="1" source="qt_xm10_bench_64_d_0_9" x="-28" y="-9"/>
+  <asset name="qt_xm10_bench_64_d_2_8" flipH="1" source="qt_xm10_bench_64_d_0_8" x="-30" y="-11"/>
+  <asset name="qt_xm10_bench_64_d_2_7" flipH="1" source="qt_xm10_bench_64_d_0_7" x="-31" y="-12"/>
+  <asset name="qt_xm10_bench_64_d_2_6" flipH="1" source="qt_xm10_bench_64_d_0_6" x="-32" y="-13"/>
+  <asset name="qt_xm10_bench_64_d_2_5" flipH="1" source="qt_xm10_bench_64_d_0_5" x="-53" y="10"/>
+  <asset name="qt_xm10_bench_64_d_2_4" flipH="1" source="qt_xm10_bench_64_d_0_4" x="-55" y="8"/>
+  <asset name="qt_xm10_bench_64_d_2_3" flipH="1" source="qt_xm10_bench_64_d_0_3" x="-57" y="6"/>
+  <asset name="qt_xm10_bench_64_d_2_2" flipH="1" source="qt_xm10_bench_64_d_0_2" x="-58" y="5"/>
+  <asset name="qt_xm10_bench_64_d_2_1" flipH="1" source="qt_xm10_bench_64_d_0_1" x="-59" y="4"/>
+  <asset name="qt_xm10_bench_32_c_2_5" flipH="1" source="qt_xm10_bench_32_c_0_5" x="2" y="21"/>
+  <asset name="qt_xm10_bench_32_c_2_4" flipH="1" source="qt_xm10_bench_32_c_0_4" x="0" y="19"/>
+  <asset name="qt_xm10_bench_32_c_2_3" flipH="1" source="qt_xm10_bench_32_c_0_3" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_c_2_2" flipH="1" source="qt_xm10_bench_32_c_0_2" x="-2" y="17"/>
+  <asset name="qt_xm10_bench_32_c_2_1" flipH="1" source="qt_xm10_bench_32_c_0_1" x="-3" y="16"/>
+  <asset name="qt_xm10_bench_32_c_2_0" flipH="1" source="qt_xm10_bench_32_c_0_0" x="9" y="9"/>
+  <asset name="qt_xm10_bench_32_d_2_10" flipH="1" source="qt_xm10_bench_32_d_0_10" x="-26" y="6"/>
+  <asset name="qt_xm10_bench_32_d_2_9" flipH="1" source="qt_xm10_bench_32_d_0_9" x="-28" y="4"/>
+  <asset name="qt_xm10_bench_32_d_2_8" flipH="1" source="qt_xm10_bench_32_d_0_8" x="-29" y="3"/>
+  <asset name="qt_xm10_bench_32_d_2_7" flipH="1" source="qt_xm10_bench_32_d_0_7" x="-30" y="2"/>
+  <asset name="qt_xm10_bench_32_d_2_6" flipH="1" source="qt_xm10_bench_32_d_0_6" x="-31" y="1"/>
+  <asset name="qt_xm10_bench_32_d_2_5" flipH="1" source="qt_xm10_bench_32_d_0_5" x="-13" y="-2"/>
+  <asset name="qt_xm10_bench_32_d_2_4" flipH="1" source="qt_xm10_bench_32_d_0_4" x="-15" y="-4"/>
+  <asset name="qt_xm10_bench_32_d_2_3" flipH="1" source="qt_xm10_bench_32_d_0_3" x="-16" y="-5"/>
+  <asset name="qt_xm10_bench_32_d_2_2" flipH="1" source="qt_xm10_bench_32_d_0_2" x="-17" y="-6"/>
+  <asset name="qt_xm10_bench_32_d_2_1" flipH="1" source="qt_xm10_bench_32_d_0_1" x="-18" y="-7"/>
+  <asset name="qt_xm10_bench_32_d_2_0" flipH="1" source="qt_xm10_bench_32_d_0_0" x="-20" y="-4"/>
+  <asset name="qt_xm10_bench_64_c_6_0" flipH="1" source="qt_xm10_bench_64_c_0_0" x="28" y="20"/>
+  <asset name="qt_xm10_bench_64_c_6_5" flipH="1" source="qt_xm10_bench_64_c_0_5" x="10" y="41"/>
+  <asset name="qt_xm10_bench_64_c_6_4" flipH="1" source="qt_xm10_bench_64_c_0_4" x="8" y="39"/>
+  <asset name="qt_xm10_bench_64_c_6_3" flipH="1" source="qt_xm10_bench_64_c_0_3" x="6" y="37"/>
+  <asset name="qt_xm10_bench_64_c_6_2" flipH="1" source="qt_xm10_bench_64_c_0_2" x="5" y="36"/>
+  <asset name="qt_xm10_bench_64_c_6_1" flipH="1" source="qt_xm10_bench_64_c_0_1" x="4" y="35"/>
+  <asset name="qt_xm10_bench_64_d_6_0" flipH="1" source="qt_xm10_bench_64_d_0_0" x="-55" y="0"/>
+  <asset name="qt_xm10_bench_64_d_6_10" flipH="1" source="qt_xm10_bench_64_d_0_10" x="-26" y="-7"/>
+  <asset name="qt_xm10_bench_64_d_6_9" flipH="1" source="qt_xm10_bench_64_d_0_9" x="-28" y="-9"/>
+  <asset name="qt_xm10_bench_64_d_6_8" flipH="1" source="qt_xm10_bench_64_d_0_8" x="-30" y="-11"/>
+  <asset name="qt_xm10_bench_64_d_6_7" flipH="1" source="qt_xm10_bench_64_d_0_7" x="-31" y="-12"/>
+  <asset name="qt_xm10_bench_64_d_6_6" flipH="1" source="qt_xm10_bench_64_d_0_6" x="-32" y="-13"/>
+  <asset name="qt_xm10_bench_64_d_6_5" flipH="1" source="qt_xm10_bench_64_d_0_5" x="-53" y="10"/>
+  <asset name="qt_xm10_bench_64_d_6_4" flipH="1" source="qt_xm10_bench_64_d_0_4" x="-55" y="8"/>
+  <asset name="qt_xm10_bench_64_d_6_3" flipH="1" source="qt_xm10_bench_64_d_0_3" x="-57" y="6"/>
+  <asset name="qt_xm10_bench_64_d_6_2" flipH="1" source="qt_xm10_bench_64_d_0_2" x="-58" y="5"/>
+  <asset name="qt_xm10_bench_64_d_6_1" flipH="1" source="qt_xm10_bench_64_d_0_1" x="-59" y="4"/>
+  <asset name="qt_xm10_bench_32_c_6_5" flipH="1" source="qt_xm10_bench_32_c_0_5" x="2" y="21"/>
+  <asset name="qt_xm10_bench_32_c_6_4" flipH="1" source="qt_xm10_bench_32_c_0_4" x="0" y="19"/>
+  <asset name="qt_xm10_bench_32_c_6_3" flipH="1" source="qt_xm10_bench_32_c_0_3" x="-1" y="18"/>
+  <asset name="qt_xm10_bench_32_c_6_2" flipH="1" source="qt_xm10_bench_32_c_0_2" x="-2" y="17"/>
+  <asset name="qt_xm10_bench_32_c_6_1" flipH="1" source="qt_xm10_bench_32_c_0_1" x="-3" y="16"/>
+  <asset name="qt_xm10_bench_32_c_6_0" flipH="1" source="qt_xm10_bench_32_c_0_0" x="9" y="9"/>
+  <asset name="qt_xm10_bench_32_d_6_10" flipH="1" source="qt_xm10_bench_32_d_0_10" x="-26" y="6"/>
+  <asset name="qt_xm10_bench_32_d_6_9" flipH="1" source="qt_xm10_bench_32_d_0_9" x="-28" y="4"/>
+  <asset name="qt_xm10_bench_32_d_6_8" flipH="1" source="qt_xm10_bench_32_d_0_8" x="-29" y="3"/>
+  <asset name="qt_xm10_bench_32_d_6_7" flipH="1" source="qt_xm10_bench_32_d_0_7" x="-30" y="2"/>
+  <asset name="qt_xm10_bench_32_d_6_6" flipH="1" source="qt_xm10_bench_32_d_0_6" x="-31" y="1"/>
+  <asset name="qt_xm10_bench_32_d_6_5" flipH="1" source="qt_xm10_bench_32_d_0_5" x="-13" y="-2"/>
+  <asset name="qt_xm10_bench_32_d_6_4" flipH="1" source="qt_xm10_bench_32_d_0_4" x="-15" y="-4"/>
+  <asset name="qt_xm10_bench_32_d_6_3" flipH="1" source="qt_xm10_bench_32_d_0_3" x="-16" y="-5"/>
+  <asset name="qt_xm10_bench_32_d_6_2" flipH="1" source="qt_xm10_bench_32_d_0_2" x="-17" y="-6"/>
+  <asset name="qt_xm10_bench_32_d_6_1" flipH="1" source="qt_xm10_bench_32_d_0_1" x="-18" y="-7"/>
+  <asset name="qt_xm10_bench_32_d_6_0" flipH="1" source="qt_xm10_bench_32_d_0_0" x="-20" y="-4"/>
+</assets>

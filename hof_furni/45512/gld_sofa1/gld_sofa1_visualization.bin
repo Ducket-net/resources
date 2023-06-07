@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="gld_sofa1"><graphics>
+  <visualization size="1" layerCount="3" angle="360">
+    <layers>
+      <layer id="0" tag="COLOR1"/>
+      <layer id="1" tag="COLOR2"/>
+      <layer id="2"/>
+    </layers>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="32" layerCount="12" angle="45">
+    <layers>
+      <layer id="0" tag="COLOR1"/>
+      <layer id="1" tag="COLOR2"/>
+      <layer id="2"/>
+      <layer id="3" tag="COLOR1"/>
+      <layer id="4" tag="COLOR2"/>
+      <layer id="5"/>
+      <layer id="6" tag="COLOR1"/>
+      <layer id="7" tag="COLOR2"/>
+      <layer id="8"/>
+      <layer id="9" tag="COLOR1"/>
+      <layer id="10" tag="COLOR2"/>
+      <layer id="11"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="0"/>
+      <direction id="6"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+  <visualization size="64" layerCount="12" angle="45">
+    <layers>
+      <layer id="0" tag="COLOR1"/>
+      <layer id="1" tag="COLOR2"/>
+      <layer id="2"/>
+      <layer id="3" tag="COLOR1" z="300"/>
+      <layer id="4" tag="COLOR2" z="400"/>
+      <layer id="5" z="500"/>
+      <layer id="6" tag="COLOR1" z="1000"/>
+      <layer id="7" tag="COLOR2" z="1000"/>
+      <layer id="8" z="1000"/>
+      <layer id="9" tag="COLOR1" z="1500"/>
+      <layer id="10" tag="COLOR2" z="1600"/>
+      <layer id="11" z="1600"/>
+    </layers>
+    <directions>
+      <direction id="2"/>
+      <direction id="0"/>
+      <direction id="6"/>
+      <direction id="4"/>
+    </directions>
+    <colors/>
+    <animations/>
+    <postures/>
+    <gestures/>
+  </visualization>
+</graphics></visualizationData>
