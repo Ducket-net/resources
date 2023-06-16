@@ -3,7 +3,7 @@ name: Scheduled Node Command
 on:
   schedule:
     - cron: "0 12 * * *" # This schedule runs at 8 AM ET (12 PM UTC) every day
-  workflow_dispatch: # Adding this line enables you to manually trigger the workflow
+  workflow_dispatch:
 
 jobs:
   run-node-command:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # Fetch the entire git history to properly compute changes for the commit
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
@@ -23,3 +25,14 @@ jobs:
 
       - name: Run Node command
         run: npx shroom dump --url https://www.habbo.com/gamedata/external_variables/326b0a1abf9e2571d541ac05e6eb3173b83bddea --location ./public/resources
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add ./public/resources
+          git commit -m "GitHub Actions: Update downloaded files"
+          git push
