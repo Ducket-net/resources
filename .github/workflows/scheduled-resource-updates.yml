@@ -2,7 +2,7 @@ name: Scheduled Node Command
 
 on:
   schedule:
-    - cron: "0 0 * * *" # This schedule runs at midnight every day (Enter your desired schedule in the cron string)
+    - cron: "0 12 * * *" # This schedule runs at 8 AM ET (12 PM UTC) every day
   workflow_dispatch: # Adding this line enables you to manually trigger the workflow
 
 jobs:
