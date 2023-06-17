@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_nftdonutfloat" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_5083_2_0" mimeType="image/png">
+        <param key="offset" value="-5,25"/>
+      </asset>
+      <asset name="h_std_ca_5083_0_0" mimeType="image/png">
+        <param key="offset" value="-4,37"/>
+      </asset>
+      <asset name="h_std_ca_5083_1_0" mimeType="image/png">
+        <param key="offset" value="-5,38"/>
+      </asset>
+      <asset name="h_std_ca_5083_2_0" mimeType="image/png">
+        <param key="offset" value="-7,37"/>
+      </asset>
+      <asset name="h_std_ca_5083_3_0" mimeType="image/png">
+        <param key="offset" value="-6,37"/>
+      </asset>
+      <asset name="h_std_ca_5083_7_0" mimeType="image/png">
+        <param key="offset" value="-6,37"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
