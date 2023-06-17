@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
+   <library name="hc_rntgn" version="0.1">
+      <assets>
+         <asset name="index" mimeType="text/xml"/>
+         <asset name="hc_rntgn_visualization" mimeType="text/xml"/>
+         <asset name="hc_rntgn_assets" mimeType="text/xml"/>
+         <asset name="hc_rntgn_logic" mimeType="text/xml"/>
+         <asset name="hc_rntgn_64_a_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_64_b_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_64_d_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_64_e_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_64_sd_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_icon_a" mimeType="image/png"/>
+         <asset name="hc_rntgn_32_a_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_32_b_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_32_d_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_32_e_0_0" mimeType="image/png"/>
+         <asset name="hc_rntgn_32_sd_0_0" mimeType="image/png"/>
+      </assets>
+   </library>
+</manifest>

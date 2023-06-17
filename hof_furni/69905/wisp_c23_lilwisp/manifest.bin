@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="wisp_c23_lilwisp" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="wisp_c23_lilwisp_visualization" mimeType="text/xml"/>
+      <asset name="wisp_c23_lilwisp_assets" mimeType="text/xml"/>
+      <asset name="wisp_c23_lilwisp_logic" mimeType="text/xml"/>
+      <asset name="wisp_c23_lilwisp_icon_a" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_sd_0_0" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_1_1" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_1_1" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_1_2" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_1_2" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_1_3" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_1_3" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_2_1" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_2_1" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_2_2" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_2_2" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_2_3" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_2_3" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_3_1" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_3_1" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_3_2" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_3_2" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_a_3_3" mimeType="image/png"/>
+      <asset name="wisp_c23_lilwisp_64_b_3_3" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

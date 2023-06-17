@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<manifest><library id="FFScooter3" version="0.1">
+    <assets>
+      <asset name="h_std_fx217_1_1_7_0" mimeType="image/png">
+        <param key="offset" value="-24,5"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_7_0" mimeType="image/png">
+        <param key="offset" value="-29,3"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_6_0" mimeType="image/png">
+        <param key="offset" value="-4,51"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_6_0" mimeType="image/png">
+        <param key="offset" value="-13,20"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_5_0" mimeType="image/png">
+        <param key="offset" value="-3,42"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_5_0" mimeType="image/png">
+        <param key="offset" value="-11,34"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_4_0" mimeType="image/png">
+        <param key="offset" value="-6,40"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_4_0" mimeType="image/png">
+        <param key="offset" value="-6,40"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_3_0" mimeType="image/png">
+        <param key="offset" value="-24,5"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_3_0" mimeType="image/png">
+        <param key="offset" value="-18,31"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_2_0" mimeType="image/png">
+        <param key="offset" value="-7,40"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_2_0" mimeType="image/png">
+        <param key="offset" value="-37,40"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_1_0" mimeType="image/png">
+        <param key="offset" value="-2,42"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_1_0" mimeType="image/png">
+        <param key="offset" value="-54,34"/>
+      </asset>
+      <asset name="h_std_fx217_1_1_0_0" mimeType="image/png">
+        <param key="offset" value="-8,51"/>
+      </asset>
+      <asset name="h_std_fx217_2_1_0_0" mimeType="image/png">
+        <param key="offset" value="-51,20"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
