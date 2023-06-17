@@ -25,7 +25,7 @@ jobs:
         run: npm ci
 
       - name: Run Node command
-        run: npx shroom dump --url https://www.habbo.com/gamedata/external_variables/326b0a1abf9e2571d541ac05e6eb3173b83bddea --location ./
+        run: npx shroom dump --url https://sandbox.habbo.com/gamedata/external_variables/d7a0ae8cf0e0c49a20ed821d63f733c91e0948d9 --location ./
 
       - name: Configure Git
         run: |
