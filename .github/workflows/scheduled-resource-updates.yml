@@ -2,7 +2,7 @@ name: Scheduled Node Command
 
 on:
   schedule:
-    - cron: "0 12 * * *" # This schedule runs at 8 AM ET (12 PM UTC) every day
+    - cron: "0 14 * * *" # This schedule runs at 11 AM ET (1 PM UTC) every day
   workflow_dispatch:
 
 jobs:
@@ -22,10 +22,14 @@ jobs:
           node-version: 19 # Specify the Node.js version you want to use
 
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm ci
+          cd icon_loader/ && npm ci
 
       - name: Run Node command
-        run: npx shroom dump --url https://sandbox.habbo.com/gamedata/external_variables/d7a0ae8cf0e0c49a20ed821d63f733c91e0948d9 --location ./
+        run: |
+          npx shroom dump --url https://sandbox.habbo.com/gamedata/external_variables/d7a0ae8cf0e0c49a20ed821d63f733c91e0948d9 --location ./
+          cd icon_loader/ && npx hdl -c ficons
 
       - name: Configure Git
         run: |

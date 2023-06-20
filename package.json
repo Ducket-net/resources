@@ -7,7 +7,8 @@
     "shroom-dump": "shroom dump --url https://www.habbo.com/gamedata/external_variables/326b0a1abf9e2571d541ac05e6eb3173b83bddea --location ./public/resources"
   },
   "dependencies": {
-    "@tetreum/shroom": "0.7.6"
+    "@tetreum/shroom": "0.7.6",
+    "habbo-downloader": "^2.23.2"
   },
   "author": "",
   "license": "ISC"
