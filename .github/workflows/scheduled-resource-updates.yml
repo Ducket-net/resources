@@ -24,12 +24,12 @@ jobs:
       - name: Install dependencies
         run: |
           npm ci
-          cd icon_loader/ && npm ci
+          cd ./icon_loader/ && npm ci
 
       - name: Run Node command
         run: |
           npx shroom dump --url https://sandbox.habbo.com/gamedata/external_variables/d7a0ae8cf0e0c49a20ed821d63f733c91e0948d9 --location ./
-          cd icon_loader/ && npx hdl -c ficons
+          cd ./icon_loader/ && npx hdl -c ficons
 
       - name: Configure Git
         run: |
