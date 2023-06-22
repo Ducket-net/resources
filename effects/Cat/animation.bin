@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<animation name="fx.221" desc="Cat Walk">
+    <remove id="ha" />
+	<remove id="he" />
+	<remove id="hr" />
+	<remove id="hrb" />
+	<remove id="ey" />
+	<remove id="fa" />
+	<remove id="fc" />
+	<remove id="hd" />
+	<remove id="ca" />
+	<remove id="cc" />
+	<remove id="ch" />
+	<remove id="wa" />
+	<remove id="lh" />
+	<remove id="ls" />
+	<remove id="lc" />
+	<remove id="li" />
+	<remove id="rh" />	
+	<remove id="rc" />
+	<remove id="rs" /> 
+    <remove id="bd" />
+	<remove id="lg" />
+    
+    <add id="fx221_1" align="top" />
+    
+	<override name="catwalk" override="mv">
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="0">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="0">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="1">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="1">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="0">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="0">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+        		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="2">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+        </frame>
+        		<frame>
+                <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Move" frame="2">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+	</override>
+	<override name="catstand" override="std">
+		<frame>
+            <bodypart id="head"/>
+		    <bodypart id="leftarm"/>
+		    <bodypart id="rightarm"/>
+			<bodypart id="torso" action="Default" frame="0">
+				<item id="sh" base="fx221_1"/>
+			</bodypart>
+		</frame>
+	</override>
+</animation>
