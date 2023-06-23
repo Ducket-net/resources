@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="nyc_c23_sandwich" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="nyc_c23_sandwich_visualization" mimeType="text/xml"/>
+      <asset name="nyc_c23_sandwich_assets" mimeType="text/xml"/>
+      <asset name="nyc_c23_sandwich_logic" mimeType="text/xml"/>
+      <asset name="nyc_c23_sandwich_64_sd_2_0" mimeType="image/png"/>
+      <asset name="nyc_c23_sandwich_64_a_2_0" mimeType="image/png"/>
+      <asset name="nyc_c23_sandwich_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
