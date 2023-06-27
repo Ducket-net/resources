@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_footballboppers" version="0.1">
+    <assets>
+      <asset name="h_lay_he_5105_2_0" mimeType="image/png">
+        <param key="offset" value="20,38"/>
+      </asset>
+      <asset name="h_lay_he_5106_2_0" mimeType="image/png">
+        <param key="offset" value="29,50"/>
+      </asset>
+      <asset name="h_std_he_5105_7_0" mimeType="image/png">
+        <param key="offset" value="-24,74"/>
+      </asset>
+      <asset name="h_std_he_5105_3_0" mimeType="image/png">
+        <param key="offset" value="-24,74"/>
+      </asset>
+      <asset name="h_std_he_5105_2_0" mimeType="image/png">
+        <param key="offset" value="-26,72"/>
+      </asset>
+      <asset name="h_std_he_5105_1_0" mimeType="image/png">
+        <param key="offset" value="-34,75"/>
+      </asset>
+      <asset name="h_std_he_5105_0_0" mimeType="image/png">
+        <param key="offset" value="-26,73"/>
+      </asset>
+      <asset name="h_std_he_5106_7_0" mimeType="image/png">
+        <param key="offset" value="-21,84"/>
+      </asset>
+      <asset name="h_std_he_5106_3_0" mimeType="image/png">
+        <param key="offset" value="-20,85"/>
+      </asset>
+      <asset name="h_std_he_5106_2_0" mimeType="image/png">
+        <param key="offset" value="-27,84"/>
+      </asset>
+      <asset name="h_std_he_5106_1_0" mimeType="image/png">
+        <param key="offset" value="-35,86"/>
+      </asset>
+      <asset name="h_std_he_5106_0_0" mimeType="image/png">
+        <param key="offset" value="-30,86"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

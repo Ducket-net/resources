@@ -7593,7 +7593,7 @@
     <part id="5099" type="rs"/>
     <part id="5100" type="ch"/>
   </lib>
-  <lib id="shirt_M_80sretro" revision="69965">
+  <lib id="shirt_M_80sretro" revision="69994">
     <part id="5060" type="ch"/>
     <part id="5060" type="ls"/>
     <part id="5060" type="rs"/>
@@ -7612,6 +7612,15 @@
   <lib id="hat_U_80sretro" revision="69965">
     <part id="5064" type="ha"/>
     <part id="5065" type="ha"/>
+  </lib>
+  <lib id="hair_U_sportsponytail" revision="70000">
+    <part id="5107" type="hr"/>
+    <part id="5107" type="hrb"/>
+    <part id="5108" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_footballboppers" revision="70000">
+    <part id="5105" type="he"/>
+    <part id="5106" type="he"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
