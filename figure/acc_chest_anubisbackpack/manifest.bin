@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_anubisbackpack" version="0.1">
+    <assets>
+      <asset name="h_std_ca_5132_0_0" mimeType="image/png">
+        <param key="offset" value="-14,48"/>
+      </asset>
+      <asset name="h_std_ca_5132_1_0" mimeType="image/png">
+        <param key="offset" value="-5,49"/>
+      </asset>
+      <asset name="h_std_ca_5132_2_0" mimeType="image/png">
+        <param key="offset" value="-11,47"/>
+      </asset>
+      <asset name="h_std_ca_5132_3_0" mimeType="image/png">
+        <param key="offset" value="-25,34"/>
+      </asset>
+      <asset name="h_std_ca_5132_7_0" mimeType="image/png">
+        <param key="offset" value="-20,43"/>
+      </asset>
+      <asset name="h_std_ca_5133_0_0" mimeType="image/png">
+        <param key="offset" value="-13,83"/>
+      </asset>
+      <asset name="h_std_ca_5133_1_0" mimeType="image/png">
+        <param key="offset" value="-4,50"/>
+      </asset>
+      <asset name="h_std_ca_5133_2_0" mimeType="image/png">
+        <param key="offset" value="-10,48"/>
+      </asset>
+      <asset name="h_std_ca_5133_3_0" mimeType="image/png">
+        <param key="offset" value="-22,49"/>
+      </asset>
+      <asset name="h_std_ca_5133_7_0" mimeType="image/png">
+        <param key="offset" value="-19,46"/>
+      </asset>
+      <asset name="h_lay_ca_5132_2_0" mimeType="image/png">
+        <param key="offset" value="13,13"/>
+      </asset>
+      <asset name="h_lay_ca_5133_2_0" mimeType="image/png">
+        <param key="offset" value="14,24"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
