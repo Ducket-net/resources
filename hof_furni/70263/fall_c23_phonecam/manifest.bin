@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="fall_c23_phonecam" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="fall_c23_phonecam_visualization" mimeType="text/xml"/>
+      <asset name="fall_c23_phonecam_assets" mimeType="text/xml"/>
+      <asset name="fall_c23_phonecam_logic" mimeType="text/xml"/>
+      <asset name="fall_c23_phonecam_64_sd_0_0" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_a_0_0" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_a_4_0" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_a_0_1" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_a_4_1" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_b_0_0" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_b_0_1" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_64_b_4_1" mimeType="image/png"/>
+      <asset name="fall_c23_phonecam_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
