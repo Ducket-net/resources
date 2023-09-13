@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_bigbowhairclip" version="0.1">
+    <assets>
+      <asset name="h_std_he_5188_0_0" mimeType="image/png">
+        <param key="offset" value="-14,78"/>
+      </asset>
+      <asset name="h_std_he_5188_1_0" mimeType="image/png">
+        <param key="offset" value="-7,78"/>
+      </asset>
+      <asset name="h_std_he_5188_2_0" mimeType="image/png">
+        <param key="offset" value="-11,82"/>
+      </asset>
+      <asset name="h_std_he_5188_3_0" mimeType="image/png">
+        <param key="offset" value="-15,77"/>
+      </asset>
+      <asset name="h_std_he_5188_7_0" mimeType="image/png">
+        <param key="offset" value="-15,73"/>
+      </asset>
+      <asset name="h_std_he_5189_0_0" mimeType="image/png">
+        <param key="offset" value="-15,75"/>
+      </asset>
+      <asset name="h_std_he_5189_1_0" mimeType="image/png">
+        <param key="offset" value="-9,72"/>
+      </asset>
+      <asset name="h_std_he_5189_2_0" mimeType="image/png">
+        <param key="offset" value="-12,76"/>
+      </asset>
+      <asset name="h_std_he_5189_3_0" mimeType="image/png">
+        <param key="offset" value="-16,70"/>
+      </asset>
+      <asset name="h_std_he_5189_7_0" mimeType="image/png">
+        <param key="offset" value="-16,65"/>
+      </asset>
+      <asset name="h_lay_he_5188_2_0" mimeType="image/png">
+        <param key="offset" value="32,39"/>
+      </asset>
+      <asset name="h_lay_he_5189_2_0" mimeType="image/png">
+        <param key="offset" value="29,37"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

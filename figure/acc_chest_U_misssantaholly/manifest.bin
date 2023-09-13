@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_misssantaholly" version="0.1">
+    <assets>
+      <asset name="h_std_ca_5186_7_0" mimeType="image/png">
+        <param key="offset" value="-26,46"/>
+      </asset>
+      <asset name="h_std_ca_5186_3_0" mimeType="image/png">
+        <param key="offset" value="-28,36"/>
+      </asset>
+      <asset name="h_std_ca_5186_0_0" mimeType="image/png">
+        <param key="offset" value="-39,44"/>
+      </asset>
+      <asset name="h_std_ca_5186_1_0" mimeType="image/png">
+        <param key="offset" value="-36,41"/>
+      </asset>
+      <asset name="h_std_ca_5186_2_0" mimeType="image/png">
+        <param key="offset" value="-34,38"/>
+      </asset>
+      <asset name="h_std_ca_5187_7_0" mimeType="image/png">
+        <param key="offset" value="-26,46"/>
+      </asset>
+      <asset name="h_std_ca_5187_3_0" mimeType="image/png">
+        <param key="offset" value="-32,36"/>
+      </asset>
+      <asset name="h_std_ca_5187_0_0" mimeType="image/png">
+        <param key="offset" value="-39,44"/>
+      </asset>
+      <asset name="h_std_ca_5187_1_0" mimeType="image/png">
+        <param key="offset" value="-38,41"/>
+      </asset>
+      <asset name="h_std_ca_5187_2_0" mimeType="image/png">
+        <param key="offset" value="-38,38"/>
+      </asset>
+      <asset name="h_lay_ca_5186_2_0" mimeType="image/png">
+        <param key="offset" value="-8,23"/>
+      </asset>
+      <asset name="h_lay_ca_5187_2_0" mimeType="image/png">
+        <param key="offset" value="-12,22"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
