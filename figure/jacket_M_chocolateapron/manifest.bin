@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="jacket_M_chocolateapron" version="0.1">
+    <assets>
+      <asset name="h_std_cc_5255_7_0" mimeType="image/png">
+        <param key="offset" value="-22,48"/>
+      </asset>
+      <asset name="h_std_cc_5255_3_0" mimeType="image/png">
+        <param key="offset" value="-22,51"/>
+      </asset>
+      <asset name="h_std_cc_5255_2_0" mimeType="image/png">
+        <param key="offset" value="-20,52"/>
+      </asset>
+      <asset name="h_std_cc_5255_1_0" mimeType="image/png">
+        <param key="offset" value="-21,49"/>
+      </asset>
+      <asset name="h_std_cc_5255_0_0" mimeType="image/png">
+        <param key="offset" value="-20,48"/>
+      </asset>
+      <asset name="h_std_cc_5256_7_0" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+      <asset name="h_std_cc_5256_3_0" mimeType="image/png">
+        <param key="offset" value="-26,50"/>
+      </asset>
+      <asset name="h_std_cc_5256_2_0" mimeType="image/png">
+        <param key="offset" value="-21,51"/>
+      </asset>
+      <asset name="h_std_cc_5256_1_0" mimeType="image/png">
+        <param key="offset" value="-22,48"/>
+      </asset>
+      <asset name="h_std_cc_5256_0_0" mimeType="image/png">
+        <param key="offset" value="-21,47"/>
+      </asset>
+      <asset name="h_std_cc_5257_3_0" mimeType="image/png">
+        <param key="offset" value="-29,36"/>
+      </asset>
+      <asset name="h_std_cc_5257_2_0" mimeType="image/png">
+        <param key="offset" value="-32,36"/>
+      </asset>
+      <asset name="h_std_cc_5257_1_0" mimeType="image/png">
+        <param key="offset" value="-39,34"/>
+      </asset>
+      <asset name="h_lay_cc_5255_2_0" mimeType="image/png">
+        <param key="offset" value="3,24"/>
+      </asset>
+      <asset name="h_lay_cc_5256_2_0" mimeType="image/png">
+        <param key="offset" value="2,23"/>
+      </asset>
+      <asset name="h_lay_cc_5257_2_0" mimeType="image/png">
+        <param key="offset" value="-14,19"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
