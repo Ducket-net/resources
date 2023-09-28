@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="hween_ltd23_oasis">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <postures/>
+      <gestures/>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="14" angle="45">
+      <layers>
+        <layer id="0" z="-10000"/>
+        <layer id="1" z="-4000"/>
+        <layer id="2" ink="DARKEN" z="-400"/>
+        <layer id="3" ink="ADD" z="10"/>
+        <layer id="4"/>
+        <layer id="5" z="1000"/>
+        <layer id="6" z="1500"/>
+        <layer id="7" z="4500"/>
+        <layer id="8" z="-4000"/>
+        <layer id="9" z="2000"/>
+        <layer id="10" z="500" alpha="150"/>
+        <layer id="11" z="1500" alpha="150"/>
+        <layer id="12" z="2500" alpha="150"/>
+        <layer id="13" z="3500" alpha="150"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0"/>
+          <animationLayer id="1"/>
+          <animationLayer id="2"/>
+          <animationLayer id="3" loopCount="0" frameRepeat="12">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="2"/>
+              <frame id="1"/>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4"/>
+          <animationLayer id="5"/>
+          <animationLayer id="6" loopCount="0" frameRepeat="12">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="7"/>
+          <animationLayer id="8" loopCount="0" frameRepeat="10">
+            <frameSequence>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="1"/>
+              <frame id="1"/>
+              <frame id="0"/>
+              <frame id="0"/>
+              <frame id="2"/>
+              <frame id="2"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="9"/>
+          <animationLayer id="10"/>
+          <animationLayer id="11"/>
+          <animationLayer id="12"/>
+          <animationLayer id="13"/>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

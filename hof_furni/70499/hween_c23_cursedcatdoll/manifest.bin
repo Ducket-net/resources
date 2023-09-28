@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween_c23_cursedcatdoll" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween_c23_cursedcatdoll_visualization" mimeType="text/xml"/>
+      <asset name="hween_c23_cursedcatdoll_assets" mimeType="text/xml"/>
+      <asset name="hween_c23_cursedcatdoll_logic" mimeType="text/xml"/>
+      <asset name="hween_c23_cursedcatdoll_icon_a" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_sd_0_0" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_a_0_0" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_b_0_1" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_b_0_2" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_b_0_3" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_c_0_1" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_c_0_2" mimeType="image/png"/>
+      <asset name="hween_c23_cursedcatdoll_64_c_0_3" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
