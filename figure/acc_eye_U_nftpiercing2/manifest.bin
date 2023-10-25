@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_nftpiercing2" version="0.1">
+    <assets>
+      <asset name="h_lay_ea_5330_2_0" mimeType="image/png">
+        <param key="offset" value="11,27"/>
+      </asset>
+      <asset name="h_std_ea_5330_0_0" mimeType="image/png">
+        <param key="offset" value="-45,61"/>
+      </asset>
+      <asset name="h_std_ea_5330_1_0" mimeType="image/png">
+        <param key="offset" value="-36,63"/>
+      </asset>
+      <asset name="h_std_ea_5330_2_0" mimeType="image/png">
+        <param key="offset" value="-30,60"/>
+      </asset>
+      <asset name="h_std_ea_5330_3_0" mimeType="image/png">
+        <param key="offset" value="-24,62"/>
+      </asset>
+      <asset name="h_std_ea_5330_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

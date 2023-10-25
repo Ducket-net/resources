@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftrock1" version="0.1">
+    <assets>
+      <asset name="h_std_fa_5318_2_0" mimeType="image/png">
+        <param key="offset" value="-24,58"/>
+      </asset>
+      <asset name="h_std_fa_5318_1_0" mimeType="image/png">
+        <param key="offset" value="-28,57"/>
+      </asset>
+      <asset name="h_std_fa_5318_0_0" mimeType="image/png">
+        <param key="offset" value="-38,56"/>
+      </asset>
+      <asset name="h_std_fa_5318_3_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+      <asset name="h_std_fa_5318_7_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_spk_fa_5318_2_0" mimeType="image/png">
+        <param key="offset" value="-24,58"/>
+      </asset>
+      <asset name="h_spk_fa_5318_1_0" mimeType="image/png">
+        <param key="offset" value="-28,57"/>
+      </asset>
+      <asset name="h_spk_fa_5318_0_0" mimeType="image/png">
+        <param key="offset" value="-38,57"/>
+      </asset>
+      <asset name="h_spk_fa_5318_3_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+      <asset name="h_spk_fa_5318_7_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_lay_fa_5318_2_0" mimeType="image/png">
+        <param key="offset" value="11,31"/>
+      </asset>
+      <asset name="h_lsp_fa_5318_2_0" mimeType="image/png">
+        <param key="offset" value="-53,-129"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

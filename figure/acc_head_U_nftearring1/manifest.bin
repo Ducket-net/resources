@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_nftearring1" version="0.1">
+    <assets>
+      <asset name="h_lay_ea_5331_2_0" mimeType="image/png">
+        <param key="offset" value="16,19"/>
+      </asset>
+      <asset name="h_std_ea_5331_0_0" mimeType="image/png">
+        <param key="offset" value="-36,58"/>
+      </asset>
+      <asset name="h_std_ea_5331_1_0" mimeType="image/png">
+        <param key="offset" value="-25,59"/>
+      </asset>
+      <asset name="h_std_ea_5331_2_0" mimeType="image/png">
+        <param key="offset" value="-21,59"/>
+      </asset>
+      <asset name="h_std_ea_5331_3_0" mimeType="image/png">
+        <param key="offset" value="-43,59"/>
+      </asset>
+      <asset name="h_std_ea_5331_7_0" mimeType="image/png">
+        <param key="offset" value="-19,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
