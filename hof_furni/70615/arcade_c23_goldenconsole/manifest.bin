@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="arcade_c23_goldenconsole" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="arcade_c23_goldenconsole_visualization" mimeType="text/xml"/>
+      <asset name="arcade_c23_goldenconsole_assets" mimeType="text/xml"/>
+      <asset name="arcade_c23_goldenconsole_logic" mimeType="text/xml"/>
+      <asset name="arcade_c23_goldenconsole_64_sd_0_0" mimeType="image/png"/>
+      <asset name="arcade_c23_goldenconsole_64_a_0_0" mimeType="image/png"/>
+      <asset name="arcade_c23_goldenconsole_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
