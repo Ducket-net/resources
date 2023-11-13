@@ -32,6 +32,12 @@ jobs:
           npx shroom dump --url https://habbo.com/gamedata/external_variables/d7a0ae8cf0e0c49a20ed821d63f733c91e0948d9 --location ./
           cd ./icon_loader/ && npx hdl -c ficons
 
+      - name: Compile Sprites
+        working-directory: ./atlas_loader/
+        run: |
+          npm ci
+          npm run dev
+
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions Bot"
