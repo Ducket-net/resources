@@ -36,7 +36,7 @@ jobs:
         working-directory: ./atlas_loader/
         run: |
           npm ci
-          npm run dev
+          npm run start
 
       - name: Configure Git
         run: |
