@@ -26,6 +26,18 @@ export class FurnitureTask {
 
     private recursiveFileRead(dirPath: string) {
         const files = fs.readdirSync(dirPath);
+
+
+        //Order files by t first
+        files.sort((a, b) => {
+            if (a.includes("t")) {
+                return -1;
+            } else if (b.includes("t")) {
+                return 1;
+            } else {
+                return 0;
+            }
+        });
         files.forEach(file => {
             const filePath = path.join(dirPath, file);
             if (fs.statSync(filePath).isDirectory()) {
@@ -53,7 +65,7 @@ export class FurnitureTask {
                 console.log("SpritesheetBuilder: Building " + assetName + "...")
                 await new SpritesheetBuilder().build(assetName,directoryPath);
                 console.log("OffsetBuilder: Building " + assetName + "...")
-                await new OffsetBuilder().buildFurnitureOffset(assetName,directoryPath);
+                await new OffsetBuilder().buildFurnitureOffset(assetName, directoryPath);
                 console.log("VisualizationBuilder: Building " + assetName + "...")
                 console.log("Processed " + fileCount + "/" + this._fileQueue.length + " " + assetName);
                 if(!await new VisualizationBuilder().buildFurnitureVisualization(assetName,directoryPath)) continue;
