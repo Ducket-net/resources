@@ -101,6 +101,18 @@ export class VisualizationBuilder {
                     });
                 }
                 spritesheet.furniProperty = furniProperty;
+
+
+                // Set spritesheet.meta.animations to [0,1,...] to index key values
+                spritesheet.meta.animations = Object.keys(furniProperty.visualization.animation).map(Number);
+
+                // Set spritesheet.meta.colors to [0,1,...]
+                spritesheet.meta.colors = Object.keys(furniProperty.visualization.colors).map(Number);
+
+                // Set spritesheet.meta.directions to [0,1,...]
+                spritesheet.meta.directions = furniProperty.visualization.directions;
+
+
                 fs.writeFile(`${outputPath}/${assetName}/${assetName}.json`, JSON.stringify(spritesheet), () => {
                     resolve(true);
                 });

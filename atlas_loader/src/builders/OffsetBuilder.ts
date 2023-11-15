@@ -14,6 +14,9 @@ export class OffsetBuilder {
                 spritesheet.meta.image = `${assetName}.png`;
             }
 
+            //Metadata
+            let has32: boolean = false;
+
             let modifiedAssets: {}[] = [];
             let sourceAssets: any[] = [];
 
@@ -26,7 +29,11 @@ export class OffsetBuilder {
                         const splittedName: string[] = asset.attributes.name.split("_");
                         splittedName.splice(splittedName.length - 4, 4);
 
-                        console.log(splittedName);
+                        //Check if it has a 32 sprite
+                        if (asset.attributes.name.includes("_32_")) {
+                            has32 = true;
+                        }
+
                         const className = splittedName.join("_");
                         console.log(spritesheet.frames[asset.attributes.name]);
                         if (spritesheet.frames[asset.attributes.name] !== undefined) {
@@ -79,6 +86,14 @@ export class OffsetBuilder {
 
                 }
             });
+
+            //Adjust the metadata
+            if (has32) {
+                spritesheet.meta.sizes = ["64", "32"];
+            } else {
+                spritesheet.meta.sizes = ["64"];
+            }
+
 
             fs.writeFile(`${outputPath}/${assetName}/${assetName}.json`, JSON.stringify(spritesheet), () => {
                 resolve();

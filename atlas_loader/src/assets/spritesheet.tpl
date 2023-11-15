@@ -1,9 +1,13 @@
 {
     "meta": {
-        "app": "Scuti Extractor",
+        "app": "Ducket Atlas",
         "format": "RGBA8888",
         "image": "<%= layout.name %>.png",
         "scale": "1.0",
+        "sizes": [],
+        "directions": [],
+        "animations": [],
+        "colors": [],
         "size": {
             "w": <%= layout.width %>,
             "h": <%= layout.height %>
