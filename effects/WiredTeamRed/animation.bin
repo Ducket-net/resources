@@ -3,12 +3,9 @@
 	<remove id="he" />
 	<remove id="hr" />
 	<remove id="hrb" />
-    	<sprite id="fx223_2" blend="10" ink="33" member="std_fx223_2_1" directions="1">
-            	</sprite>
 	<frame>
 		<bodypart id="head" >
 			<item id="ha" base="fx223_1"/>
-            <item id="he" base="fx223_2"/>
 		</bodypart>
 	</frame>
 </animation>

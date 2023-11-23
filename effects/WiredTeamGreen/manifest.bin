@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<manifest><library id="WiredTeamGreen" version="0.1">
+  <assets>
+      <asset name="h_std_fx226_1_1_7_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_std_fx226_1_1_3_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_std_fx226_1_1_2_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_std_fx226_1_1_1_0" mimeType="image/png">
+        <param key="offset" value="-12,81"/>
+      </asset>
+      <asset name="h_std_fx226_1_1_0_0" mimeType="image/png">
+        <param key="offset" value="-13,79"/>
+      </asset>
+  </assets>
+  <aliases>
+    <alias name="h_std_ha_fx226_1_0_0" link="h_std_fx226_1_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_1_0" link="h_std_fx226_1_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_2_0" link="h_std_fx226_1_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_3_0" link="h_std_fx226_1_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_4_0" link="h_std_fx226_1_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_5_0" link="h_std_fx226_1_1_5_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_6_0" link="h_std_fx226_1_1_6_0" fliph="0" flipv="0"/>
+    <alias name="h_std_ha_fx226_1_7_0" link="h_std_fx226_1_1_7_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_0_0" link="h_std_fx226_1_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_1_0" link="h_std_fx226_1_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_2_0" link="h_std_fx226_1_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_3_0" link="h_std_fx226_1_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_4_0" link="h_std_fx226_1_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_5_0" link="h_std_fx226_1_1_5_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_6_0" link="h_std_fx226_1_1_6_0" fliph="0" flipv="0"/>
+    <alias name="h_wlk_ha_fx226_1_7_0" link="h_std_fx226_1_1_7_0" fliph="0" flipv="0"/>
+  </aliases>
+</library></manifest>
