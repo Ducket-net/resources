@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_gold23" version="0.1">
+    <assets>
+      <asset name="h_std_ha_5386_7_0" mimeType="image/png">
+        <param key="offset" value="-17,83"/>
+      </asset>
+      <asset name="h_std_ha_5386_3_0" mimeType="image/png">
+        <param key="offset" value="-17,86"/>
+      </asset>
+      <asset name="h_std_ha_5386_2_0" mimeType="image/png">
+        <param key="offset" value="-16,82"/>
+      </asset>
+      <asset name="h_std_ha_5386_1_0" mimeType="image/png">
+        <param key="offset" value="-14,84"/>
+      </asset>
+      <asset name="h_std_ha_5386_0_0" mimeType="image/png">
+        <param key="offset" value="-14,83"/>
+      </asset>
+      <asset name="h_spk_ha_5386_7_0" mimeType="image/png">
+        <param key="offset" value="-17,84"/>
+      </asset>
+      <asset name="h_spk_ha_5386_3_0" mimeType="image/png">
+        <param key="offset" value="-17,87"/>
+      </asset>
+      <asset name="h_spk_ha_5386_2_0" mimeType="image/png">
+        <param key="offset" value="-16,83"/>
+      </asset>
+      <asset name="h_spk_ha_5386_1_0" mimeType="image/png">
+        <param key="offset" value="-14,85"/>
+      </asset>
+      <asset name="h_spk_ha_5386_0_0" mimeType="image/png">
+        <param key="offset" value="-14,84"/>
+      </asset>
+      <asset name="h_lay_ha_5386_2_0" mimeType="image/png">
+        <param key="offset" value="27,46"/>
+      </asset>
+      <asset name="h_lsp_ha_5386_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-113"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
