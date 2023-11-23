@@ -30,7 +30,7 @@ jobs:
       - name: Run Node command
         run: |
           ./node_modules/habbo-downloader/src/index.js --command badges -o ./
-          mv ./badges ./c_images/album1584
+          mv  ./c_images/album1584 ./badges
 
       - name: Configure Git
         run: |
