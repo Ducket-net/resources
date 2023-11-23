@@ -1,0 +1,43 @@
+name: Scheduled Badge Command
+
+on:
+  schedule:
+    - cron: "0 14 * * *" # This schedule runs at 11 AM ET (1 PM UTC) every day
+  workflow_dispatch:
+
+jobs:
+  run-node-command:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }} # Use the new secret here instead of GITHUB_TOKEN
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 19 # Specify the Node.js version you want to use
+
+      - name: Install dependencies
+        run: |
+          npm ci
+          ls
+          cd ./icon_loader/ && npm ci
+
+      - name: Run Node command
+        run: |
+          ./node_modules/habbo-downloader/src/index.js --command badges -o ./
+          mv ./badges ./c_images/album1584
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git diff-index --quiet HEAD || (git commit -m "GitHub Actions: Update downloaded files" && git push --force)
