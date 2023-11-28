@@ -8186,25 +8186,25 @@
   <lib id="hat_U_gold17" revision="70738">
     <part id="5380" type="ha"/>
   </lib>
-  <lib id="hat_U_gold18" revision="70738">
+  <lib id="hat_U_gold18" revision="70815">
     <part id="5381" type="ha"/>
   </lib>
-  <lib id="hat_U_gold19" revision="70738">
+  <lib id="hat_U_gold19" revision="70815">
     <part id="5382" type="ha"/>
   </lib>
-  <lib id="hat_U_gold20" revision="70738">
+  <lib id="hat_U_gold20" revision="70815">
     <part id="5383" type="ha"/>
   </lib>
-  <lib id="hat_U_gold21" revision="70738">
+  <lib id="hat_U_gold21" revision="70815">
     <part id="5384" type="ha"/>
   </lib>
-  <lib id="hat_U_gold22" revision="70738">
+  <lib id="hat_U_gold22" revision="70815">
     <part id="5385" type="ha"/>
   </lib>
-  <lib id="hat_U_gold23" revision="70738">
+  <lib id="hat_U_gold23" revision="70815">
     <part id="5386" type="ha"/>
   </lib>
-  <lib id="hat_U_gold24" revision="70738">
+  <lib id="hat_U_gold24" revision="70815">
     <part id="5387" type="ha"/>
   </lib>
   <lib id="shirt_F_gingerbreadoutfit" revision="70723">
@@ -8222,6 +8222,62 @@
   <lib id="hat_U_23test6" revision="70795">
     <part id="5345" type="ha"/>
     <part id="5346" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_nftcandycane" revision="70817">
+    <part id="5392" type="ca"/>
+  </lib>
+  <lib id="acc_print_U_nftcocoaprint" revision="70829">
+    <part id="5393" type="cp"/>
+  </lib>
+  <lib id="acc_head_U_nftchocolatepin" revision="70827">
+    <part id="5397" type="he"/>
+  </lib>
+  <lib id="shirt_F_nftsnowoperadress" revision="70835">
+    <part id="5224" type="ch"/>
+    <part id="5224" type="ls"/>
+    <part id="5224" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_nftsnowreindeerbackpack" revision="70820">
+    <part id="5251" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_nftlollipop2" revision="70827">
+    <part id="5395" type="fa"/>
+  </lib>
+  <lib id="face_U_nftstatue" revision="70821">
+    <part id="5391" type="hd"/>
+    <part id="5391" type="bd"/>
+    <part id="5391" type="ey"/>
+    <part id="5391" type="lh"/>
+    <part id="5391" type="rh"/>
+    <part id="5391" type="fc"/>
+  </lib>
+  <lib id="shirt_M_nftsnowoperadress" revision="70835">
+    <part id="5225" type="ch"/>
+    <part id="5225" type="ls"/>
+    <part id="5225" type="rs"/>
+  </lib>
+  <lib id="acc_face_U_nftlollipop" revision="70827">
+    <part id="5394" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftyummy" revision="70829">
+    <part id="5396" type="fa"/>
+  </lib>
+  <lib id="hair_U_nftfourtail2" revision="70827">
+    <part id="5403" type="hr"/>
+    <part id="5403" type="hrb"/>
+    <part id="5404" type="hr"/>
+    <part id="5405" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftfourtail" revision="70827">
+    <part id="5400" type="hr"/>
+    <part id="5400" type="hrb"/>
+    <part id="5401" type="hr"/>
+    <part id="5402" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftholidaycut" revision="70827">
+    <part id="5398" type="hr"/>
+    <part id="5398" type="hrb"/>
+    <part id="5399" type="hr"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>

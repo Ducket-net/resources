@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftyummy" version="0.1">
+    <assets>
+      <asset name="h_std_fa_5396_1_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_std_fa_5396_2_0" mimeType="image/png">
+        <param key="offset" value="-33,50"/>
+      </asset>
+      <asset name="h_std_fa_5396_3_0" mimeType="image/png">
+        <param key="offset" value="-27,50"/>
+      </asset>
+      <asset name="h_spk_fa_5396_1_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_spk_fa_5396_2_0" mimeType="image/png">
+        <param key="offset" value="-34,50"/>
+      </asset>
+      <asset name="h_spk_fa_5396_3_0" mimeType="image/png">
+        <param key="offset" value="-27,50"/>
+      </asset>
+      <asset name="h_lay_fa_5396_2_0" mimeType="image/png">
+        <param key="offset" value="-1,24"/>
+      </asset>
+      <asset name="h_lsp_fa_5396_2_0" mimeType="image/png">
+        <param key="offset" value="-65,-136"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
