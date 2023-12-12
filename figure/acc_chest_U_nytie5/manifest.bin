@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_nytie5" version="0.1">
+    <assets>
+      <asset name="h_std_ca_5363_2_0" mimeType="image/png">
+        <param key="offset" value="-31,44"/>
+      </asset>
+      <asset name="h_std_ca_5363_1_0" mimeType="image/png">
+        <param key="offset" value="-36,44"/>
+      </asset>
+      <asset name="h_std_ca_5363_0_0" mimeType="image/png">
+        <param key="offset" value="-42,43"/>
+      </asset>
+      <asset name="h_std_ca_5363_3_0" mimeType="image/png">
+        <param key="offset" value="-26,44"/>
+      </asset>
+      <asset name="h_std_ca_5363_7_0" mimeType="image/png">
+        <param key="offset" value="-41,46"/>
+      </asset>
+      <asset name="h_std_ca_5364_2_0" mimeType="image/png">
+        <param key="offset" value="-24,49"/>
+      </asset>
+      <asset name="h_std_ca_5364_1_0" mimeType="image/png">
+        <param key="offset" value="-25,49"/>
+      </asset>
+      <asset name="h_std_ca_5364_0_0" mimeType="image/png">
+        <param key="offset" value="-22,48"/>
+      </asset>
+      <asset name="h_std_ca_5364_3_0" mimeType="image/png">
+        <param key="offset" value="-22,49"/>
+      </asset>
+      <asset name="h_std_ca_5364_7_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_lay_ca_5363_2_0" mimeType="image/png">
+        <param key="offset" value="-5,23"/>
+      </asset>
+      <asset name="h_lay_ca_5364_2_0" mimeType="image/png">
+        <param key="offset" value="3,24"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
