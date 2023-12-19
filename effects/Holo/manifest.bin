@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <manifest><library id="Holo" version="0.1">
-  <assets/>
-  <aliases/>
-</library></manifest>
+  <assets>
+      <asset name="h_std_fx229_1_1_0_0" mimeType="image/png">
+        <param key="offset" value="-13,97"/>
+      </asset>
+  </assets>
+</library>
+</manifest>
