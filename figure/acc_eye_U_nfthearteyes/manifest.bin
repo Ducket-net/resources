@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_nfthearteyes" version="0.1">
+    <assets>
+      <asset name="h_std_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_std_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-39,63"/>
+      </asset>
+      <asset name="h_std_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_std_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-25,59"/>
+      </asset>
+      <asset name="h_std_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_spk_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-31,65"/>
+      </asset>
+      <asset name="h_spk_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-39,65"/>
+      </asset>
+      <asset name="h_spk_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_spk_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-24,60"/>
+      </asset>
+      <asset name="h_spk_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_spk_ea_5517_2_1" mimeType="image/png">
+        <param key="offset" value="-31,65"/>
+      </asset>
+      <asset name="h_spk_ea_5517_1_1" mimeType="image/png">
+        <param key="offset" value="-39,65"/>
+      </asset>
+      <asset name="h_spk_ea_5517_0_1" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_spk_ea_5517_3_1" mimeType="image/png">
+        <param key="offset" value="-24,60"/>
+      </asset>
+      <asset name="h_spk_ea_5517_7_1" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_srp_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-31,65"/>
+      </asset>
+      <asset name="h_srp_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-39,65"/>
+      </asset>
+      <asset name="h_srp_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_srp_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-24,60"/>
+      </asset>
+      <asset name="h_srp_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_sml_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-31,65"/>
+      </asset>
+      <asset name="h_sml_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-39,65"/>
+      </asset>
+      <asset name="h_sml_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_sml_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-24,60"/>
+      </asset>
+      <asset name="h_sml_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_blw_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-31,65"/>
+      </asset>
+      <asset name="h_blw_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-39,65"/>
+      </asset>
+      <asset name="h_blw_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_blw_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-24,60"/>
+      </asset>
+      <asset name="h_blw_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_eyb_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-32,61"/>
+      </asset>
+      <asset name="h_eyb_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-40,63"/>
+      </asset>
+      <asset name="h_eyb_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_eyb_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-25,58"/>
+      </asset>
+      <asset name="h_eyb_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_sad_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-32,61"/>
+      </asset>
+      <asset name="h_sad_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-40,63"/>
+      </asset>
+      <asset name="h_sad_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_sad_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-25,58"/>
+      </asset>
+      <asset name="h_sad_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_agr_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="-32,61"/>
+      </asset>
+      <asset name="h_agr_ea_5517_1_0" mimeType="image/png">
+        <param key="offset" value="-40,63"/>
+      </asset>
+      <asset name="h_agr_ea_5517_0_0" mimeType="image/png">
+        <param key="offset" value="-38,52"/>
+      </asset>
+      <asset name="h_agr_ea_5517_3_0" mimeType="image/png">
+        <param key="offset" value="-25,58"/>
+      </asset>
+      <asset name="h_agr_ea_5517_7_0" mimeType="image/png">
+        <param key="offset" value="-21,53"/>
+      </asset>
+      <asset name="h_lay_ea_5517_2_0" mimeType="image/png">
+        <param key="offset" value="9,35"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
