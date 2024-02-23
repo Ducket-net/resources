@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="easter_c24_bunnyrug" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="easter_c24_bunnyrug_visualization" mimeType="text/xml"/>
+      <asset name="easter_c24_bunnyrug_assets" mimeType="text/xml"/>
+      <asset name="easter_c24_bunnyrug_logic" mimeType="text/xml"/>
+      <asset name="easter_c24_bunnyrug_64_a_0_0" mimeType="image/png"/>
+      <asset name="easter_c24_bunnyrug_64_a_0_1" mimeType="image/png"/>
+      <asset name="easter_c24_bunnyrug_64_a_0_2" mimeType="image/png"/>
+      <asset name="easter_c24_bunnyrug_64_a_0_3" mimeType="image/png"/>
+      <asset name="easter_c24_bunnyrug_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
