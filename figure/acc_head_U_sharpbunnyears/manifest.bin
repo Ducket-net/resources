@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_sharpbunnyears" version="0.1">
+    <assets>
+      <asset name="h_std_he_5412_2_0" mimeType="image/png">
+        <param key="offset" value="-11,95"/>
+      </asset>
+      <asset name="h_std_he_5412_1_0" mimeType="image/png">
+        <param key="offset" value="-22,95"/>
+      </asset>
+      <asset name="h_std_he_5412_0_0" mimeType="image/png">
+        <param key="offset" value="-17,95"/>
+      </asset>
+      <asset name="h_std_he_5412_3_0" mimeType="image/png">
+        <param key="offset" value="-13,92"/>
+      </asset>
+      <asset name="h_std_he_5412_7_0" mimeType="image/png">
+        <param key="offset" value="38,91"/>
+      </asset>
+      <asset name="h_std_he_5413_2_0" mimeType="image/png">
+        <param key="offset" value="-18,75"/>
+      </asset>
+      <asset name="h_std_he_5413_1_0" mimeType="image/png">
+        <param key="offset" value="-27,79"/>
+      </asset>
+      <asset name="h_std_he_5413_0_0" mimeType="image/png">
+        <param key="offset" value="-39,77"/>
+      </asset>
+      <asset name="h_std_he_5413_3_0" mimeType="image/png">
+        <param key="offset" value="-18,75"/>
+      </asset>
+      <asset name="h_std_he_5413_7_0" mimeType="image/png">
+        <param key="offset" value="-18,73"/>
+      </asset>
+      <asset name="h_lay_he_5412_2_0" mimeType="image/png">
+        <param key="offset" value="44,49"/>
+      </asset>
+      <asset name="h_lay_he_5413_2_0" mimeType="image/png">
+        <param key="offset" value="26,26"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

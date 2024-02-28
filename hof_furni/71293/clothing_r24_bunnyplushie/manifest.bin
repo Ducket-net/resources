@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_r24_bunnyplushie" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_r24_bunnyplushie_visualization" mimeType="text/xml"/>
+      <asset name="clothing_r24_bunnyplushie_assets" mimeType="text/xml"/>
+      <asset name="clothing_r24_bunnyplushie_logic" mimeType="text/xml"/>
+      <asset name="clothing_r24_bunnyplushie_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_r24_bunnyplushie_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
