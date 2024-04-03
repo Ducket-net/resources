@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_sb_rocketpack" version="0.1">
+    <assets>
+      <asset name="h_std_ca_5650_0_0" mimeType="image/png">
+        <param key="offset" value="-5,49"/>
+      </asset>
+      <asset name="h_std_ca_5650_1_0" mimeType="image/png">
+        <param key="offset" value="-6,52"/>
+      </asset>
+      <asset name="h_std_ca_5650_2_0" mimeType="image/png">
+        <param key="offset" value="-8,54"/>
+      </asset>
+      <asset name="h_std_ca_5650_3_0" mimeType="image/png">
+        <param key="offset" value="-11,52"/>
+      </asset>
+      <asset name="h_std_ca_5650_7_0" mimeType="image/png">
+        <param key="offset" value="-14,44"/>
+      </asset>
+      <asset name="h_std_ca_5651_0_0" mimeType="image/png">
+        <param key="offset" value="-9,40"/>
+      </asset>
+      <asset name="h_std_ca_5651_1_0" mimeType="image/png">
+        <param key="offset" value="-11,43"/>
+      </asset>
+      <asset name="h_std_ca_5651_2_0" mimeType="image/png">
+        <param key="offset" value="-10,48"/>
+      </asset>
+      <asset name="h_std_ca_5651_3_0" mimeType="image/png">
+        <param key="offset" value="-16,43"/>
+      </asset>
+      <asset name="h_std_ca_5651_7_0" mimeType="image/png">
+        <param key="offset" value="-19,35"/>
+      </asset>
+      <asset name="h_lay_ca_5650_2_0" mimeType="image/png">
+        <param key="offset" value="10,13"/>
+      </asset>
+      <asset name="h_lay_ca_5651_2_0" mimeType="image/png">
+        <param key="offset" value="7,12"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
