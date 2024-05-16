@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hhistory_c24_gears" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hhistory_c24_gears_visualization" mimeType="text/xml"/>
+      <asset name="hhistory_c24_gears_assets" mimeType="text/xml"/>
+      <asset name="hhistory_c24_gears_logic" mimeType="text/xml"/>
+      <asset name="hhistory_c24_gears_64_sd_0_0" mimeType="image/png"/>
+      <asset name="hhistory_c24_gears_64_a_0_0" mimeType="image/png"/>
+      <asset name="hhistory_c24_gears_64_a_0_1" mimeType="image/png"/>
+      <asset name="hhistory_c24_gears_64_a_0_2" mimeType="image/png"/>
+      <asset name="hhistory_c24_gears_64_a_0_3" mimeType="image/png"/>
+      <asset name="hhistory_c24_gears_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
