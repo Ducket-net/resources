@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nosebandage" version="0.1">
+    <assets>
+      <asset name="h_std_fa_5710_2_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_std_fa_5710_1_0" mimeType="image/png">
+        <param key="offset" value="-41,59"/>
+      </asset>
+      <asset name="h_std_fa_5710_0_0" mimeType="image/png">
+        <param key="offset" value="-24,47"/>
+      </asset>
+      <asset name="h_std_fa_5710_3_0" mimeType="image/png">
+        <param key="offset" value="-29,56"/>
+      </asset>
+      <asset name="h_std_fa_5710_7_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_spk_fa_5710_2_0" mimeType="image/png">
+        <param key="offset" value="-35,58"/>
+      </asset>
+      <asset name="h_spk_fa_5710_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_spk_fa_5710_0_0" mimeType="image/png">
+        <param key="offset" value="-24,48"/>
+      </asset>
+      <asset name="h_spk_fa_5710_3_0" mimeType="image/png">
+        <param key="offset" value="-29,57"/>
+      </asset>
+      <asset name="h_spk_fa_5710_7_0" mimeType="image/png">
+        <param key="offset" value="-26,48"/>
+      </asset>
+      <asset name="h_lay_fa_5710_2_0" mimeType="image/png">
+        <param key="offset" value="3,30"/>
+      </asset>
+      <asset name="h_lsp_fa_5710_2_0" mimeType="image/png">
+        <param key="offset" value="-60,-129"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

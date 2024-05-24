@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_theoneshades" version="0.1">
+    <assets>
+      <asset name="h_lay_ea_5659_2_0" mimeType="image/png">
+        <param key="offset" value="14,35"/>
+      </asset>
+      <asset name="h_lay_ea_5660_2_0" mimeType="image/png">
+        <param key="offset" value="10,34"/>
+      </asset>
+      <asset name="h_std_ea_5659_2_0" mimeType="image/png">
+        <param key="offset" value="-23,63"/>
+      </asset>
+      <asset name="h_std_ea_5659_1_0" mimeType="image/png">
+        <param key="offset" value="-26,61"/>
+      </asset>
+      <asset name="h_std_ea_5659_0_0" mimeType="image/png">
+        <param key="offset" value="-36,62"/>
+      </asset>
+      <asset name="h_std_ea_5659_3_0" mimeType="image/png">
+        <param key="offset" value="-20,60"/>
+      </asset>
+      <asset name="h_std_ea_5659_7_0" mimeType="image/png">
+        <param key="offset" value="-21,59"/>
+      </asset>
+      <asset name="h_std_ea_5660_2_0" mimeType="image/png">
+        <param key="offset" value="-31,61"/>
+      </asset>
+      <asset name="h_std_ea_5660_1_0" mimeType="image/png">
+        <param key="offset" value="-37,60"/>
+      </asset>
+      <asset name="h_std_ea_5660_0_0" mimeType="image/png">
+        <param key="offset" value="-45,61"/>
+      </asset>
+      <asset name="h_std_ea_5660_3_0" mimeType="image/png">
+        <param key="offset" value="-23,58"/>
+      </asset>
+      <asset name="h_std_ea_5660_7_0" mimeType="image/png">
+        <param key="offset" value="-21,59"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
