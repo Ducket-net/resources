@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<visualizationData type="norja_c24_doublebed">
+  <graphics>
+<visualization size="1" layerCount="2" angle="360">
+    <colors>
+        <color id="0">
+        <colorLayer id="0" color="FFFFFF"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="1">
+        <colorLayer id="0" color="EE7EA4"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="2">
+        <colorLayer id="0" color="7CB135"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="3">
+        <colorLayer id="0" color="525252"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="4">
+        <colorLayer id="0" color="E14218"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="5">
+        <colorLayer id="0" color="ABD0D2"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="6">
+        <colorLayer id="0" color="FFD837"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="7">
+        <colorLayer id="0" color="5EAAF8"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+      <color id="8">
+        <colorLayer id="0" color="F7EBBC"/>
+        <colorLayer id="1" color="FFFFFF"/>
+      </color>
+    </colors>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="7" angle="45">
+      <layers>
+        <layer id="0"/>
+        <layer id="1" z="1000"/>
+        <layer id="2" z="1000"/>
+        <layer id="3" z="1500"/>
+        <layer id="4" z="1500"/>
+        <layer id="5" z="2500"/>
+        <layer id="6" z="2500"/>
+      </layers>
+      <directions>
+        <direction id="0"/>
+        <direction id="2"/>
+      </directions>
+       <colors>
+      <color id="0">
+        <colorLayer id="0" color="FFFFFF"/>
+        <colorLayer id="1" color="FFFFFF"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="FFFFFF"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="FFFFFF"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="1">
+        <colorLayer id="0" color="EE7EA4"/>
+        <colorLayer id="1" color="EE7EA4"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="EE7EA4"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="EE7EA4"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="2">
+        <colorLayer id="0" color="7CB135"/>
+        <colorLayer id="1" color="7CB135"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="7CB135"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="7CB135"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="3">
+        <colorLayer id="0" color="525252"/>
+        <colorLayer id="1" color="525252"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="525252"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="525252"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="4">
+        <colorLayer id="0" color="E14218"/>
+        <colorLayer id="1" color="E14218"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="E14218"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="E14218"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="5">
+        <colorLayer id="0" color="ABD0D2"/>
+        <colorLayer id="1" color="ABD0D2"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="ABD0D2"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="ABD0D2"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="6">
+        <colorLayer id="0" color="FFD837"/>
+        <colorLayer id="1" color="FFD837"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="FFD837"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="FFD837"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="7">
+        <colorLayer id="0" color="5EAAF8"/>
+        <colorLayer id="1" color="5EAAF8"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="5EAAF8"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="5EAAF8"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      <color id="8">
+        <colorLayer id="0" color="F7EBBC"/>
+        <colorLayer id="1" color="F7EBBC"/>
+        <colorLayer id="2" color="FFFFFF"/>
+        <colorLayer id="3" color="F7EBBC"/>
+        <colorLayer id="4" color="FFFFFF"/>
+        <colorLayer id="5" color="F7EBBC"/>
+        <colorLayer id="6" color="FFFFFF"/>
+      </color>
+      </colors>
+      <animations/>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

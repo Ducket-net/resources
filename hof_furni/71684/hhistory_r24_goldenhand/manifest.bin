@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hhistory_r24_goldenhand" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hhistory_r24_goldenhand_visualization" mimeType="text/xml"/>
+      <asset name="hhistory_r24_goldenhand_assets" mimeType="text/xml"/>
+      <asset name="hhistory_r24_goldenhand_logic" mimeType="text/xml"/>
+      <asset name="hhistory_r24_goldenhand_64_sd_4_0" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_a_4_0" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_c_4_0" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_0" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_1" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_2" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_3" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_4" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_5" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_6" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_7" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_8" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_64_b_4_9" mimeType="image/png"/>
+      <asset name="hhistory_r24_goldenhand_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

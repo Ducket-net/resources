@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="plasto_c24_hanginglight">
+  <graphics>
+  <visualization size="1" layerCount="3" angle="360">		<colors>        <color id="0">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ff1f08"/>            <colorLayer id="2" color="ffffff"/>			</color>        <color id="1">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="99dccc"/>            <colorLayer id="2" color="ffffff"/>			</color>        <color id="2">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ffee00"/>            <colorLayer id="2" color="ffffff"/>			</color>        <color id="3">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ccddff"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="4">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="54ca00"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="5">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="3444ff"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="6">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ff6d00"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="7">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="c38d1a"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="8">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="533e10"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="9">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ff99ff"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="10">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="66ffff"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="11">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="cc3399"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="12">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="999900"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="13">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="3cb4f0"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="14">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ff97ba"/>            <colorLayer id="2" color="ffffff"/>			</color>		<color id="15">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>        </color>		</colors>    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="2"/>
+        <direction id="0"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="7" angle="45">
+      <layers>
+        <layer id="0" ink="COPY"/>
+        <layer id="1" ink="COPY"/>
+        <layer id="2" ink="ADD" alpha="255"/>
+        <layer id="3"/>
+        <layer id="4" ink="COPY"/>
+        <layer id="5"/>
+        <layer id="6" ink="COPY" alpha="200"/>
+      </layers>
+      <directions>
+        <direction id="2"/>
+        <direction id="0"/>
+		</directions>	<colors>        <color id="0">            <colorLayer id="0" color="ff1f08"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ff1f08"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ff1f08"/>			</color>        <color id="1">            <colorLayer id="0" color="99dccc"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="99dccc"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="99dccc"/>			</color>        <color id="2">            <colorLayer id="0" color="ffee00"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ffee00"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ffee00"/>			</color>        <color id="3">            <colorLayer id="0" color="ccddff"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ccddff"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ccddff"/>			</color>		<color id="4">            <colorLayer id="0" color="54ca00"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="54ca00"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="54ca00"/>			</color>		<color id="5">            <colorLayer id="0" color="3444ff"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="3444ff"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="3444ff"/>			</color>		<color id="6">            <colorLayer id="0" color="ff6d00"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ff6d00"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ff6d00"/>			</color>		<color id="7">            <colorLayer id="0" color="c38d1a"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="c38d1a"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="c38d1a"/>			</color>		<color id="8">            <colorLayer id="0" color="533e10"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="533e10"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="533e10"/>			</color>		<color id="9">            <colorLayer id="0" color="ff99ff"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ff99ff"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ff99ff"/>			</color>		<color id="10">            <colorLayer id="0" color="66ffff"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="66ffff"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="66ffff"/>			</color>		<color id="11">            <colorLayer id="0" color="cc3399"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="cc3399"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="cc3399"/>			</color>		<color id="12">            <colorLayer id="0" color="999900"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="999900"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="999900"/>			</color>		<color id="13">            <colorLayer id="0" color="3cb4f0"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="3cb4f0"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="3cb4f0"/>			</color>		<color id="14">            <colorLayer id="0" color="ff97ba"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ff97ba"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ff97ba"/>			</color>		<color id="15">            <colorLayer id="0" color="ffffff"/>            <colorLayer id="1" color="ffffff"/>            <colorLayer id="2" color="ffffff"/>			<colorLayer id="3" color="ffffff"/>			<colorLayer id="4" color="ffffff"/>			<colorLayer id="5" color="ffffff"/>			<colorLayer id="6" color="ffffff"/>        </color>
+      </colors>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="8"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="5">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="3">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="4">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="5">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="6">
+            <frameSequence>
+              <frame id="1"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures/>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>
