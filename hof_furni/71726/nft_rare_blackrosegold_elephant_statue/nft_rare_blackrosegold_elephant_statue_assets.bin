@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_sd_4_0" x="19" y="9"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_sd_0_0" x="19" y="9"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_a_4_0" x="24" y="41"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_a_0_0" x="18" y="42"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_icon_a" x="30" y="30"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_sd_6_0" flipH="1" source="nft_rare_blackrosegold_elephant_statue_64_sd_0_0" x="19" y="9"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_a_6_0" flipH="1" source="nft_rare_blackrosegold_elephant_statue_64_a_0_0" x="18" y="42"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_sd_2_0" flipH="1" source="nft_rare_blackrosegold_elephant_statue_64_sd_4_0" x="19" y="9"/>
+  <asset name="nft_rare_blackrosegold_elephant_statue_64_a_2_0" flipH="1" source="nft_rare_blackrosegold_elephant_statue_64_a_4_0" x="24" y="41"/>
+</assets>
