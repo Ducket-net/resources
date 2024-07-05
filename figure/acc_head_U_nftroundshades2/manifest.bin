@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_nftroundshades2" version="0.1">
+    <assets>
+      <asset name="h_lay_he_5788_2_0" mimeType="image/png">
+        <param key="offset" value="19,41"/>
+      </asset>
+      <asset name="h_std_he_5788_0_0" mimeType="image/png">
+        <param key="offset" value="-37,70"/>
+      </asset>
+      <asset name="h_std_he_5788_1_0" mimeType="image/png">
+        <param key="offset" value="-30,75"/>
+      </asset>
+      <asset name="h_std_he_5788_2_0" mimeType="image/png">
+        <param key="offset" value="-23,75"/>
+      </asset>
+      <asset name="h_std_he_5788_3_0" mimeType="image/png">
+        <param key="offset" value="-21,73"/>
+      </asset>
+      <asset name="h_std_he_5788_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

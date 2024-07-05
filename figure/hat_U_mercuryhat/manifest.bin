@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_mercuryhat" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_5754_2_0" mimeType="image/png">
+        <param key="offset" value="24,41"/>
+      </asset>
+      <asset name="h_lay_ha_5755_2_0" mimeType="image/png">
+        <param key="offset" value="21,40"/>
+      </asset>
+      <asset name="h_std_ha_5754_3_0" mimeType="image/png">
+        <param key="offset" value="-16,81"/>
+      </asset>
+      <asset name="h_std_ha_5754_7_0" mimeType="image/png">
+        <param key="offset" value="-16,78"/>
+      </asset>
+      <asset name="h_std_ha_5754_2_0" mimeType="image/png">
+        <param key="offset" value="-15,82"/>
+      </asset>
+      <asset name="h_std_ha_5754_1_0" mimeType="image/png">
+        <param key="offset" value="-13,82"/>
+      </asset>
+      <asset name="h_std_ha_5754_0_0" mimeType="image/png">
+        <param key="offset" value="-13,80"/>
+      </asset>
+      <asset name="h_std_ha_5755_3_0" mimeType="image/png">
+        <param key="offset" value="-19,80"/>
+      </asset>
+      <asset name="h_std_ha_5755_7_0" mimeType="image/png">
+        <param key="offset" value="-19,77"/>
+      </asset>
+      <asset name="h_std_ha_5755_2_0" mimeType="image/png">
+        <param key="offset" value="-19,81"/>
+      </asset>
+      <asset name="h_std_ha_5755_1_0" mimeType="image/png">
+        <param key="offset" value="-17,81"/>
+      </asset>
+      <asset name="h_std_ha_5755_0_0" mimeType="image/png">
+        <param key="offset" value="-17,79"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
