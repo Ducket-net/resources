@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_nftbonusshades" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_nftbonusshades_visualization" mimeType="text/xml"/>
+      <asset name="clothing_nftbonusshades_assets" mimeType="text/xml"/>
+      <asset name="clothing_nftbonusshades_logic" mimeType="text/xml"/>
+      <asset name="clothing_nftbonusshades_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_nftbonusshades_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
