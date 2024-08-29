@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="jacket_U_nftgiftbox2" version="0.1">
+    <assets>
+      <asset name="h_lay_cc_5530_2_0" mimeType="image/png">
+        <param key="offset" value="-1,24"/>
+      </asset>
+      <asset name="h_std_cc_5530_7_0" mimeType="image/png">
+        <param key="offset" value="-16,49"/>
+      </asset>
+      <asset name="h_std_cc_5530_3_0" mimeType="image/png">
+        <param key="offset" value="-16,49"/>
+      </asset>
+      <asset name="h_std_cc_5530_2_0" mimeType="image/png">
+        <param key="offset" value="-13,47"/>
+      </asset>
+      <asset name="h_std_cc_5530_1_0" mimeType="image/png">
+        <param key="offset" value="-13,47"/>
+      </asset>
+      <asset name="h_std_cc_5530_0_0" mimeType="image/png">
+        <param key="offset" value="-9,47"/>
+      </asset>
+      <asset name="h_sit_cc_5530_2_0" mimeType="image/png">
+        <param key="offset" value="-12,47"/>
+      </asset>
+      <asset name="h_sit_cc_5530_0_0" mimeType="image/png">
+        <param key="offset" value="-9,47"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
