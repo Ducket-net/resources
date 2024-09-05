@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_leatherbackpack" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_5884_2_0" mimeType="image/png">
+        <param key="offset" value="5,24"/>
+      </asset>
+      <asset name="h_lay_ca_5885_2_0" mimeType="image/png">
+        <param key="offset" value="0,17"/>
+      </asset>
+      <asset name="h_std_ca_5884_7_0" mimeType="image/png">
+        <param key="offset" value="-18,47"/>
+      </asset>
+      <asset name="h_std_ca_5884_3_0" mimeType="image/png">
+        <param key="offset" value="-22,51"/>
+      </asset>
+      <asset name="h_std_ca_5884_0_0" mimeType="image/png">
+        <param key="offset" value="-9,49"/>
+      </asset>
+      <asset name="h_std_ca_5884_1_0" mimeType="image/png">
+        <param key="offset" value="-11,46"/>
+      </asset>
+      <asset name="h_std_ca_5884_2_0" mimeType="image/png">
+        <param key="offset" value="-12,50"/>
+      </asset>
+      <asset name="h_std_ca_5885_7_0" mimeType="image/png">
+        <param key="offset" value="-24,43"/>
+      </asset>
+      <asset name="h_std_ca_5885_3_0" mimeType="image/png">
+        <param key="offset" value="-26,43"/>
+      </asset>
+      <asset name="h_std_ca_5885_0_0" mimeType="image/png">
+        <param key="offset" value="-11,45"/>
+      </asset>
+      <asset name="h_std_ca_5885_1_0" mimeType="image/png">
+        <param key="offset" value="-9,47"/>
+      </asset>
+      <asset name="h_std_ca_5885_2_0" mimeType="image/png">
+        <param key="offset" value="-18,43"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
