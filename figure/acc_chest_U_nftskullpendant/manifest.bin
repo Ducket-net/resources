@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_nftskullpendant" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6077_2_0" mimeType="image/png">
+        <param key="offset" value="0,23"/>
+      </asset>
+      <asset name="h_lay_ca_6078_2_0" mimeType="image/png">
+        <param key="offset" value="-11,19"/>
+      </asset>
+      <asset name="h_std_ca_6077_0_0" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+      <asset name="h_std_ca_6077_1_0" mimeType="image/png">
+        <param key="offset" value="-26,48"/>
+      </asset>
+      <asset name="h_std_ca_6077_2_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_std_ca_6077_3_0" mimeType="image/png">
+        <param key="offset" value="-25,46"/>
+      </asset>
+      <asset name="h_std_ca_6077_7_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_std_ca_6078_0_0" mimeType="image/png">
+        <param key="offset" value="-38,44"/>
+      </asset>
+      <asset name="h_std_ca_6078_1_0" mimeType="image/png">
+        <param key="offset" value="-39,40"/>
+      </asset>
+      <asset name="h_std_ca_6078_2_0" mimeType="image/png">
+        <param key="offset" value="-34,39"/>
+      </asset>
+      <asset name="h_std_ca_6078_3_0" mimeType="image/png">
+        <param key="offset" value="-29,39"/>
+      </asset>
+      <asset name="h_std_ca_6078_7_0" mimeType="image/png">
+        <param key="offset" value="-41,46"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
