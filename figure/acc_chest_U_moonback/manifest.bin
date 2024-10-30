@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_moonback" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6159_2_0" mimeType="image/png">
+        <param key="offset" value="7,20"/>
+      </asset>
+      <asset name="h_lay_ca_6158_2_0" mimeType="image/png">
+        <param key="offset" value="7,12"/>
+      </asset>
+      <asset name="h_lay_ca_6160_2_0" mimeType="image/png">
+        <param key="offset" value="8,21"/>
+      </asset>
+      <asset name="h_std_ca_6158_7_0" mimeType="image/png">
+        <param key="offset" value="-15,44"/>
+      </asset>
+      <asset name="h_std_ca_6158_3_0" mimeType="image/png">
+        <param key="offset" value="-14,47"/>
+      </asset>
+      <asset name="h_std_ca_6158_0_0" mimeType="image/png">
+        <param key="offset" value="-6,49"/>
+      </asset>
+      <asset name="h_std_ca_6158_1_0" mimeType="image/png">
+        <param key="offset" value="-20,50"/>
+      </asset>
+      <asset name="h_std_ca_6158_2_0" mimeType="image/png">
+        <param key="offset" value="-14,50"/>
+      </asset>
+      <asset name="h_std_ca_6159_7_0" mimeType="image/png">
+        <param key="offset" value="-16,43"/>
+      </asset>
+      <asset name="h_std_ca_6159_3_0" mimeType="image/png">
+        <param key="offset" value="-14,49"/>
+      </asset>
+      <asset name="h_std_ca_6159_0_0" mimeType="image/png">
+        <param key="offset" value="-7,48"/>
+      </asset>
+      <asset name="h_std_ca_6159_1_0" mimeType="image/png">
+        <param key="offset" value="-20,50"/>
+      </asset>
+      <asset name="h_std_ca_6159_2_0" mimeType="image/png">
+        <param key="offset" value="-14,50"/>
+      </asset>
+      <asset name="h_std_ca_6160_7_0" mimeType="image/png">
+        <param key="offset" value="-26,27"/>
+      </asset>
+      <asset name="h_std_ca_6160_3_0" mimeType="image/png">
+        <param key="offset" value="-13,48"/>
+      </asset>
+      <asset name="h_std_ca_6160_0_0" mimeType="image/png">
+        <param key="offset" value="-20,31"/>
+      </asset>
+      <asset name="h_std_ca_6160_1_0" mimeType="image/png">
+        <param key="offset" value="-19,51"/>
+      </asset>
+      <asset name="h_std_ca_6160_2_0" mimeType="image/png">
+        <param key="offset" value="-13,51"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
