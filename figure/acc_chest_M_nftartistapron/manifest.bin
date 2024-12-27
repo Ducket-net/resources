@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_M_nftartistapron" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6417_2_0" mimeType="image/png">
+        <param key="offset" value="0,23"/>
+      </asset>
+      <asset name="h_lay_ca_6418_2_0" mimeType="image/png">
+        <param key="offset" value="-14,17"/>
+      </asset>
+      <asset name="h_std_ca_6417_7_0" mimeType="image/png">
+        <param key="offset" value="-22,47"/>
+      </asset>
+      <asset name="h_std_ca_6417_3_0" mimeType="image/png">
+        <param key="offset" value="-22,50"/>
+      </asset>
+      <asset name="h_std_ca_6417_2_0" mimeType="image/png">
+        <param key="offset" value="-24,50"/>
+      </asset>
+      <asset name="h_std_ca_6417_1_0" mimeType="image/png">
+        <param key="offset" value="-22,47"/>
+      </asset>
+      <asset name="h_std_ca_6417_0_0" mimeType="image/png">
+        <param key="offset" value="-20,48"/>
+      </asset>
+      <asset name="h_std_ca_6418_7_0" mimeType="image/png">
+        <param key="offset" value="-39,42"/>
+      </asset>
+      <asset name="h_std_ca_6418_3_0" mimeType="image/png">
+        <param key="offset" value="-24,34"/>
+      </asset>
+      <asset name="h_std_ca_6418_2_0" mimeType="image/png">
+        <param key="offset" value="-29,36"/>
+      </asset>
+      <asset name="h_std_ca_6418_1_0" mimeType="image/png">
+        <param key="offset" value="-38,33"/>
+      </asset>
+      <asset name="h_std_ca_6418_0_0" mimeType="image/png">
+        <param key="offset" value="-42,26"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
