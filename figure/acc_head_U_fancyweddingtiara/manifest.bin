@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_fancyweddingtiara" version="0.1">
+    <assets>
+      <asset name="h_std_he_6505_2_0" mimeType="image/png">
+        <param key="offset" value="-21,80"/>
+      </asset>
+      <asset name="h_std_he_6505_1_0" mimeType="image/png">
+        <param key="offset" value="-28,81"/>
+      </asset>
+      <asset name="h_std_he_6505_0_0" mimeType="image/png">
+        <param key="offset" value="-19,79"/>
+      </asset>
+      <asset name="h_std_he_6505_3_0" mimeType="image/png">
+        <param key="offset" value="-20,80"/>
+      </asset>
+      <asset name="h_std_he_6505_7_0" mimeType="image/png">
+        <param key="offset" value="-20,82"/>
+      </asset>
+      <asset name="h_std_he_6506_2_0" mimeType="image/png">
+        <param key="offset" value="-22,79"/>
+      </asset>
+      <asset name="h_std_he_6506_1_0" mimeType="image/png">
+        <param key="offset" value="-29,80"/>
+      </asset>
+      <asset name="h_std_he_6506_0_0" mimeType="image/png">
+        <param key="offset" value="-20,78"/>
+      </asset>
+      <asset name="h_std_he_6506_3_0" mimeType="image/png">
+        <param key="offset" value="-21,79"/>
+      </asset>
+      <asset name="h_std_he_6506_7_0" mimeType="image/png">
+        <param key="offset" value="-21,81"/>
+      </asset>
+      <asset name="h_lay_he_6505_2_0" mimeType="image/png">
+        <param key="offset" value="21,40"/>
+      </asset>
+      <asset name="h_lay_he_6506_2_0" mimeType="image/png">
+        <param key="offset" value="20,39"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
