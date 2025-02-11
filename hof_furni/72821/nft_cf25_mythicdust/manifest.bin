@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="nft_cf25_mythicdust" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="nft_cf25_mythicdust_visualization" mimeType="text/xml"/>
+      <asset name="nft_cf25_mythicdust_assets" mimeType="text/xml"/>
+      <asset name="nft_cf25_mythicdust_logic" mimeType="text/xml"/>
+      <asset name="nft_cf25_mythicdust_64_sd_0_0" mimeType="image/png"/>
+      <asset name="nft_cf25_mythicdust_64_a_0_0" mimeType="image/png"/>
+      <asset name="nft_cf25_mythicdust_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
