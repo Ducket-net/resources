@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<manifest>
   <library name="shirt_F_camotank" version="0.1">
     <assets>
       <asset name="h_std_ls_2732_0_0" mimeType="image/png">
@@ -378,9 +379,6 @@
       </asset>
       <asset name="h_wav_ls_2732_7_1" mimeType="image/png">
         <param key="offset" value="-24,47"/>
-      </asset>
-      <asset name="h_std_ls_1_0_1" mimeType="image/png">
-        <param key="offset" value="-8,60"/>
       </asset>
       <asset name="h_wav_ls_2733_0_0" mimeType="image/png">
         <param key="offset" value="-22,48"/>
