@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_bratzdylanbelt" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_6493_2_0" mimeType="image/png">
+        <param key="offset" value="-15,15"/>
+      </asset>
+      <asset name="h_lay_wa_6494_2_0" mimeType="image/png">
+        <param key="offset" value="-21,11"/>
+      </asset>
+      <asset name="h_std_wa_6493_7_0" mimeType="image/png">
+        <param key="offset" value="-22,23"/>
+      </asset>
+      <asset name="h_std_wa_6493_3_0" mimeType="image/png">
+        <param key="offset" value="-22,23"/>
+      </asset>
+      <asset name="h_std_wa_6493_0_0" mimeType="image/png">
+        <param key="offset" value="-20,26"/>
+      </asset>
+      <asset name="h_std_wa_6493_1_0" mimeType="image/png">
+        <param key="offset" value="-23,24"/>
+      </asset>
+      <asset name="h_std_wa_6493_2_0" mimeType="image/png">
+        <param key="offset" value="-22,26"/>
+      </asset>
+      <asset name="h_std_wa_6494_7_0" mimeType="image/png">
+        <param key="offset" value="-23,19"/>
+      </asset>
+      <asset name="h_std_wa_6494_3_0" mimeType="image/png">
+        <param key="offset" value="-23,19"/>
+      </asset>
+      <asset name="h_std_wa_6494_0_0" mimeType="image/png">
+        <param key="offset" value="-22,22"/>
+      </asset>
+      <asset name="h_std_wa_6494_1_0" mimeType="image/png">
+        <param key="offset" value="-24,20"/>
+      </asset>
+      <asset name="h_std_wa_6494_2_0" mimeType="image/png">
+        <param key="offset" value="-23,22"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
