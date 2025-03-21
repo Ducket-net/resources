@@ -1,141 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
   <library name="shirt_M_fashionfloraldress" version="0.1">
     <assets>
-      <asset name="h_std_ch_6330_2_1" mimeType="image/png">
-        <param key="offset" value="-20,38"/>
-      </asset>
-      <asset name="h_std_ls_6330_2_1" mimeType="image/png">
-        <param key="offset" value="-43,43"/>
-      </asset>
-      <asset name="h_std_rs_6330_2_1" mimeType="image/png">
-        <param key="offset" value="-26,41"/>
-      </asset>
-      <asset name="h_std_ls_6330_1_1" mimeType="image/png">
-        <param key="offset" value="-31,45"/>
-      </asset>
-      <asset name="h_std_rs_6330_1_1" mimeType="image/png">
-        <param key="offset" value="-31,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_1_1" mimeType="image/png">
-        <param key="offset" value="-21,39"/>
-      </asset>
-      <asset name="h_std_ls_6330_0_1" mimeType="image/png">
-        <param key="offset" value="-23,48"/>
-      </asset>
-      <asset name="h_std_rs_6330_0_1" mimeType="image/png">
-        <param key="offset" value="-37,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_0_1" mimeType="image/png">
-        <param key="offset" value="-17,31"/>
-      </asset>
-      <asset name="h_std_ch_6330_3_1" mimeType="image/png">
-        <param key="offset" value="-19,38"/>
-      </asset>
-      <asset name="h_std_rs_6330_3_1" mimeType="image/png">
-        <param key="offset" value="-24,44"/>
-      </asset>
-      <asset name="h_std_ls_6330_3_1" mimeType="image/png">
-        <param key="offset" value="-42,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_7_1" mimeType="image/png">
-        <param key="offset" value="-19,36"/>
-      </asset>
-      <asset name="h_std_rs_6330_7_1" mimeType="image/png">
-        <param key="offset" value="-41,46"/>
-      </asset>
-      <asset name="h_std_ls_6330_7_1" mimeType="image/png">
-        <param key="offset" value="-24,47"/>
-      </asset>
-      <asset name="h_std_ch_6330_2_2" mimeType="image/png">
-        <param key="offset" value="-20,38"/>
-      </asset>
-      <asset name="h_std_ls_6330_2_2" mimeType="image/png">
-        <param key="offset" value="-43,43"/>
-      </asset>
-      <asset name="h_std_rs_6330_2_2" mimeType="image/png">
-        <param key="offset" value="-26,41"/>
-      </asset>
-      <asset name="h_std_ls_6330_1_2" mimeType="image/png">
-        <param key="offset" value="-31,45"/>
-      </asset>
-      <asset name="h_std_rs_6330_1_2" mimeType="image/png">
-        <param key="offset" value="-31,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_1_2" mimeType="image/png">
-        <param key="offset" value="-21,39"/>
-      </asset>
-      <asset name="h_std_ls_6330_0_2" mimeType="image/png">
-        <param key="offset" value="-23,48"/>
-      </asset>
-      <asset name="h_std_rs_6330_0_2" mimeType="image/png">
-        <param key="offset" value="-37,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_0_2" mimeType="image/png">
-        <param key="offset" value="-17,31"/>
-      </asset>
-      <asset name="h_std_ch_6330_3_2" mimeType="image/png">
-        <param key="offset" value="-19,38"/>
-      </asset>
-      <asset name="h_std_rs_6330_3_2" mimeType="image/png">
-        <param key="offset" value="-24,44"/>
-      </asset>
-      <asset name="h_std_ls_6330_3_2" mimeType="image/png">
-        <param key="offset" value="-42,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_7_2" mimeType="image/png">
-        <param key="offset" value="-19,36"/>
-      </asset>
-      <asset name="h_std_rs_6330_7_2" mimeType="image/png">
-        <param key="offset" value="-41,46"/>
-      </asset>
-      <asset name="h_std_ls_6330_7_2" mimeType="image/png">
-        <param key="offset" value="-24,47"/>
-      </asset>
-      <asset name="h_std_ch_6330_2_3" mimeType="image/png">
-        <param key="offset" value="-20,38"/>
-      </asset>
-      <asset name="h_std_ls_6330_2_3" mimeType="image/png">
-        <param key="offset" value="-43,43"/>
-      </asset>
-      <asset name="h_std_rs_6330_2_3" mimeType="image/png">
-        <param key="offset" value="-26,41"/>
-      </asset>
-      <asset name="h_std_ls_6330_1_3" mimeType="image/png">
-        <param key="offset" value="-31,45"/>
-      </asset>
-      <asset name="h_std_rs_6330_1_3" mimeType="image/png">
-        <param key="offset" value="-31,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_1_3" mimeType="image/png">
-        <param key="offset" value="-21,39"/>
-      </asset>
-      <asset name="h_std_ls_6330_0_3" mimeType="image/png">
-        <param key="offset" value="-23,48"/>
-      </asset>
-      <asset name="h_std_rs_6330_0_3" mimeType="image/png">
-        <param key="offset" value="-37,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_0_3" mimeType="image/png">
-        <param key="offset" value="-17,31"/>
-      </asset>
-      <asset name="h_std_ch_6330_3_3" mimeType="image/png">
-        <param key="offset" value="-19,38"/>
-      </asset>
-      <asset name="h_std_rs_6330_3_3" mimeType="image/png">
-        <param key="offset" value="-24,44"/>
-      </asset>
-      <asset name="h_std_ls_6330_3_3" mimeType="image/png">
-        <param key="offset" value="-42,45"/>
-      </asset>
-      <asset name="h_std_ch_6330_7_3" mimeType="image/png">
-        <param key="offset" value="-19,36"/>
-      </asset>
-      <asset name="h_std_rs_6330_7_3" mimeType="image/png">
-        <param key="offset" value="-41,46"/>
-      </asset>
-      <asset name="h_std_ls_6330_7_3" mimeType="image/png">
-        <param key="offset" value="-24,47"/>
-      </asset>
       <asset name="h_std_ls_6329_2_0" mimeType="image/png">
         <param key="offset" value="-40,47"/>
       </asset>
@@ -275,13 +140,13 @@
         <param key="offset" value="-40,47"/>
       </asset>
       <asset name="h_sit_ch_6329_2_0" mimeType="image/png">
-        <param key="offset" value="-15,42"/>
+        <param key="offset" value="-15,47"/>
       </asset>
       <asset name="h_sit_rs_6329_2_0" mimeType="image/png">
         <param key="offset" value="-24,49"/>
       </asset>
       <asset name="h_sit_ch_6329_0_0" mimeType="image/png">
-        <param key="offset" value="-15,38"/>
+        <param key="offset" value="-15,37"/>
       </asset>
       <asset name="h_sit_ls_6329_0_0" mimeType="image/png">
         <param key="offset" value="-22,48"/>
@@ -302,7 +167,7 @@
         <param key="offset" value="-23,48"/>
       </asset>
       <asset name="h_sit_ch_6330_0_0" mimeType="image/png">
-        <param key="offset" value="-16,34"/>
+        <param key="offset" value="-16,32"/>
       </asset>
       <asset name="h_sit_rs_6330_0_0" mimeType="image/png">
         <param key="offset" value="-37,45"/>

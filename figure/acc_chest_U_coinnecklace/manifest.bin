@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_coinnecklace" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6387_2_0" mimeType="image/png">
+        <param key="offset" value="0,23"/>
+      </asset>
+      <asset name="h_lay_ca_6388_2_0" mimeType="image/png">
+        <param key="offset" value="-19,15"/>
+      </asset>
+      <asset name="h_std_ca_6387_7_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_std_ca_6387_3_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_std_ca_6387_2_0" mimeType="image/png">
+        <param key="offset" value="-25,48"/>
+      </asset>
+      <asset name="h_std_ca_6387_1_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_std_ca_6387_0_0" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+      <asset name="h_std_ca_6388_7_0" mimeType="image/png">
+        <param key="offset" value="-41,46"/>
+      </asset>
+      <asset name="h_std_ca_6388_3_0" mimeType="image/png">
+        <param key="offset" value="-33,33"/>
+      </asset>
+      <asset name="h_std_ca_6388_2_0" mimeType="image/png">
+        <param key="offset" value="-37,33"/>
+      </asset>
+      <asset name="h_std_ca_6388_1_0" mimeType="image/png">
+        <param key="offset" value="-40,33"/>
+      </asset>
+      <asset name="h_std_ca_6388_0_0" mimeType="image/png">
+        <param key="offset" value="-38,44"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
