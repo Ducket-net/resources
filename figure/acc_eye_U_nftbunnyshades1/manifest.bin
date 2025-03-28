@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_nftbunnyshades1" version="0.1">
+    <assets>
+      <asset name="h_lay_ea_6661_2_0" mimeType="image/png">
+        <param key="offset" value="16,39"/>
+      </asset>
+      <asset name="h_std_ea_6661_0_0" mimeType="image/png">
+        <param key="offset" value="-38,67"/>
+      </asset>
+      <asset name="h_std_ea_6661_1_0" mimeType="image/png">
+        <param key="offset" value="-28,65"/>
+      </asset>
+      <asset name="h_std_ea_6661_2_0" mimeType="image/png">
+        <param key="offset" value="-22,67"/>
+      </asset>
+      <asset name="h_std_ea_6661_3_0" mimeType="image/png">
+        <param key="offset" value="-22,64"/>
+      </asset>
+      <asset name="h_std_ea_6661_7_0" mimeType="image/png">
+        <param key="offset" value="-21,57"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
