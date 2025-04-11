@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_knighthelmet" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_6615_2_0" mimeType="image/png">
+        <param key="offset" value="23,42"/>
+      </asset>
+      <asset name="h_lay_ha_6616_2_0" mimeType="image/png">
+        <param key="offset" value="23,42"/>
+      </asset>
+      <asset name="h_lay_ha_6617_2_0" mimeType="image/png">
+        <param key="offset" value="40,41"/>
+      </asset>
+      <asset name="h_lsp_ha_6615_2_0" mimeType="image/png">
+        <param key="offset" value="-41,-118"/>
+      </asset>
+      <asset name="h_lsp_ha_6616_2_0" mimeType="image/png">
+        <param key="offset" value="-41,-118"/>
+      </asset>
+      <asset name="h_lsp_ha_6617_2_0" mimeType="image/png">
+        <param key="offset" value="-24,-119"/>
+      </asset>
+      <asset name="h_std_ha_6615_7_0" mimeType="image/png">
+        <param key="offset" value="-19,61"/>
+      </asset>
+      <asset name="h_std_ha_6615_3_0" mimeType="image/png">
+        <param key="offset" value="-20,74"/>
+      </asset>
+      <asset name="h_std_ha_6615_0_0" mimeType="image/png">
+        <param key="offset" value="-23,75"/>
+      </asset>
+      <asset name="h_std_ha_6615_1_0" mimeType="image/png">
+        <param key="offset" value="-21,73"/>
+      </asset>
+      <asset name="h_std_ha_6615_2_0" mimeType="image/png">
+        <param key="offset" value="-21,74"/>
+      </asset>
+      <asset name="h_std_ha_6616_7_0" mimeType="image/png">
+        <param key="offset" value="-19,61"/>
+      </asset>
+      <asset name="h_std_ha_6616_3_0" mimeType="image/png">
+        <param key="offset" value="-20,74"/>
+      </asset>
+      <asset name="h_std_ha_6616_0_0" mimeType="image/png">
+        <param key="offset" value="-23,75"/>
+      </asset>
+      <asset name="h_std_ha_6616_1_0" mimeType="image/png">
+        <param key="offset" value="-21,73"/>
+      </asset>
+      <asset name="h_std_ha_6616_2_0" mimeType="image/png">
+        <param key="offset" value="92,74"/>
+      </asset>
+      <asset name="h_std_ha_6617_7_0" mimeType="image/png">
+        <param key="offset" value="-17,91"/>
+      </asset>
+      <asset name="h_std_ha_6617_3_0" mimeType="image/png">
+        <param key="offset" value="-18,91"/>
+      </asset>
+      <asset name="h_std_ha_6617_0_0" mimeType="image/png">
+        <param key="offset" value="-8,87"/>
+      </asset>
+      <asset name="h_std_ha_6617_1_0" mimeType="image/png">
+        <param key="offset" value="-9,87"/>
+      </asset>
+      <asset name="h_std_ha_6617_2_0" mimeType="image/png">
+        <param key="offset" value="-9,87"/>
+      </asset>
+      <asset name="h_spk_ha_6615_7_0" mimeType="image/png">
+        <param key="offset" value="-19,61"/>
+      </asset>
+      <asset name="h_spk_ha_6615_3_0" mimeType="image/png">
+        <param key="offset" value="-20,74"/>
+      </asset>
+      <asset name="h_spk_ha_6615_0_0" mimeType="image/png">
+        <param key="offset" value="-23,75"/>
+      </asset>
+      <asset name="h_spk_ha_6615_1_0" mimeType="image/png">
+        <param key="offset" value="-21,73"/>
+      </asset>
+      <asset name="h_spk_ha_6615_2_0" mimeType="image/png">
+        <param key="offset" value="-21,74"/>
+      </asset>
+      <asset name="h_spk_ha_6616_7_0" mimeType="image/png">
+        <param key="offset" value="-19,61"/>
+      </asset>
+      <asset name="h_spk_ha_6616_3_0" mimeType="image/png">
+        <param key="offset" value="-20,74"/>
+      </asset>
+      <asset name="h_spk_ha_6616_0_0" mimeType="image/png">
+        <param key="offset" value="-23,75"/>
+      </asset>
+      <asset name="h_spk_ha_6616_1_0" mimeType="image/png">
+        <param key="offset" value="-21,73"/>
+      </asset>
+      <asset name="h_spk_ha_6616_2_0" mimeType="image/png">
+        <param key="offset" value="92,74"/>
+      </asset>
+      <asset name="h_spk_ha_6617_7_0" mimeType="image/png">
+        <param key="offset" value="-17,91"/>
+      </asset>
+      <asset name="h_spk_ha_6617_3_0" mimeType="image/png">
+        <param key="offset" value="-18,91"/>
+      </asset>
+      <asset name="h_spk_ha_6617_0_0" mimeType="image/png">
+        <param key="offset" value="-8,87"/>
+      </asset>
+      <asset name="h_spk_ha_6617_1_0" mimeType="image/png">
+        <param key="offset" value="-9,87"/>
+      </asset>
+      <asset name="h_spk_ha_6617_2_0" mimeType="image/png">
+        <param key="offset" value="-9,87"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
