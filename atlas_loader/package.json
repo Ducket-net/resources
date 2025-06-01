@@ -4,7 +4,11 @@
   "description": "An extractor for Habbo SWF in order to make them compatible with scuti-client",
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node ./src/app.ts"
+    "start": "npx ts-node ./src/app.ts",
+    "pets": "npx ts-node ./src/app.ts --pets-only",
+    "pets-only": "npx ts-node ./src/app.ts --pets-only",
+    "furniture": "npx ts-node ./src/app.ts --furniture-only",
+    "furniture-only": "npx ts-node ./src/app.ts --furniture-only"
   },
   "repository": {
     "type": "git",

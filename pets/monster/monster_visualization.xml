@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="monster">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360"/>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers/>
+      <directions>
+        <direction id="2"/>
+        <direction id="4"/>
+        <direction id="0"/>
+        <direction id="1"/>
+        <direction id="3"/>
+        <direction id="7"/>
+        <direction id="5"/>
+        <direction id="6"/>
+      </directions>
+      <colors/>
+      <animations/>
+    </visualization>
+    <visualization size="64" layerCount="3" angle="45">
+      <layers>
+        <layer id="0" ignoreMouse="1"/>
+        <layer id="1" z="1000" ignoreMouse="1"/>
+        <layer id="2" z="2000"/>
+      </layers>
+      <directions>
+        <direction id="2"/>
+        <direction id="4"/>
+        <direction id="0"/>
+        <direction id="1"/>
+        <direction id="3"/>
+        <direction id="7"/>
+        <direction id="5"/>
+        <direction id="6"/>
+      </directions>
+      <colors/>
+      <animations>
+        <animation id="0">
+          <animationLayer id="0">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+        <animation id="1">
+          <animationLayer id="0" loopCount="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="1" loopCount="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+          <animationLayer id="2" loopCount="0" frameRepeat="2">
+            <frameSequence>
+              <frame id="0"/>
+            </frameSequence>
+          </animationLayer>
+        </animation>
+      </animations>
+      <postures>
+        <posture id="std" animationId="0"/>
+        <posture id="mv" animationId="1"/>
+      </postures>
+      <gestures/>
+    </visualization>
+  </graphics>
+</visualizationData>

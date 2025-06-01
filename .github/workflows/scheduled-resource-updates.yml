@@ -63,6 +63,12 @@ jobs:
           npx shroom dump --url "https://habbo.com/gamedata/external_variables/$EXTERNAL_ID" --location ./
           cd ./icon_loader/ && npx hdl -c ficons
 
+      - name: Download Pet Assets
+        run: |
+          EXTERNAL_ID="${{ steps.get-external-id.outputs.external-id }}"
+          echo "Downloading pet assets using External Variables ID: $EXTERNAL_ID"
+          node download-pets.js "https://habbo.com/gamedata/external_variables/$EXTERNAL_ID"
+
       - name: Compile Sprites
         working-directory: ./atlas_loader/
         run: |

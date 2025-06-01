@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_64_a_2_3" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_2_2" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_2_0" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_3_100" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_100" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_100" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_100" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_202" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_201" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_200" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_204" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_203" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_202" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_201" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_200" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_202" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_201" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_200" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_202" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_201" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_200" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_202" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_201" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_200" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_405" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_404" x="11" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_7_403" x="11" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_402" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_401" x="13" y="25" usesPalette="1"/>
+  <asset name="turtle_64_a_7_400" x="14" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_3_405" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_404" x="12" y="16" usesPalette="1"/>
+  <asset name="turtle_64_a_3_403" x="12" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_3_402" x="11" y="19" usesPalette="1"/>
+  <asset name="turtle_64_a_3_401" x="11" y="25" usesPalette="1"/>
+  <asset name="turtle_64_a_3_400" x="11" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_2_405" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_404" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_403" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_402" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_2_401" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_2_400" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_1_405" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_404" x="13" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_403" x="14" y="12" usesPalette="1"/>
+  <asset name="turtle_64_a_1_402" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_401" x="12" y="28" usesPalette="1"/>
+  <asset name="turtle_64_a_1_400" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_0_405" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_404" x="14" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_0_403" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_402" x="11" y="23" usesPalette="1"/>
+  <asset name="turtle_64_a_0_401" x="11" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_0_400" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_7_505" x="14" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_7_504" x="13" y="25" usesPalette="1"/>
+  <asset name="turtle_64_a_7_503" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_502" x="11" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_501" x="11" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_7_500" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_505" x="11" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_3_504" x="11" y="25" usesPalette="1"/>
+  <asset name="turtle_64_a_3_503" x="11" y="19" usesPalette="1"/>
+  <asset name="turtle_64_a_3_502" x="12" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_3_501" x="12" y="16" usesPalette="1"/>
+  <asset name="turtle_64_a_3_500" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_505" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_2_504" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_2_503" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_2_502" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_501" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_500" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_505" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_1_504" x="12" y="28" usesPalette="1"/>
+  <asset name="turtle_64_a_1_503" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_502" x="14" y="12" usesPalette="1"/>
+  <asset name="turtle_64_a_1_501" x="13" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_500" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_505" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_0_504" x="11" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_0_503" x="11" y="23" usesPalette="1"/>
+  <asset name="turtle_64_a_0_502" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_501" x="14" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_0_500" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_603" x="12" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_7_602" x="14" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_7_601" x="14" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_7_600" x="14" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_3_603" x="12" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_3_602" x="11" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_3_601" x="11" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_3_600" x="11" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_2_603" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_2_602" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_2_601" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_2_600" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_1_603" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_1_602" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_1_601" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_1_600" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_0_603" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_0_602" x="12" y="28" usesPalette="1"/>
+  <asset name="turtle_64_a_0_601" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_0_600" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_7_800" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_800" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_800" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_800" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_800" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_902" x="11" y="23" usesPalette="1"/>
+  <asset name="turtle_64_a_7_901" x="11" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_7_900" x="11" y="23" usesPalette="1"/>
+  <asset name="turtle_64_a_3_900" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_901" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_902" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_902" x="11" y="16" usesPalette="1"/>
+  <asset name="turtle_64_a_2_901" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_900" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_901" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_902" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_900" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_0_900" x="14" y="21" usesPalette="1"/>
+  <asset name="turtle_64_a_0_901" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_902" x="14" y="19" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1004" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1003" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1002" x="12" y="19" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1001" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1000" x="11" y="19" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1004" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1003" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1002" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1001" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1000" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1004" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1003" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1002" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1001" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1000" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1004" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1003" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1002" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1001" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1000" x="14" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1004" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1003" x="13" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1002" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1001" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1000" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1400" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1400" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1400" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1400" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1400" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1500" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1500" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1500" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1500" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1601" x="11" y="21" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1600" x="11" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1601" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1600" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1601" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1600" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1601" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1600" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1601" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1600" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1803" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1802" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1801" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1800" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1904" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1903" x="12" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1902" x="14" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1901" x="14" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_2_1900" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_2_2001" x="11" y="16" usesPalette="1"/>
+  <asset name="turtle_64_a_2_2000" x="11" y="18" usesPalette="1"/>
+  <asset name="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_32_a_2_0" x="6" y="5" usesPalette="1"/>
+  <asset name="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_7_800" x="6" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_3_800" x="5" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_800" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_800" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_0_800" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_7_1002" x="6" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_7_1001" x="6" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_7_1000" x="6" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_3_1002" x="5" y="7" usesPalette="1"/>
+  <asset name="turtle_32_a_3_1001" x="5" y="7" usesPalette="1"/>
+  <asset name="turtle_32_a_3_1000" x="5" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1002" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1001" x="7" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1000" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_1002" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_1001" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_1000" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_0_1002" x="6" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_0_1001" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_0_1000" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_7_1601" x="6" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_7_1600" x="6" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_3_1601" x="5" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_3_1600" x="5" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1601" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1600" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_1601" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_1_1600" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_0_1601" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_0_1600" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1700" x="10" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1803" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1802" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1801" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_1800" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_2_2001" x="3" y="7" usesPalette="1"/>
+  <asset name="turtle_32_a_2_2000" x="3" y="8" usesPalette="1"/>
+  <asset name="turtle_64_a_6_100" flipH="1" source="turtle_64_a_0_100" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_202" flipH="1" source="turtle_64_a_0_202" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_201" flipH="1" source="turtle_64_a_0_201" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_200" flipH="1" source="turtle_64_a_0_200" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_405" flipH="1" source="turtle_64_a_0_405" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_404" flipH="1" source="turtle_64_a_0_404" x="14" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_6_403" flipH="1" source="turtle_64_a_0_403" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_402" flipH="1" source="turtle_64_a_0_402" x="11" y="23" usesPalette="1"/>
+  <asset name="turtle_64_a_6_401" flipH="1" source="turtle_64_a_0_401" x="11" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_6_400" flipH="1" source="turtle_64_a_0_400" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_6_505" flipH="1" source="turtle_64_a_0_505" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_6_504" flipH="1" source="turtle_64_a_0_504" x="11" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_6_503" flipH="1" source="turtle_64_a_0_503" x="11" y="23" usesPalette="1"/>
+  <asset name="turtle_64_a_6_502" flipH="1" source="turtle_64_a_0_502" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_501" flipH="1" source="turtle_64_a_0_501" x="14" y="22" usesPalette="1"/>
+  <asset name="turtle_64_a_6_500" flipH="1" source="turtle_64_a_0_500" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_603" flipH="1" source="turtle_64_a_0_603" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_6_602" flipH="1" source="turtle_64_a_0_602" x="12" y="28" usesPalette="1"/>
+  <asset name="turtle_64_a_6_601" flipH="1" source="turtle_64_a_0_601" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_6_600" flipH="1" source="turtle_64_a_0_600" x="12" y="30" usesPalette="1"/>
+  <asset name="turtle_64_a_6_800" flipH="1" source="turtle_64_a_0_800" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_900" flipH="1" source="turtle_64_a_0_900" x="14" y="21" usesPalette="1"/>
+  <asset name="turtle_64_a_6_901" flipH="1" source="turtle_64_a_0_901" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_902" flipH="1" source="turtle_64_a_0_902" x="14" y="19" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1004" flipH="1" source="turtle_64_a_0_1004" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1003" flipH="1" source="turtle_64_a_0_1003" x="13" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1002" flipH="1" source="turtle_64_a_0_1002" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1001" flipH="1" source="turtle_64_a_0_1001" x="12" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1000" flipH="1" source="turtle_64_a_0_1000" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1400" flipH="1" source="turtle_64_a_0_1400" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1500" flipH="1" source="turtle_64_a_0_1500" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1601" flipH="1" source="turtle_64_a_0_1601" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1600" flipH="1" source="turtle_64_a_0_1600" x="14" y="20" usesPalette="1"/>
+  <asset name="turtle_32_a_6_800" flipH="1" source="turtle_32_a_0_800" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_6_1002" flipH="1" source="turtle_32_a_0_1002" x="6" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_6_1001" flipH="1" source="turtle_32_a_0_1001" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_6_1000" flipH="1" source="turtle_32_a_0_1000" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_6_1601" flipH="1" source="turtle_32_a_0_1601" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_32_a_6_1600" flipH="1" source="turtle_32_a_0_1600" x="7" y="12" usesPalette="1"/>
+  <asset name="turtle_64_a_5_100" flipH="1" source="turtle_64_a_1_100" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_202" flipH="1" source="turtle_64_a_1_202" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_201" flipH="1" source="turtle_64_a_1_201" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_200" flipH="1" source="turtle_64_a_1_200" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_405" flipH="1" source="turtle_64_a_1_405" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_404" flipH="1" source="turtle_64_a_1_404" x="13" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_403" flipH="1" source="turtle_64_a_1_403" x="14" y="12" usesPalette="1"/>
+  <asset name="turtle_64_a_5_402" flipH="1" source="turtle_64_a_1_402" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_401" flipH="1" source="turtle_64_a_1_401" x="12" y="28" usesPalette="1"/>
+  <asset name="turtle_64_a_5_400" flipH="1" source="turtle_64_a_1_400" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_5_505" flipH="1" source="turtle_64_a_1_505" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_5_504" flipH="1" source="turtle_64_a_1_504" x="12" y="28" usesPalette="1"/>
+  <asset name="turtle_64_a_5_503" flipH="1" source="turtle_64_a_1_503" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_502" flipH="1" source="turtle_64_a_1_502" x="14" y="12" usesPalette="1"/>
+  <asset name="turtle_64_a_5_501" flipH="1" source="turtle_64_a_1_501" x="13" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_500" flipH="1" source="turtle_64_a_1_500" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_603" flipH="1" source="turtle_64_a_1_603" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_5_602" flipH="1" source="turtle_64_a_1_602" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_5_601" flipH="1" source="turtle_64_a_1_601" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_5_600" flipH="1" source="turtle_64_a_1_600" x="13" y="31" usesPalette="1"/>
+  <asset name="turtle_64_a_5_800" flipH="1" source="turtle_64_a_1_800" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_901" flipH="1" source="turtle_64_a_1_901" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_902" flipH="1" source="turtle_64_a_1_902" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_900" flipH="1" source="turtle_64_a_1_900" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1004" flipH="1" source="turtle_64_a_1_1004" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1003" flipH="1" source="turtle_64_a_1_1003" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1002" flipH="1" source="turtle_64_a_1_1002" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1001" flipH="1" source="turtle_64_a_1_1001" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1000" flipH="1" source="turtle_64_a_1_1000" x="14" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1400" flipH="1" source="turtle_64_a_1_1400" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1500" flipH="1" source="turtle_64_a_1_1500" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1601" flipH="1" source="turtle_64_a_1_1601" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1600" flipH="1" source="turtle_64_a_1_1600" x="14" y="14" usesPalette="1"/>
+  <asset name="turtle_32_a_5_800" flipH="1" source="turtle_32_a_1_800" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_1002" flipH="1" source="turtle_32_a_1_1002" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_5_1001" flipH="1" source="turtle_32_a_1_1001" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_5_1000" flipH="1" source="turtle_32_a_1_1000" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_1601" flipH="1" source="turtle_32_a_1_1601" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_1600" flipH="1" source="turtle_32_a_1_1600" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_64_a_4_3" flipH="1" source="turtle_64_a_2_3" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_4_2" flipH="1" source="turtle_64_a_2_2" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1" flipH="1" source="turtle_64_a_2_1" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_4_0" flipH="1" source="turtle_64_a_2_0" x="14" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_4_100" flipH="1" source="turtle_64_a_2_100" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_202" flipH="1" source="turtle_64_a_2_202" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_201" flipH="1" source="turtle_64_a_2_201" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_200" flipH="1" source="turtle_64_a_2_200" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_307" flipH="1" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_306" flipH="1" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_305" flipH="1" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_304" flipH="1" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_303" flipH="1" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_302" flipH="1" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_301" flipH="1" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_300" flipH="1" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_405" flipH="1" source="turtle_64_a_2_405" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_404" flipH="1" source="turtle_64_a_2_404" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_403" flipH="1" source="turtle_64_a_2_403" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_402" flipH="1" source="turtle_64_a_2_402" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_401" flipH="1" source="turtle_64_a_2_401" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_4_400" flipH="1" source="turtle_64_a_2_400" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_505" flipH="1" source="turtle_64_a_2_505" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_504" flipH="1" source="turtle_64_a_2_504" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_4_503" flipH="1" source="turtle_64_a_2_503" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_502" flipH="1" source="turtle_64_a_2_502" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_501" flipH="1" source="turtle_64_a_2_501" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_500" flipH="1" source="turtle_64_a_2_500" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_603" flipH="1" source="turtle_64_a_2_603" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_602" flipH="1" source="turtle_64_a_2_602" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_601" flipH="1" source="turtle_64_a_2_601" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_600" flipH="1" source="turtle_64_a_2_600" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_717" flipH="1" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_716" flipH="1" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_4_715" flipH="1" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_4_714" flipH="1" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_713" flipH="1" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_4_712" flipH="1" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_4_711" flipH="1" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_4_710" flipH="1" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_709" flipH="1" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_4_708" flipH="1" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_4_707" flipH="1" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_4_706" flipH="1" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_4_705" flipH="1" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_4_704" flipH="1" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_4_703" flipH="1" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_702" flipH="1" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_701" flipH="1" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_4_700" flipH="1" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_800" flipH="1" source="turtle_64_a_2_800" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_902" flipH="1" source="turtle_64_a_2_902" x="11" y="16" usesPalette="1"/>
+  <asset name="turtle_64_a_4_901" flipH="1" source="turtle_64_a_2_901" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_900" flipH="1" source="turtle_64_a_2_900" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1004" flipH="1" source="turtle_64_a_2_1004" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1003" flipH="1" source="turtle_64_a_2_1003" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1002" flipH="1" source="turtle_64_a_2_1002" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1001" flipH="1" source="turtle_64_a_2_1001" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1000" flipH="1" source="turtle_64_a_2_1000" x="9" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1105" flipH="1" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1104" flipH="1" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1103" flipH="1" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1102" flipH="1" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1101" flipH="1" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1100" flipH="1" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1200" flipH="1" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1305" flipH="1" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1304" flipH="1" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1303" flipH="1" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1302" flipH="1" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1301" flipH="1" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1300" flipH="1" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1400" flipH="1" source="turtle_64_a_2_1400" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1500" flipH="1" source="turtle_64_a_2_1500" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1601" flipH="1" source="turtle_64_a_2_1601" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1600" flipH="1" source="turtle_64_a_2_1600" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1700" flipH="1" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1803" flipH="1" source="turtle_64_a_2_1803" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1802" flipH="1" source="turtle_64_a_2_1802" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1801" flipH="1" source="turtle_64_a_2_1801" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1800" flipH="1" source="turtle_64_a_2_1800" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1904" flipH="1" source="turtle_64_a_2_1904" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1903" flipH="1" source="turtle_64_a_2_1903" x="12" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1902" flipH="1" source="turtle_64_a_2_1902" x="14" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1901" flipH="1" source="turtle_64_a_2_1901" x="14" y="13" usesPalette="1"/>
+  <asset name="turtle_64_a_4_1900" flipH="1" source="turtle_64_a_2_1900" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_4_2001" flipH="1" source="turtle_64_a_2_2001" x="11" y="16" usesPalette="1"/>
+  <asset name="turtle_64_a_4_2000" flipH="1" source="turtle_64_a_2_2000" x="11" y="18" usesPalette="1"/>
+  <asset name="turtle_32_a_4_0" flipH="1" source="turtle_32_a_2_0" x="6" y="5" usesPalette="1"/>
+  <asset name="turtle_32_a_4_307" flipH="1" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_4_306" flipH="1" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_4_305" flipH="1" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_304" flipH="1" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_4_303" flipH="1" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_4_302" flipH="1" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_4_301" flipH="1" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_300" flipH="1" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_4_800" flipH="1" source="turtle_32_a_2_800" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1002" flipH="1" source="turtle_32_a_2_1002" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1001" flipH="1" source="turtle_32_a_2_1001" x="7" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1000" flipH="1" source="turtle_32_a_2_1000" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1200" flipH="1" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1601" flipH="1" source="turtle_32_a_2_1601" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1600" flipH="1" source="turtle_32_a_2_1600" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1700" flipH="1" source="turtle_32_a_2_1700" x="10" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1803" flipH="1" source="turtle_32_a_2_1803" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1802" flipH="1" source="turtle_32_a_2_1802" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1801" flipH="1" source="turtle_32_a_2_1801" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_1800" flipH="1" source="turtle_32_a_2_1800" x="8" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_4_2001" flipH="1" source="turtle_32_a_2_2001" x="3" y="7" usesPalette="1"/>
+  <asset name="turtle_32_a_4_2000" flipH="1" source="turtle_32_a_2_2000" x="3" y="8" usesPalette="1"/>
+  <asset name="turtle_64_sd_7_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_7_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_64_sd_1_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_1_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_64_sd_2_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_2_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_64_sd_3_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_3_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_64_sd_4_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_4_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_64_sd_5_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_5_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_64_sd_6_0" source="turtle_64_sd_0_0" x="10" y="7" usesPalette="1"/>
+  <asset name="turtle_32_sd_6_0" source="turtle_32_sd_0_0" x="6" y="3" usesPalette="1"/>
+  <asset name="turtle_32_b_0_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_0_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_0_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_0_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_0_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_0_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_a_7_100" source="turtle_64_a_7_800" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_307" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_0_306" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_0_305" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_0_304" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_303" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_302" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_301" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_0_300" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_307" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_306" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_305" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_304" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_303" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_302" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_301" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_300" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_307" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_306" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_305" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_7_304" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_303" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_302" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_301" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_7_300" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_3_307" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_3_306" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_3_305" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_3_304" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_3_303" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_3_302" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_3_301" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_3_300" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_307" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_306" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_305" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_5_304" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_303" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_302" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_301" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_5_300" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_6_307" source="turtle_64_a_2_307" x="12" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_6_306" source="turtle_64_a_2_306" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_6_305" source="turtle_64_a_2_305" x="20" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_6_304" source="turtle_64_a_2_304" x="14" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_303" source="turtle_64_a_2_303" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_302" source="turtle_64_a_2_302" x="17" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_301" source="turtle_64_a_2_301" x="14" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_6_300" source="turtle_64_a_2_300" x="17" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_0_717" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_0_716" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_0_715" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_714" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_713" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_712" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_0_711" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_0_710" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_0_709" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_0_708" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_0_707" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_0_706" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_0_705" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_0_704" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_0_703" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_0_702" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_701" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_700" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_717" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_1_716" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_1_715" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_1_714" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_713" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_1_712" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_1_711" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_1_710" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_1_709" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_1_708" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_1_707" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_1_706" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_1_705" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_1_704" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_1_703" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_702" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_701" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_1_700" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_7_717" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_7_716" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_7_715" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_714" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_713" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_7_712" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_7_711" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_7_710" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_7_709" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_7_708" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_7_707" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_7_706" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_7_705" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_7_704" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_7_703" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_702" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_701" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_700" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_3_717" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_3_716" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_3_715" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_714" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_3_713" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_3_712" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_3_711" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_3_710" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_3_709" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_3_708" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_3_707" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_3_706" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_3_705" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_3_704" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_3_703" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_3_702" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_701" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_3_700" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_5_717" flipH="1" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_5_716" flipH="1" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_5_715" flipH="1" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_5_714" flipH="1" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_713" flipH="1" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_5_712" flipH="1" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_5_711" flipH="1" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_5_710" flipH="1" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_5_709" flipH="1" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_5_708" flipH="1" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_5_707" flipH="1" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_5_706" flipH="1" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_5_705" flipH="1" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_5_704" flipH="1" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_5_703" flipH="1" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_702" flipH="1" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_701" flipH="1" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_700" flipH="1" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_6_717" flipH="1" source="turtle_64_a_2_717" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_6_716" flipH="1" source="turtle_64_a_2_716" x="10" y="29" usesPalette="1"/>
+  <asset name="turtle_64_a_6_715" flipH="1" source="turtle_64_a_2_715" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_714" flipH="1" source="turtle_64_a_2_714" x="18" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_713" flipH="1" source="turtle_64_a_2_713" x="17" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_6_712" flipH="1" source="turtle_64_a_2_712" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_6_711" flipH="1" source="turtle_64_a_2_711" x="11" y="36" usesPalette="1"/>
+  <asset name="turtle_64_a_6_710" flipH="1" source="turtle_64_a_2_710" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_6_709" flipH="1" source="turtle_64_a_2_709" x="3" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_6_708" flipH="1" source="turtle_64_a_2_708" x="5" y="33" usesPalette="1"/>
+  <asset name="turtle_64_a_6_707" flipH="1" source="turtle_64_a_2_707" x="8" y="32" usesPalette="1"/>
+  <asset name="turtle_64_a_6_706" flipH="1" source="turtle_64_a_2_706" x="9" y="34" usesPalette="1"/>
+  <asset name="turtle_64_a_6_705" flipH="1" source="turtle_64_a_2_705" x="11" y="35" usesPalette="1"/>
+  <asset name="turtle_64_a_6_704" flipH="1" source="turtle_64_a_2_704" x="9" y="27" usesPalette="1"/>
+  <asset name="turtle_64_a_6_703" flipH="1" source="turtle_64_a_2_703" x="9" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_6_702" flipH="1" source="turtle_64_a_2_702" x="11" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_701" flipH="1" source="turtle_64_a_2_701" x="11" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_700" flipH="1" source="turtle_64_a_2_700" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1105" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1104" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1103" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1102" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1101" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1100" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1200" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1305" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1304" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1303" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1302" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1301" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1300" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1105" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1104" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1103" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1102" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1101" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1100" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1200" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1305" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1304" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1303" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1302" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1301" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1300" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1105" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1104" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1103" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1102" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1101" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1100" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1200" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1305" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1304" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1303" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1302" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1301" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1300" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1105" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1104" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1103" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1102" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1101" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1100" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1200" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1305" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1304" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1303" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1302" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1301" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1300" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1105" flipH="1" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1104" flipH="1" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1103" flipH="1" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1102" flipH="1" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1101" flipH="1" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1100" flipH="1" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1200" flipH="1" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1305" flipH="1" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1304" flipH="1" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1303" flipH="1" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1302" flipH="1" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1301" flipH="1" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1300" flipH="1" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1105" flipH="1" source="turtle_64_a_2_1105" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1104" flipH="1" source="turtle_64_a_2_1104" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1103" flipH="1" source="turtle_64_a_2_1103" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1102" flipH="1" source="turtle_64_a_2_1102" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1101" flipH="1" source="turtle_64_a_2_1101" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1100" flipH="1" source="turtle_64_a_2_1100" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1200" flipH="1" source="turtle_64_a_2_1200" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1305" flipH="1" source="turtle_64_a_2_1305" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1304" flipH="1" source="turtle_64_a_2_1304" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1303" flipH="1" source="turtle_64_a_2_1303" x="9" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1302" flipH="1" source="turtle_64_a_2_1302" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1301" flipH="1" source="turtle_64_a_2_1301" x="12" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1300" flipH="1" source="turtle_64_a_2_1300" x="10" y="14" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1500" source="turtle_64_a_7_800" x="11" y="20" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1700" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1700" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1700" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1700" flipH="1" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1700" flipH="1" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1700" source="turtle_64_a_2_1700" x="20" y="18" usesPalette="1"/>
+  <asset name="turtle_64_b_7_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_7_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_7_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_7_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_7_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_7_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_b_1_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_1_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_1_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_1_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_1_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_1_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_b_2_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_2_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_2_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_2_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_2_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_2_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_b_3_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_3_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_3_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_3_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_3_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_3_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_b_4_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_4_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_4_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_4_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_4_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_4_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_b_5_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_5_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_5_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_5_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_5_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_5_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_b_6_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_64_b_6_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_64_b_6_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_64_b_6_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_64_b_6_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_64_b_6_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_2_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_2_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_2_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_2_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_2_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_2_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_1_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_1_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_1_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_1_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_1_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_1_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_3_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_3_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_3_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_3_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_3_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_3_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_4_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_4_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_4_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_4_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_4_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_4_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_5_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_5_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_5_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_5_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_5_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_5_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_6_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_6_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_6_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_6_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_6_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_6_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_32_b_7_2100" source="turtle_64_b_0_2100" x="8" y="53"/>
+  <asset name="turtle_32_b_7_2200" source="turtle_64_b_0_2200" x="8" y="53"/>
+  <asset name="turtle_32_b_7_2300" source="turtle_64_b_0_2300" x="8" y="53"/>
+  <asset name="turtle_32_b_7_2400" source="turtle_64_b_0_2400" x="8" y="53"/>
+  <asset name="turtle_32_b_7_2500" source="turtle_64_b_0_2500" x="8" y="53"/>
+  <asset name="turtle_32_b_7_2600" source="turtle_64_b_0_2600" x="8" y="52"/>
+  <asset name="turtle_64_a_dnc_2_0" x="11" y="15" usesPalette="1"/>
+  <asset name="turtle_32_a_0_1200" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_1200" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_3_1200" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_5_1200" flipH="1" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_6_1200" flipH="1" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_7_1200" flipH="1" source="turtle_32_a_2_1200" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_0_307" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_0_306" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_0_305" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_0_304" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_0_303" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_0_302" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_0_301" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_0_300" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_1_307" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_1_306" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_1_305" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_304" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_1_303" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_1_302" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_1_301" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_1_300" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_7_307" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_7_306" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_7_305" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_7_304" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_7_303" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_7_302" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_7_301" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_7_300" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_3_307" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_3_306" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_3_305" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_3_304" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_3_303" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_3_302" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_3_301" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_3_300" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_5_307" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_5_306" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_5_305" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_5_304" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_303" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_302" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_301" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_5_300" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_6_307" source="turtle_32_a_2_307" x="6" y="10" usesPalette="1"/>
+  <asset name="turtle_32_a_6_306" source="turtle_32_a_2_306" x="7" y="11" usesPalette="1"/>
+  <asset name="turtle_32_a_6_305" source="turtle_32_a_2_305" x="9" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_6_304" source="turtle_32_a_2_304" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_6_303" source="turtle_32_a_2_303" x="6" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_6_302" source="turtle_32_a_2_302" x="8" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_6_301" source="turtle_32_a_2_301" x="6" y="8" usesPalette="1"/>
+  <asset name="turtle_32_a_6_300" source="turtle_32_a_2_300" x="8" y="11" usesPalette="1"/>
+  <asset name="turtle_64_a_7_3" x="10" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_2" x="10" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_1" x="10" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_7_0" x="10" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_3_3" x="9" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_3_2" x="8" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_3_1" x="9" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_3_0" x="9" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_1_3" x="11" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_1_2" x="11" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_1_1" x="11" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_1_0" x="12" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_0_3" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_2" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_1" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_0_0" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_5_3" flipH="1" source="turtle_64_a_1_3" x="11" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_5_2" flipH="1" source="turtle_64_a_1_2" x="11" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_5_1" flipH="1" source="turtle_64_a_1_1" x="11" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_5_0" flipH="1" source="turtle_64_a_1_0" x="12" y="10" usesPalette="1"/>
+  <asset name="turtle_64_a_6_3" flipH="1" source="turtle_64_a_0_3" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_2" flipH="1" source="turtle_64_a_0_2" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_1" flipH="1" source="turtle_64_a_0_1" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_64_a_6_0" flipH="1" source="turtle_64_a_0_0" x="12" y="17" usesPalette="1"/>
+  <asset name="turtle_32_a_7_0" x="4" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_3_0" x="4" y="5" usesPalette="1"/>
+  <asset name="turtle_32_a_1_0" x="6" y="5" usesPalette="1"/>
+  <asset name="turtle_32_a_0_0" x="5" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_6_0" flipH="1" source="turtle_32_a_0_0" x="5" y="9" usesPalette="1"/>
+  <asset name="turtle_32_a_5_0" flipH="1" source="turtle_32_a_1_0" x="6" y="5" usesPalette="1"/>
+  <palette id="0" source="palette00" color1="d38d49" color2="577e37"/>
+  <palette id="1" source="palette01" color1="525d46" color2="577e37"/>
+  <palette id="2" source="palette02" color1="aa3e22" color2="577e37"/>
+  <palette id="3" source="palette03" color1="e8b734" color2="577e37"/>
+  <palette id="4" source="palette04" color1="8e7154" color2="577e37"/>
+  <palette id="5" source="palette05" color1="59a83f" color2="ac6721"/>
+  <palette id="6" source="palette06" color1="aa3e22" color2="59a83f"/>
+  <palette id="7" source="palette07" color1="2fac21" color2="295b5c"/>
+  <palette id="8" source="palette08" color1="c958af" color2="59a83f"/>
+  <palette id="9" source="palette09" color1="c958af" color2="6a5484"/>
+  <palette id="10" source="palette10" color1="83370d" color2="3c3c3c"/>
+  <palette id="11" source="palette11" color1="c8b9ac" color2="c7d7ba"/>
+</assets>

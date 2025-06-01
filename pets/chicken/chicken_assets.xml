@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="chicken_64_a_7_0" x="9" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_3_0" x="10" y="25" usesPalette="1"/>
+  <asset name="chicken_64_a_2_0" x="12" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_1_0" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_64_a_0_0" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_64_a_3_100" x="10" y="25" usesPalette="1"/>
+  <asset name="chicken_64_a_2_100" x="12" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_1_100" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_64_a_7_200" x="11" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_7_201" x="10" y="28" usesPalette="1"/>
+  <asset name="chicken_64_a_7_202" x="10" y="28" usesPalette="1"/>
+  <asset name="chicken_64_a_7_203" x="11" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_3_200" x="12" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_3_201" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_202" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_203" x="12" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_2_200" x="11" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_2_201" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_202" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_203" x="11" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_1_200" x="13" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_1_201" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_1_202" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_1_203" x="14" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_0_200" x="13" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_0_201" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_0_202" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_0_203" x="13" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_2_300" x="8" y="19" usesPalette="1"/>
+  <asset name="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_600" x="9" y="27" usesPalette="1"/>
+  <asset name="chicken_64_a_7_601" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_3_600" x="10" y="23" usesPalette="1"/>
+  <asset name="chicken_64_a_3_601" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_2_600" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_601" x="13" y="48" usesPalette="1"/>
+  <asset name="chicken_64_a_1_600" x="13" y="25" usesPalette="1"/>
+  <asset name="chicken_64_a_1_601" x="11" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_0_600" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_0_601" x="13" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_7_700" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_7_701" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_3_700" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_3_701" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_2_700" x="11" y="53" usesPalette="1"/>
+  <asset name="chicken_64_a_2_701" x="13" y="53" usesPalette="1"/>
+  <asset name="chicken_64_a_1_700" x="11" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_1_701" x="11" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_0_700" x="13" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_0_701" x="13" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_7_800" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_7_801" x="9" y="27" usesPalette="1"/>
+  <asset name="chicken_64_a_3_800" x="15" y="51" usesPalette="1"/>
+  <asset name="chicken_64_a_3_801" x="10" y="23" usesPalette="1"/>
+  <asset name="chicken_64_a_2_800" x="13" y="48" usesPalette="1"/>
+  <asset name="chicken_64_a_2_801" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_800" x="11" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_1_801" x="13" y="25" usesPalette="1"/>
+  <asset name="chicken_64_a_0_800" x="13" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_0_801" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_7_900" x="9" y="27" usesPalette="1"/>
+  <asset name="chicken_64_a_7_901" x="16" y="43" usesPalette="1"/>
+  <asset name="chicken_64_a_7_902" x="16" y="42" usesPalette="1"/>
+  <asset name="chicken_64_a_3_900" x="10" y="23" usesPalette="1"/>
+  <asset name="chicken_64_a_3_901" x="15" y="39" usesPalette="1"/>
+  <asset name="chicken_64_a_3_902" x="15" y="38" usesPalette="1"/>
+  <asset name="chicken_64_a_2_900" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_901" x="11" y="40" usesPalette="1"/>
+  <asset name="chicken_64_a_2_902" x="13" y="39" usesPalette="1"/>
+  <asset name="chicken_64_a_1_900" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_1_901" x="13" y="42" usesPalette="1"/>
+  <asset name="chicken_64_a_1_902" x="13" y="41" usesPalette="1"/>
+  <asset name="chicken_64_a_0_900" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_0_901" x="13" y="42" usesPalette="1"/>
+  <asset name="chicken_64_a_0_902" x="13" y="41" usesPalette="1"/>
+  <asset name="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_7_0" x="4" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_3_0" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_0" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_1_0" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_0_0" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_3_100" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_100" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_1_100" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_7_200" x="5" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_7_201" x="5" y="16" usesPalette="1"/>
+  <asset name="chicken_32_a_7_202" x="5" y="16" usesPalette="1"/>
+  <asset name="chicken_32_a_7_203" x="5" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_3_200" x="5" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_3_201" x="5" y="16" usesPalette="1"/>
+  <asset name="chicken_32_a_3_202" x="5" y="16" usesPalette="1"/>
+  <asset name="chicken_32_a_3_203" x="5" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_2_200" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_2_201" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_202" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_203" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_1_200" x="7" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_1_201" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_202" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_203" x="7" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_0_200" x="7" y="23" usesPalette="1"/>
+  <asset name="chicken_32_a_0_201" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_0_202" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_0_203" x="7" y="23" usesPalette="1"/>
+  <asset name="chicken_32_a_2_300" x="4" y="14" usesPalette="1"/>
+  <asset name="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_600" x="4" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_7_601" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_3_600" x="5" y="16" usesPalette="1"/>
+  <asset name="chicken_32_a_3_601" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_2_600" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_601" x="7" y="31" usesPalette="1"/>
+  <asset name="chicken_32_a_1_600" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_1_601" x="6" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_0_600" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_0_601" x="7" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_7_700" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_7_701" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_3_700" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_3_701" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_2_700" x="6" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_2_701" x="7" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_1_700" x="6" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_1_701" x="6" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_0_700" x="7" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_0_701" x="7" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_7_800" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_7_801" x="4" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_3_800" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_3_801" x="5" y="16" usesPalette="1"/>
+  <asset name="chicken_32_a_2_800" x="7" y="31" usesPalette="1"/>
+  <asset name="chicken_32_a_2_801" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_800" x="6" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_1_801" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_0_800" x="7" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_0_801" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_7_900" x="4" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_7_901" x="4" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_7_902" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_7_903" x="8" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_3_900" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_3_902" x="8" y="33" usesPalette="1"/>
+  <asset name="chicken_32_a_3_903" x="8" y="28" usesPalette="1"/>
+  <asset name="chicken_32_a_2_900" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_2_901" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_902" x="6" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_2_903" x="7" y="30" usesPalette="1"/>
+  <asset name="chicken_32_a_1_900" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_1_901" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_1_902" x="6" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_1_903" x="6" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_0_900" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_0_901" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_0_902" x="7" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_0_903" x="7" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_4_0" flipH="1" source="chicken_64_a_2_0" x="12" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_5_0" flipH="1" source="chicken_64_a_1_0" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_64_a_6_0" flipH="1" source="chicken_64_a_0_0" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_32_a_4_0" flipH="1" source="chicken_32_a_2_0" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_5_0" flipH="1" source="chicken_32_a_1_0" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_6_0" flipH="1" source="chicken_32_a_0_0" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_64_a_4_100" flipH="1" source="chicken_64_a_2_100" x="12" y="26" usesPalette="1"/>
+  <asset name="chicken_32_a_4_100" flipH="1" source="chicken_32_a_2_100" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_64_a_5_100" flipH="1" source="chicken_64_a_1_100" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_32_a_5_100" flipH="1" source="chicken_32_a_1_100" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_64_a_4_200" flipH="1" source="chicken_64_a_2_200" x="11" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_4_201" flipH="1" source="chicken_64_a_2_201" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_202" flipH="1" source="chicken_64_a_2_202" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_203" flipH="1" source="chicken_64_a_2_203" x="11" y="30" usesPalette="1"/>
+  <asset name="chicken_32_a_4_200" flipH="1" source="chicken_32_a_2_200" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_4_201" flipH="1" source="chicken_32_a_2_201" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_202" flipH="1" source="chicken_32_a_2_202" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_203" flipH="1" source="chicken_32_a_2_203" x="5" y="19" usesPalette="1"/>
+  <asset name="chicken_64_a_5_200" flipH="1" source="chicken_64_a_1_200" x="13" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_5_201" flipH="1" source="chicken_64_a_1_201" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_5_202" flipH="1" source="chicken_64_a_1_202" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_5_203" flipH="1" source="chicken_64_a_1_203" x="14" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_5_200" flipH="1" source="chicken_32_a_1_200" x="7" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_5_201" flipH="1" source="chicken_32_a_1_201" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_202" flipH="1" source="chicken_32_a_1_202" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_203" flipH="1" source="chicken_32_a_1_203" x="7" y="22" usesPalette="1"/>
+  <asset name="chicken_64_a_6_200" flipH="1" source="chicken_64_a_0_200" x="13" y="34" usesPalette="1"/>
+  <asset name="chicken_64_a_6_201" flipH="1" source="chicken_64_a_0_201" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_6_202" flipH="1" source="chicken_64_a_0_202" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_6_203" flipH="1" source="chicken_64_a_0_203" x="13" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_6_200" flipH="1" source="chicken_32_a_0_200" x="7" y="23" usesPalette="1"/>
+  <asset name="chicken_32_a_6_201" flipH="1" source="chicken_32_a_0_201" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_6_202" flipH="1" source="chicken_32_a_0_202" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_6_203" flipH="1" source="chicken_32_a_0_203" x="7" y="23" usesPalette="1"/>
+  <asset name="chicken_64_a_2_301" source="chicken_64_a_2_0" x="12" y="26" usesPalette="1"/>
+  <asset name="chicken_32_a_2_301" source="chicken_32_a_2_0" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_64_a_4_300" flipH="1" source="chicken_64_a_2_300" x="8" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_4_300" flipH="1" source="chicken_32_a_2_300" x="4" y="16" usesPalette="1"/>
+  <asset name="chicken_64_a_0_400" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_0_400" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_1_400" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_1_400" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_3_400" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_3_400" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_4_400" flipH="1" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_4_400" flipH="1" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_5_400" flipH="1" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_5_400" flipH="1" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_6_400" flipH="1" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_6_400" flipH="1" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_7_400" flipH="1" source="chicken_64_a_2_400" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_7_400" flipH="1" source="chicken_32_a_2_400" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_0_401" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_0_401" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_1_401" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_1_401" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_3_401" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_3_401" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_4_401" flipH="1" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_4_401" flipH="1" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_5_401" flipH="1" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_5_401" flipH="1" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_6_401" flipH="1" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_6_401" flipH="1" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_7_401" flipH="1" source="chicken_64_a_2_401" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_7_401" flipH="1" source="chicken_32_a_2_401" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_0_402" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_0_402" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_1_402" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_1_402" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_3_402" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_3_402" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_4_402" flipH="1" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_4_402" flipH="1" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_5_402" flipH="1" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_5_402" flipH="1" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_6_402" flipH="1" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_6_402" flipH="1" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_7_402" flipH="1" source="chicken_64_a_2_402" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_7_402" flipH="1" source="chicken_32_a_2_402" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_0_403" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_0_403" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_1_403" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_1_403" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_3_403" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_3_403" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_4_403" flipH="1" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_4_403" flipH="1" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_5_403" flipH="1" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_5_403" flipH="1" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_6_403" flipH="1" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_6_403" flipH="1" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_7_403" flipH="1" source="chicken_64_a_2_403" x="14" y="22" usesPalette="1"/>
+  <asset name="chicken_32_a_7_403" flipH="1" source="chicken_32_a_2_403" x="7" y="15" usesPalette="1"/>
+  <asset name="chicken_64_a_0_100" source="chicken_64_a_0_0" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_32_a_0_100" source="chicken_32_a_0_0" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_64_a_4_301" flipH="1" source="chicken_64_a_2_0" x="12" y="26" usesPalette="1"/>
+  <asset name="chicken_32_a_4_301" flipH="1" source="chicken_32_a_2_0" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_64_a_0_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_0_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_0_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_0_508" source="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_64_a_1_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_1_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_1_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_1_508" source="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_64_a_2_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_2_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_2_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_2_508" source="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_64_a_4_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_4_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_508" source="chicken_32_a_3_508" x="4" y="37" usesPalette="1"/>
+  <asset name="chicken_64_a_5_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_5_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_5_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_5_508" source="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_64_a_6_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_6_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_6_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_6_508" source="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_64_a_7_500" source="chicken_64_a_3_500" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_501" source="chicken_64_a_3_501" x="16" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_502" source="chicken_64_a_3_502" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_503" source="chicken_64_a_3_503" x="14" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_504" source="chicken_64_a_3_504" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_505" source="chicken_64_a_3_505" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_506" source="chicken_64_a_3_506" x="10" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_507" source="chicken_64_a_3_507" x="13" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_7_508" source="chicken_64_a_3_508" x="9" y="24" usesPalette="1"/>
+  <asset name="chicken_32_a_7_500" source="chicken_32_a_3_500" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_501" source="chicken_32_a_3_501" x="9" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_502" source="chicken_32_a_3_502" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_503" source="chicken_32_a_3_503" x="7" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_504" source="chicken_32_a_3_504" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_505" source="chicken_32_a_3_505" x="5" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_506" source="chicken_32_a_3_506" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_507" source="chicken_32_a_3_507" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_7_508" source="chicken_32_a_3_508" x="4" y="17" usesPalette="1"/>
+  <asset name="chicken_64_a_4_600" flipH="1" source="chicken_64_a_2_600" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_601" flipH="1" source="chicken_64_a_2_601" x="13" y="48" usesPalette="1"/>
+  <asset name="chicken_64_a_4_700" flipH="1" source="chicken_64_a_2_700" x="11" y="53" usesPalette="1"/>
+  <asset name="chicken_64_a_4_701" flipH="1" source="chicken_64_a_2_701" x="13" y="53" usesPalette="1"/>
+  <asset name="chicken_64_a_4_800" flipH="1" source="chicken_64_a_2_800" x="13" y="48" usesPalette="1"/>
+  <asset name="chicken_64_a_4_801" flipH="1" source="chicken_64_a_2_801" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_900" flipH="1" source="chicken_64_a_2_900" x="12" y="24" usesPalette="1"/>
+  <asset name="chicken_64_a_4_901" flipH="1" source="chicken_64_a_2_901" x="11" y="40" usesPalette="1"/>
+  <asset name="chicken_64_a_4_902" flipH="1" source="chicken_64_a_2_902" x="13" y="39" usesPalette="1"/>
+  <asset name="chicken_32_a_4_600" flipH="1" source="chicken_32_a_2_600" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_601" flipH="1" source="chicken_32_a_2_601" x="7" y="31" usesPalette="1"/>
+  <asset name="chicken_32_a_4_700" flipH="1" source="chicken_32_a_2_700" x="6" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_4_701" flipH="1" source="chicken_32_a_2_701" x="7" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_4_800" flipH="1" source="chicken_32_a_2_800" x="7" y="31" usesPalette="1"/>
+  <asset name="chicken_32_a_4_801" flipH="1" source="chicken_32_a_2_801" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_900" flipH="1" source="chicken_32_a_2_900" x="6" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_4_901" flipH="1" source="chicken_32_a_2_901" x="6" y="17" usesPalette="1"/>
+  <asset name="chicken_32_a_4_902" flipH="1" source="chicken_32_a_2_902" x="6" y="34" usesPalette="1"/>
+  <asset name="chicken_32_a_4_903" flipH="1" source="chicken_32_a_2_903" x="7" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_5_600" flipH="1" source="chicken_64_a_1_600" x="13" y="25" usesPalette="1"/>
+  <asset name="chicken_64_a_5_601" flipH="1" source="chicken_64_a_1_601" x="11" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_5_700" flipH="1" source="chicken_64_a_1_700" x="11" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_5_701" flipH="1" source="chicken_64_a_1_701" x="11" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_5_800" flipH="1" source="chicken_64_a_1_800" x="11" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_5_801" flipH="1" source="chicken_64_a_1_801" x="13" y="25" usesPalette="1"/>
+  <asset name="chicken_64_a_5_900" flipH="1" source="chicken_64_a_1_900" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_5_901" flipH="1" source="chicken_64_a_1_901" x="13" y="42" usesPalette="1"/>
+  <asset name="chicken_64_a_5_902" flipH="1" source="chicken_64_a_1_902" x="13" y="41" usesPalette="1"/>
+  <asset name="chicken_32_a_5_600" flipH="1" source="chicken_32_a_1_600" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_5_601" flipH="1" source="chicken_32_a_1_601" x="6" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_5_700" flipH="1" source="chicken_32_a_1_700" x="6" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_5_701" flipH="1" source="chicken_32_a_1_701" x="6" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_5_800" flipH="1" source="chicken_32_a_1_800" x="6" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_5_801" flipH="1" source="chicken_32_a_1_801" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_5_900" flipH="1" source="chicken_32_a_1_900" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_5_901" flipH="1" source="chicken_32_a_1_901" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_5_902" flipH="1" source="chicken_32_a_1_902" x="6" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_5_903" flipH="1" source="chicken_32_a_1_903" x="6" y="32" usesPalette="1"/>
+  <asset name="chicken_64_a_6_600" flipH="1" source="chicken_64_a_0_600" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_6_601" flipH="1" source="chicken_64_a_0_601" x="13" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_6_700" flipH="1" source="chicken_64_a_0_700" x="13" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_6_701" flipH="1" source="chicken_64_a_0_701" x="13" y="56" usesPalette="1"/>
+  <asset name="chicken_64_a_6_800" flipH="1" source="chicken_64_a_0_800" x="13" y="50" usesPalette="1"/>
+  <asset name="chicken_64_a_6_801" flipH="1" source="chicken_64_a_0_801" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_6_900" flipH="1" source="chicken_64_a_0_900" x="13" y="26" usesPalette="1"/>
+  <asset name="chicken_64_a_6_901" flipH="1" source="chicken_64_a_0_901" x="13" y="42" usesPalette="1"/>
+  <asset name="chicken_64_a_6_902" flipH="1" source="chicken_64_a_0_902" x="13" y="41" usesPalette="1"/>
+  <asset name="chicken_32_a_6_600" flipH="1" source="chicken_32_a_0_600" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_6_601" flipH="1" source="chicken_32_a_0_601" x="7" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_6_700" flipH="1" source="chicken_32_a_0_700" x="7" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_6_701" flipH="1" source="chicken_32_a_0_701" x="7" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_6_800" flipH="1" source="chicken_32_a_0_800" x="7" y="32" usesPalette="1"/>
+  <asset name="chicken_32_a_6_801" flipH="1" source="chicken_32_a_0_801" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_6_900" flipH="1" source="chicken_32_a_0_900" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_32_a_6_901" flipH="1" source="chicken_32_a_0_901" x="7" y="18" usesPalette="1"/>
+  <asset name="chicken_32_a_6_902" flipH="1" source="chicken_32_a_0_902" x="7" y="36" usesPalette="1"/>
+  <asset name="chicken_32_a_6_903" flipH="1" source="chicken_32_a_0_903" x="7" y="32" usesPalette="1"/>
+  <asset name="chicken_64_a_0_1000" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_0_1001" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_4_1000" flipH="1" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_4_1001" flipH="1" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_0_1102" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_0_1000" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_0_1001" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_0_1102" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_1_1000" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_1_1001" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_1_1102" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_1_1000" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_1_1001" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_1_1102" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_3_1000" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_3_1001" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_3_1102" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_3_1000" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_3_1001" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_3_1102" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_4_1102" flipH="1" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_4_1000" flipH="1" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_4_1001" flipH="1" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_4_1102" flipH="1" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_5_1000" flipH="1" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_5_1001" flipH="1" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_5_1102" flipH="1" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_5_1000" flipH="1" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_5_1001" flipH="1" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_5_1102" flipH="1" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_6_1000" flipH="1" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_6_1001" flipH="1" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_6_1102" flipH="1" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_6_1000" flipH="1" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_6_1001" flipH="1" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_6_1102" flipH="1" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_7_1000" flipH="1" source="chicken_64_a_2_1000" x="10" y="29" usesPalette="1"/>
+  <asset name="chicken_64_a_7_1001" flipH="1" source="chicken_64_a_2_1001" x="10" y="30" usesPalette="1"/>
+  <asset name="chicken_64_a_7_1102" flipH="1" source="chicken_64_a_2_1102" x="13" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_7_1000" flipH="1" source="chicken_32_a_2_1000" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_7_1001" flipH="1" source="chicken_32_a_2_1001" x="5" y="20" usesPalette="1"/>
+  <asset name="chicken_32_a_7_1102" flipH="1" source="chicken_32_a_2_1102" x="7" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_7_100" source="chicken_64_a_7_0" x="9" y="29" usesPalette="1"/>
+  <asset name="chicken_32_a_7_100" source="chicken_32_a_7_0" x="4" y="20" usesPalette="1"/>
+  <asset name="chicken_64_a_6_100" flipH="1" source="chicken_64_a_0_0" x="13" y="28" usesPalette="1"/>
+  <asset name="chicken_32_a_6_100" flipH="1" source="chicken_32_a_0_0" x="7" y="19" usesPalette="1"/>
+  <asset name="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_1_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_1_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_2_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_2_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_3_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_3_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_4_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_4_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_5_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_5_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_6_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_6_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_sd_7_0" source="chicken_64_sd_0_0" x="14" y="7"/>
+  <asset name="chicken_32_sd_7_0" source="chicken_32_sd_0_0" x="6" y="3"/>
+  <asset name="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1300" source="chicken_64_b_0_1300" x="10" y="47"/>
+  <asset name="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1400" source="chicken_64_b_0_1400" x="10" y="47"/>
+  <asset name="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1500" source="chicken_64_b_0_1500" x="10" y="47"/>
+  <asset name="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1600" source="chicken_64_b_0_1600" x="10" y="47"/>
+  <asset name="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1700" source="chicken_64_b_0_1700" x="10" y="47"/>
+  <asset name="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1800" source="chicken_64_b_0_1800" x="10" y="47"/>
+  <asset name="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_1_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_2_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_3_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_4_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_5_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_6_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_7_1900" source="chicken_64_b_0_1900" x="10" y="47"/>
+  <asset name="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_1_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_2_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_3_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_4_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_5_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_6_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_7_2000" source="chicken_64_b_0_2000" x="10" y="47"/>
+  <asset name="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_1_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_2_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_3_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_4_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_5_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_6_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_7_2100" source="chicken_64_b_0_2100" x="10" y="47"/>
+  <asset name="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_1_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_2_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_3_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_4_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_5_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_6_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_7_2200" source="chicken_64_b_0_2200" x="10" y="47"/>
+  <asset name="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_1_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_2_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_3_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_4_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_5_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_6_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <asset name="chicken_64_b_7_2300" source="chicken_64_b_0_2300" x="10" y="47"/>
+  <palette id="0" source="chicken01" color1="f6d143" usesPalette="1" master="true"/>
+  <palette id="1" source="chicken02" color1="ff41a4"/>
+  <palette id="2" source="chicken03" color1="41cfff"/>
+  <palette id="3" source="chicken04" color1="5bd11d"/>
+  <palette id="4" source="chicken05" color1="704629"/>
+</assets>

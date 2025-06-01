@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="monster" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="monster_visualization" mimeType="text/xml"/>
+      <asset name="monster_assets" mimeType="text/xml"/>
+      <asset name="monster_logic" mimeType="text/xml"/>
+      <asset name="monster_64_sd_0_0" mimeType="image/png"/>
+      <asset name="monster_64_a_0_0" mimeType="image/png"/>
+      <asset name="monster_64_b_0_0" mimeType="image/png"/>
+      <asset name="monster_64_c_0_0" mimeType="image/png"/>
+      <asset name="monster_64_a_1_0" mimeType="image/png"/>
+      <asset name="monster_64_b_1_0" mimeType="image/png"/>
+      <asset name="monster_64_c_1_0" mimeType="image/png"/>
+      <asset name="monster_64_a_2_0" mimeType="image/png"/>
+      <asset name="monster_64_b_2_0" mimeType="image/png"/>
+      <asset name="monster_64_c_2_0" mimeType="image/png"/>
+      <asset name="monster_64_a_3_0" mimeType="image/png"/>
+      <asset name="monster_64_b_3_0" mimeType="image/png"/>
+      <asset name="monster_64_c_3_0" mimeType="image/png"/>
+      <asset name="monster_64_a_7_0" mimeType="image/png"/>
+      <asset name="monster_64_b_7_0" mimeType="image/png"/>
+      <asset name="monster_64_c_7_0" mimeType="image/png"/>
+      <asset name="monster_64_a_0_100" mimeType="image/png"/>
+      <asset name="monster_64_b_0_100" mimeType="image/png"/>
+      <asset name="monster_64_c_0_100" mimeType="image/png"/>
+      <asset name="monster_64_a_1_100" mimeType="image/png"/>
+      <asset name="monster_64_b_1_100" mimeType="image/png"/>
+      <asset name="monster_64_c_1_100" mimeType="image/png"/>
+      <asset name="monster_64_a_2_100" mimeType="image/png"/>
+      <asset name="monster_64_b_2_100" mimeType="image/png"/>
+      <asset name="monster_64_c_2_100" mimeType="image/png"/>
+      <asset name="monster_64_a_3_100" mimeType="image/png"/>
+      <asset name="monster_64_b_3_100" mimeType="image/png"/>
+      <asset name="monster_64_c_3_100" mimeType="image/png"/>
+      <asset name="monster_64_a_7_100" mimeType="image/png"/>
+      <asset name="monster_64_b_7_100" mimeType="image/png"/>
+      <asset name="monster_64_c_7_100" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

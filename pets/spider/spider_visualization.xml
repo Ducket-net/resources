@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><visualizationData type="spider"><graphics>
+  <visualization size="32" layerCount="1" angle="45">
+    <layers/>
+    <directions>
+      <direction id="0"/>
+      <direction id="1"/>
+      <direction id="2"/>
+      <direction id="3"/>
+      <direction id="4"/>
+      <direction id="5"/>
+      <direction id="6"/>
+      <direction id="7"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0" frameRepeat="30" loopCount="1"/>
+      </animation>
+      <animation id="2">
+        <animationLayer id="0" loopCount="0" frameRepeat="2">
+          <frameSequence>
+            <frame id="200"/>
+            <frame id="201"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="3" transitionTo="4">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="4">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="400"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="5">
+        <animationLayer id="0" loopCount="4" frameRepeat="3">
+          <frameSequence>
+            <frame id="500"/>
+            <frame id="501"/>
+            <frame id="502"/>
+            <frame id="503"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="6">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="7">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="8">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="9">
+        <animationLayer id="0" loopCount="0" frameRepeat="2"/>
+      </animation>
+      <animation id="10">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="11">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1100"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="12" transitionTo="11">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="13">
+        <animationLayer id="0" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="1300"/>
+            <frame id="1301"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="14" transitionTo="15">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="15">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="16">
+        <animationLayer id="0" loopCount="2" frameRepeat="3">
+          <frameSequence>
+            <frame id="1600"/>
+            <frame id="1601"/>
+            <frame id="1602"/>
+            <frame id="1603"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="17" transitionTo="18">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="18">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="19">
+        <animationLayer id="0" loopCount="2" frameRepeat="3">
+          <frameSequence>
+            <frame id="1900"/>
+            <frame id="1901"/>
+            <frame id="1902"/>
+            <frame id="1903"/>
+            <frame id="1904"/>
+            <frame id="1905"/>
+            <frame id="1906"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="20">
+        <animationLayer id="0" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="2000"/>
+            <frame id="2001"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="21">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="22">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="23">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="24">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="25">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="26">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="27">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="28">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="29">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="30">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="31">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="32">
+        <animationLayer id="0"/>
+      </animation>
+      <animation id="33">
+        <animationLayer id="0"/>
+      </animation>
+    </animations>
+    <postures>
+      <posture id="std" animationId="0"/>
+      <posture id="htn" animationId="1"/>
+      <posture id="mv" animationId="2"/>
+      <posture id="lay-in" animationId="3"/>
+      <posture id="lay" animationId="4"/>
+      <posture id="dan" animationId="5"/>
+      <posture id="eyb" animationId="6"/>
+      <posture id="agr" animationId="7"/>
+      <posture id="shk" animationId="8"/>
+      <posture id="spk" animationId="9"/>
+      <posture id="rdy" animationId="10"/>
+      <posture id="ded" animationId="11"/>
+      <posture id="ded-in" animationId="12"/>
+      <posture id="eat" animationId="13"/>
+      <posture id="bll-in" animationId="14"/>
+      <posture id="bll" animationId="15"/>
+      <posture id="jmp" animationId="16"/>
+      <posture id="flt-in" animationId="17"/>
+      <posture id="flt" animationId="18"/>
+      <posture id="spn" animationId="19"/>
+      <posture id="pla" animationId="20"/>
+      <posture id="eyr" animationId="21"/>
+      <posture id="bnc" animationId="22"/>
+    </postures>
+    <gestures>
+      <gesture id="que" animationId="23"/>
+      <gesture id="und" animationId="24"/>
+      <gesture id="lov" animationId="25"/>
+      <gesture id="nrg" animationId="26"/>
+      <gesture id="exp" animationId="27"/>
+      <gesture id="sml" animationId="28"/>
+      <gesture id="sad" animationId="29"/>
+    </gestures>
+  </visualization>
+  <visualization size="64" layerCount="2" angle="45">
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <directions>
+      <direction id="0"/>
+      <direction id="1"/>
+      <direction id="2"/>
+      <direction id="3"/>
+      <direction id="4"/>
+      <direction id="5"/>
+      <direction id="6"/>
+      <direction id="7"/>
+    </directions>
+    <colors/>
+    <animations>
+      <animation id="0">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="0"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="1">
+        <animationLayer id="0" loopCount="0" frameRepeat="30">
+          <frameSequence>
+            <frame id="100"/>
+            <frame id="101"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="2">
+        <animationLayer id="0" loopCount="0" frameRepeat="2">
+          <frameSequence>
+            <frame id="200"/>
+            <frame id="201"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="3" transitionTo="4">
+        <animationLayer id="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="300"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="4">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="400"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="5">
+        <animationLayer id="0" frameRepeat="3" loopCount="0">
+          <frameSequence>
+            <frame id="500"/>
+            <frame id="501"/>
+            <frame id="502"/>
+            <frame id="503"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="6">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="600"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="7">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="700"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="8">
+        <animationLayer id="0" loopCount="0" frameRepeat="2">
+          <frameSequence>
+            <frame id="800"/>
+            <frame id="801"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="9">
+        <animationLayer id="0" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="900"/>
+            <frame id="901"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="10">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1000"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="11">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1100"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="12" transitionTo="11">
+        <animationLayer id="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="1200"/>
+            <frame id="1201"/>
+            <frame id="1202"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="13">
+        <animationLayer id="0" loopCount="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="1300"/>
+            <frame id="1301"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="14" transitionTo="15">
+        <animationLayer id="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="1400"/>
+            <frame id="1401"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="15">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1500"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="16">
+        <animationLayer id="0" loopCount="3" frameRepeat="2">
+          <frameSequence>
+            <frame id="1600"/>
+            <frame id="1601"/>
+            <frame id="1602"/>
+            <frame id="1603"/>
+            <frame id="1604"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="17" transitionTo="18">
+        <animationLayer id="0" frameRepeat="3">
+          <frameSequence>
+            <frame id="1700"/>
+            <frame id="1701"/>
+            <frame id="1702"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="18">
+        <animationLayer id="0">
+          <frameSequence>
+            <frame id="1800"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="19">
+        <animationLayer id="0" frameRepeat="3" loopCount="2">
+          <frameSequence>
+            <frame id="1900"/>
+            <frame id="1901"/>
+            <frame id="1902"/>
+            <frame id="1903"/>
+            <frame id="1904"/>
+            <frame id="1905"/>
+            <frame id="1906"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="20">
+        <animationLayer id="0" frameRepeat="3" loopCount="0">
+          <frameSequence>
+            <frame id="2000"/>
+            <frame id="2001"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="21">
+        <animationLayer id="0" loopCount="0" frameRepeat="2">
+          <frameSequence>
+            <frame id="2100"/>
+            <frame id="2101"/>
+            <frame id="2102"/>
+            <frame id="2103"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="22">
+        <animationLayer id="0" loopCount="2" frameRepeat="3">
+          <frameSequence>
+            <frame id="2200"/>
+            <frame id="2201"/>
+            <frame id="2202"/>
+          </frameSequence>
+        </animationLayer>
+        <animationLayer id="1"/>
+      </animation>
+      <animation id="23">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2300"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="24">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2400"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="25">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2500"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="26">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2600"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="27">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2700"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="28">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2800"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="29">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="2900"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="30">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="3000"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="31">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="3100"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="32">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="3200"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+      <animation id="33">
+        <animationLayer id="0"/>
+        <animationLayer id="1">
+          <frameSequence>
+            <frame id="3300"/>
+          </frameSequence>
+        </animationLayer>
+      </animation>
+    </animations>
+    <postures>
+      <posture id="std" animationId="0"/>
+      <posture id="htn" animationId="1"/>
+      <posture id="mv" animationId="2"/>
+      <posture id="lay-in" animationId="3"/>
+      <posture id="lay" animationId="4"/>
+      <posture id="dan" animationId="5"/>
+      <posture id="eyb" animationId="6"/>
+      <posture id="agr" animationId="7"/>
+      <posture id="shk" animationId="8"/>
+      <posture id="spk" animationId="9"/>
+      <posture id="rdy" animationId="10"/>
+      <posture id="ded" animationId="11"/>
+      <posture id="ded-in" animationId="12"/>
+      <posture id="eat" animationId="13"/>
+      <posture id="bll-in" animationId="14"/>
+      <posture id="bll" animationId="15"/>
+      <posture id="jmp" animationId="16"/>
+      <posture id="flt-in" animationId="17"/>
+      <posture id="flt" animationId="18"/>
+      <posture id="spn" animationId="19"/>
+      <posture id="pla" animationId="20"/>
+      <posture id="eyr" animationId="21"/>
+      <posture id="bnc" animationId="22"/>
+    </postures>
+    <gestures>
+      <gesture id="que" animationId="23"/>
+      <gesture id="und" animationId="24"/>
+      <gesture id="lov" animationId="25"/>
+      <gesture id="nrg" animationId="26"/>
+      <gesture id="exp" animationId="27"/>
+      <gesture id="sml" animationId="28"/>
+      <gesture id="sad" animationId="29"/>
+      <gesture id="thr" animationId="30"/>
+      <gesture id="trd" animationId="31"/>
+      <gesture id="plf" animationId="32"/>
+      <gesture id="hng" animationId="33"/>
+    </gestures>
+  </visualization>
+</graphics></visualizationData>

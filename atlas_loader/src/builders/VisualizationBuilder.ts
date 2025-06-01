@@ -123,6 +123,73 @@ export class VisualizationBuilder {
         });
     }
 
+    public buildPetVisualization(assetName: string, outputPath: string) {
+        return new Promise<boolean>(async resolve => {
+            try {
+                console.log("\x1b[0m", ">>", "\x1b[33m", `Building pet visualization for ${assetName}`, "\x1b[0m");
+                let spritesheet: any = fs.readFileSync(`${outputPath}/${assetName}/${assetName}.json`);
+                spritesheet = JSON.parse(spritesheet);
+                
+                // Pets typically don't have complex visualization XML like furniture
+                // They mainly use a simpler animation system
+                const petProperty = {
+                    type: "pet",
+                    name: assetName,
+                    directions: [0, 2, 4, 6], // Standard pet directions (4-directional)
+                    actions: [], // Will be populated from available frames
+                    colors: {}, // Pet color variations
+                    animation: {},
+                };
+
+                // Extract available actions and directions from frame names
+                const frameNames = Object.keys(spritesheet.frames);
+                const actions = new Set<string>();
+                const directions = new Set<number>();
+
+                frameNames.forEach(frameName => {
+                    // Pet frame naming convention: petname_direction_frame_action
+                    const parts = frameName.split('_');
+                    if (parts.length >= 4) {
+                        const direction = parseInt(parts[1]);
+                        const action = parts[parts.length - 1];
+                        
+                        if (!isNaN(direction)) {
+                            directions.add(direction);
+                        }
+                        if (action && action !== 'png') {
+                            actions.add(action);
+                        }
+                    }
+                });
+
+                petProperty.directions = Array.from(directions).sort((a, b) => a - b);
+                petProperty.actions = Array.from(actions);
+
+                // Basic color support (most pets have color variations)
+                petProperty.colors = {
+                    0: "default",
+                    1: "variation1", 
+                    2: "variation2"
+                };
+
+                spritesheet.petProperty = petProperty;
+
+                // Set pet-specific metadata
+                spritesheet.meta.type = "pet";
+                spritesheet.meta.directions = petProperty.directions;
+                spritesheet.meta.actions = petProperty.actions;
+                spritesheet.meta.colors = Object.keys(petProperty.colors).map(Number);
+
+                fs.writeFile(`${outputPath}/${assetName}/${assetName}.json`, JSON.stringify(spritesheet), () => {
+                    resolve(true);
+                });
+            } catch (e) {
+                console.log(`Error building pet visualization for ${assetName}:`, e);
+                resolve(false);
+            }
+        });
+    }
+
     formatArray(elm: any) {
         if (elm === undefined) return [];
         return elm.length === undefined ? [elm] : elm;

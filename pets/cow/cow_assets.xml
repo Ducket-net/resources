@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_a_7_0" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_7_0" x="17" y="69" usesPalette="1"/>
+  <asset name="cow_64_a_3_0" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_b_3_0" x="18" y="37" usesPalette="1"/>
+  <asset name="cow_64_a_2_0" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_2_0" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_1_0" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_1_0" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_0_0" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_0" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_7_100" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_7_100" x="6" y="66" usesPalette="1"/>
+  <asset name="cow_64_a_3_100" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_b_3_100" x="6" y="38" usesPalette="1"/>
+  <asset name="cow_64_a_2_100" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_2_100" x="3" y="37" usesPalette="1"/>
+  <asset name="cow_64_a_1_100" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_1_100" x="-17" y="44" usesPalette="1"/>
+  <asset name="cow_64_a_0_100" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_100" x="3" y="65" usesPalette="1"/>
+  <asset name="cow_64_a_7_200" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_201" x="18" y="55" usesPalette="1"/>
+  <asset name="cow_64_a_7_202" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_203" x="18" y="55" usesPalette="1"/>
+  <asset name="cow_64_b_7_200" x="16" y="69" usesPalette="1"/>
+  <asset name="cow_64_b_7_201" x="15" y="68" usesPalette="1"/>
+  <asset name="cow_64_b_7_202" x="17" y="69" usesPalette="1"/>
+  <asset name="cow_64_b_7_203" x="18" y="68" usesPalette="1"/>
+  <asset name="cow_64_a_3_200" x="19" y="61" usesPalette="1"/>
+  <asset name="cow_64_a_3_201" x="19" y="61" usesPalette="1"/>
+  <asset name="cow_64_a_3_202" x="19" y="61" usesPalette="1"/>
+  <asset name="cow_64_a_3_203" x="19" y="61" usesPalette="1"/>
+  <asset name="cow_64_b_3_200" x="19" y="41" usesPalette="1"/>
+  <asset name="cow_64_b_3_201" x="20" y="40" usesPalette="1"/>
+  <asset name="cow_64_b_3_202" x="19" y="41" usesPalette="1"/>
+  <asset name="cow_64_b_3_203" x="18" y="40" usesPalette="1"/>
+  <asset name="cow_64_a_2_200" x="23" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_2_201" x="27" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_2_202" x="30" y="55" usesPalette="1"/>
+  <asset name="cow_64_a_2_203" x="23" y="55" usesPalette="1"/>
+  <asset name="cow_64_b_2_200" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_2_201" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_2_202" x="-11" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_2_203" x="-11" y="44" usesPalette="1"/>
+  <asset name="cow_64_a_1_200" x="24" y="51" usesPalette="1"/>
+  <asset name="cow_64_a_1_201" x="28" y="51" usesPalette="1"/>
+  <asset name="cow_64_a_1_202" x="26" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_1_203" x="30" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_1_200" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_1_201" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_1_202" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_1_203" x="-24" y="46" usesPalette="1"/>
+  <asset name="cow_64_a_0_200" x="19" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_201" x="19" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_202" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_203" x="25" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_200" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_0_201" x="-8" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_0_202" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_0_203" x="-8" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_7_300" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_7_300" x="17" y="69" usesPalette="1"/>
+  <asset name="cow_64_a_3_300" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_b_3_300" x="18" y="37" usesPalette="1"/>
+  <asset name="cow_64_a_2_300" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_2_300" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_1_300" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_1_300" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_0_300" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_300" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_2_400" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_2_400" x="-7" y="40" usesPalette="1"/>
+  <asset name="cow_64_b_2_401" x="-7" y="40" usesPalette="1"/>
+  <asset name="cow_64_a_0_400" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_400" x="-12" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_401" x="-12" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_500" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_7_500" x="17" y="69" usesPalette="1"/>
+  <asset name="cow_64_b_7_501" x="17" y="69" usesPalette="1"/>
+  <asset name="cow_64_a_3_500" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_b_3_500" x="18" y="37" usesPalette="1"/>
+  <asset name="cow_64_b_3_501" x="18" y="37" usesPalette="1"/>
+  <asset name="cow_64_a_2_500" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_2_500" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_2_501" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_1_500" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_1_500" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_1_501" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_0_500" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_500" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_0_501" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_7_600" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_601" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_602" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_603" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_7_604" x="18" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_7_600" x="17" y="69" usesPalette="1"/>
+  <asset name="cow_64_a_3_600" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_a_3_601" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_a_3_602" x="23" y="60" usesPalette="1"/>
+  <asset name="cow_64_a_3_603" x="32" y="60" usesPalette="1"/>
+  <asset name="cow_64_a_3_604" x="19" y="60" usesPalette="1"/>
+  <asset name="cow_64_b_3_600" x="18" y="37" usesPalette="1"/>
+  <asset name="cow_64_a_2_600" x="23" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_2_601" x="23" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_2_602" x="32" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_2_603" x="48" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_2_604" x="33" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_2_600" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_1_600" x="24" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_1_601" x="23" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_1_602" x="28" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_1_603" x="21" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_1_604" x="23" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_1_600" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_0_600" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_601" x="23" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_602" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_603" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_0_604" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_0_600" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_2_700" x="33" y="28" usesPalette="1"/>
+  <asset name="cow_64_b_2_700" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_2_701" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_2_702" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_b_2_703" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_a_2_801" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_a_2_900" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_a_2_901" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_b_2_900" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_b_2_901" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_7_0" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_0" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_0" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_0" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_0" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_100" x="6" y="86" usesPalette="1"/>
+  <asset name="cow_64_c_3_100" x="17" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_2_100" x="19" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_1_100" x="-6" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_0_100" x="20" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_7_200" x="33" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_201" x="32" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_202" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_203" x="35" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_3_200" x="35" y="48" usesPalette="1"/>
+  <asset name="cow_64_c_3_201" x="36" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_3_202" x="35" y="48" usesPalette="1"/>
+  <asset name="cow_64_c_3_203" x="34" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_2_200" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_202" x="0" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_203" x="0" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_1_200" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_201" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_202" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_200" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_201" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_202" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_203" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_300" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_300" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_300" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_300" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_300" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_2_400" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_2_401" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_0_400" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_0_401" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_7_500" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_501" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_500" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_3_501" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_500" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_501" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_500" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_501" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_500" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_501" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_600" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_600" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_602" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_600" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_600" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_2_700" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_2_701" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_2_800" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_2_900" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_2_901" source="cow_64_c_2_801" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_a_6_0" flipH="1" source="cow_64_a_0_0" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_0" flipH="1" source="cow_64_b_0_0" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_6_100" flipH="1" source="cow_64_a_0_100" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_100" flipH="1" source="cow_64_b_0_100" x="3" y="65" usesPalette="1"/>
+  <asset name="cow_64_a_6_200" flipH="1" source="cow_64_a_0_200" x="19" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_201" flipH="1" source="cow_64_a_0_201" x="19" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_202" flipH="1" source="cow_64_a_0_202" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_203" flipH="1" source="cow_64_a_0_203" x="25" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_200" flipH="1" source="cow_64_b_0_200" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_6_201" flipH="1" source="cow_64_b_0_201" x="-8" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_6_202" flipH="1" source="cow_64_b_0_202" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_6_203" flipH="1" source="cow_64_b_0_203" x="-8" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_6_300" flipH="1" source="cow_64_a_0_300" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_300" flipH="1" source="cow_64_b_0_300" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_6_400" flipH="1" source="cow_64_a_0_400" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_400" flipH="1" source="cow_64_b_0_400" x="-12" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_401" flipH="1" source="cow_64_b_0_401" x="-12" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_500" flipH="1" source="cow_64_a_0_500" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_500" flipH="1" source="cow_64_b_0_500" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_b_6_501" flipH="1" source="cow_64_b_0_501" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_a_6_600" flipH="1" source="cow_64_a_0_600" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_601" flipH="1" source="cow_64_a_0_601" x="23" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_602" flipH="1" source="cow_64_a_0_602" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_603" flipH="1" source="cow_64_a_0_603" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_a_6_604" flipH="1" source="cow_64_a_0_604" x="20" y="54" usesPalette="1"/>
+  <asset name="cow_64_b_6_600" flipH="1" source="cow_64_b_0_600" x="-7" y="63" usesPalette="1"/>
+  <asset name="cow_64_c_6_0" flipH="1" source="cow_64_c_0_0" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_100" flipH="1" source="cow_64_c_0_100" x="20" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_6_200" flipH="1" source="cow_64_c_0_200" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_201" flipH="1" source="cow_64_c_0_201" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_202" flipH="1" source="cow_64_c_0_202" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_203" flipH="1" source="cow_64_c_0_203" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_300" flipH="1" source="cow_64_c_0_300" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_400" flipH="1" source="cow_64_c_0_400" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_6_401" flipH="1" source="cow_64_c_0_401" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_6_500" flipH="1" source="cow_64_c_0_500" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_501" flipH="1" source="cow_64_c_0_501" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_600" flipH="1" source="cow_64_c_0_600" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_a_5_0" flipH="1" source="cow_64_a_1_0" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_5_0" flipH="1" source="cow_64_b_1_0" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_5_100" flipH="1" source="cow_64_a_1_100" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_5_100" flipH="1" source="cow_64_b_1_100" x="-17" y="44" usesPalette="1"/>
+  <asset name="cow_64_a_5_200" flipH="1" source="cow_64_a_1_200" x="24" y="51" usesPalette="1"/>
+  <asset name="cow_64_a_5_201" flipH="1" source="cow_64_a_1_201" x="28" y="51" usesPalette="1"/>
+  <asset name="cow_64_a_5_202" flipH="1" source="cow_64_a_1_202" x="26" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_5_203" flipH="1" source="cow_64_a_1_203" x="30" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_5_200" flipH="1" source="cow_64_b_1_200" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_5_201" flipH="1" source="cow_64_b_1_201" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_5_202" flipH="1" source="cow_64_b_1_202" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_5_203" flipH="1" source="cow_64_b_1_203" x="-24" y="46" usesPalette="1"/>
+  <asset name="cow_64_a_5_300" flipH="1" source="cow_64_a_1_300" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_5_300" flipH="1" source="cow_64_b_1_300" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_5_500" flipH="1" source="cow_64_a_1_500" x="25" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_5_500" flipH="1" source="cow_64_b_1_500" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_5_501" flipH="1" source="cow_64_b_1_501" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_5_600" flipH="1" source="cow_64_a_1_600" x="24" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_5_601" flipH="1" source="cow_64_a_1_601" x="23" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_5_602" flipH="1" source="cow_64_a_1_602" x="28" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_5_603" flipH="1" source="cow_64_a_1_603" x="21" y="50" usesPalette="1"/>
+  <asset name="cow_64_a_5_604" flipH="1" source="cow_64_a_1_604" x="23" y="50" usesPalette="1"/>
+  <asset name="cow_64_b_5_600" flipH="1" source="cow_64_b_1_600" x="-23" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_5_0" flipH="1" source="cow_64_c_1_0" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_100" flipH="1" source="cow_64_c_1_100" x="-6" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_5_200" flipH="1" source="cow_64_c_1_200" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_201" flipH="1" source="cow_64_c_1_201" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_202" flipH="1" source="cow_64_c_1_202" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_203" flipH="1" source="cow_64_c_1_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_300" flipH="1" source="cow_64_c_1_300" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_500" flipH="1" source="cow_64_c_1_500" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_501" flipH="1" source="cow_64_c_1_501" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_600" flipH="1" source="cow_64_c_1_600" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_a_4_0" flipH="1" source="cow_64_a_2_0" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_4_0" flipH="1" source="cow_64_b_2_0" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_4_100" flipH="1" source="cow_64_a_2_100" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_4_100" flipH="1" source="cow_64_b_2_100" x="3" y="37" usesPalette="1"/>
+  <asset name="cow_64_a_4_200" flipH="1" source="cow_64_a_2_200" x="23" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_4_201" flipH="1" source="cow_64_a_2_201" x="27" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_4_202" flipH="1" source="cow_64_a_2_202" x="30" y="55" usesPalette="1"/>
+  <asset name="cow_64_a_4_203" flipH="1" source="cow_64_a_2_203" x="23" y="55" usesPalette="1"/>
+  <asset name="cow_64_b_4_200" flipH="1" source="cow_64_b_2_200" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_4_201" flipH="1" source="cow_64_b_2_201" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_4_202" flipH="1" source="cow_64_b_2_202" x="-11" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_4_203" flipH="1" source="cow_64_b_2_203" x="-11" y="44" usesPalette="1"/>
+  <asset name="cow_64_a_4_300" flipH="1" source="cow_64_a_2_300" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_4_300" flipH="1" source="cow_64_b_2_300" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_4_400" flipH="1" source="cow_64_a_2_400" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_4_400" flipH="1" source="cow_64_b_2_400" x="-7" y="40" usesPalette="1"/>
+  <asset name="cow_64_b_4_401" flipH="1" source="cow_64_b_2_401" x="-7" y="40" usesPalette="1"/>
+  <asset name="cow_64_a_4_500" flipH="1" source="cow_64_a_2_500" x="24" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_4_500" flipH="1" source="cow_64_b_2_500" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_b_4_501" flipH="1" source="cow_64_b_2_501" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_4_600" flipH="1" source="cow_64_a_2_600" x="23" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_4_601" flipH="1" source="cow_64_a_2_601" x="23" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_4_602" flipH="1" source="cow_64_a_2_602" x="32" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_4_603" flipH="1" source="cow_64_a_2_603" x="48" y="56" usesPalette="1"/>
+  <asset name="cow_64_a_4_604" flipH="1" source="cow_64_a_2_604" x="33" y="56" usesPalette="1"/>
+  <asset name="cow_64_b_4_600" flipH="1" source="cow_64_b_2_600" x="-10" y="43" usesPalette="1"/>
+  <asset name="cow_64_a_4_700" flipH="1" source="cow_64_a_2_700" x="33" y="28" usesPalette="1"/>
+  <asset name="cow_64_b_4_700" flipH="1" source="cow_64_b_2_700" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_4_701" flipH="1" source="cow_64_b_2_701" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_4_702" flipH="1" source="cow_64_b_2_702" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_b_4_703" flipH="1" source="cow_64_b_2_703" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_a_4_800" flipH="1" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_a_4_801" flipH="1" source="cow_64_a_2_801" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_4_800" flipH="1" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_4_801" flipH="1" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_a_4_900" flipH="1" source="cow_64_a_2_900" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_a_4_901" flipH="1" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_b_4_900" flipH="1" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_b_4_901" flipH="1" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_4_0" flipH="1" source="cow_64_c_2_0" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_100" flipH="1" source="cow_64_c_2_100" x="19" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_4_200" flipH="1" source="cow_64_c_2_200" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_201" flipH="1" source="cow_64_c_2_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_202" flipH="1" source="cow_64_c_2_202" x="0" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_203" flipH="1" source="cow_64_c_2_203" x="0" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_4_300" flipH="1" source="cow_64_c_2_300" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_400" flipH="1" source="cow_64_c_2_400" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_4_401" flipH="1" source="cow_64_c_2_401" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_4_500" flipH="1" source="cow_64_c_2_500" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_501" flipH="1" source="cow_64_c_2_501" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_602" flipH="1" source="cow_64_c_2_602" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_700" flipH="1" source="cow_64_c_2_700" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_4_701" flipH="1" source="cow_64_c_2_701" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_4_800" flipH="1" source="cow_64_c_2_800" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_4_801" flipH="1" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_900" flipH="1" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_901" flipH="1" source="cow_64_c_2_801" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_sd_1_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_sd_2_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_sd_3_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_sd_4_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_sd_5_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_sd_6_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_sd_7_0" source="cow_64_sd_0_0" x="15" y="8" usesPalette="1"/>
+  <asset name="cow_64_c_7_0_201" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_0_201" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_0_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_0_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_0_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_100_201" x="6" y="86" usesPalette="1"/>
+  <asset name="cow_64_c_3_100_201" x="17" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_2_100_201" x="19" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_1_100_201" x="-6" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_0_100_201" x="20" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_7_200_201" x="33" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_201_201" x="32" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_202_201" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_203_201" x="35" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_3_200_201" x="35" y="48" usesPalette="1"/>
+  <asset name="cow_64_c_3_201_201" x="36" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_3_202_201" x="35" y="48" usesPalette="1"/>
+  <asset name="cow_64_c_3_203_201" x="34" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_2_200_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_201_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_202_201" x="0" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_203_201" x="0" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_1_200_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_201_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_202_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_203_201" x="-31" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_0_200_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_201_201" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_202_201" x="31" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_203_201" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_300_201" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_300_201" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_300_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_300_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_300_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_2_400_201" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_2_401_201" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_0_400_201" x="-33" y="29" usesPalette="1"/>
+  <asset name="cow_64_c_0_401_201" x="-33" y="29" usesPalette="1"/>
+  <asset name="cow_64_c_7_500_201" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_500_201" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_500_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_500_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_500_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_600_201" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_600_201" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_600_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_600_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_600_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_2_700_201" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_2_701_201" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_2_900_201" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_2_901_201" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_7_0_202" x="0" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_0_202" x="0" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_0_202" x="0" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_0_202" x="0" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_0_202" x="0" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_100_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_100_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_100_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_100_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_100_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_200_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_201_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_202_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_203_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_200_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_201_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_202_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_203_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_200_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_201_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_202_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_203_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_200_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_201_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_202_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_203_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_200_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_201_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_202_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_203_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_300_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_300_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_300_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_300_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_300_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_400_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_401_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_400_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_401_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_400_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_401_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_400_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_401_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_400_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_401_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_500_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_500_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_500_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_500_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_500_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_7_600_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_600_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_600_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_600_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_0_600_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_700_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_701_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_800_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_801_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_900_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_2_901_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_6_0_201" flipH="1" source="cow_64_c_0_0_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_100_201" flipH="1" source="cow_64_c_0_100_201" x="20" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_6_200_201" flipH="1" source="cow_64_c_0_200_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_201_201" flipH="1" source="cow_64_c_0_201_201" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_202_201" flipH="1" source="cow_64_c_0_202_201" x="31" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_203_201" flipH="1" source="cow_64_c_0_203_201" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_300_201" flipH="1" source="cow_64_c_0_300_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_400_201" flipH="1" source="cow_64_c_0_400_201" x="-33" y="29" usesPalette="1"/>
+  <asset name="cow_64_c_6_401_201" flipH="1" source="cow_64_c_0_401_201" x="-33" y="29" usesPalette="1"/>
+  <asset name="cow_64_c_6_500_201" flipH="1" source="cow_64_c_0_500_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_600_201" flipH="1" source="cow_64_c_0_600_201" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_5_0_201" flipH="1" source="cow_64_c_1_0_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_100_201" flipH="1" source="cow_64_c_1_100_201" x="-6" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_5_200_201" flipH="1" source="cow_64_c_1_200_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_201_201" flipH="1" source="cow_64_c_1_201_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_202_201" flipH="1" source="cow_64_c_1_202_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_203_201" flipH="1" source="cow_64_c_1_203_201" x="-31" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_5_300_201" flipH="1" source="cow_64_c_1_300_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_500_201" flipH="1" source="cow_64_c_1_500_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_600_201" flipH="1" source="cow_64_c_1_600_201" x="-30" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_0_201" flipH="1" source="cow_64_c_2_0_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_100_201" flipH="1" source="cow_64_c_2_100_201" x="19" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_4_200_201" flipH="1" source="cow_64_c_2_200_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_201_201" flipH="1" source="cow_64_c_2_201_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_202_201" flipH="1" source="cow_64_c_2_202_201" x="0" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_203_201" flipH="1" source="cow_64_c_2_203_201" x="0" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_4_300_201" flipH="1" source="cow_64_c_2_300_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_400_201" flipH="1" source="cow_64_c_2_400_201" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_4_401_201" flipH="1" source="cow_64_c_2_401_201" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_4_500_201" flipH="1" source="cow_64_c_2_500_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_600_201" flipH="1" source="cow_64_c_2_600_201" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_700_201" flipH="1" source="cow_64_c_2_700_201" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_4_701_201" flipH="1" source="cow_64_c_2_701_201" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_4_800_201" flipH="1" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_4_801_201" flipH="1" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_900_201" flipH="1" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_901_201" flipH="1" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_7_0_203" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_0_203" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_0_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_0_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_0_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_100_203" x="6" y="86" usesPalette="1"/>
+  <asset name="cow_64_c_3_100_203" x="17" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_2_100_203" x="19" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_1_100_203" x="-6" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_0_100_203" x="20" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_7_200_203" x="33" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_201_203" x="32" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_202_203" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_203_203" x="35" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_3_200_203" x="35" y="48" usesPalette="1"/>
+  <asset name="cow_64_c_3_201_203" x="36" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_3_202_203" x="35" y="48" usesPalette="1"/>
+  <asset name="cow_64_c_3_203_203" x="34" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_2_200_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_201_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_202_203" x="0" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_203_203" x="0" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_1_200_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_201_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_202_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_203_203" x="-27" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_0_200_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_201_203" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_202_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_203_203" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_300_203" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_300_203" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_300_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_300_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_300_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_2_400_203" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_2_401_203" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_0_400_203" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_0_401_203" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_7_500_203" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_501_203" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_500_203" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_3_501_203" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_500_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_2_501_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_500_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_501_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_500_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_0_501_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_7_600_203" x="34" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_600_203" x="34" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_602_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_1_600_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_600_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_2_700_203" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_2_701_203" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_2_800_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_2_900_203" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_2_901_203" source="cow_64_c_2_801_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_6_0_203" flipH="1" source="cow_64_c_0_0_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_100_203" flipH="1" source="cow_64_c_0_100_203" x="20" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_6_200_203" flipH="1" source="cow_64_c_0_200_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_201_203" flipH="1" source="cow_64_c_0_201_203" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_202_203" flipH="1" source="cow_64_c_0_202_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_203_203" flipH="1" source="cow_64_c_0_203_203" x="-8" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_300_203" flipH="1" source="cow_64_c_0_300_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_400_203" flipH="1" source="cow_64_c_0_400_203" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_6_401_203" flipH="1" source="cow_64_c_0_401_203" x="-27" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_6_500_203" flipH="1" source="cow_64_c_0_500_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_501_203" flipH="1" source="cow_64_c_0_501_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_6_600_203" flipH="1" source="cow_64_c_0_600_203" x="-7" y="83" usesPalette="1"/>
+  <asset name="cow_64_c_5_0_203" flipH="1" source="cow_64_c_1_0_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_100_203" flipH="1" source="cow_64_c_1_100_203" x="-6" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_5_200_203" flipH="1" source="cow_64_c_1_200_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_201_203" flipH="1" source="cow_64_c_1_201_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_202_203" flipH="1" source="cow_64_c_1_202_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_203_203" flipH="1" source="cow_64_c_1_203_203" x="-27" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_5_300_203" flipH="1" source="cow_64_c_1_300_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_500_203" flipH="1" source="cow_64_c_1_500_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_501_203" flipH="1" source="cow_64_c_1_501_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_5_600_203" flipH="1" source="cow_64_c_1_600_203" x="-26" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_0_203" flipH="1" source="cow_64_c_2_0_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_100_203" flipH="1" source="cow_64_c_2_100_203" x="19" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_4_200_203" flipH="1" source="cow_64_c_2_200_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_201_203" flipH="1" source="cow_64_c_2_201_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_202_203" flipH="1" source="cow_64_c_2_202_203" x="0" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_203_203" flipH="1" source="cow_64_c_2_203_203" x="0" y="60" usesPalette="1"/>
+  <asset name="cow_64_c_4_300_203" flipH="1" source="cow_64_c_2_300_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_400_203" flipH="1" source="cow_64_c_2_400_203" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_4_401_203" flipH="1" source="cow_64_c_2_401_203" x="-9" y="28" usesPalette="1"/>
+  <asset name="cow_64_c_4_500_203" flipH="1" source="cow_64_c_2_500_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_501_203" flipH="1" source="cow_64_c_2_501_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_602_203" flipH="1" source="cow_64_c_2_602_203" x="1" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_4_700_203" flipH="1" source="cow_64_c_2_700_203" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_4_701_203" flipH="1" source="cow_64_c_2_701_203" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_4_800_203" flipH="1" source="cow_64_c_2_800_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_4_801_203" flipH="1" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_900_203" flipH="1" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_901_203" flipH="1" source="cow_64_c_2_801_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_7_0_204" x="15" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_0_204" x="15" y="43" usesPalette="1"/>
+  <asset name="cow_64_c_2_0_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_1_0_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_0_0_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_100_204" x="2" y="76" usesPalette="1"/>
+  <asset name="cow_64_c_3_100_204" x="2" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_2_100_204" x="0" y="43" usesPalette="1"/>
+  <asset name="cow_64_c_1_100_204" x="-21" y="53" usesPalette="1"/>
+  <asset name="cow_64_c_0_100_204" x="1" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_7_200_204" x="14" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_201_204" x="13" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_202_204" x="15" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_7_203_204" x="16" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_3_200_204" x="16" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_3_201_204" x="17" y="46" usesPalette="1"/>
+  <asset name="cow_64_c_3_202_204" x="16" y="47" usesPalette="1"/>
+  <asset name="cow_64_c_3_203_204" x="15" y="46" usesPalette="1"/>
+  <asset name="cow_64_c_2_200_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_2_201_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_2_202_204" x="-15" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_2_203_204" x="-15" y="53" usesPalette="1"/>
+  <asset name="cow_64_c_1_200_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_1_201_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_1_202_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_1_203_204" x="-30" y="53" usesPalette="1"/>
+  <asset name="cow_64_c_0_200_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_0_201_204" x="-12" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_0_202_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_0_203_204" x="-12" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_300_204" x="15" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_300_204" x="15" y="43" usesPalette="1"/>
+  <asset name="cow_64_c_2_300_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_1_300_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_0_300_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_2_400_204" x="-12" y="25" usesPalette="1"/>
+  <asset name="cow_64_c_2_401_204" x="-12" y="25" usesPalette="1"/>
+  <asset name="cow_64_c_0_400_204" x="-24" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_0_401_204" x="-24" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_7_500_204" x="15" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_500_204" x="15" y="43" usesPalette="1"/>
+  <asset name="cow_64_c_2_500_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_1_500_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_0_500_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_7_600_204" x="15" y="74" usesPalette="1"/>
+  <asset name="cow_64_c_3_600_204" x="15" y="43" usesPalette="1"/>
+  <asset name="cow_64_c_2_600_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_1_600_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_0_600_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_2_700_204" x="-8" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_2_701_204" x="0" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_6_0_204" flipH="1" source="cow_64_c_0_0_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_100_204" flipH="1" source="cow_64_c_0_100_204" x="1" y="70" usesPalette="1"/>
+  <asset name="cow_64_c_6_200_204" flipH="1" source="cow_64_c_0_200_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_201_204" flipH="1" source="cow_64_c_0_201_204" x="-12" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_202_204" flipH="1" source="cow_64_c_0_202_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_203_204" flipH="1" source="cow_64_c_0_203_204" x="-12" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_300_204" flipH="1" source="cow_64_c_0_300_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_400_204" flipH="1" source="cow_64_c_0_400_204" x="-24" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_6_401_204" flipH="1" source="cow_64_c_0_401_204" x="-24" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_6_500_204" flipH="1" source="cow_64_c_0_500_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_6_600_204" flipH="1" source="cow_64_c_0_600_204" x="-11" y="73" usesPalette="1"/>
+  <asset name="cow_64_c_5_0_204" flipH="1" source="cow_64_c_1_0_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_5_100_204" flipH="1" source="cow_64_c_1_100_204" x="-21" y="53" usesPalette="1"/>
+  <asset name="cow_64_c_5_200_204" flipH="1" source="cow_64_c_1_200_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_5_201_204" flipH="1" source="cow_64_c_1_201_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_5_202_204" flipH="1" source="cow_64_c_1_202_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_5_203_204" flipH="1" source="cow_64_c_1_203_204" x="-30" y="53" usesPalette="1"/>
+  <asset name="cow_64_c_5_300_204" flipH="1" source="cow_64_c_1_300_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_5_500_204" flipH="1" source="cow_64_c_1_500_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_5_600_204" flipH="1" source="cow_64_c_1_600_204" x="-29" y="54" usesPalette="1"/>
+  <asset name="cow_64_c_4_0_204" flipH="1" source="cow_64_c_2_0_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_100_204" flipH="1" source="cow_64_c_2_100_204" x="0" y="43" usesPalette="1"/>
+  <asset name="cow_64_c_4_200_204" flipH="1" source="cow_64_c_2_200_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_201_204" flipH="1" source="cow_64_c_2_201_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_202_204" flipH="1" source="cow_64_c_2_202_204" x="-15" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_203_204" flipH="1" source="cow_64_c_2_203_204" x="-15" y="53" usesPalette="1"/>
+  <asset name="cow_64_c_4_300_204" flipH="1" source="cow_64_c_2_300_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_400_204" flipH="1" source="cow_64_c_2_400_204" x="-12" y="25" usesPalette="1"/>
+  <asset name="cow_64_c_4_401_204" flipH="1" source="cow_64_c_2_401_204" x="-12" y="25" usesPalette="1"/>
+  <asset name="cow_64_c_4_500_204" flipH="1" source="cow_64_c_2_500_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_600_204" flipH="1" source="cow_64_c_2_600_204" x="-14" y="52" usesPalette="1"/>
+  <asset name="cow_64_c_4_700_204" flipH="1" source="cow_64_c_2_700_204" x="-8" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_4_701_204" flipH="1" source="cow_64_c_2_701_204" x="0" y="33" usesPalette="1"/>
+  <asset name="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_b_0_700" x="-1" y="36" usesPalette="1"/>
+  <asset name="cow_64_a_0_800" x="18" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_0_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_0_800" x="-12" y="49" usesPalette="1"/>
+  <asset name="cow_64_b_0_801" x="-1" y="48" usesPalette="1"/>
+  <asset name="cow_64_a_7_700" flipH="1" source="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_b_7_700" flipH="1" source="cow_64_b_0_700" x="-1" y="36" usesPalette="1"/>
+  <asset name="cow_64_a_7_800" flipH="1" source="cow_64_a_0_800" x="18" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_7_801" flipH="1" source="cow_64_a_0_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_7_800" flipH="1" source="cow_64_b_0_800" x="-12" y="49" usesPalette="1"/>
+  <asset name="cow_64_b_7_801" flipH="1" source="cow_64_b_0_801" x="-1" y="48" usesPalette="1"/>
+  <asset name="cow_64_a_7_701" flipH="1" source="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_b_7_701" flipH="1" source="cow_64_b_0_700" x="-1" y="36" usesPalette="1"/>
+  <asset name="cow_64_a_7_900" flipH="1" source="cow_64_a_0_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_a_7_901" flipH="1" source="cow_64_a_0_800" x="18" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_7_900" flipH="1" source="cow_64_b_0_801" x="-1" y="48" usesPalette="1"/>
+  <asset name="cow_64_b_7_901" flipH="1" source="cow_64_b_0_800" x="-12" y="49" usesPalette="1"/>
+  <asset name="cow_64_a_6_700" flipH="1" source="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_b_6_700" flipH="1" source="cow_64_b_0_700" x="-1" y="36" usesPalette="1"/>
+  <asset name="cow_64_a_6_800" flipH="1" source="cow_64_a_0_800" x="18" y="47" usesPalette="1"/>
+  <asset name="cow_64_a_6_801" flipH="1" source="cow_64_a_0_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_6_800" flipH="1" source="cow_64_b_0_800" x="-12" y="49" usesPalette="1"/>
+  <asset name="cow_64_b_6_801" flipH="1" source="cow_64_b_0_801" x="-1" y="48" usesPalette="1"/>
+  <asset name="cow_64_a_6_701" flipH="1" source="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_b_6_701" flipH="1" source="cow_64_b_0_700" x="-1" y="36" usesPalette="1"/>
+  <asset name="cow_64_a_6_900" flipH="1" source="cow_64_a_0_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_a_6_901" flipH="1" source="cow_64_a_0_800" x="18" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_6_900" flipH="1" source="cow_64_b_0_801" x="-1" y="48" usesPalette="1"/>
+  <asset name="cow_64_b_6_901" flipH="1" source="cow_64_b_0_800" x="-12" y="49" usesPalette="1"/>
+  <asset name="cow_64_a_3_700" source="cow_64_a_2_700" x="33" y="28" usesPalette="1"/>
+  <asset name="cow_64_b_3_700" source="cow_64_b_2_700" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_a_3_800" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_a_3_801" source="cow_64_a_2_801" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_3_800" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_3_801" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_a_3_701" source="cow_64_a_2_700" x="33" y="28" usesPalette="1"/>
+  <asset name="cow_64_b_3_701" source="cow_64_b_2_700" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_a_3_900" source="cow_64_a_2_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_a_3_901" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_b_3_900" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_b_3_901" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_0_700_201" x="-1" y="56" usesPalette="1"/>
+  <asset name="cow_64_c_0_800_201" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_0_801_201" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_0_900_201" source="cow_64_c_0_801_201" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_0_901_201" source="cow_64_c_0_801_201" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_6_700_201" flipH="1" source="cow_64_c_0_700_201" x="-1" y="56" usesPalette="1"/>
+  <asset name="cow_64_c_6_800_201" flipH="1" source="cow_64_c_0_800_201" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_6_801_201" flipH="1" source="cow_64_c_0_801_201" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_6_900_201" flipH="1" source="cow_64_c_0_801_201" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_6_901_201" flipH="1" source="cow_64_c_0_801_201" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_7_700_201" flipH="1" source="cow_64_c_0_700_201" x="-1" y="56" usesPalette="1"/>
+  <asset name="cow_64_c_7_800_201" flipH="1" source="cow_64_c_0_800_201" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_7_801_201" flipH="1" source="cow_64_c_0_801_201" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_7_900_201" flipH="1" source="cow_64_c_0_801_201" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_7_901_201" flipH="1" source="cow_64_c_0_801_201" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_0_700_204" x="-5" y="46" usesPalette="1"/>
+  <asset name="cow_64_c_0_800_204" x="-16" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_0_801_204" x="-5" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_0_900_204" source="cow_64_c_0_801_204" x="-5" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_0_901_204" source="cow_64_c_0_801_204" x="-16" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_7_700_204" flipH="1" source="cow_64_c_0_700_204" x="-5" y="46" usesPalette="1"/>
+  <asset name="cow_64_c_7_800_204" flipH="1" source="cow_64_c_0_800_204" x="-16" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_7_801_204" flipH="1" source="cow_64_c_0_801_204" x="-5" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_7_900_204" flipH="1" source="cow_64_c_0_801_204" x="-5" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_7_901_204" flipH="1" source="cow_64_c_0_801_204" x="-16" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_6_700_204" flipH="1" source="cow_64_c_0_700_204" x="-5" y="46" usesPalette="1"/>
+  <asset name="cow_64_c_6_800_204" flipH="1" source="cow_64_c_0_800_204" x="-16" y="59" usesPalette="1"/>
+  <asset name="cow_64_c_6_801_204" flipH="1" source="cow_64_c_0_801_204" x="-5" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_6_900_204" flipH="1" source="cow_64_c_0_801_204" x="-5" y="58" usesPalette="1"/>
+  <asset name="cow_64_c_6_901_204" flipH="1" source="cow_64_c_0_801_204" x="-16" y="59" usesPalette="1"/>
+  <asset name="cow_64_a_1_700" source="cow_64_a_2_700" x="33" y="28" usesPalette="1"/>
+  <asset name="cow_64_b_1_700" source="cow_64_b_2_700" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_1_701" source="cow_64_b_2_701" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_1_702" source="cow_64_b_2_702" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_b_1_703" source="cow_64_b_2_703" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_c_1_700" source="cow_64_c_2_700" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_1_701" source="cow_64_c_2_701" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_1_700_201" source="cow_64_c_2_700_201" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_1_701_201" source="cow_64_c_2_701_201" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_1_700_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_701_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_700_203" source="cow_64_c_2_700_203" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_1_701_203" source="cow_64_c_2_701_203" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_1_700_204" source="cow_64_c_2_700_204" x="-8" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_1_701_204" source="cow_64_c_2_701_204" x="0" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_3_702" source="cow_64_b_2_702" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_b_3_703" source="cow_64_b_2_703" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_c_3_700" source="cow_64_c_2_700" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_3_701" source="cow_64_c_2_701" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_3_700_201" source="cow_64_c_2_700_201" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_3_701_201" source="cow_64_c_2_701_201" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_3_700_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_701_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_700_203" source="cow_64_c_2_700_203" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_3_701_203" source="cow_64_c_2_701_203" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_3_700_204" source="cow_64_c_2_700_204" x="-8" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_3_701_204" source="cow_64_c_2_701_204" x="0" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_4_700_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_4_701_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_a_5_700" flipH="1" source="cow_64_a_2_700" x="33" y="28" usesPalette="1"/>
+  <asset name="cow_64_b_5_700" flipH="1" source="cow_64_b_2_700" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_5_701" flipH="1" source="cow_64_b_2_701" x="-5" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_5_702" flipH="1" source="cow_64_b_2_702" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_b_5_703" flipH="1" source="cow_64_b_2_703" x="3" y="27" usesPalette="1"/>
+  <asset name="cow_64_c_5_700" flipH="1" source="cow_64_c_2_700" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_5_701" flipH="1" source="cow_64_c_2_701" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_5_700_201" flipH="1" source="cow_64_c_2_700_201" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_5_701_201" flipH="1" source="cow_64_c_2_701_201" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_5_700_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_5_701_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_5_700_203" flipH="1" source="cow_64_c_2_700_203" x="6" y="45" usesPalette="1"/>
+  <asset name="cow_64_c_5_701_203" flipH="1" source="cow_64_c_2_701_203" x="19" y="34" usesPalette="1"/>
+  <asset name="cow_64_c_5_700_204" flipH="1" source="cow_64_c_2_700_204" x="-8" y="38" usesPalette="1"/>
+  <asset name="cow_64_c_5_701_204" flipH="1" source="cow_64_c_2_701_204" x="0" y="33" usesPalette="1"/>
+  <asset name="cow_64_a_1_800" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_a_1_801" source="cow_64_a_2_801" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_1_800" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_1_801" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_c_1_800" source="cow_64_c_2_800" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_1_801" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_1_800_201" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_1_801_201" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_1_800_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_801_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_800_203" source="cow_64_c_2_800_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_1_801_203" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_3_800" source="cow_64_c_2_800" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_3_801" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_3_800_201" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_3_801_201" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_3_800_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_801_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_800_203" source="cow_64_c_2_800_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_3_801_203" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_4_800_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_4_801_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_a_5_800" flipH="1" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_a_5_801" flipH="1" source="cow_64_a_2_801" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_b_5_800" flipH="1" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_b_5_801" flipH="1" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_c_5_800" flipH="1" source="cow_64_c_2_800" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_5_801" flipH="1" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_5_800_201" flipH="1" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_5_801_201" flipH="1" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_5_800_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_5_801_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_5_800_203" flipH="1" source="cow_64_c_2_800_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_5_801_203" flipH="1" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_a_1_900" source="cow_64_a_2_900" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_a_1_901" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_b_1_900" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_b_1_901" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_1_900" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_1_901" source="cow_64_c_2_801" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_1_900_201" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_1_901_201" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_1_900_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_901_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_1_900_203" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_1_901_203" source="cow_64_c_2_801_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_3_900" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_3_901" source="cow_64_c_2_801" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_3_900_201" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_3_901_201" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_3_900_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_901_202" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_3_900_203" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_3_901_203" source="cow_64_c_2_801_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_4_900_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_4_901_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_a_5_900" flipH="1" source="cow_64_a_2_900" x="36" y="29" usesPalette="1"/>
+  <asset name="cow_64_a_5_901" flipH="1" source="cow_64_a_2_800" x="22" y="53" usesPalette="1"/>
+  <asset name="cow_64_b_5_900" flipH="1" source="cow_64_b_2_801" x="-7" y="35" usesPalette="1"/>
+  <asset name="cow_64_b_5_901" flipH="1" source="cow_64_b_2_800" x="-13" y="33" usesPalette="1"/>
+  <asset name="cow_64_c_5_900" flipH="1" source="cow_64_c_2_801" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_5_901" flipH="1" source="cow_64_c_2_801" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_5_900_201" flipH="1" source="cow_64_c_2_801_201" x="31" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_5_901_201" flipH="1" source="cow_64_c_2_800_201" x="31" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_5_900_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_5_901_202" flipH="1" source="cow_64_c_0_0_202" x="1" y="16" usesPalette="1"/>
+  <asset name="cow_64_c_5_900_203" flipH="1" source="cow_64_c_2_801_203" x="4" y="51" usesPalette="1"/>
+  <asset name="cow_64_c_5_901_203" flipH="1" source="cow_64_c_2_801_203" x="-2" y="49" usesPalette="1"/>
+  <asset name="cow_64_c_2_800_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_900_204" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_2_901_204" source="cow_64_c_2_801_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_a_0_701" source="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_b_0_701" source="cow_64_b_0_700" x="-1" y="36" usesPalette="1"/>
+  <asset name="cow_64_a_0_900" source="cow_64_a_0_801" x="23" y="33" usesPalette="1"/>
+  <asset name="cow_64_a_0_901" source="cow_64_a_0_800" x="18" y="47" usesPalette="1"/>
+  <asset name="cow_64_b_0_900" source="cow_64_b_0_801" x="-1" y="48" usesPalette="1"/>
+  <asset name="cow_64_b_0_901" source="cow_64_b_0_800" x="-12" y="49" usesPalette="1"/>
+  <asset name="cow_64_a_2_701" source="cow_64_a_0_700" x="26" y="26" usesPalette="1"/>
+  <asset name="cow_64_c_0_700_203" x="-1" y="56" usesPalette="1"/>
+  <asset name="cow_64_c_0_800_203" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_0_801_203" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_7_700_203" flipH="1" source="cow_64_c_0_700_203" x="-1" y="56" usesPalette="1"/>
+  <asset name="cow_64_c_7_800_203" flipH="1" source="cow_64_c_0_800_203" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_7_801_203" flipH="1" source="cow_64_c_0_801_203" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_6_700_203" flipH="1" source="cow_64_c_0_700_203" x="-1" y="56" usesPalette="1"/>
+  <asset name="cow_64_c_6_800_203" flipH="1" source="cow_64_c_0_800_203" x="-12" y="69" usesPalette="1"/>
+  <asset name="cow_64_c_6_801_203" flipH="1" source="cow_64_c_0_801_203" x="-1" y="68" usesPalette="1"/>
+  <asset name="cow_64_c_1_800_204" source="cow_64_c_2_800_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_3_800_204" source="cow_64_c_2_800_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_4_800_204" flipH="1" source="cow_64_c_2_800_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_5_800_204" flipH="1" source="cow_64_c_2_800_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_1_801_204" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_3_801_204" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_4_801_204" flipH="1" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_5_801_204" flipH="1" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_1_901_204" source="cow_64_c_2_801_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_3_901_204" source="cow_64_c_2_801_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_4_901_204" flipH="1" source="cow_64_c_2_801_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_5_901_204" flipH="1" source="cow_64_c_2_801_204" x="-16" y="42" usesPalette="1"/>
+  <asset name="cow_64_c_1_900_204" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_3_900_204" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_4_900_204" flipH="1" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <asset name="cow_64_c_5_900_204" flipH="1" source="cow_64_c_2_801_204" x="-10" y="44" usesPalette="1"/>
+  <palette id="0" source="cowp00_notforsale" color1="12d45a" color2="df89a3" master="true"/>
+  <palette id="1" source="cowhornpalette00_notforsale" master="true" color1="da56f2" color2="1278aa"/>
+  <palette id="2" source="cowp01_ayrshire" color1="9f704d" color2="e1e1e1" tags="body,xhead"/>
+  <palette id="3" source="cowhornpalette01_ayshire" color2="e1e1e1" color1="e1e1e1" tags="horns"/>
+  <palette id="4" source="cowp02_britwhite" tags="body,xhead" color1="f0eeec" color2="bcb3a7"/>
+  <palette id="5" source="cowp03_friesianholstein" tags="body,xhead" color1="f0eeec" color2="525447"/>
+  <palette id="6" source="cowp04_highland" tags="body,xhead" color1="ca7f43" color2="9b562c"/>
+  <palette id="7" source="cowp05_exotic" tags="body,xhead" color1="2e2d33" color2="763d2d"/>
+  <palette id="8" source="cowp06_belted" tags="body,xhead" color1="525447" color2="f0eeec"/>
+  <palette id="9" source="cowp07_jersey" tags="body,xhead" color1="e9bd7f" color2="b98f4a"/>
+  <palette id="10" source="cowp08_hereford" tags="body,xhead" color1="8d472d" color2="f0eeec"/>
+  <palette id="11" source="cowp09_dexter" tags="body,xhead" color1="262723" color2="56594b"/>
+  <palette id="12" source="cowp10_guernsey" tags="body,xhead" color1="d2cbc2" color2="85503a"/>
+  <palette id="13" source="cowp11_hungarian" tags="body,xhead" color1="d2cac0" color2="958f82"/>
+  <palette id="14" source="cowp12_texaslh" tags="body,xhead" color1="daa065" color2="d2cbc2"/>
+  <palette id="15" source="cowp13_amdevon" tags="body,xhead" color1="673b30" color2="926756"/>
+  <palette id="16" source="cowp14_ausbaz" tags="body,xhead" color1="c6b9a5" color2="a89581"/>
+  <palette id="17" source="cowp15_normande" tags="body,xhead" color1="d8d2ca" color2="da8d41"/>
+  <palette id="18" source="cowp16_kyytto" tags="body,xhead" color1="f0eeec" color2="daaf8e"/>
+  <palette id="19" source="cowp17_arctic" tags="body,xhead" color1="baeff8" color2="83d4e3"/>
+  <palette id="20" source="cowhornpalette02_exotic" tags="horns" color1="9a8374" color2="605851"/>
+  <palette id="21" source="cowhornpalette03_hungarian" tags="horns" color1="c7bab0" color2="716f64"/>
+  <palette id="22" source="cowhornpalette04_texaslonghorn" tags="horns" color1="c7bab0" color2="bc7d3f"/>
+  <palette id="23" source="cowhornpalette05_highland" tags="horns" color1="c7bab0" color2="ca7f43"/>
+  <palette id="24" source="cowhornpalette06_amdevon" tags="horns" color1="d6cabf" color2="ac988b"/>
+  <palette id="25" source="cowhornpalette07_arctic" tags="horns" color1="baeff8" color2="83d4e3"/>
+  <palette id="26" source="cowhornpalette08_fantasy" tags="horns" color1="f9d3b1" color2="7993d4"/>
+  <palette id="27" source="cowhornpalette09_golden" tags="horns" color1="ecd97f" color2="e4b431"/>
+  <palette id="28" source="cowp21_golden" tags="body,xhead" color1="ecd97f" color2="e4b431"/>
+  <palette id="29" source="cowp18_devil" tags="body,xhead" color1="3a3b32" color2="d96436"/>
+  <palette id="30" source="cowhornpalette10_devil" tags="horns" color1="3a3b32" color2="d96436"/>
+  <palette id="31" source="cowp19_fantasy" tags="body,xhead" color1="b478cf" color2="f9cc7a"/>
+  <palette id="32" source="cowp20_crossbred" tags="body,xhead" color1="b97a3b" color2="d8cec3"/>
+  <custompart id="201" source="cow_hornslong" tags="horns"/>
+  <custompart id="202" source="cow_nohorns" tags="horns"/>
+  <custompart id="203" source="cow_hornsnhair" tags="horns"/>
+  <custompart id="204" source="cow_hornsbasic" tags="horns"/>
+</assets>
