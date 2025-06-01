@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="face_F_nftscarface" version="0.1">
+    <assets>
+      <asset name="h_std_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_std_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_std_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,64"/>
+      </asset>
+      <asset name="h_std_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_std_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-36,58"/>
+      </asset>
+      <asset name="h_std_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-30,52"/>
+      </asset>
+      <asset name="h_lay_fc_6605_2_0" mimeType="image/png">
+        <param key="offset" value="-4,24"/>
+      </asset>
+      <asset name="h_lay_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="6,37"/>
+      </asset>
+      <asset name="h_lay_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="8,32"/>
+      </asset>
+      <asset name="h_eyb_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_eyb_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_eyb_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,64"/>
+      </asset>
+      <asset name="h_eyb_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_blw_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_blw_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_blw_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,64"/>
+      </asset>
+      <asset name="h_blw_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_blw_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-31,52"/>
+      </asset>
+      <asset name="h_blw_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-37,58"/>
+      </asset>
+      <asset name="h_srp_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_srp_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,65"/>
+      </asset>
+      <asset name="h_srp_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-31,52"/>
+      </asset>
+      <asset name="h_srp_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,62"/>
+      </asset>
+      <asset name="h_srp_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-37,60"/>
+      </asset>
+      <asset name="h_srp_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,63"/>
+      </asset>
+      <asset name="h_sad_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_sad_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_sad_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,64"/>
+      </asset>
+      <asset name="h_sad_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_sad_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-36,58"/>
+      </asset>
+      <asset name="h_sad_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-31,52"/>
+      </asset>
+      <asset name="h_agr_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_agr_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,63"/>
+      </asset>
+      <asset name="h_agr_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-36,64"/>
+      </asset>
+      <asset name="h_agr_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_agr_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-36,58"/>
+      </asset>
+      <asset name="h_agr_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-30,52"/>
+      </asset>
+      <asset name="h_sml_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-40,60"/>
+      </asset>
+      <asset name="h_sml_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_sml_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,64"/>
+      </asset>
+      <asset name="h_sml_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_sml_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-36,58"/>
+      </asset>
+      <asset name="h_sml_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-30,52"/>
+      </asset>
+      <asset name="h_spk_fc_6605_1_0" mimeType="image/png">
+        <param key="offset" value="-41,60"/>
+      </asset>
+      <asset name="h_spk_ey_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_spk_ey_6606_1_0" mimeType="image/png">
+        <param key="offset" value="-37,64"/>
+      </asset>
+      <asset name="h_spk_ey_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-25,61"/>
+      </asset>
+      <asset name="h_spk_fc_6606_2_0" mimeType="image/png">
+        <param key="offset" value="-36,58"/>
+      </asset>
+      <asset name="h_spk_fc_6606_3_0" mimeType="image/png">
+        <param key="offset" value="-30,52"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_bratzsashabeanie" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_5820_2_0" mimeType="image/png">
+        <param key="offset" value="35,39"/>
+      </asset>
+      <asset name="h_lsp_ha_5820_2_0" mimeType="image/png">
+        <param key="offset" value="-28,-120"/>
+      </asset>
+      <asset name="h_std_ha_5820_0_0" mimeType="image/png">
+        <param key="offset" value="-13,86"/>
+      </asset>
+      <asset name="h_std_ha_5820_1_0" mimeType="image/png">
+        <param key="offset" value="-11,89"/>
+      </asset>
+      <asset name="h_std_ha_5820_2_0" mimeType="image/png">
+        <param key="offset" value="-17,89"/>
+      </asset>
+      <asset name="h_std_ha_5820_3_0" mimeType="image/png">
+        <param key="offset" value="-18,88"/>
+      </asset>
+      <asset name="h_std_ha_5820_7_0" mimeType="image/png">
+        <param key="offset" value="-17,87"/>
+      </asset>
+      <asset name="h_spk_ha_5820_0_0" mimeType="image/png">
+        <param key="offset" value="-13,87"/>
+      </asset>
+      <asset name="h_spk_ha_5820_1_0" mimeType="image/png">
+        <param key="offset" value="-11,90"/>
+      </asset>
+      <asset name="h_spk_ha_5820_2_0" mimeType="image/png">
+        <param key="offset" value="-17,90"/>
+      </asset>
+      <asset name="h_spk_ha_5820_3_0" mimeType="image/png">
+        <param key="offset" value="-18,89"/>
+      </asset>
+      <asset name="h_spk_ha_5820_7_0" mimeType="image/png">
+        <param key="offset" value="-17,88"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

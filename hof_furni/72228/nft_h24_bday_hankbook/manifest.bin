@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="nft_h24_bday_hankbook" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="nft_h24_bday_hankbook_visualization" mimeType="text/xml"/>
+      <asset name="nft_h24_bday_hankbook_assets" mimeType="text/xml"/>
+      <asset name="nft_h24_bday_hankbook_logic" mimeType="text/xml"/>
+      <asset name="nft_h24_bday_hankbook_64_sd_0_0" mimeType="image/png"/>
+      <asset name="nft_h24_bday_hankbook_64_a_0_0" mimeType="image/png"/>
+      <asset name="nft_h24_bday_hankbook_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

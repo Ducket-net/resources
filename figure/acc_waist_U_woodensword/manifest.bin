@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_woodensword" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_6657_2_0" mimeType="image/png">
+        <param key="offset" value="-4,20"/>
+      </asset>
+      <asset name="h_std_wa_6657_7_0" mimeType="image/png">
+        <param key="offset" value="-42,34"/>
+      </asset>
+      <asset name="h_std_wa_6657_3_0" mimeType="image/png">
+        <param key="offset" value="-21,35"/>
+      </asset>
+      <asset name="h_std_wa_6657_0_0" mimeType="image/png">
+        <param key="offset" value="-21,30"/>
+      </asset>
+      <asset name="h_std_wa_6657_1_0" mimeType="image/png">
+        <param key="offset" value="-16,32"/>
+      </asset>
+      <asset name="h_std_wa_6657_2_0" mimeType="image/png">
+        <param key="offset" value="-8,32"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

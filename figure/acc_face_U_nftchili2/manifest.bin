@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftchili2" version="0.1">
+    <assets>
+      <asset name="h_std_fa_6070_1_0" mimeType="image/png">
+        <param key="offset" value="-39,51"/>
+      </asset>
+      <asset name="h_std_fa_6070_2_0" mimeType="image/png">
+        <param key="offset" value="-30,51"/>
+      </asset>
+      <asset name="h_std_fa_6070_3_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_lay_fa_6070_2_0" mimeType="image/png">
+        <param key="offset" value="4,27"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

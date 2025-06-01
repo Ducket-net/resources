@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_popcornbox" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_5570_2_0" mimeType="image/png">
+        <param key="offset" value="5,30"/>
+      </asset>
+      <asset name="h_lay_ca_5571_2_0" mimeType="image/png">
+        <param key="offset" value="4,19"/>
+      </asset>
+      <asset name="h_std_ca_5570_7_0" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+      <asset name="h_std_ca_5570_3_0" mimeType="image/png">
+        <param key="offset" value="-20,47"/>
+      </asset>
+      <asset name="h_std_ca_5570_2_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_std_ca_5570_1_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_std_ca_5570_0_0" mimeType="image/png">
+        <param key="offset" value="-22,48"/>
+      </asset>
+      <asset name="h_std_ca_5571_7_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_std_ca_5571_3_0" mimeType="image/png">
+        <param key="offset" value="-21,46"/>
+      </asset>
+      <asset name="h_std_ca_5571_2_0" mimeType="image/png">
+        <param key="offset" value="-24,48"/>
+      </asset>
+      <asset name="h_std_ca_5571_1_0" mimeType="image/png">
+        <param key="offset" value="-24,48"/>
+      </asset>
+      <asset name="h_std_ca_5571_0_0" mimeType="image/png">
+        <param key="offset" value="-23,47"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

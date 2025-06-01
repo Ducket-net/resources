@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_dreamsparkles" version="0.1">
+    <assets>
+      <asset name="h_std_he_6161_2_0" mimeType="image/png">
+        <param key="offset" value="-4,91"/>
+      </asset>
+      <asset name="h_std_he_6161_3_0" mimeType="image/png">
+        <param key="offset" value="-2,92"/>
+      </asset>
+      <asset name="h_std_he_6161_7_0" mimeType="image/png">
+        <param key="offset" value="-5,89"/>
+      </asset>
+      <asset name="h_std_he_6161_0_0" mimeType="image/png">
+        <param key="offset" value="-1,90"/>
+      </asset>
+      <asset name="h_std_he_6161_1_0" mimeType="image/png">
+        <param key="offset" value="-4,90"/>
+      </asset>
+      <asset name="h_std_he_6162_2_0" mimeType="image/png">
+        <param key="offset" value="-4,91"/>
+      </asset>
+      <asset name="h_std_he_6162_3_0" mimeType="image/png">
+        <param key="offset" value="-2,92"/>
+      </asset>
+      <asset name="h_std_he_6162_7_0" mimeType="image/png">
+        <param key="offset" value="-4,89"/>
+      </asset>
+      <asset name="h_std_he_6162_0_0" mimeType="image/png">
+        <param key="offset" value="-1,90"/>
+      </asset>
+      <asset name="h_std_he_6162_1_0" mimeType="image/png">
+        <param key="offset" value="-4,90"/>
+      </asset>
+      <asset name="h_lay_he_6161_2_0" mimeType="image/png">
+        <param key="offset" value="37,50"/>
+      </asset>
+      <asset name="h_lay_he_6162_2_0" mimeType="image/png">
+        <param key="offset" value="37,51"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

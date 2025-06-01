@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_nftmininoob" version="0.1">
+    <assets>
+      <asset name="h_std_wa_5815_7_0" mimeType="image/png">
+        <param key="offset" value="-18,22"/>
+      </asset>
+      <asset name="h_std_wa_5815_1_0" mimeType="image/png">
+        <param key="offset" value="-18,27"/>
+      </asset>
+      <asset name="h_std_wa_5815_0_0" mimeType="image/png">
+        <param key="offset" value="-14,27"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

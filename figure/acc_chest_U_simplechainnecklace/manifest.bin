@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_simplechainnecklace" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6392_2_0" mimeType="image/png">
+        <param key="offset" value="1,25"/>
+      </asset>
+      <asset name="h_lay_ca_6393_2_0" mimeType="image/png">
+        <param key="offset" value="0,24"/>
+      </asset>
+      <asset name="h_std_ca_6392_7_0" mimeType="image/png">
+        <param key="offset" value="-22,47"/>
+      </asset>
+      <asset name="h_std_ca_6392_3_0" mimeType="image/png">
+        <param key="offset" value="-25,51"/>
+      </asset>
+      <asset name="h_std_ca_6392_2_0" mimeType="image/png">
+        <param key="offset" value="-24,50"/>
+      </asset>
+      <asset name="h_std_ca_6392_1_0" mimeType="image/png">
+        <param key="offset" value="-22,49"/>
+      </asset>
+      <asset name="h_std_ca_6392_0_0" mimeType="image/png">
+        <param key="offset" value="-20,49"/>
+      </asset>
+      <asset name="h_std_ca_6393_7_0" mimeType="image/png">
+        <param key="offset" value="-23,46"/>
+      </asset>
+      <asset name="h_std_ca_6393_3_0" mimeType="image/png">
+        <param key="offset" value="-26,50"/>
+      </asset>
+      <asset name="h_std_ca_6393_2_0" mimeType="image/png">
+        <param key="offset" value="-25,49"/>
+      </asset>
+      <asset name="h_std_ca_6393_1_0" mimeType="image/png">
+        <param key="offset" value="-23,48"/>
+      </asset>
+      <asset name="h_std_ca_6393_0_0" mimeType="image/png">
+        <param key="offset" value="-21,48"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

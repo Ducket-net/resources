@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+<animation name="fx.234" desc="RoomtoRoomTele">
+	<sprite id="fx234_1" ink="33" member="std_fx234_1_1" staticY="1">
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="-1" />
+		<direction id="2" dz="-1" />
+		<direction id="3" dz="-1" />
+		<direction id="4" dz="-1" />
+		<direction id="5" dz="-1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
+	</sprite>
+	<sprite id="fx234_2" ink="33" member="std_fx234_2_1" staticY="1">
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="-1" />
+		<direction id="2" dz="-1" />
+		<direction id="3" dz="-1" />
+		<direction id="4" dz="-1" />
+		<direction id="5" dz="-1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
+	</sprite>
+    <sprite id="fx234_3" ink="33" member="std_fx234_3_1" staticY="1">
+		<direction id="0" dz="2" />
+		<direction id="1" dz="2" />
+		<direction id="2" dz="2" />
+		<direction id="3" dz="2" />
+		<direction id="4" dz="2" />
+		<direction id="5" dz="2" />
+		<direction id="6" dz="2" />
+		<direction id="7" dz="2" />
+	</sprite>
+    <sprite id="fx234_4" ink="33" member="std_fx234_4_1" staticY="1">
+		<direction id="0" dz="2" />
+		<direction id="1" dz="2" />
+		<direction id="2" dz="2" />
+		<direction id="3" dz="2" />
+		<direction id="4" dz="2" />
+		<direction id="5" dz="2" />
+		<direction id="6" dz="2" />
+		<direction id="7" dz="2" />
+	</sprite>
+        <sprite id="fx234_5" ink="33" member="std_fx234_5_1" staticY="1">
+		<direction id="0" dz="2" />
+		<direction id="1" dz="2" />
+		<direction id="2" dz="2" />
+		<direction id="3" dz="2" />
+		<direction id="4" dz="2" />
+		<direction id="5" dz="2" />
+		<direction id="6" dz="2" />
+		<direction id="7" dz="2" />
+	</sprite>
+    
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="0" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="0" />
+        <fx id="fx234_5" action="Default" frame="0" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="1" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="1" />
+        <fx id="fx234_5" action="Default" frame="1" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="2" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="2" />
+        <fx id="fx234_5" action="Default" frame="2" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="3" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="3" />
+        <fx id="fx234_5" action="Default" frame="3" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="4" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="4" />
+        <fx id="fx234_5" action="Default" frame="4" />
+    </frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="0" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="0" />
+        <fx id="fx234_5" action="Default" frame="5" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="1" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="1" />
+        <fx id="fx234_5" action="Default" frame="6" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="2" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="2" />
+        <fx id="fx234_5" action="Default" frame="7" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="3" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="3" />
+        <fx id="fx234_5" action="Default" frame="8" />
+	</frame>
+    <frame repeats="1">
+		<fx id="fx234_1" action="Default" frame="0" />
+		<fx id="fx234_2" action="Default" frame="4" />
+        <fx id="fx234_3" action="Default" frame="0" />
+        <fx id="fx234_4" action="Default" frame="4" />
+        <fx id="fx234_5" action="Default" frame="9" />
+	</frame>
+    
+</animation>

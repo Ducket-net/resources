@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_sunfloweracc" version="0.1">
+    <assets>
+      <asset name="h_std_he_6552_2_0" mimeType="image/png">
+        <param key="offset" value="-16,75"/>
+      </asset>
+      <asset name="h_std_he_6552_1_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_std_he_6552_0_0" mimeType="image/png">
+        <param key="offset" value="-33,73"/>
+      </asset>
+      <asset name="h_std_he_6552_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_std_he_6552_7_0" mimeType="image/png">
+        <param key="offset" value="-41,72"/>
+      </asset>
+      <asset name="h_lay_he_6552_2_0" mimeType="image/png">
+        <param key="offset" value="24,34"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

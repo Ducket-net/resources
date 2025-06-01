@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_carrotbite" version="0.1">
+    <assets>
+      <asset name="h_std_fa_5440_7_0" mimeType="image/png">
+        <param key="offset" value="-39,47"/>
+      </asset>
+      <asset name="h_std_fa_5440_3_0" mimeType="image/png">
+        <param key="offset" value="-27,50"/>
+      </asset>
+      <asset name="h_std_fa_5440_0_0" mimeType="image/png">
+        <param key="offset" value="-43,54"/>
+      </asset>
+      <asset name="h_std_fa_5440_1_0" mimeType="image/png">
+        <param key="offset" value="-41,53"/>
+      </asset>
+      <asset name="h_std_fa_5440_2_0" mimeType="image/png">
+        <param key="offset" value="-32,50"/>
+      </asset>
+      <asset name="h_std_fa_5441_2_0" mimeType="image/png">
+        <param key="offset" value="-28,49"/>
+      </asset>
+      <asset name="h_std_fa_5441_3_0" mimeType="image/png">
+        <param key="offset" value="-24,48"/>
+      </asset>
+      <asset name="h_std_fa_5441_0_0" mimeType="image/png">
+        <param key="offset" value="-44,52"/>
+      </asset>
+      <asset name="h_std_fa_5441_1_0" mimeType="image/png">
+        <param key="offset" value="-42,51"/>
+      </asset>
+      <asset name="h_lay_fa_5440_2_0" mimeType="image/png">
+        <param key="offset" value="3,26"/>
+      </asset>
+      <asset name="h_lay_fa_5441_2_0" mimeType="image/png">
+        <param key="offset" value="6,25"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

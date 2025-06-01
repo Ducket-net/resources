@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_print_U_nftnoob" version="0.1">
+    <assets>
+      <asset name="h_std_cp_6291_1_0" mimeType="image/png">
+        <param key="offset" value="-38,35"/>
+      </asset>
+      <asset name="h_std_cp_6291_3_0" mimeType="image/png">
+        <param key="offset" value="-26,38"/>
+      </asset>
+      <asset name="h_std_cp_6291_2_0" mimeType="image/png">
+        <param key="offset" value="-28,38"/>
+      </asset>
+      <asset name="h_std_cp_6291_4_0" mimeType="image/png">
+        <param key="offset" value="-22,38"/>
+      </asset>
+      <asset name="h_std_cp_6291_5_0" mimeType="image/png">
+        <param key="offset" value="-26,35"/>
+      </asset>
+      <asset name="h_lay_cp_6291_4_0" mimeType="image/png">
+        <param key="offset" value="-41,19"/>
+      </asset>
+      <asset name="h_lay_cp_6291_2_0" mimeType="image/png">
+        <param key="offset" value="-9,19"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

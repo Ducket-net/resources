@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="rare_r25_tradetrophy" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="rare_r25_tradetrophy_visualization" mimeType="text/xml"/>
+      <asset name="rare_r25_tradetrophy_assets" mimeType="text/xml"/>
+      <asset name="rare_r25_tradetrophy_logic" mimeType="text/xml"/>
+      <asset name="rare_r25_tradetrophy_64_sd_0_0" mimeType="image/png"/>
+      <asset name="rare_r25_tradetrophy_64_a_0_0" mimeType="image/png"/>
+      <asset name="rare_r25_tradetrophy_64_a_0_1" mimeType="image/png"/>
+      <asset name="rare_r25_tradetrophy_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

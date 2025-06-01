@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_nftqueen" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_nftqueen_visualization" mimeType="text/xml"/>
+      <asset name="clothing_nftqueen_assets" mimeType="text/xml"/>
+      <asset name="clothing_nftqueen_logic" mimeType="text/xml"/>
+      <asset name="clothing_nftqueen_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_nftqueen_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

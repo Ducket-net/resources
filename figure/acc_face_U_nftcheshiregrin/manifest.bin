@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftcheshiregrin" version="0.1">
+    <assets>
+      <asset name="h_std_fa_6699_1_0" mimeType="image/png">
+        <param key="offset" value="-36,53"/>
+      </asset>
+      <asset name="h_std_fa_6699_2_0" mimeType="image/png">
+        <param key="offset" value="-31,53"/>
+      </asset>
+      <asset name="h_std_fa_6699_3_0" mimeType="image/png">
+        <param key="offset" value="-25,50"/>
+      </asset>
+      <asset name="h_spk_fa_6699_1_0" mimeType="image/png">
+        <param key="offset" value="-36,53"/>
+      </asset>
+      <asset name="h_spk_fa_6699_2_0" mimeType="image/png">
+        <param key="offset" value="-31,53"/>
+      </asset>
+      <asset name="h_spk_fa_6699_3_0" mimeType="image/png">
+        <param key="offset" value="-25,50"/>
+      </asset>
+      <asset name="h_lay_fa_6699_2_0" mimeType="image/png">
+        <param key="offset" value="2,28"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

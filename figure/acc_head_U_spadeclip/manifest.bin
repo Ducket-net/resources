@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_spadeclip" version="0.1">
+    <assets>
+      <asset name="h_std_he_6653_3_0" mimeType="image/png">
+        <param key="offset" value="-18,72"/>
+      </asset>
+      <asset name="h_std_he_6653_7_0" mimeType="image/png">
+        <param key="offset" value="-42,70"/>
+      </asset>
+      <asset name="h_std_he_6653_2_0" mimeType="image/png">
+        <param key="offset" value="-17,72"/>
+      </asset>
+      <asset name="h_std_he_6653_1_0" mimeType="image/png">
+        <param key="offset" value="-24,71"/>
+      </asset>
+      <asset name="h_std_he_6653_0_0" mimeType="image/png">
+        <param key="offset" value="-32,70"/>
+      </asset>
+      <asset name="h_lay_he_6653_2_0" mimeType="image/png">
+        <param key="offset" value="22,28"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

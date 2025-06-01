@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_nftcolorshirtwatch" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_nftcolorshirtwatch_visualization" mimeType="text/xml"/>
+      <asset name="clothing_nftcolorshirtwatch_assets" mimeType="text/xml"/>
+      <asset name="clothing_nftcolorshirtwatch_logic" mimeType="text/xml"/>
+      <asset name="clothing_nftcolorshirtwatch_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_nftcolorshirtwatch_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

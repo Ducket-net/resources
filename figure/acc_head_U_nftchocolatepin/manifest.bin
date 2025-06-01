@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_nftchocolatepin" version="0.1">
+    <assets>
+      <asset name="h_lay_he_5397_2_0" mimeType="image/png">
+        <param key="offset" value="21,33"/>
+      </asset>
+      <asset name="h_lsp_he_5397_2_0" mimeType="image/png">
+        <param key="offset" value="-43,-127"/>
+      </asset>
+      <asset name="h_std_he_5397_0_0" mimeType="image/png">
+        <param key="offset" value="-35,73"/>
+      </asset>
+      <asset name="h_std_he_5397_1_0" mimeType="image/png">
+        <param key="offset" value="-25,73"/>
+      </asset>
+      <asset name="h_std_he_5397_2_0" mimeType="image/png">
+        <param key="offset" value="-22,72"/>
+      </asset>
+      <asset name="h_std_he_5397_3_0" mimeType="image/png">
+        <param key="offset" value="-17,73"/>
+      </asset>
+      <asset name="h_std_he_5397_7_0" mimeType="image/png">
+        <param key="offset" value="-39,72"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="nft_xmas15_stand_64_sd_2_0" x="63" y="8"/>
+  <asset name="nft_xmas15_stand_64_a_2_0" x="91" y="171"/>
+  <asset name="nft_xmas15_stand_64_b_2_0" x="91" y="171"/>
+  <asset name="nft_xmas15_stand_icon_a" x="30" y="30"/>
+  <asset name="nft_xmas15_stand_64_sd_4_0" flipH="1" source="nft_xmas15_stand_64_sd_2_0" x="63" y="8"/>
+  <asset name="nft_xmas15_stand_64_a_4_0" flipH="1" source="nft_xmas15_stand_64_a_2_0" x="91" y="171"/>
+  <asset name="nft_xmas15_stand_64_b_4_0" flipH="1" source="nft_xmas15_stand_64_b_2_0" x="91" y="171"/>
+</assets>

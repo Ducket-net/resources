@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_nftfrozenscarf" version="0.1">
+    <assets>
+      <asset name="h_std_ca_6080_2_0" mimeType="image/png">
+        <param key="offset" value="-22,51"/>
+      </asset>
+      <asset name="h_std_ca_6080_1_0" mimeType="image/png">
+        <param key="offset" value="-23,48"/>
+      </asset>
+      <asset name="h_std_ca_6080_0_0" mimeType="image/png">
+        <param key="offset" value="-20,48"/>
+      </asset>
+      <asset name="h_std_ca_6080_3_0" mimeType="image/png">
+        <param key="offset" value="-21,52"/>
+      </asset>
+      <asset name="h_std_ca_6080_7_0" mimeType="image/png">
+        <param key="offset" value="-23,48"/>
+      </asset>
+      <asset name="h_lay_ca_6080_2_0" mimeType="image/png">
+        <param key="offset" value="1,31"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

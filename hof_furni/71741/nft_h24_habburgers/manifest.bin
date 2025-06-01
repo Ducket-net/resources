@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="nft_h24_habburgers" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="nft_h24_habburgers_visualization" mimeType="text/xml"/>
+      <asset name="nft_h24_habburgers_assets" mimeType="text/xml"/>
+      <asset name="nft_h24_habburgers_logic" mimeType="text/xml"/>
+      <asset name="nft_h24_habburgers_64_sd_2_0" mimeType="image/png"/>
+      <asset name="nft_h24_habburgers_64_a_2_0" mimeType="image/png"/>
+      <asset name="nft_h24_habburgers_64_b_2_0" mimeType="image/png"/>
+      <asset name="nft_h24_habburgers_64_sd_4_0" mimeType="image/png"/>
+      <asset name="nft_h24_habburgers_64_a_4_0" mimeType="image/png"/>
+      <asset name="nft_h24_habburgers_64_b_4_0" mimeType="image/png"/>
+      <asset name="nft_h24_habburgers_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

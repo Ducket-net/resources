@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_print_M_nftkpop" version="0.1">
+    <assets>
+      <asset name="h_std_cp_6282_2_0" mimeType="image/png">
+        <param key="offset" value="-28,41"/>
+      </asset>
+      <asset name="h_std_cp_6282_1_0" mimeType="image/png">
+        <param key="offset" value="-37,41"/>
+      </asset>
+      <asset name="h_std_cp_6282_3_0" mimeType="image/png">
+        <param key="offset" value="-25,40"/>
+      </asset>
+      <asset name="h_std_cp_6282_4_0" mimeType="image/png">
+        <param key="offset" value="-22,41"/>
+      </asset>
+      <asset name="h_std_cp_6282_5_0" mimeType="image/png">
+        <param key="offset" value="-24,41"/>
+      </asset>
+      <asset name="h_std_cp_6283_2_0" mimeType="image/png">
+        <param key="offset" value="-29,23"/>
+      </asset>
+      <asset name="h_std_cp_6283_1_0" mimeType="image/png">
+        <param key="offset" value="-37,23"/>
+      </asset>
+      <asset name="h_std_cp_6283_3_0" mimeType="image/png">
+        <param key="offset" value="-25,22"/>
+      </asset>
+      <asset name="h_std_cp_6283_4_0" mimeType="image/png">
+        <param key="offset" value="-22,23"/>
+      </asset>
+      <asset name="h_std_cp_6283_5_0" mimeType="image/png">
+        <param key="offset" value="-26,23"/>
+      </asset>
+      <asset name="h_lay_cp_6282_2_0" mimeType="image/png">
+        <param key="offset" value="0,23"/>
+      </asset>
+      <asset name="h_lay_cp_6282_4_0" mimeType="image/png">
+        <param key="offset" value="-33,23"/>
+      </asset>
+      <asset name="h_lay_cp_6283_2_0" mimeType="image/png">
+        <param key="offset" value="-18,15"/>
+      </asset>
+      <asset name="h_lay_cp_6283_4_0" mimeType="image/png">
+        <param key="offset" value="-29,15"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_vibrantguitar" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6026_2_0" mimeType="image/png">
+        <param key="offset" value="4,20"/>
+      </asset>
+      <asset name="h_std_ca_6026_7_0" mimeType="image/png">
+        <param key="offset" value="6,60"/>
+      </asset>
+      <asset name="h_std_ca_6026_3_0" mimeType="image/png">
+        <param key="offset" value="-9,66"/>
+      </asset>
+      <asset name="h_std_ca_6026_0_0" mimeType="image/png">
+        <param key="offset" value="1,73"/>
+      </asset>
+      <asset name="h_std_ca_6026_1_0" mimeType="image/png">
+        <param key="offset" value="-15,71"/>
+      </asset>
+      <asset name="h_std_ca_6026_2_0" mimeType="image/png">
+        <param key="offset" value="-9,78"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

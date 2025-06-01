@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_roseinmouth" version="0.1">
+    <assets>
+      <asset name="h_lay_fa_5747_2_0" mimeType="image/png">
+        <param key="offset" value="-10,34"/>
+      </asset>
+      <asset name="h_lay_fa_5748_2_0" mimeType="image/png">
+        <param key="offset" value="6,33"/>
+      </asset>
+      <asset name="h_lsp_fa_5747_2_0" mimeType="image/png">
+        <param key="offset" value="-73,-125"/>
+      </asset>
+      <asset name="h_lsp_fa_5748_2_0" mimeType="image/png">
+        <param key="offset" value="-57,-126"/>
+      </asset>
+      <asset name="h_std_fa_5747_7_0" mimeType="image/png">
+        <param key="offset" value="-28,55"/>
+      </asset>
+      <asset name="h_std_fa_5747_3_0" mimeType="image/png">
+        <param key="offset" value="-37,55"/>
+      </asset>
+      <asset name="h_std_fa_5747_0_0" mimeType="image/png">
+        <param key="offset" value="-43,51"/>
+      </asset>
+      <asset name="h_std_fa_5747_1_0" mimeType="image/png">
+        <param key="offset" value="-36,54"/>
+      </asset>
+      <asset name="h_std_fa_5747_2_0" mimeType="image/png">
+        <param key="offset" value="-47,54"/>
+      </asset>
+      <asset name="h_std_fa_5748_7_0" mimeType="image/png">
+        <param key="offset" value="-35,49"/>
+      </asset>
+      <asset name="h_std_fa_5748_3_0" mimeType="image/png">
+        <param key="offset" value="-24,55"/>
+      </asset>
+      <asset name="h_std_fa_5748_0_0" mimeType="image/png">
+        <param key="offset" value="-44,55"/>
+      </asset>
+      <asset name="h_std_fa_5748_1_0" mimeType="image/png">
+        <param key="offset" value="-35,53"/>
+      </asset>
+      <asset name="h_std_fa_5748_2_0" mimeType="image/png">
+        <param key="offset" value="-28,53"/>
+      </asset>
+      <asset name="h_spk_fa_5747_7_0" mimeType="image/png">
+        <param key="offset" value="-28,56"/>
+      </asset>
+      <asset name="h_spk_fa_5747_3_0" mimeType="image/png">
+        <param key="offset" value="-37,56"/>
+      </asset>
+      <asset name="h_spk_fa_5747_0_0" mimeType="image/png">
+        <param key="offset" value="-43,52"/>
+      </asset>
+      <asset name="h_spk_fa_5747_1_0" mimeType="image/png">
+        <param key="offset" value="-36,55"/>
+      </asset>
+      <asset name="h_spk_fa_5747_2_0" mimeType="image/png">
+        <param key="offset" value="-47,55"/>
+      </asset>
+      <asset name="h_spk_fa_5748_7_0" mimeType="image/png">
+        <param key="offset" value="-35,50"/>
+      </asset>
+      <asset name="h_spk_fa_5748_3_0" mimeType="image/png">
+        <param key="offset" value="-24,56"/>
+      </asset>
+      <asset name="h_spk_fa_5748_0_0" mimeType="image/png">
+        <param key="offset" value="-44,56"/>
+      </asset>
+      <asset name="h_spk_fa_5748_1_0" mimeType="image/png">
+        <param key="offset" value="-35,54"/>
+      </asset>
+      <asset name="h_spk_fa_5748_2_0" mimeType="image/png">
+        <param key="offset" value="-28,54"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
