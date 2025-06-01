@@ -257,9 +257,56 @@ export class VisualizationBuilder {
                 spritesheet.meta.colors = Object.keys(petProperty.colors).map(Number);
                 spritesheet.meta.layers = Object.keys(petProperty.layers).map(Number);
 
-                fs.writeFile(`${outputPath}/${assetName}/${assetName}.json`, JSON.stringify(spritesheet), () => {
-                    resolve(true);
+                // ----------------------------------------------------------------
+                // PixiJS compatibility: Build root-level "animations" object so that
+                // PIXI.Spritesheet will automatically create Texture arrays that can
+                // be consumed by PIXI.AnimatedSprite / Sprite animations.
+                //
+                // We keep the grouping logic deliberately simple and generic:
+                //   • We split each frame name by "_".
+                //   • The final segment is considered the animation frame / action id.
+                //     For Habbo‐style pets this maps nicely to their action identifiers
+                //     (e.g. 0 = stand, 1 = move, 2 = lay, …).
+                //   • All frames that share the same action id are grouped together.
+                //
+                // The consumer can therefore do something like:
+                //     const sheet = await Assets.load('terrier.json');
+                //     const anim = new AnimatedSprite(sheet.animations['0']); // stand
+                //
+                // Sorting frames alphabetically guarantees deterministic ordering.
+                // ----------------------------------------------------------------
+
+                const pixiAnimations: Record<string, string[]> = {};
+
+                Object.keys(spritesheet.frames).forEach((frameName) => {
+                    const segments = frameName.split('_');
+                    if (segments.length < 2) return; // safety guard – malformed name
+
+                    const actionId = segments[segments.length - 1];
+
+                    if (!pixiAnimations[actionId]) {
+                        pixiAnimations[actionId] = [];
+                    }
+
+                    pixiAnimations[actionId].push(frameName);
                 });
+
+                // Ensure each animation list is in a stable order. Alphabetical order
+                // works because Habbo frame names include incremental identifiers.
+                Object.keys(pixiAnimations).forEach((key) => {
+                    pixiAnimations[key].sort();
+                });
+
+                // Attach to spritesheet root so PIXI picks it up automatically.
+                spritesheet.animations = pixiAnimations;
+
+                fs.writeFile(
+                    `${outputPath}/${assetName}/${assetName}.json`,
+                    JSON.stringify(spritesheet),
+                    () => {
+                        resolve(true);
+                    }
+                );
             } catch (e) {
                 console.log(`Error building pet visualization for ${assetName}:`, e);
                 resolve(false);
