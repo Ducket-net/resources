@@ -116,30 +116,61 @@ export class OffsetBuilder {
 
                 //Metadata
                 let has32: boolean = false;
+                let has64: boolean = false;
 
                 let modifiedAssets: {}[] = [];
                 let sourceAssets: any[] = [];
+                let layers = new Set<string>();
 
                 assetsXml.elements[0]?.elements.forEach((asset) => {
 
                     if(asset.attributes !== undefined) {
                         const name: string = asset.attributes.name;
 
+                        // Check if name is defined before processing
+                        if (!name) {
+                            console.log("\x1b[0m", ">>", "\x1b[31m", `Skipping asset with undefined name`, "\x1b[0m");
+                            return;
+                        }
+
                         try {
-                            // Pet assets have a different naming convention
-                            // Usually pet_name_direction_frame_action
-                            const splittedName: string[] = asset.attributes.name.split("_");
+                            // Pet frame naming convention: petname_size_layer_direction_action
+                            const parts = name.split("_");
                             
-                            //Check if it has a 32 sprite
-                            if (asset.attributes.name.includes("_32_")) {
+                            //Check sprite sizes
+                            if (name.includes("_32_")) {
                                 has32 = true;
+                            }
+                            if (name.includes("_64_")) {
+                                has64 = true;
+                            }
+                            
+                            // Extract layer information (typically a, b, c, d, sd)
+                            if (parts.length >= 3) {
+                                const layerPart = parts[2];
+                                if (layerPart && layerPart.match(/^[a-z]+$/)) {
+                                    layers.add(layerPart);
+                                }
                             }
 
                             if (spritesheet.frames[asset.attributes.name] !== undefined) {
                                 const { spriteSourceSize } = spritesheet.frames[asset.attributes.name];
-                                spriteSourceSize.x = -parseInt(asset.attributes.x);
-                                spriteSourceSize.y = -parseInt(asset.attributes.y);
-                                spritesheet.frames[asset.attributes.name].flipH = asset.attributes.flipH !== undefined;
+                                // Ensure x and y are parsed correctly
+                                const offsetX = asset.attributes.x ? parseInt(asset.attributes.x) : 0;
+                                const offsetY = asset.attributes.y ? parseInt(asset.attributes.y) : 0;
+                                
+                                spriteSourceSize.x = -offsetX;
+                                spriteSourceSize.y = -offsetY;
+                                
+                                // Handle flip attributes
+                                spritesheet.frames[asset.attributes.name].flipH = asset.attributes.flipH === "1" || asset.attributes.flipH === "true";
+                                spritesheet.frames[asset.attributes.name].flipV = asset.attributes.flipV === "1" || asset.attributes.flipV === "true";
+                                
+                                // Store additional pet-specific attributes
+                                if (asset.attributes.usesPalette) {
+                                    spritesheet.frames[asset.attributes.name].usesPalette = asset.attributes.usesPalette === "1";
+                                }
+                                
                                 modifiedAssets.push(asset);
                             } else if(asset.attributes.source !== undefined) {
                                 sourceAssets.push(asset);
@@ -153,42 +184,56 @@ export class OffsetBuilder {
 
                 sourceAssets.forEach((asset) => {
                     try {
-                        spritesheet.frames[asset.attributes.name] = {
-                            "frame": {
-                                "x": spritesheet.frames[asset.attributes.source].frame.x,
-                                "y": spritesheet.frames[asset.attributes.source].frame.y,
-                                "w": spritesheet.frames[asset.attributes.source].frame.w,
-                                "h": spritesheet.frames[asset.attributes.source].frame.h
-                            },
-                            "sourceSize": {
-                                "w": spritesheet.frames[asset.attributes.source].sourceSize.w,
-                                "h": spritesheet.frames[asset.attributes.source].sourceSize.h
-                            },
-                            "spriteSourceSize": {
-                                "x": -parseInt(asset.attributes.x),
-                                "y": -parseInt(asset.attributes.y),
-                                "w": spritesheet.frames[asset.attributes.source].spriteSourceSize.w,
-                                "h": spritesheet.frames[asset.attributes.source].spriteSourceSize.h
-                            },
-                            "rotated": false,
-                            "trimmed": true,
-                            "flipH": asset.attributes.flipH !== undefined
+                        if (spritesheet.frames[asset.attributes.source]) {
+                            const offsetX = asset.attributes.x ? parseInt(asset.attributes.x) : 0;
+                            const offsetY = asset.attributes.y ? parseInt(asset.attributes.y) : 0;
+                            
+                            spritesheet.frames[asset.attributes.name] = {
+                                "frame": {
+                                    "x": spritesheet.frames[asset.attributes.source].frame.x,
+                                    "y": spritesheet.frames[asset.attributes.source].frame.y,
+                                    "w": spritesheet.frames[asset.attributes.source].frame.w,
+                                    "h": spritesheet.frames[asset.attributes.source].frame.h
+                                },
+                                "sourceSize": {
+                                    "w": spritesheet.frames[asset.attributes.source].sourceSize.w,
+                                    "h": spritesheet.frames[asset.attributes.source].sourceSize.h
+                                },
+                                "spriteSourceSize": {
+                                    "x": -offsetX,
+                                    "y": -offsetY,
+                                    "w": spritesheet.frames[asset.attributes.source].spriteSourceSize.w,
+                                    "h": spritesheet.frames[asset.attributes.source].spriteSourceSize.h
+                                },
+                                "rotated": false,
+                                "trimmed": true,
+                                "flipH": asset.attributes.flipH === "1" || asset.attributes.flipH === "true",
+                                "flipV": asset.attributes.flipV === "1" || asset.attributes.flipV === "true"
+                            };
+                            
+                            if (asset.attributes.usesPalette) {
+                                spritesheet.frames[asset.attributes.name].usesPalette = asset.attributes.usesPalette === "1";
+                            }
+                            
+                            modifiedAssets.push(asset);
                         }
-                        modifiedAssets.push(asset);
                     }catch (e) {
                         console.error(`Error processing pet source asset ${asset.attributes.name}:`, e);
                     }
                 });
 
                 //Adjust the metadata for pets
-                if (has32) {
+                if (has32 && has64) {
                     spritesheet.meta.sizes = ["64", "32"];
-                } else {
+                } else if (has64) {
                     spritesheet.meta.sizes = ["64"];
+                } else if (has32) {
+                    spritesheet.meta.sizes = ["32"];
                 }
 
                 // Add pet-specific metadata
                 spritesheet.meta.type = "pet";
+                spritesheet.meta.layerTypes = Array.from(layers).sort();
 
                 fs.writeFile(`${outputPath}/${assetName}/${assetName}.json`, JSON.stringify(spritesheet), () => {
                     resolve();

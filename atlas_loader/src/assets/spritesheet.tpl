@@ -8,12 +8,17 @@
         "directions": [],
         "animations": [],
         "colors": [],
+        <% if (typeof petProperty !== 'undefined') { %>"type": "pet",
+        "actions": [],<% } %>
+        <% if (typeof furniProperty !== 'undefined') { %>"type": "furniture",<% } %>
         "size": {
             "w": <%= layout.width %>,
             "h": <%= layout.height %>
         },
         "version": "1.0"
     },
+    <% if (typeof petProperty !== 'undefined') { %>"petProperty": {},<% } %>
+    <% if (typeof furniProperty !== 'undefined') { %>"furniProperty": {},<% } %>
     "frames": {
         <% layout.images.forEach(function (image, idx) {
             if (image.className.indexOf('-') >= 0) { %>'<%= image.className %>'<% } else { %>"<%= image.className %>"<% } %>: {

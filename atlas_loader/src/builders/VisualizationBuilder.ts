@@ -130,55 +130,132 @@ export class VisualizationBuilder {
                 let spritesheet: any = fs.readFileSync(`${outputPath}/${assetName}/${assetName}.json`);
                 spritesheet = JSON.parse(spritesheet);
                 
-                // Pets typically don't have complex visualization XML like furniture
-                // They mainly use a simpler animation system
+                // Check if visualization XML exists
+                const visualizationPath = `${outputPath}/${assetName}/${assetName}_visualization.xml`;
+                let hasVisualizationXml = false;
+                let visualizationXml: any = null;
+                
+                if (fs.existsSync(visualizationPath)) {
+                    hasVisualizationXml = true;
+                    visualizationXml = fs.readFileSync(visualizationPath);
+                    visualizationXml = xml2js(visualizationXml, {compact: true});
+                }
+                
                 const petProperty = {
                     type: "pet",
                     name: assetName,
-                    directions: [0, 2, 4, 6], // Standard pet directions (4-directional)
-                    actions: [], // Will be populated from available frames
-                    colors: {}, // Pet color variations
-                    animation: {},
+                    directions: [],
+                    actions: [],
+                    layers: {},
+                    animations: {},
+                    colors: {},
                 };
 
-                // Extract available actions and directions from frame names
-                const frameNames = Object.keys(spritesheet.frames);
-                const actions = new Set<string>();
-                const directions = new Set<number>();
-
-                frameNames.forEach(frameName => {
-                    // Pet frame naming convention: petname_direction_frame_action
-                    const parts = frameName.split('_');
-                    if (parts.length >= 4) {
-                        const direction = parseInt(parts[1]);
-                        const action = parts[parts.length - 1];
-                        
-                        if (!isNaN(direction)) {
-                            directions.add(direction);
+                if (hasVisualizationXml && visualizationXml?.visualizationData?.graphics?.visualization) {
+                    // Parse the visualization data for both 32 and 64 sizes
+                    const visualizations = this.formatArray(visualizationXml.visualizationData.graphics.visualization);
+                    
+                    // Process 64 size visualization (primary)
+                    const visualization64 = visualizations.find(vis => vis._attributes?.size === '64') || visualizations[0];
+                    const visualization32 = visualizations.find(vis => vis._attributes?.size === '32');
+                    
+                    if (visualization64) {
+                        // Extract layers
+                        if (visualization64.layers?.layer) {
+                            this.formatArray(visualization64.layers.layer).forEach(layer => {
+                                if (layer._attributes?.id !== undefined) {
+                                    petProperty.layers[layer._attributes.id] = {
+                                        id: parseInt(layer._attributes.id),
+                                        tag: layer._attributes.tag || '',
+                                        z: layer._attributes.z || 0
+                                    };
+                                }
+                            });
                         }
-                        if (action && action !== 'png') {
-                            actions.add(action);
+                        
+                        // Extract directions
+                        if (visualization64.directions?.direction) {
+                            petProperty.directions = this.formatArray(visualization64.directions.direction)
+                                .map(dir => parseInt(dir._attributes.id))
+                                .filter(id => !isNaN(id));
+                        }
+                        
+                        // Extract animations
+                        if (visualization64.animations?.animation) {
+                            this.formatArray(visualization64.animations.animation).forEach(animation => {
+                                const animId = animation._attributes.id;
+                                petProperty.animations[animId] = {
+                                    id: animId,
+                                    layers: {}
+                                };
+                                
+                                if (animation.animationLayer) {
+                                    this.formatArray(animation.animationLayer).forEach(animLayer => {
+                                        const layerId = animLayer._attributes.id;
+                                        const frames = [];
+                                        
+                                        if (animLayer.frameSequence?.frame) {
+                                            this.formatArray(animLayer.frameSequence.frame).forEach(frame => {
+                                                frames.push({
+                                                    id: parseInt(frame._attributes.id),
+                                                    offsets: this.extractOffsets(frame.offsets)
+                                                });
+                                            });
+                                        }
+                                        
+                                        petProperty.animations[animId].layers[layerId] = {
+                                            id: parseInt(layerId),
+                                            frameRepeat: animLayer._attributes.frameRepeat ? parseInt(animLayer._attributes.frameRepeat) : 1,
+                                            loopCount: animLayer._attributes.loopCount ? parseInt(animLayer._attributes.loopCount) : 1,
+                                            frames: frames
+                                        };
+                                    });
+                                }
+                            });
                         }
                     }
-                });
+                } else {
+                    // Fallback: Extract data from frame names if no visualization XML
+                    const frameNames = Object.keys(spritesheet.frames);
+                    const actions = new Set<string>();
+                    const directions = new Set<number>();
 
-                petProperty.directions = Array.from(directions).sort((a, b) => a - b);
-                petProperty.actions = Array.from(actions);
+                    frameNames.forEach(frameName => {
+                        // Pet frame naming convention: petname_size_layer_direction_action
+                        const parts = frameName.split('_');
+                        if (parts.length >= 4) {
+                            const sizeOrLayer = parts[1];
+                            const possibleDirection = parseInt(parts[2]);
+                            const action = parts[parts.length - 1];
+                            
+                            if (!isNaN(possibleDirection)) {
+                                directions.add(possibleDirection);
+                            }
+                            if (action && !isNaN(parseInt(action))) {
+                                actions.add(action);
+                            }
+                        }
+                    });
 
-                // Basic color support (most pets have color variations)
-                petProperty.colors = {
-                    0: "default",
-                    1: "variation1", 
-                    2: "variation2"
-                };
+                    petProperty.directions = Array.from(directions).sort((a, b) => a - b);
+                    petProperty.actions = Array.from(actions);
+                    
+                    // Default layers for pets without visualization XML
+                    petProperty.layers = {
+                        0: { id: 0, tag: 'body', z: 0 },
+                        1: { id: 1, tag: 'head', z: 10 },
+                        2: { id: 2, tag: 'tail', z: 10 },
+                        3: { id: 3, tag: 'emoticon', z: 11 }
+                    };
+                }
 
+                // Set spritesheet properties
                 spritesheet.petProperty = petProperty;
-
-                // Set pet-specific metadata
                 spritesheet.meta.type = "pet";
                 spritesheet.meta.directions = petProperty.directions;
-                spritesheet.meta.actions = petProperty.actions;
+                spritesheet.meta.animations = Object.keys(petProperty.animations).map(Number);
                 spritesheet.meta.colors = Object.keys(petProperty.colors).map(Number);
+                spritesheet.meta.layers = Object.keys(petProperty.layers).map(Number);
 
                 fs.writeFile(`${outputPath}/${assetName}/${assetName}.json`, JSON.stringify(spritesheet), () => {
                     resolve(true);
@@ -188,6 +265,21 @@ export class VisualizationBuilder {
                 resolve(false);
             }
         });
+    }
+    
+    private extractOffsets(offsetsElement: any): any {
+        const offsets = {};
+        if (offsetsElement?.offset) {
+            this.formatArray(offsetsElement.offset).forEach(offset => {
+                if (offset._attributes?.direction !== undefined) {
+                    offsets[offset._attributes.direction] = {
+                        x: offset._attributes.x ? parseInt(offset._attributes.x) : 0,
+                        y: offset._attributes.y ? parseInt(offset._attributes.y) : 0
+                    };
+                }
+            });
+        }
+        return offsets;
     }
 
     formatArray(elm: any) {
