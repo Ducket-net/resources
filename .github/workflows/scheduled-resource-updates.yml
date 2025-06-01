@@ -30,133 +30,31 @@ jobs:
       - name: Get latest external variables ID
         id: get-external-id
         run: |
-          # Create a Node.js script to fetch the latest external variables ID
-          cat << 'EOF' > get-external-id.js
-          const https = require('https');
-          const { URL } = require('url');
+          echo "🔍 Getting latest external variables ID..."
           
-          async function getLatestExternalId() {
-            return new Promise((resolve, reject) => {
-              const options = {
-                hostname: 'habbo.com',
-                path: '/gamedata/external_variables/0',
-                method: 'HEAD', // Use HEAD to get just headers
-                timeout: 10000
-              };
-              
-              const req = https.request(options, (res) => {
-                if (res.statusCode === 302 || res.statusCode === 301) {
-                  // Extract ID from redirect location
-                  const location = res.headers.location;
-                  if (location) {
-                    const url = new URL(location, 'https://habbo.com');
-                    const pathParts = url.pathname.split('/');
-                    const id = pathParts[pathParts.length - 1];
-                    resolve(id);
-                  } else {
-                    reject(new Error('No redirect location found'));
-                  }
-                } else if (res.statusCode === 200) {
-                  // If no redirect, try to get the ID from the current URL
-                  // This might happen if /0 doesn't redirect
-                  // In this case, we'll need to fetch the content and parse it differently
-                  reject(new Error('No redirect found, may need alternative method'));
-                } else {
-                  reject(new Error(`HTTP ${res.statusCode}`));
-                }
-              });
-              
-              req.on('error', reject);
-              req.on('timeout', () => {
-                req.destroy();
-                reject(new Error('Request timeout'));
-              });
-              
-              req.end();
-            });
-          }
+          # Use curl to follow redirects and extract the final ID
+          # The /0 endpoint redirects to the current version via 307 redirects
+          REDIRECT_URL=$(curl -s -I -L "https://www.habbo.com/gamedata/external_variables/0" | grep -i "^location:" | tail -1 | sed 's/location: //i' | tr -d '\r')
           
-          // Alternative method: fetch content and extract from flash.client.url
-          async function getIdFromContent() {
-            return new Promise((resolve, reject) => {
-              const options = {
-                hostname: 'habbo.com',
-                path: '/gamedata/external_variables/0',
-                method: 'GET',
-                timeout: 10000
-              };
-              
-              const req = https.request(options, (res) => {
-                let data = '';
-                
-                res.on('data', chunk => {
-                  data += chunk;
-                });
-                
-                res.on('end', () => {
-                  try {
-                    // Look for flash.client.url to extract the assets ID
-                    const flashMatch = data.match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi);
-                    if (flashMatch) {
-                      const assetsId = flashMatch[1];
-                      console.log('Found assets ID:', assetsId);
-                    }
-                    
-                    // For external variables, we need to find a pattern that gives us the current version
-                    // Try to extract from any version references in the content
-                    const versionMatch = data.match(/([a-f0-9]{40})/g);
-                    if (versionMatch && versionMatch.length > 0) {
-                      // Take the first 40-character hex string (likely a hash)
-                      resolve(versionMatch[0]);
-                    } else {
-                      reject(new Error('Could not extract external variables ID from content'));
-                    }
-                  } catch (error) {
-                    reject(error);
-                  }
-                });
-              });
-              
-              req.on('error', reject);
-              req.on('timeout', () => {
-                req.destroy();
-                reject(new Error('Request timeout'));
-              });
-              
-              req.end();
-            });
-          }
-          
-          async function main() {
-            try {
-              console.log('Trying redirect method...');
-              const id = await getLatestExternalId();
-              console.log('External Variables ID:', id);
-              console.log(`EXTERNAL_ID=${id}`);
-            } catch (error) {
-              console.log('Redirect method failed:', error.message);
-              console.log('Trying content extraction method...');
-              try {
-                const id = await getIdFromContent();
-                console.log('External Variables ID:', id);
-                console.log(`EXTERNAL_ID=${id}`);
-              } catch (contentError) {
-                console.error('Both methods failed:', contentError.message);
-                process.exit(1);
-              }
-            }
-          }
-          
-          main();
-          EOF
-          
-          # Run the script and capture the output
-          EXTERNAL_ID=$(node get-external-id.js | grep "EXTERNAL_ID=" | cut -d'=' -f2)
-          echo "Found External ID: $EXTERNAL_ID"
-          echo "external-id=$EXTERNAL_ID" >> $GITHUB_OUTPUT
-          
-          # Clean up the temporary script
-          rm get-external-id.js
+          if [ -n "$REDIRECT_URL" ]; then
+            # Extract ID from the redirect URL
+            EXTERNAL_ID=$(echo "$REDIRECT_URL" | sed 's/.*external_variables\///' | tr -d '\r\n')
+            echo "✅ Found External Variables ID via redirect: $EXTERNAL_ID"
+            
+            # Verify the ID works by testing it
+            HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://www.habbo.com/gamedata/external_variables/$EXTERNAL_ID")
+            
+            if [ "$HTTP_STATUS" = "200" ]; then
+              echo "✅ Verified ID $EXTERNAL_ID is working (HTTP $HTTP_STATUS)"
+              echo "external-id=$EXTERNAL_ID" >> $GITHUB_OUTPUT
+            else
+              echo "❌ ID $EXTERNAL_ID returned HTTP $HTTP_STATUS"
+              exit 1
+            fi
+          else
+            echo "❌ Could not find redirect URL"
+            exit 1
+          fi
 
       - name: Run Node command with dynamic ID
         run: |
