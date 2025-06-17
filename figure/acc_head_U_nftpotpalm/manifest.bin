@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_nftpotpalm" version="0.1">
+    <assets>
+      <asset name="h_lay_he_6763_2_0" mimeType="image/png">
+        <param key="offset" value="21,64"/>
+      </asset>
+      <asset name="h_std_he_6763_0_0" mimeType="image/png">
+        <param key="offset" value="-21,103"/>
+      </asset>
+      <asset name="h_std_he_6763_1_0" mimeType="image/png">
+        <param key="offset" value="-21,101"/>
+      </asset>
+      <asset name="h_std_he_6763_2_0" mimeType="image/png">
+        <param key="offset" value="-20,103"/>
+      </asset>
+      <asset name="h_std_he_6763_3_0" mimeType="image/png">
+        <param key="offset" value="-20,101"/>
+      </asset>
+      <asset name="h_std_he_6763_7_0" mimeType="image/png">
+        <param key="offset" value="-22,101"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

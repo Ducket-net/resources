@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_eye_U_nfts25glasses2" version="0.1">
+    <assets>
+      <asset name="h_std_ea_6770_2_0" mimeType="image/png">
+        <param key="offset" value="-20,65"/>
+      </asset>
+      <asset name="h_std_ea_6770_1_0" mimeType="image/png">
+        <param key="offset" value="-27,66"/>
+      </asset>
+      <asset name="h_std_ea_6770_0_0" mimeType="image/png">
+        <param key="offset" value="-34,65"/>
+      </asset>
+      <asset name="h_std_ea_6770_3_0" mimeType="image/png">
+        <param key="offset" value="-20,62"/>
+      </asset>
+      <asset name="h_std_ea_6770_7_0" mimeType="image/png">
+        <param key="offset" value="-26,46"/>
+      </asset>
+      <asset name="h_spk_ea_6770_2_0" mimeType="image/png">
+        <param key="offset" value="-20,66"/>
+      </asset>
+      <asset name="h_spk_ea_6770_1_0" mimeType="image/png">
+        <param key="offset" value="-27,67"/>
+      </asset>
+      <asset name="h_spk_ea_6770_0_0" mimeType="image/png">
+        <param key="offset" value="-34,66"/>
+      </asset>
+      <asset name="h_spk_ea_6770_3_0" mimeType="image/png">
+        <param key="offset" value="-20,63"/>
+      </asset>
+      <asset name="h_spk_ea_6770_7_0" mimeType="image/png">
+        <param key="offset" value="-26,47"/>
+      </asset>
+      <asset name="h_lay__6770__lay" mimeType="image/png">
+        <param key="offset" value="-258,-297"/>
+      </asset>
+      <asset name="h_lsp__6770__lay" mimeType="image/png">
+        <param key="offset" value="-176,-122"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

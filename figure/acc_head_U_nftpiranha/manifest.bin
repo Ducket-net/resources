@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_nftpiranha" version="0.1">
+    <assets>
+      <asset name="h_lay_he_6762_2_0" mimeType="image/png">
+        <param key="offset" value="27,23"/>
+      </asset>
+      <asset name="h_std_he_6762_0_0" mimeType="image/png">
+        <param key="offset" value="-32,62"/>
+      </asset>
+      <asset name="h_std_he_6762_1_0" mimeType="image/png">
+        <param key="offset" value="-11,59"/>
+      </asset>
+      <asset name="h_std_he_6762_2_0" mimeType="image/png">
+        <param key="offset" value="-9,60"/>
+      </asset>
+      <asset name="h_std_he_6762_3_0" mimeType="image/png">
+        <param key="offset" value="-14,64"/>
+      </asset>
+      <asset name="h_std_he_6762_7_0" mimeType="image/png">
+        <param key="offset" value="-13,61"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
