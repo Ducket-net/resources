@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
   <library name="shirt_U_nftbubblebath" version="0.1">
     <assets>
+      <asset name="h_lay_ls_6764_2_0" mimeType="image/png">
+        <param key="offset" value="-15,24"/>
+      </asset>
+      <asset name="h_lay_ch_6764_2_0" mimeType="image/png">
+        <param key="offset" value="7,27"/>
+      </asset>
+      <asset name="h_lay_rs_6764_2_0" mimeType="image/png">
+        <param key="offset" value="7,16"/>
+      </asset>
       <asset name="h_std_ls_6764_0_0" mimeType="image/png">
         <param key="offset" value="-20,47"/>
       </asset>
       <asset name="h_std_ch_6764_0_0" mimeType="image/png">
-        <param key="offset" value="-17,49"/>
+        <param key="offset" value="-16,49"/>
       </asset>
       <asset name="h_std_rs_6764_0_0" mimeType="image/png">
         <param key="offset" value="-36,45"/>
       </asset>
       <asset name="h_std_ch_6764_1_0" mimeType="image/png">
-        <param key="offset" value="-22,41"/>
+        <param key="offset" value="-18,42"/>
       </asset>
       <asset name="h_std_rs_6764_1_0" mimeType="image/png">
-        <param key="offset" value="-24,44"/>
+        <param key="offset" value="-24,45"/>
       </asset>
       <asset name="h_std_ls_6764_1_0" mimeType="image/png">
         <param key="offset" value="-31,43"/>
@@ -41,19 +50,10 @@
         <param key="offset" value="-21,48"/>
       </asset>
       <asset name="h_std_rs_6764_7_0" mimeType="image/png">
-        <param key="offset" value="-40,49"/>
+        <param key="offset" value="-48,46"/>
       </asset>
       <asset name="h_std_ch_6764_7_0" mimeType="image/png">
-        <param key="offset" value="-21,24"/>
-      </asset>
-      <asset name="h_lay_ls_6764_2_0" mimeType="image/png">
-        <param key="offset" value="-15,24"/>
-      </asset>
-      <asset name="h_lay_ch_6764_2_0" mimeType="image/png">
-        <param key="offset" value="7,27"/>
-      </asset>
-      <asset name="h_lay_rs_6764_2_0" mimeType="image/png">
-        <param key="offset" value="7,16"/>
+        <param key="offset" value="-20,49"/>
       </asset>
     </assets>
   </library>

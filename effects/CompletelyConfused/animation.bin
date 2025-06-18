@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <animation name="fx.236" desc="CompletelyConfused">
-	<sprite id="fx236_1" ink="36" member="std_fx236_1_1" >
+	<sprite id="fx236_1" ink="36" member="std_fx236_1_1" directions="1">
 		<direction id="0" dz="1" />
 		<direction id="1" dz="1" />
 		<direction id="2" dz="1" />
