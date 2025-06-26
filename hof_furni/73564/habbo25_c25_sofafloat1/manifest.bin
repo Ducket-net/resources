@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="habbo25_c25_sofafloat1" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="habbo25_c25_sofafloat1_visualization" mimeType="text/xml"/>
+      <asset name="habbo25_c25_sofafloat1_assets" mimeType="text/xml"/>
+      <asset name="habbo25_c25_sofafloat1_logic" mimeType="text/xml"/>
+      <asset name="habbo25_c25_sofafloat1_64_a_2_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_a_2_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_b_2_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_c_2_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_c_2_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_d_2_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_d_2_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_e_2_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_e_2_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_f_2_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_f_2_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_a_6_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_a_6_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_b_6_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_c_6_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_c_6_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_f_6_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_f_6_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_d_6_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_d_6_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_e_6_0" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_64_e_6_1" mimeType="image/png"/>
+      <asset name="habbo25_c25_sofafloat1_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
