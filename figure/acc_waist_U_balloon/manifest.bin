@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_balloon" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_6800_2_0" mimeType="image/png">
+        <param key="offset" value="8,59"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_1" mimeType="image/png">
+        <param key="offset" value="8,59"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_2" mimeType="image/png">
+        <param key="offset" value="8,60"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_3" mimeType="image/png">
+        <param key="offset" value="8,60"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_4" mimeType="image/png">
+        <param key="offset" value="8,61"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_5" mimeType="image/png">
+        <param key="offset" value="8,61"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_6" mimeType="image/png">
+        <param key="offset" value="8,60"/>
+      </asset>
+      <asset name="h_lay_wa_6800_2_7" mimeType="image/png">
+        <param key="offset" value="8,60"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_0" mimeType="image/png">
+        <param key="offset" value="7,58"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_1" mimeType="image/png">
+        <param key="offset" value="7,58"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_2" mimeType="image/png">
+        <param key="offset" value="7,59"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_3" mimeType="image/png">
+        <param key="offset" value="7,59"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_4" mimeType="image/png">
+        <param key="offset" value="7,60"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_5" mimeType="image/png">
+        <param key="offset" value="7,60"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_6" mimeType="image/png">
+        <param key="offset" value="7,59"/>
+      </asset>
+      <asset name="h_lay_wa_6801_2_7" mimeType="image/png">
+        <param key="offset" value="7,59"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_0" mimeType="image/png">
+        <param key="offset" value="7,57"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_1" mimeType="image/png">
+        <param key="offset" value="7,57"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_2" mimeType="image/png">
+        <param key="offset" value="7,58"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_3" mimeType="image/png">
+        <param key="offset" value="7,58"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_4" mimeType="image/png">
+        <param key="offset" value="7,58"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_5" mimeType="image/png">
+        <param key="offset" value="7,58"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_6" mimeType="image/png">
+        <param key="offset" value="7,57"/>
+      </asset>
+      <asset name="h_lay_wa_6802_2_7" mimeType="image/png">
+        <param key="offset" value="7,57"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_0" mimeType="image/png">
+        <param key="offset" value="-8,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_0" mimeType="image/png">
+        <param key="offset" value="-36,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_0" mimeType="image/png">
+        <param key="offset" value="-5,98"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_0" mimeType="image/png">
+        <param key="offset" value="-10,102"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,102"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_1" mimeType="image/png">
+        <param key="offset" value="-8,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_1" mimeType="image/png">
+        <param key="offset" value="-36,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_1" mimeType="image/png">
+        <param key="offset" value="-5,98"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_1" mimeType="image/png">
+        <param key="offset" value="-10,102"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_1" mimeType="image/png">
+        <param key="offset" value="-31,102"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_2" mimeType="image/png">
+        <param key="offset" value="-8,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_2" mimeType="image/png">
+        <param key="offset" value="-36,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_2" mimeType="image/png">
+        <param key="offset" value="-5,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_2" mimeType="image/png">
+        <param key="offset" value="-10,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_2" mimeType="image/png">
+        <param key="offset" value="-31,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_3" mimeType="image/png">
+        <param key="offset" value="-8,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_3" mimeType="image/png">
+        <param key="offset" value="-36,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_3" mimeType="image/png">
+        <param key="offset" value="-5,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_3" mimeType="image/png">
+        <param key="offset" value="-10,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_3" mimeType="image/png">
+        <param key="offset" value="-31,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_4" mimeType="image/png">
+        <param key="offset" value="-8,101"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_4" mimeType="image/png">
+        <param key="offset" value="-36,101"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_4" mimeType="image/png">
+        <param key="offset" value="-5,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_4" mimeType="image/png">
+        <param key="offset" value="-10,104"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_4" mimeType="image/png">
+        <param key="offset" value="-31,104"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_5" mimeType="image/png">
+        <param key="offset" value="-8,101"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_5" mimeType="image/png">
+        <param key="offset" value="-36,101"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_5" mimeType="image/png">
+        <param key="offset" value="-5,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_5" mimeType="image/png">
+        <param key="offset" value="-10,104"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_5" mimeType="image/png">
+        <param key="offset" value="-31,104"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_6" mimeType="image/png">
+        <param key="offset" value="-8,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_6" mimeType="image/png">
+        <param key="offset" value="-36,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_6" mimeType="image/png">
+        <param key="offset" value="-5,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_6" mimeType="image/png">
+        <param key="offset" value="-10,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_6" mimeType="image/png">
+        <param key="offset" value="-31,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_7_7" mimeType="image/png">
+        <param key="offset" value="-8,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_3_7" mimeType="image/png">
+        <param key="offset" value="-36,100"/>
+      </asset>
+      <asset name="h_std_wa_6800_0_7" mimeType="image/png">
+        <param key="offset" value="-5,99"/>
+      </asset>
+      <asset name="h_std_wa_6800_1_7" mimeType="image/png">
+        <param key="offset" value="-10,103"/>
+      </asset>
+      <asset name="h_std_wa_6800_2_7" mimeType="image/png">
+        <param key="offset" value="-31,103"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_0" mimeType="image/png">
+        <param key="offset" value="-9,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_0" mimeType="image/png">
+        <param key="offset" value="-37,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_0" mimeType="image/png">
+        <param key="offset" value="-6,97"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_0" mimeType="image/png">
+        <param key="offset" value="-11,101"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_0" mimeType="image/png">
+        <param key="offset" value="-32,101"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_1" mimeType="image/png">
+        <param key="offset" value="-9,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_1" mimeType="image/png">
+        <param key="offset" value="-37,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_1" mimeType="image/png">
+        <param key="offset" value="-6,97"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_1" mimeType="image/png">
+        <param key="offset" value="-11,101"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_1" mimeType="image/png">
+        <param key="offset" value="-32,101"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_2" mimeType="image/png">
+        <param key="offset" value="-9,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_2" mimeType="image/png">
+        <param key="offset" value="-37,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_2" mimeType="image/png">
+        <param key="offset" value="-6,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_2" mimeType="image/png">
+        <param key="offset" value="-11,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_2" mimeType="image/png">
+        <param key="offset" value="-32,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_3" mimeType="image/png">
+        <param key="offset" value="-9,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_3" mimeType="image/png">
+        <param key="offset" value="-37,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_3" mimeType="image/png">
+        <param key="offset" value="-6,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_3" mimeType="image/png">
+        <param key="offset" value="-11,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_3" mimeType="image/png">
+        <param key="offset" value="-32,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_4" mimeType="image/png">
+        <param key="offset" value="-9,100"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_4" mimeType="image/png">
+        <param key="offset" value="-37,100"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_4" mimeType="image/png">
+        <param key="offset" value="-6,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_4" mimeType="image/png">
+        <param key="offset" value="-11,103"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_4" mimeType="image/png">
+        <param key="offset" value="-32,103"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_5" mimeType="image/png">
+        <param key="offset" value="-9,100"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_5" mimeType="image/png">
+        <param key="offset" value="-37,100"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_5" mimeType="image/png">
+        <param key="offset" value="-6,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_5" mimeType="image/png">
+        <param key="offset" value="-11,103"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_5" mimeType="image/png">
+        <param key="offset" value="-32,103"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_6" mimeType="image/png">
+        <param key="offset" value="-9,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_6" mimeType="image/png">
+        <param key="offset" value="-37,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_6" mimeType="image/png">
+        <param key="offset" value="-6,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_6" mimeType="image/png">
+        <param key="offset" value="-11,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_6" mimeType="image/png">
+        <param key="offset" value="-32,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_7_7" mimeType="image/png">
+        <param key="offset" value="-9,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_3_7" mimeType="image/png">
+        <param key="offset" value="-37,99"/>
+      </asset>
+      <asset name="h_std_wa_6801_0_7" mimeType="image/png">
+        <param key="offset" value="-6,98"/>
+      </asset>
+      <asset name="h_std_wa_6801_1_7" mimeType="image/png">
+        <param key="offset" value="-11,102"/>
+      </asset>
+      <asset name="h_std_wa_6801_2_7" mimeType="image/png">
+        <param key="offset" value="-32,102"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_0" mimeType="image/png">
+        <param key="offset" value="-32,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_1" mimeType="image/png">
+        <param key="offset" value="-32,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_2" mimeType="image/png">
+        <param key="offset" value="-32,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_3" mimeType="image/png">
+        <param key="offset" value="-32,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_4" mimeType="image/png">
+        <param key="offset" value="-32,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_5" mimeType="image/png">
+        <param key="offset" value="-32,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_6" mimeType="image/png">
+        <param key="offset" value="-32,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_2_7" mimeType="image/png">
+        <param key="offset" value="-32,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_0" mimeType="image/png">
+        <param key="offset" value="-11,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_1" mimeType="image/png">
+        <param key="offset" value="-11,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_2" mimeType="image/png">
+        <param key="offset" value="-11,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_3" mimeType="image/png">
+        <param key="offset" value="-11,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_4" mimeType="image/png">
+        <param key="offset" value="-11,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_5" mimeType="image/png">
+        <param key="offset" value="-11,101"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_6" mimeType="image/png">
+        <param key="offset" value="-11,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_1_7" mimeType="image/png">
+        <param key="offset" value="-11,100"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_0" mimeType="image/png">
+        <param key="offset" value="-6,96"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_1" mimeType="image/png">
+        <param key="offset" value="-6,96"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_2" mimeType="image/png">
+        <param key="offset" value="-6,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_3" mimeType="image/png">
+        <param key="offset" value="-6,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_4" mimeType="image/png">
+        <param key="offset" value="-6,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_5" mimeType="image/png">
+        <param key="offset" value="-6,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_6" mimeType="image/png">
+        <param key="offset" value="-6,96"/>
+      </asset>
+      <asset name="h_std_wa_6802_0_7" mimeType="image/png">
+        <param key="offset" value="-6,96"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_0" mimeType="image/png">
+        <param key="offset" value="-37,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_1" mimeType="image/png">
+        <param key="offset" value="-37,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_2" mimeType="image/png">
+        <param key="offset" value="-37,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_3" mimeType="image/png">
+        <param key="offset" value="-37,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_4" mimeType="image/png">
+        <param key="offset" value="-37,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_5" mimeType="image/png">
+        <param key="offset" value="-37,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_6" mimeType="image/png">
+        <param key="offset" value="-37,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_3_7" mimeType="image/png">
+        <param key="offset" value="-37,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_0" mimeType="image/png">
+        <param key="offset" value="-9,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_1" mimeType="image/png">
+        <param key="offset" value="-9,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_2" mimeType="image/png">
+        <param key="offset" value="-9,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_3" mimeType="image/png">
+        <param key="offset" value="-9,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_4" mimeType="image/png">
+        <param key="offset" value="-9,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_5" mimeType="image/png">
+        <param key="offset" value="-9,98"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_6" mimeType="image/png">
+        <param key="offset" value="-9,97"/>
+      </asset>
+      <asset name="h_std_wa_6802_7_7" mimeType="image/png">
+        <param key="offset" value="-9,97"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

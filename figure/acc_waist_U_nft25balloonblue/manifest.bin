@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_nft25balloonblue" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_6851_2_0" mimeType="image/png">
+        <param key="offset" value="4,63"/>
+      </asset>
+      <asset name="h_std_wa_6851_0_0" mimeType="image/png">
+        <param key="offset" value="3,84"/>
+      </asset>
+      <asset name="h_std_wa_6851_1_0" mimeType="image/png">
+        <param key="offset" value="1,84"/>
+      </asset>
+      <asset name="h_std_wa_6851_2_0" mimeType="image/png">
+        <param key="offset" value="7,84"/>
+      </asset>
+      <asset name="h_std_wa_6851_3_0" mimeType="image/png">
+        <param key="offset" value="-5,105"/>
+      </asset>
+      <asset name="h_std_wa_6851_7_0" mimeType="image/png">
+        <param key="offset" value="-4,103"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
