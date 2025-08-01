@@ -3,6 +3,56 @@
     <library name='hh_human_item' version='0.1'>
 
     <assets>
+
+      <asset name="h_crr_ri_290_1_0" mimeType="image/png">
+        <param key="offset" value="-42,46"/>
+      </asset>
+      <asset name="h_crr_ri_290_0_0" mimeType="image/png">
+        <param key="offset" value="-46,52"/>
+      </asset>
+      <asset name="h_crr_ri_290_2_0" mimeType="image/png">
+        <param key="offset" value="-32,41"/>
+      </asset>
+      <asset name="h_crr_ri_290_3_0" mimeType="image/png">
+        <param key="offset" value="-23,41"/>
+      </asset>
+      <asset name="h_crr_ri_290_4_0" mimeType="image/png">
+        <param key="offset" value="-7,44"/>
+      </asset>
+      <asset name="h_crr_ri_290_5_0" mimeType="image/png">
+        <param key="offset" value="-5,46"/>
+      </asset>
+      <asset name="h_crr_ri_290_6_0" mimeType="image/png">
+        <param key="offset" value="-25,21"/>
+      </asset>
+      <asset name="h_crr_ri_290_7_0" mimeType="image/png">
+        <param key="offset" value="-27,21"/>
+      </asset>
+      <asset name="h_drk_ri_290_0_0" mimeType="image/png">
+        <param key="offset" value="-32,64"/>
+      </asset>
+      <asset name="h_drk_ri_290_1_0" mimeType="image/png">
+        <param key="offset" value="-39,64"/>
+      </asset>
+      <asset name="h_drk_ri_290_2_0" mimeType="image/png">
+        <param key="offset" value="-33,59"/>
+      </asset>
+      <asset name="h_drk_ri_290_3_0" mimeType="image/png">
+        <param key="offset" value="-26,60"/>
+      </asset>
+      <asset name="h_drk_ri_290_4_0" mimeType="image/png">
+        <param key="offset" value="-10,61"/>
+      </asset>
+      <asset name="h_drk_ri_290_5_0" mimeType="image/png">
+        <param key="offset" value="-6,63"/>
+      </asset>
+      <asset name="h_drk_ri_290_6_0" mimeType="image/png">
+        <param key="offset" value="-17,63"/>
+      </asset>
+      <asset name="h_drk_ri_290_7_0" mimeType="image/png">
+        <param key="offset" value="-32,68"/>
+      </asset>
+
         
         <asset name="h_crr_ri_293_7_0" mimeType="image/png">
         <param key="offset" value="-40,42"/>
