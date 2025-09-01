@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_nftbowandquiver2" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_6886_2_0" mimeType="image/png">
+        <param key="offset" value="4,15"/>
+      </asset>
+      <asset name="h_lay_ca_6887_2_0" mimeType="image/png">
+        <param key="offset" value="-3,3"/>
+      </asset>
+      <asset name="h_std_ca_6886_0_0" mimeType="image/png">
+        <param key="offset" value="-22,35"/>
+      </asset>
+      <asset name="h_std_ca_6886_1_0" mimeType="image/png">
+        <param key="offset" value="-13,38"/>
+      </asset>
+      <asset name="h_std_ca_6886_2_0" mimeType="image/png">
+        <param key="offset" value="-10,36"/>
+      </asset>
+      <asset name="h_std_ca_6886_3_0" mimeType="image/png">
+        <param key="offset" value="-13,39"/>
+      </asset>
+      <asset name="h_std_ca_6886_7_0" mimeType="image/png">
+        <param key="offset" value="-43,33"/>
+      </asset>
+      <asset name="h_std_ca_6887_0_0" mimeType="image/png">
+        <param key="offset" value="-30,35"/>
+      </asset>
+      <asset name="h_std_ca_6887_1_0" mimeType="image/png">
+        <param key="offset" value="-28,38"/>
+      </asset>
+      <asset name="h_std_ca_6887_2_0" mimeType="image/png">
+        <param key="offset" value="-28,36"/>
+      </asset>
+      <asset name="h_std_ca_6887_3_0" mimeType="image/png">
+        <param key="offset" value="-25,39"/>
+      </asset>
+      <asset name="h_std_ca_6887_7_0" mimeType="image/png">
+        <param key="offset" value="-43,31"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
