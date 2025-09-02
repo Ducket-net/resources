@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hween_c25_ambulance" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="hween_c25_ambulance_visualization" mimeType="text/xml"/>
+      <asset name="hween_c25_ambulance_assets" mimeType="text/xml"/>
+      <asset name="hween_c25_ambulance_logic" mimeType="text/xml"/>
+      <asset name="hween_c25_ambulance_64_sd_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_a_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_b_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_c_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_d_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_e_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_f_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_g_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_h_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_i_2_0" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_a_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_b_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_c_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_d_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_e_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_f_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_g_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_h_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_i_2_1" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_a_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_b_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_c_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_d_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_e_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_f_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_g_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_h_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_64_i_2_2" mimeType="image/png"/>
+      <asset name="hween_c25_ambulance_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
