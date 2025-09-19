@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="jacket_U_nftcakeoutfit" version="0.1">
+    <assets>
+      <asset name="h_lay_cc_6923_2_0" mimeType="image/png">
+        <param key="offset" value="-6,26"/>
+      </asset>
+      <asset name="h_lay_cc_6924_2_0" mimeType="image/png">
+        <param key="offset" value="-9,24"/>
+      </asset>
+      <asset name="h_lay_cc_6925_2_0" mimeType="image/png">
+        <param key="offset" value="-7,25"/>
+      </asset>
+      <asset name="h_std_cc_6923_7_0" mimeType="image/png">
+        <param key="offset" value="-7,40"/>
+      </asset>
+      <asset name="h_std_cc_6923_3_0" mimeType="image/png">
+        <param key="offset" value="-7,42"/>
+      </asset>
+      <asset name="h_std_cc_6923_2_0" mimeType="image/png">
+        <param key="offset" value="-7,43"/>
+      </asset>
+      <asset name="h_std_cc_6923_1_0" mimeType="image/png">
+        <param key="offset" value="-7,44"/>
+      </asset>
+      <asset name="h_std_cc_6923_0_0" mimeType="image/png">
+        <param key="offset" value="-7,43"/>
+      </asset>
+      <asset name="h_std_cc_6924_7_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_std_cc_6924_3_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_std_cc_6924_2_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_std_cc_6924_1_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_std_cc_6924_0_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_std_cc_6925_7_0" mimeType="image/png">
+        <param key="offset" value="-8,39"/>
+      </asset>
+      <asset name="h_std_cc_6925_3_0" mimeType="image/png">
+        <param key="offset" value="-8,41"/>
+      </asset>
+      <asset name="h_std_cc_6925_2_0" mimeType="image/png">
+        <param key="offset" value="-8,42"/>
+      </asset>
+      <asset name="h_std_cc_6925_1_0" mimeType="image/png">
+        <param key="offset" value="-8,43"/>
+      </asset>
+      <asset name="h_std_cc_6925_0_0" mimeType="image/png">
+        <param key="offset" value="-8,42"/>
+      </asset>
+      <asset name="h_sit_cc_6923_2_0" mimeType="image/png">
+        <param key="offset" value="-7,43"/>
+      </asset>
+      <asset name="h_sit_cc_6923_0_0" mimeType="image/png">
+        <param key="offset" value="-7,43"/>
+      </asset>
+      <asset name="h_sit_cc_6924_2_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_sit_cc_6924_0_0" mimeType="image/png">
+        <param key="offset" value="-9,32"/>
+      </asset>
+      <asset name="h_sit_cc_6925_2_0" mimeType="image/png">
+        <param key="offset" value="-8,42"/>
+      </asset>
+      <asset name="h_sit_cc_6925_0_0" mimeType="image/png">
+        <param key="offset" value="-8,42"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

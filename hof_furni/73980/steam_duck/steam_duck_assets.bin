@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="steam_duck_icon_a" x="10" y="12"/>
+  <asset name="steam_duck_64_sd_4_0" x="5" y="-1"/>
+  <asset name="steam_duck_64_sd_6_0" x="5" y="-1"/>
+  <asset name="steam_duck_64_a_4_0" x="8" y="20"/>
+  <asset name="steam_duck_64_a_4_1" x="8" y="20"/>
+  <asset name="steam_duck_64_a_4_2" x="8" y="20"/>
+  <asset name="steam_duck_64_a_6_0" x="9" y="19"/>
+  <asset name="steam_duck_64_a_6_1" x="9" y="19"/>
+  <asset name="steam_duck_64_a_6_2" x="9" y="18"/>
+  <asset name="steam_duck_64_sd_0_0" flipH="1" source="steam_duck_64_sd_6_0" x="5" y="-1"/>
+  <asset name="steam_duck_64_a_0_0" flipH="1" source="steam_duck_64_a_6_0" x="9" y="19"/>
+  <asset name="steam_duck_64_a_0_1" flipH="1" source="steam_duck_64_a_6_1" x="9" y="19"/>
+  <asset name="steam_duck_64_a_0_2" flipH="1" source="steam_duck_64_a_6_2" x="9" y="18"/>
+  <asset name="steam_duck_64_sd_2_0" flipH="1" source="steam_duck_64_sd_4_0" x="5" y="-1"/>
+  <asset name="steam_duck_64_a_2_0" flipH="1" source="steam_duck_64_a_4_0" x="8" y="20"/>
+  <asset name="steam_duck_64_a_2_1" flipH="1" source="steam_duck_64_a_4_1" x="8" y="20"/>
+  <asset name="steam_duck_64_a_2_2" flipH="1" source="steam_duck_64_a_4_2" x="8" y="20"/>
+</assets>
