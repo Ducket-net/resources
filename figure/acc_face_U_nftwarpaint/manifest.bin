@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftwarpaint" version="0.1">
+    <assets>
+      <asset name="h_std_fc_6927_3_0" mimeType="image/png">
+        <param key="offset" value="-23,53"/>
+      </asset>
+      <asset name="h_std_fc_6927_2_0" mimeType="image/png">
+        <param key="offset" value="-27,55"/>
+      </asset>
+      <asset name="h_std_fc_6927_1_0" mimeType="image/png">
+        <param key="offset" value="-30,54"/>
+      </asset>
+      <asset name="h_std_fc_6927_0_0" mimeType="image/png">
+        <param key="offset" value="-40,57"/>
+      </asset>
+      <asset name="h_lay_fc_6927_2_0" mimeType="image/png">
+        <param key="offset" value="8,29"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
