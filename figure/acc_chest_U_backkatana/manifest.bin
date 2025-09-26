@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_backkatana" version="0.1">
+    <assets>
+      <asset name="h_std_ca_6806_0_0" mimeType="image/png">
+        <param key="offset" value="-11,58"/>
+      </asset>
+      <asset name="h_std_ca_6806_7_0" mimeType="image/png">
+        <param key="offset" value="-14,56"/>
+      </asset>
+      <asset name="h_std_ca_6806_3_0" mimeType="image/png">
+        <param key="offset" value="-45,68"/>
+      </asset>
+      <asset name="h_std_ca_6806_2_0" mimeType="image/png">
+        <param key="offset" value="-10,62"/>
+      </asset>
+      <asset name="h_std_ca_6806_1_0" mimeType="image/png">
+        <param key="offset" value="-19,50"/>
+      </asset>
+      <asset name="h_std_ca_6807_1_0" mimeType="image/png">
+        <param key="offset" value="-19,47"/>
+      </asset>
+      <asset name="h_std_ca_6807_2_0" mimeType="image/png">
+        <param key="offset" value="-10,59"/>
+      </asset>
+      <asset name="h_std_ca_6807_0_0" mimeType="image/png">
+        <param key="offset" value="-11,55"/>
+      </asset>
+      <asset name="h_std_ca_6807_7_0" mimeType="image/png">
+        <param key="offset" value="-14,53"/>
+      </asset>
+      <asset name="h_std_ca_6807_3_0" mimeType="image/png">
+        <param key="offset" value="-49,65"/>
+      </asset>
+      <asset name="h_std_ca_6808_7_0" mimeType="image/png">
+        <param key="offset" value="-20,39"/>
+      </asset>
+      <asset name="h_std_ca_6808_0_0" mimeType="image/png">
+        <param key="offset" value="-17,41"/>
+      </asset>
+      <asset name="h_std_ca_6808_2_0" mimeType="image/png">
+        <param key="offset" value="-21,45"/>
+      </asset>
+      <asset name="h_std_ca_6808_3_0" mimeType="image/png">
+        <param key="offset" value="-52,49"/>
+      </asset>
+      <asset name="h_std_ca_6808_1_0" mimeType="image/png">
+        <param key="offset" value="-19,36"/>
+      </asset>
+      <asset name="h_lay_ca_6806_2_0" mimeType="image/png">
+        <param key="offset" value="23,12"/>
+      </asset>
+      <asset name="h_lay_ca_6807_2_0" mimeType="image/png">
+        <param key="offset" value="20,12"/>
+      </asset>
+      <asset name="h_lay_ca_6808_2_0" mimeType="image/png">
+        <param key="offset" value="5,11"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
