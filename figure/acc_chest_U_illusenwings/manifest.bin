@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_illusenwings" version="0.1">
+    <assets>
+      <asset name="h_std_ca_6949_2_0" mimeType="image/png">
+        <param key="offset" value="-1,82"/>
+      </asset>
+      <asset name="h_std_ca_6949_1_0" mimeType="image/png">
+        <param key="offset" value="-1,63"/>
+      </asset>
+      <asset name="h_std_ca_6949_0_0" mimeType="image/png">
+        <param key="offset" value="-3,58"/>
+      </asset>
+      <asset name="h_std_ca_6949_3_0" mimeType="image/png">
+        <param key="offset" value="-3,61"/>
+      </asset>
+      <asset name="h_std_ca_6949_7_0" mimeType="image/png">
+        <param key="offset" value="-7,54"/>
+      </asset>
+      <asset name="h_lay_ca_6949_2_0" mimeType="image/png">
+        <param key="offset" value="21,11"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_2_0" mimeType="image/png">
+        <param key="offset" value="-1,82"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_1_0" mimeType="image/png">
+        <param key="offset" value="-1,63"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_0_0" mimeType="image/png">
+        <param key="offset" value="-3,58"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_3_0" mimeType="image/png">
+        <param key="offset" value="-3,61"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_7_0" mimeType="image/png">
+        <param key="offset" value="-7,54"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_2_1" mimeType="image/png">
+        <param key="offset" value="-3,81"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_1_1" mimeType="image/png">
+        <param key="offset" value="-5,65"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_0_1" mimeType="image/png">
+        <param key="offset" value="0,59"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_3_1" mimeType="image/png">
+        <param key="offset" value="-6,63"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_7_1" mimeType="image/png">
+        <param key="offset" value="-8,50"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_2_2" mimeType="image/png">
+        <param key="offset" value="-6,80"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_1_2" mimeType="image/png">
+        <param key="offset" value="-8,70"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_0_2" mimeType="image/png">
+        <param key="offset" value="2,61"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_3_2" mimeType="image/png">
+        <param key="offset" value="-9,65"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_7_2" mimeType="image/png">
+        <param key="offset" value="-11,48"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_2_3" mimeType="image/png">
+        <param key="offset" value="-3,81"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_1_3" mimeType="image/png">
+        <param key="offset" value="-5,65"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_0_3" mimeType="image/png">
+        <param key="offset" value="0,59"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_3_3" mimeType="image/png">
+        <param key="offset" value="-6,63"/>
+      </asset>
+      <asset name="h_wlk_ca_6949_7_3" mimeType="image/png">
+        <param key="offset" value="-8,50"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
