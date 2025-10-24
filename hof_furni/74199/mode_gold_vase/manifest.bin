@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="mode_gold_vase" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="mode_gold_vase_visualization" mimeType="text/xml"/>
+      <asset name="mode_gold_vase_assets" mimeType="text/xml"/>
+      <asset name="mode_gold_vase_logic" mimeType="text/xml"/>
+      <asset name="mode_gold_vase_64_sd_0_0" mimeType="image/png"/>
+      <asset name="mode_gold_vase_64_a_0_0" mimeType="image/png"/>
+      <asset name="mode_gold_vase_64_a_0_1" mimeType="image/png"/>
+      <asset name="mode_gold_vase_64_b_0_0" mimeType="image/png"/>
+      <asset name="mode_gold_vase_icon_a" mimeType="image/png"/>
+      <asset name="mode_gold_vase_icon_b" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
