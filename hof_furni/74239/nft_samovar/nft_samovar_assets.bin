@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="nft_samovar_32_a_2_0" x="15" y="34"/>
+   <asset name="nft_samovar_32_a_4_0" flipH="1" source="nft_samovar_32_a_2_0" x="15" y="34"/>
+   <asset name="nft_samovar_32_sd_0_0" x="9" y="2"/>
+   <asset name="nft_samovar_32_sd_2_0" source="nft_samovar_32_sd_0_0" x="9" y="2"/>
+   <asset name="nft_samovar_32_sd_4_0" source="nft_samovar_32_sd_0_0" x="9" y="2"/>
+   <asset name="nft_samovar_64_a_2_0" x="28" y="69"/>
+   <asset name="nft_samovar_64_a_4_0" flipH="1" source="nft_samovar_64_a_2_0" x="28" y="69"/>
+   <asset name="nft_samovar_64_sd_0_0" x="17" y="9"/>
+   <asset name="nft_samovar_64_sd_2_0" source="nft_samovar_64_sd_0_0" x="17" y="9"/>
+   <asset name="nft_samovar_64_sd_4_0" source="nft_samovar_64_sd_0_0" x="17" y="9"/>
+   <asset name="nft_samovar_icon_a" x="15" y="15"/>
+</assets>
