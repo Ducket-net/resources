@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftwizardsbeard" version="0.1">
+    <assets>
+      <asset name="h_std_fa_7000_0_0" mimeType="image/png">
+        <param key="offset" value="-38,54"/>
+      </asset>
+      <asset name="h_std_fa_7000_1_0" mimeType="image/png">
+        <param key="offset" value="-36,54"/>
+      </asset>
+      <asset name="h_std_fa_7000_2_0" mimeType="image/png">
+        <param key="offset" value="-32,54"/>
+      </asset>
+      <asset name="h_std_fa_7000_3_0" mimeType="image/png">
+        <param key="offset" value="-23,51"/>
+      </asset>
+      <asset name="h_std_fa_6701_0_0" mimeType="image/png">
+        <param key="offset" value="-42,42"/>
+      </asset>
+      <asset name="h_std_fa_6701_1_0" mimeType="image/png">
+        <param key="offset" value="-40,19"/>
+      </asset>
+      <asset name="h_std_fa_6701_2_0" mimeType="image/png">
+        <param key="offset" value="-38,19"/>
+      </asset>
+      <asset name="h_std_fa_6701_3_0" mimeType="image/png">
+        <param key="offset" value="-31,18"/>
+      </asset>
+      <asset name="h_lay_fa_7000_2_0" mimeType="image/png">
+        <param key="offset" value="5,32"/>
+      </asset>
+      <asset name="h_lay_fa_6701_2_0" mimeType="image/png">
+        <param key="offset" value="-29,12"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
