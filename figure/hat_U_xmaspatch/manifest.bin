@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_xmaspatch" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_6957_2_0" mimeType="image/png">
+        <param key="offset" value="27,39"/>
+      </asset>
+      <asset name="h_lsp_ha_6957_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-120"/>
+      </asset>
+      <asset name="h_std_ha_6957_2_0" mimeType="image/png">
+        <param key="offset" value="-9,79"/>
+      </asset>
+      <asset name="h_std_ha_6957_1_0" mimeType="image/png">
+        <param key="offset" value="-8,77"/>
+      </asset>
+      <asset name="h_std_ha_6957_0_0" mimeType="image/png">
+        <param key="offset" value="-11,75"/>
+      </asset>
+      <asset name="h_std_ha_6957_3_0" mimeType="image/png">
+        <param key="offset" value="-19,76"/>
+      </asset>
+      <asset name="h_std_ha_6957_7_0" mimeType="image/png">
+        <param key="offset" value="-19,74"/>
+      </asset>
+      <asset name="h_spk_ha_6957_2_0" mimeType="image/png">
+        <param key="offset" value="-9,80"/>
+      </asset>
+      <asset name="h_spk_ha_6957_1_0" mimeType="image/png">
+        <param key="offset" value="-8,78"/>
+      </asset>
+      <asset name="h_spk_ha_6957_0_0" mimeType="image/png">
+        <param key="offset" value="-11,76"/>
+      </asset>
+      <asset name="h_spk_ha_6957_3_0" mimeType="image/png">
+        <param key="offset" value="-19,77"/>
+      </asset>
+      <asset name="h_spk_ha_6957_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
