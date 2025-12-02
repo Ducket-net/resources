@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftwinter25" version="0.1">
+    <assets>
+      <asset name="h_std_fa_7058_0_0" mimeType="image/png">
+        <param key="offset" value="-17,58"/>
+      </asset>
+      <asset name="h_std_fa_7058_1_0" mimeType="image/png">
+        <param key="offset" value="-18,57"/>
+      </asset>
+      <asset name="h_std_fa_7058_2_0" mimeType="image/png">
+        <param key="offset" value="-21,56"/>
+      </asset>
+      <asset name="h_std_fa_7058_3_0" mimeType="image/png">
+        <param key="offset" value="-20,56"/>
+      </asset>
+      <asset name="h_std_fa_7058_7_0" mimeType="image/png">
+        <param key="offset" value="-20,53"/>
+      </asset>
+      <asset name="h_lay_fa_7058_2_0" mimeType="image/png">
+        <param key="offset" value="13,31"/>
+      </asset>
+      <asset name="h_spk_fa_7058_0_0" mimeType="image/png">
+        <param key="offset" value="-17,58"/>
+      </asset>
+      <asset name="h_spk_fa_7058_1_0" mimeType="image/png">
+        <param key="offset" value="-18,57"/>
+      </asset>
+      <asset name="h_spk_fa_7058_2_0" mimeType="image/png">
+        <param key="offset" value="-21,56"/>
+      </asset>
+      <asset name="h_spk_fa_7058_3_0" mimeType="image/png">
+        <param key="offset" value="-20,56"/>
+      </asset>
+      <asset name="h_spk_fa_7058_7_0" mimeType="image/png">
+        <param key="offset" value="-20,53"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
