@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftheartfacepaint" version="0.1">
+    <assets>
+      <asset name="h_std_fc_7024_3_0" mimeType="image/png">
+        <param key="offset" value="-25,52"/>
+      </asset>
+      <asset name="h_std_fc_7024_2_0" mimeType="image/png">
+        <param key="offset" value="-30,51"/>
+      </asset>
+      <asset name="h_std_fc_7024_1_0" mimeType="image/png">
+        <param key="offset" value="-33,53"/>
+      </asset>
+      <asset name="h_std_fc_7024_0_0" mimeType="image/png">
+        <param key="offset" value="-43,54"/>
+      </asset>
+      <asset name="h_lay_fc_7024_2_0" mimeType="image/png">
+        <param key="offset" value="7,22"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

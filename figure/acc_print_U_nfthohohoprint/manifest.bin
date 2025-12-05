@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_print_U_nfthohohoprint" version="0.1">
+    <assets>
+      <asset name="h_std_cp_7019_2_0" mimeType="image/png">
+        <param key="offset" value="-28,40"/>
+      </asset>
+      <asset name="h_std_cp_7019_3_0" mimeType="image/png">
+        <param key="offset" value="-26,40"/>
+      </asset>
+      <asset name="h_std_cp_7019_4_0" mimeType="image/png">
+        <param key="offset" value="-22,40"/>
+      </asset>
+      <asset name="h_lay_cp_7019_2_0" mimeType="image/png">
+        <param key="offset" value="-5,19"/>
+      </asset>
+      <asset name="h_lay_cp_7019_4_0" mimeType="image/png">
+        <param key="offset" value="-35,20"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
