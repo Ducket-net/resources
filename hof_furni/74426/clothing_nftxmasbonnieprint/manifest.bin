@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_nftxmasbonnieprint" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_nftxmasbonnieprint_visualization" mimeType="text/xml"/>
+      <asset name="clothing_nftxmasbonnieprint_assets" mimeType="text/xml"/>
+      <asset name="clothing_nftxmasbonnieprint_logic" mimeType="text/xml"/>
+      <asset name="clothing_nftxmasbonnieprint_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_nftxmasbonnieprint_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
