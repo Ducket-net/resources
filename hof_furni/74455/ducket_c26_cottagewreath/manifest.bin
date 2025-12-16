@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="ducket_c26_cottagewreath" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottagewreath_visualization" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottagewreath_assets" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottagewreath_logic" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottagewreath_64_sd_0_0" mimeType="image/png"/>
+      <asset name="ducket_c26_cottagewreath_64_a_0_0" mimeType="image/png"/>
+      <asset name="ducket_c26_cottagewreath_64_a_0_1" mimeType="image/png"/>
+      <asset name="ducket_c26_cottagewreath_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
