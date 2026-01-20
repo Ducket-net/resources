@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="ducket_c26_cottageplant" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottageplant_visualization" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottageplant_assets" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottageplant_logic" mimeType="text/xml"/>
+      <asset name="ducket_c26_cottageplant_64_sd_0_0" mimeType="image/png"/>
+      <asset name="ducket_c26_cottageplant_64_a_0_0" mimeType="image/png"/>
+      <asset name="ducket_c26_cottageplant_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

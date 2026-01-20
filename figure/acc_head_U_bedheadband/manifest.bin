@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_bedheadband" version="0.1">
+    <assets>
+      <asset name="h_std_he_7153_2_0" mimeType="image/png">
+        <param key="offset" value="-21,84"/>
+      </asset>
+      <asset name="h_std_he_7153_1_0" mimeType="image/png">
+        <param key="offset" value="-21,81"/>
+      </asset>
+      <asset name="h_std_he_7153_0_0" mimeType="image/png">
+        <param key="offset" value="-20,86"/>
+      </asset>
+      <asset name="h_std_he_7153_3_0" mimeType="image/png">
+        <param key="offset" value="-19,82"/>
+      </asset>
+      <asset name="h_std_he_7153_7_0" mimeType="image/png">
+        <param key="offset" value="-19,81"/>
+      </asset>
+      <asset name="h_spk_he_7153_2_0" mimeType="image/png">
+        <param key="offset" value="-21,85"/>
+      </asset>
+      <asset name="h_spk_he_7153_1_0" mimeType="image/png">
+        <param key="offset" value="-21,82"/>
+      </asset>
+      <asset name="h_spk_he_7153_0_0" mimeType="image/png">
+        <param key="offset" value="-20,87"/>
+      </asset>
+      <asset name="h_spk_he_7153_3_0" mimeType="image/png">
+        <param key="offset" value="-19,83"/>
+      </asset>
+      <asset name="h_spk_he_7153_7_0" mimeType="image/png">
+        <param key="offset" value="-19,82"/>
+      </asset>
+      <asset name="h_lay_he_7153_2_0" mimeType="image/png">
+        <param key="offset" value="29,44"/>
+      </asset>
+      <asset name="h_lsp_he_7153_2_0" mimeType="image/png">
+        <param key="offset" value="-35,-116"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

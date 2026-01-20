@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nftkissmark" version="0.1">
+    <assets>
+      <asset name="h_std_fc_6367_3_0" mimeType="image/png">
+        <param key="offset" value="-25,52"/>
+      </asset>
+      <asset name="h_std_fc_6367_2_0" mimeType="image/png">
+        <param key="offset" value="-29,52"/>
+      </asset>
+      <asset name="h_std_fc_6367_1_0" mimeType="image/png">
+        <param key="offset" value="-33,54"/>
+      </asset>
+      <asset name="h_std_fc_6367_0_0" mimeType="image/png">
+        <param key="offset" value="-43,54"/>
+      </asset>
+      <asset name="h_lay_fc_6367_2_0" mimeType="image/png">
+        <param key="offset" value="6,21"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
