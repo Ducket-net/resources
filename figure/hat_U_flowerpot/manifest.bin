@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hat_U_flowerpot" version="0.1">
+    <assets>
+      <asset name="h_lay_ha_7207_2_0" mimeType="image/png">
+        <param key="offset" value="31,36"/>
+      </asset>
+      <asset name="h_std_ha_7207_7_0" mimeType="image/png">
+        <param key="offset" value="-34,79"/>
+      </asset>
+      <asset name="h_std_ha_7207_3_0" mimeType="image/png">
+        <param key="offset" value="-14,80"/>
+      </asset>
+      <asset name="h_std_ha_7207_0_0" mimeType="image/png">
+        <param key="offset" value="-31,77"/>
+      </asset>
+      <asset name="h_std_ha_7207_1_0" mimeType="image/png">
+        <param key="offset" value="-22,77"/>
+      </asset>
+      <asset name="h_std_ha_7207_2_0" mimeType="image/png">
+        <param key="offset" value="-15,80"/>
+      </asset>
+      <asset name="h_lsp_ha_7207_2_0" mimeType="image/png">
+        <param key="offset" value="-32,-123"/>
+      </asset>
+      <asset name="h_spk_ha_7207_7_0" mimeType="image/png">
+        <param key="offset" value="-34,80"/>
+      </asset>
+      <asset name="h_spk_ha_7207_3_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_spk_ha_7207_0_0" mimeType="image/png">
+        <param key="offset" value="-31,78"/>
+      </asset>
+      <asset name="h_spk_ha_7207_1_0" mimeType="image/png">
+        <param key="offset" value="-22,78"/>
+      </asset>
+      <asset name="h_spk_ha_7207_2_0" mimeType="image/png">
+        <param key="offset" value="-15,81"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

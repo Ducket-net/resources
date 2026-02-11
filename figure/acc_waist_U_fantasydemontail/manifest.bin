@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_fantasydemontail" version="0.1">
+    <assets>
+      <asset name="h_lay_wa_7225_2_0" mimeType="image/png">
+        <param key="offset" value="-17,-4"/>
+      </asset>
+      <asset name="h_std_wa_7225_7_0" mimeType="image/png">
+        <param key="offset" value="-29,27"/>
+      </asset>
+      <asset name="h_std_wa_7225_2_0" mimeType="image/png">
+        <param key="offset" value="1,20"/>
+      </asset>
+      <asset name="h_std_wa_7225_1_0" mimeType="image/png">
+        <param key="offset" value="5,23"/>
+      </asset>
+      <asset name="h_std_wa_7225_0_0" mimeType="image/png">
+        <param key="offset" value="-4,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_7_0" mimeType="image/png">
+        <param key="offset" value="-29,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_7_2" mimeType="image/png">
+        <param key="offset" value="-29,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_7_1" mimeType="image/png">
+        <param key="offset" value="-18,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_7_3" mimeType="image/png">
+        <param key="offset" value="-29,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_2_0" mimeType="image/png">
+        <param key="offset" value="1,20"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_2_2" mimeType="image/png">
+        <param key="offset" value="1,20"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_2_3" mimeType="image/png">
+        <param key="offset" value="3,21"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_2_1" mimeType="image/png">
+        <param key="offset" value="-7,28"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_1_0" mimeType="image/png">
+        <param key="offset" value="5,23"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_1_2" mimeType="image/png">
+        <param key="offset" value="5,23"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_1_3" mimeType="image/png">
+        <param key="offset" value="-2,23"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_1_1" mimeType="image/png">
+        <param key="offset" value="-1,23"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_0_0" mimeType="image/png">
+        <param key="offset" value="-4,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_0_2" mimeType="image/png">
+        <param key="offset" value="-4,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_0_1" mimeType="image/png">
+        <param key="offset" value="-1,27"/>
+      </asset>
+      <asset name="h_wlk_wa_7225_0_3" mimeType="image/png">
+        <param key="offset" value="-15,27"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
