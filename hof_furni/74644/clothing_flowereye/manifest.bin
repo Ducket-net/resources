@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="clothing_flowereye" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="clothing_flowereye_visualization" mimeType="text/xml"/>
+      <asset name="clothing_flowereye_assets" mimeType="text/xml"/>
+      <asset name="clothing_flowereye_logic" mimeType="text/xml"/>
+      <asset name="clothing_flowereye_64_a_0_0" mimeType="image/png"/>
+      <asset name="clothing_flowereye_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
