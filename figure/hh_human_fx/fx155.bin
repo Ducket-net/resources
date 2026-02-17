@@ -21,6 +21,8 @@
 		<direction id="7" dz="-1" />
 	</sprite>
 	<remove id="rc" />
+	<remove id="mcr" />
+	<remove id="ptr" />
 	<remove id="rh" />
 	<remove id="rs" />
 
