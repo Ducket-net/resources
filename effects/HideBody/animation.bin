@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<animation name="fx.237" desc="Hide Body">
+	<sprite id="fx237_1" member="std_fx237_1_1" >
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="-1" />
+		<direction id="2" dz="-1" />
+		<direction id="3" dz="-1" />
+		<direction id="4" dz="-1" />
+		<direction id="5" dz="-1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
+	</sprite>
+    <!-- body -->
+    <remove id="bd" />
+	<remove id="lh" />
+	<remove id="rh" />
+	<!-- shirt -->
+	<remove id="ch" />
+	<remove id="rs" />
+	<remove id="ls" />
+	<!-- Jacket -->
+	<remove id="cc" />
+	<remove id="mc" />
+	<remove id="pt" />
+	<remove id="lc" />
+	<remove id="mcl" />
+	<remove id="ptl" />
+	<remove id="rc" />
+	<remove id="mcr" />
+	<remove id="ptr" />
+	<!-- Shoes -->
+	<remove id="sh" />
+	<!-- Legs -->
+	<remove id="lg" />
+	<!-- Accessories -->
+	<remove id="ca" />
+	<remove id="wa" />
+	<remove id="cp" />
+	<!-- Item -->
+	<remove id="ri" />
+	<remove id="li" />
+	<frame>
+		<bodypart id="head" dy="0"/>
+		<bodypart id="leftarm" dy="0"/>
+		<bodypart id="rightarm" dy="0"/>
+		<bodypart id="torso" dy="0"/>
+		<fx id="fx237_1" action="Default" frame="1" dx="10" dy="-10"/>
+	</frame>
+</animation>
+

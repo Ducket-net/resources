@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_nfthollywoodsmile" version="0.1">
+    <assets>
+      <asset name="h_std_fa_7244_1_0" mimeType="image/png">
+        <param key="offset" value="-39,52"/>
+      </asset>
+      <asset name="h_std_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-33,50"/>
+      </asset>
+      <asset name="h_std_fa_7244_3_0" mimeType="image/png">
+        <param key="offset" value="-29,50"/>
+      </asset>
+      <asset name="h_sml_fa_7244_1_0" mimeType="image/png">
+        <param key="offset" value="-39,52"/>
+      </asset>
+      <asset name="h_sml_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-33,51"/>
+      </asset>
+      <asset name="h_sml_fa_7244_3_0" mimeType="image/png">
+        <param key="offset" value="-28,50"/>
+      </asset>
+      <asset name="h_spk_fa_7244_1_0" mimeType="image/png">
+        <param key="offset" value="-39,52"/>
+      </asset>
+      <asset name="h_spk_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-34,50"/>
+      </asset>
+      <asset name="h_spk_fa_7244_3_0" mimeType="image/png">
+        <param key="offset" value="-29,50"/>
+      </asset>
+      <asset name="h_spk_fa_7244_1_1" mimeType="image/png">
+        <param key="offset" value="-41,52"/>
+      </asset>
+      <asset name="h_spk_fa_7244_2_1" mimeType="image/png">
+        <param key="offset" value="-36,50"/>
+      </asset>
+      <asset name="h_spk_fa_7244_3_1" mimeType="image/png">
+        <param key="offset" value="-31,49"/>
+      </asset>
+      <asset name="h_sad_fa_7244_1_0" mimeType="image/png">
+        <param key="offset" value="-40,52"/>
+      </asset>
+      <asset name="h_sad_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-35,49"/>
+      </asset>
+      <asset name="h_sad_fa_7244_3_0" mimeType="image/png">
+        <param key="offset" value="-30,49"/>
+      </asset>
+      <asset name="h_agr_fa_7244_1_0" mimeType="image/png">
+        <param key="offset" value="-40,52"/>
+      </asset>
+      <asset name="h_agr_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-35,49"/>
+      </asset>
+      <asset name="h_agr_fa_7244_3_0" mimeType="image/png">
+        <param key="offset" value="-30,49"/>
+      </asset>
+      <asset name="h_srp_fa_7244_1_0" mimeType="image/png">
+        <param key="offset" value="-41,52"/>
+      </asset>
+      <asset name="h_srp_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-36,50"/>
+      </asset>
+      <asset name="h_srp_fa_7244_3_0" mimeType="image/png">
+        <param key="offset" value="-31,49"/>
+      </asset>
+      <asset name="h_lay_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-1,26"/>
+      </asset>
+      <asset name="h_lsp_fa_7244_2_0" mimeType="image/png">
+        <param key="offset" value="-65,-134"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
