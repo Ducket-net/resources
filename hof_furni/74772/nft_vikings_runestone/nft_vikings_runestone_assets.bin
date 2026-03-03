@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="nft_vikings_runestone_64_a_2_0" x="36" y="56"/>
+  <asset name="nft_vikings_runestone_32_a_2_0" x="19" y="27"/>
+  <asset name="nft_vikings_runestone_icon_a" x="15" y="15"/>
+  <asset name="nft_vikings_runestone_64_a_4_0" flipH="1" source="nft_vikings_runestone_64_a_2_0" x="36" y="56"/>
+  <asset name="nft_vikings_runestone_32_a_4_0" flipH="1" source="nft_vikings_runestone_32_a_2_0" x="19" y="27"/>
+</assets>
