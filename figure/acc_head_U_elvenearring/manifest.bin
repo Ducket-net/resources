@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_elvenearring" version="0.1">
+    <assets>
+      <asset name="h_std_he_7185_2_0" mimeType="image/png">
+        <param key="offset" value="-18,65"/>
+      </asset>
+      <asset name="h_std_he_7185_1_0" mimeType="image/png">
+        <param key="offset" value="-23,64"/>
+      </asset>
+      <asset name="h_std_he_7185_0_0" mimeType="image/png">
+        <param key="offset" value="-17,72"/>
+      </asset>
+      <asset name="h_std_he_7185_7_0" mimeType="image/png">
+        <param key="offset" value="-17,64"/>
+      </asset>
+      <asset name="h_std_he_7185_3_0" mimeType="image/png">
+        <param key="offset" value="-17,66"/>
+      </asset>
+      <asset name="h_lay_he_7185_2_0" mimeType="image/png">
+        <param key="offset" value="21,21"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

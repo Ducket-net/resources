@@ -14,16 +14,16 @@
         <param key="offset" value="-19,86"/>
       </asset>
       <asset name="h_std_fx240_1_1_4_0" mimeType="image/png">
-        <param key="offset" value="-3,89"/>
+        <param key="offset" value="0,88"/>
       </asset>
       <asset name="h_std_fx240_1_1_5_0" mimeType="image/png">
-        <param key="offset" value="-10,90"/>
+        <param key="offset" value="-8,89"/>
       </asset>
       <asset name="h_std_fx240_1_1_6_0" mimeType="image/png">
-        <param key="offset" value="98,85"/>
+        <param key="offset" value="-23,92"/>
       </asset>
       <asset name="h_std_fx240_1_1_7_0" mimeType="image/png">
-        <param key="offset" value="-151,89"/>
+        <param key="offset" value="-35,92"/>
       </asset>
       <asset name="h_std_fx240_2_1_0_0" mimeType="image/png">
         <param key="offset" value="-48,84"/>
@@ -56,4 +56,14 @@
         <param key="offset" value="-48,84"/>
       </asset>
   </assets>
+  <aliases>
+    <alias name="h_crr_ri_fx240_1_0_0" link="h_std_fx240_1_1_0_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_1_0" link="h_std_fx240_1_1_1_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_2_0" link="h_std_fx240_1_1_2_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_3_0" link="h_std_fx240_1_1_3_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_4_0" link="h_std_fx240_1_1_4_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_5_0" link="h_std_fx240_1_1_5_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_6_0" link="h_std_fx240_1_1_6_0" fliph="0" flipv="0"/>
+    <alias name="h_crr_ri_fx240_1_7_0" link="h_std_fx240_1_1_7_0" fliph="0" flipv="0"/>
+  </aliases>
 </library></manifest>

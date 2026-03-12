@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_leafbrooch" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_7183_2_0" mimeType="image/png">
+        <param key="offset" value="-7,23"/>
+      </asset>
+      <asset name="h_lay_ca_7184_2_0" mimeType="image/png">
+        <param key="offset" value="-9,24"/>
+      </asset>
+      <asset name="h_std_ca_7183_7_0" mimeType="image/png">
+        <param key="offset" value="-43,38"/>
+      </asset>
+      <asset name="h_std_ca_7183_3_0" mimeType="image/png">
+        <param key="offset" value="-30,42"/>
+      </asset>
+      <asset name="h_std_ca_7183_2_0" mimeType="image/png">
+        <param key="offset" value="-33,43"/>
+      </asset>
+      <asset name="h_std_ca_7183_0_0" mimeType="image/png">
+        <param key="offset" value="-39,44"/>
+      </asset>
+      <asset name="h_std_ca_7183_1_0" mimeType="image/png">
+        <param key="offset" value="-37,41"/>
+      </asset>
+      <asset name="h_std_ca_7184_7_0" mimeType="image/png">
+        <param key="offset" value="-43,38"/>
+      </asset>
+      <asset name="h_std_ca_7184_3_0" mimeType="image/png">
+        <param key="offset" value="-32,42"/>
+      </asset>
+      <asset name="h_std_ca_7184_2_0" mimeType="image/png">
+        <param key="offset" value="-35,43"/>
+      </asset>
+      <asset name="h_std_ca_7184_0_0" mimeType="image/png">
+        <param key="offset" value="-39,44"/>
+      </asset>
+      <asset name="h_std_ca_7184_1_0" mimeType="image/png">
+        <param key="offset" value="-38,42"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

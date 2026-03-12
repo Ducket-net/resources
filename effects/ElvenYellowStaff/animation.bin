@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+<animation name="fx.241" desc="ElvenYellowStaff">
+	<sprite id="fx241_2" ink="33" member="std_fx241_2_1" >
+		<direction id="0" dx="0" dy="0" dz="2" />
+		<direction id="1" dx="-6" dy="4" dz="2" />
+		<direction id="2" dx="-20" dy="9" dz="2" />
+		<direction id="3" dx="-27" dy="7" dz="2" />
+		<direction id="4" dx="-44" dy="5" dz="2" />
+		<direction id="5" dx="-36" dy="4" dz="2" />
+		<direction id="6" dx="-21" dy="1" dz="0" />
+		<direction id="7" dx="-11" dy="1" dz="0" />
+	</sprite>
+	<add id="ri" align="rightitem" base="fx241_1" />
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="rightitem" action="CarryItem" frame="0" base="fx241_1" />
+		<fx id="fx241_2" action="Default" frame="0" />
+	</frame>
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="rightitem" action="CarryItem" frame="0" base="fx241_1" />
+		<fx id="fx241_2" action="Default" frame="1" />
+	</frame>
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="rightitem" action="CarryItem" frame="0" base="fx241_1" />
+		<fx id="fx241_2" action="Default" frame="2" />
+	</frame>
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="rightitem" action="CarryItem" frame="0" base="fx241_1" />
+		<fx id="fx241_2" action="Default" frame="3" />
+	</frame>
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="rightitem" action="CarryItem" frame="0" base="fx241_1" />
+		<fx id="fx241_2" action="Default" frame="4" />
+	</frame>
+	<frame>
+		<bodypart id="rightarm" action="CarryItem" frame="0" />
+		<bodypart id="rightitem" action="CarryItem" frame="0" base="fx241_1" />
+		<fx id="fx241_2" action="Default" frame="5" />
+	</frame>
+</animation>

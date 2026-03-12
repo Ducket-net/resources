@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_head_U_elfearsmedium" version="0.1">
+    <assets>
+      <asset name="h_std_he_7069_2_0" mimeType="image/png">
+        <param key="offset" value="-17,64"/>
+      </asset>
+      <asset name="h_std_he_7069_1_0" mimeType="image/png">
+        <param key="offset" value="-22,64"/>
+      </asset>
+      <asset name="h_std_he_7069_0_0" mimeType="image/png">
+        <param key="offset" value="-33,64"/>
+      </asset>
+      <asset name="h_std_he_7069_3_0" mimeType="image/png">
+        <param key="offset" value="-18,65"/>
+      </asset>
+      <asset name="h_std_he_7069_7_0" mimeType="image/png">
+        <param key="offset" value="-18,64"/>
+      </asset>
+      <asset name="h_lay_he_7069_2_0" mimeType="image/png">
+        <param key="offset" value="18,21"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
