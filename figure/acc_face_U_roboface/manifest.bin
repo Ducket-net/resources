@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_face_U_roboface" version="0.1">
+    <assets>
+      <asset name="h_std_fa_7349_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_std_fa_7349_3_0" mimeType="image/png">
+        <param key="offset" value="-19,72"/>
+      </asset>
+      <asset name="h_std_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-23,74"/>
+      </asset>
+      <asset name="h_std_fa_7349_1_0" mimeType="image/png">
+        <param key="offset" value="-31,73"/>
+      </asset>
+      <asset name="h_std_fa_7349_0_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_std_fa_7350_7_0" mimeType="image/png">
+        <param key="offset" value="-19,78"/>
+      </asset>
+      <asset name="h_std_fa_7350_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_std_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-23,77"/>
+      </asset>
+      <asset name="h_std_fa_7350_1_0" mimeType="image/png">
+        <param key="offset" value="-28,74"/>
+      </asset>
+      <asset name="h_std_fa_7350_0_0" mimeType="image/png">
+        <param key="offset" value="-21,78"/>
+      </asset>
+      <asset name="h_sml_fa_7349_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_sml_fa_7349_3_0" mimeType="image/png">
+        <param key="offset" value="-19,72"/>
+      </asset>
+      <asset name="h_sml_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-23,74"/>
+      </asset>
+      <asset name="h_sml_fa_7349_1_0" mimeType="image/png">
+        <param key="offset" value="-31,73"/>
+      </asset>
+      <asset name="h_sml_fa_7349_0_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_sml_fa_7350_7_0" mimeType="image/png">
+        <param key="offset" value="-19,78"/>
+      </asset>
+      <asset name="h_sml_fa_7350_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_sml_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-23,77"/>
+      </asset>
+      <asset name="h_sml_fa_7350_1_0" mimeType="image/png">
+        <param key="offset" value="-28,74"/>
+      </asset>
+      <asset name="h_sml_fa_7350_0_0" mimeType="image/png">
+        <param key="offset" value="-21,78"/>
+      </asset>
+      <asset name="h_sad_fa_7349_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_sad_fa_7349_3_0" mimeType="image/png">
+        <param key="offset" value="-19,72"/>
+      </asset>
+      <asset name="h_sad_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-23,74"/>
+      </asset>
+      <asset name="h_sad_fa_7349_1_0" mimeType="image/png">
+        <param key="offset" value="-31,73"/>
+      </asset>
+      <asset name="h_sad_fa_7349_0_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_sad_fa_7350_7_0" mimeType="image/png">
+        <param key="offset" value="-19,78"/>
+      </asset>
+      <asset name="h_sad_fa_7350_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_sad_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-23,77"/>
+      </asset>
+      <asset name="h_sad_fa_7350_1_0" mimeType="image/png">
+        <param key="offset" value="-28,74"/>
+      </asset>
+      <asset name="h_sad_fa_7350_0_0" mimeType="image/png">
+        <param key="offset" value="-21,78"/>
+      </asset>
+      <asset name="h_spk_fa_7349_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_spk_fa_7349_3_0" mimeType="image/png">
+        <param key="offset" value="-19,72"/>
+      </asset>
+      <asset name="h_spk_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-23,74"/>
+      </asset>
+      <asset name="h_spk_fa_7349_1_0" mimeType="image/png">
+        <param key="offset" value="-31,73"/>
+      </asset>
+      <asset name="h_spk_fa_7349_0_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_spk_fa_7350_7_0" mimeType="image/png">
+        <param key="offset" value="-19,78"/>
+      </asset>
+      <asset name="h_spk_fa_7350_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_spk_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-23,77"/>
+      </asset>
+      <asset name="h_spk_fa_7350_1_0" mimeType="image/png">
+        <param key="offset" value="-28,74"/>
+      </asset>
+      <asset name="h_spk_fa_7350_0_0" mimeType="image/png">
+        <param key="offset" value="-21,78"/>
+      </asset>
+      <asset name="h_srp_fa_7349_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_srp_fa_7349_3_0" mimeType="image/png">
+        <param key="offset" value="-19,72"/>
+      </asset>
+      <asset name="h_srp_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-23,74"/>
+      </asset>
+      <asset name="h_srp_fa_7349_1_0" mimeType="image/png">
+        <param key="offset" value="-31,73"/>
+      </asset>
+      <asset name="h_srp_fa_7349_0_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_srp_fa_7350_7_0" mimeType="image/png">
+        <param key="offset" value="-19,78"/>
+      </asset>
+      <asset name="h_srp_fa_7350_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_srp_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-23,77"/>
+      </asset>
+      <asset name="h_srp_fa_7350_1_0" mimeType="image/png">
+        <param key="offset" value="-28,74"/>
+      </asset>
+      <asset name="h_srp_fa_7350_0_0" mimeType="image/png">
+        <param key="offset" value="-21,78"/>
+      </asset>
+      <asset name="h_agr_fa_7349_7_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_agr_fa_7349_3_0" mimeType="image/png">
+        <param key="offset" value="-19,72"/>
+      </asset>
+      <asset name="h_agr_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-23,74"/>
+      </asset>
+      <asset name="h_agr_fa_7349_1_0" mimeType="image/png">
+        <param key="offset" value="-31,73"/>
+      </asset>
+      <asset name="h_agr_fa_7349_0_0" mimeType="image/png">
+        <param key="offset" value="-20,76"/>
+      </asset>
+      <asset name="h_agr_fa_7350_7_0" mimeType="image/png">
+        <param key="offset" value="-19,78"/>
+      </asset>
+      <asset name="h_agr_fa_7350_3_0" mimeType="image/png">
+        <param key="offset" value="-19,75"/>
+      </asset>
+      <asset name="h_agr_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-23,77"/>
+      </asset>
+      <asset name="h_agr_fa_7350_1_0" mimeType="image/png">
+        <param key="offset" value="-28,74"/>
+      </asset>
+      <asset name="h_agr_fa_7350_0_0" mimeType="image/png">
+        <param key="offset" value="-21,78"/>
+      </asset>
+      <asset name="h_lay_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="20,38"/>
+      </asset>
+      <asset name="h_lay_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="24,42"/>
+      </asset>
+      <asset name="h_lsp_fa_7349_2_0" mimeType="image/png">
+        <param key="offset" value="-44,-122"/>
+      </asset>
+      <asset name="h_lsp_fa_7350_2_0" mimeType="image/png">
+        <param key="offset" value="-40,-118"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
