@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="nft_easter14_bunnysphinx_64_a_4_0" x="39" y="82"/>
+  <asset name="nft_easter14_bunnysphinx_32_a_4_0" x="19" y="41"/>
+  <asset name="nft_easter14_bunnysphinx_icon_a" x="15" y="15"/>
+  <asset name="nft_easter14_bunnysphinx_64_a_2_0" flipH="1" source="nft_easter14_bunnysphinx_64_a_4_0" x="39" y="82"/>
+  <asset name="nft_easter14_bunnysphinx_32_a_2_0" flipH="1" source="nft_easter14_bunnysphinx_32_a_4_0" x="19" y="41"/>
+</assets>

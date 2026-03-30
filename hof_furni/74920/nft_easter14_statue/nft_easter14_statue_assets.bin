@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+  <asset name="nft_easter14_statue_64_a_4_0" x="31" y="165"/>
+  <asset name="nft_easter14_statue_32_a_4_0" x="13" y="85"/>
+  <asset name="nft_easter14_statue_64_a_4_1" x="36" y="165"/>
+  <asset name="nft_easter14_statue_32_a_4_1" x="15" y="85"/>
+  <asset name="nft_easter14_statue_icon_a" x="15" y="15"/>
+  <asset name="nft_easter14_statue_64_a_2_0" flipH="1" source="nft_easter14_statue_64_a_4_0" x="31" y="165"/>
+  <asset name="nft_easter14_statue_32_a_2_0" flipH="1" source="nft_easter14_statue_32_a_4_0" x="13" y="85"/>
+  <asset name="nft_easter14_statue_64_a_2_1" flipH="1" source="nft_easter14_statue_64_a_4_1" x="36" y="165"/>
+  <asset name="nft_easter14_statue_32_a_2_1" flipH="1" source="nft_easter14_statue_32_a_4_1" x="15" y="85"/>
+</assets>
