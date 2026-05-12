@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="shirt_M_ducketcropshirt" version="0.1">
+    <assets>
+      <asset name="h_std_ch_7461_0_0" mimeType="image/png">
+        <param key="offset" value="-19,49"/>
+      </asset>
+      <asset name="h_std_ch_7461_1_0" mimeType="image/png">
+        <param key="offset" value="-23,49"/>
+      </asset>
+      <asset name="h_std_ch_7461_2_0" mimeType="image/png">
+        <param key="offset" value="-20,48"/>
+      </asset>
+      <asset name="h_std_ch_7461_3_0" mimeType="image/png">
+        <param key="offset" value="-20,50"/>
+      </asset>
+      <asset name="h_std_ch_7461_7_0" mimeType="image/png">
+        <param key="offset" value="-20,46"/>
+      </asset>
+      <asset name="h_std_ch_7462_0_0" mimeType="image/png">
+        <param key="offset" value="-20,37"/>
+      </asset>
+      <asset name="h_std_ch_7462_1_0" mimeType="image/png">
+        <param key="offset" value="-24,38"/>
+      </asset>
+      <asset name="h_std_ch_7462_2_0" mimeType="image/png">
+        <param key="offset" value="-21,38"/>
+      </asset>
+      <asset name="h_std_ch_7462_3_0" mimeType="image/png">
+        <param key="offset" value="-21,36"/>
+      </asset>
+      <asset name="h_std_ch_7462_7_0" mimeType="image/png">
+        <param key="offset" value="-21,34"/>
+      </asset>
+      <asset name="h_lay_ls_7461_2_0" mimeType="image/png">
+        <param key="offset" value="-17,23"/>
+      </asset>
+      <asset name="h_lay_ch_7461_2_0" mimeType="image/png">
+        <param key="offset" value="4,23"/>
+      </asset>
+      <asset name="h_lay_rs_7461_2_0" mimeType="image/png">
+        <param key="offset" value="4,15"/>
+      </asset>
+      <asset name="h_lay_ch_7462_2_0" mimeType="image/png">
+        <param key="offset" value="-6,21"/>
+      </asset>
+      <asset name="h_lay_ls_7462_2_0" mimeType="image/png">
+        <param key="offset" value="0,12"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
