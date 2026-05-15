@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="hair_F_roxiehair" version="0.1">
+    <assets>
+      <asset name="h_std_hrb_7470_0_0" mimeType="image/png">
+        <param key="offset" value="-13,75"/>
+      </asset>
+      <asset name="h_std_hr_7470_0_0" mimeType="image/png">
+        <param key="offset" value="-13,75"/>
+      </asset>
+      <asset name="h_std_hrb_7470_1_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_std_hr_7470_1_0" mimeType="image/png">
+        <param key="offset" value="-14,81"/>
+      </asset>
+      <asset name="h_std_hrb_7470_2_0" mimeType="image/png">
+        <param key="offset" value="-12,82"/>
+      </asset>
+      <asset name="h_std_hr_7470_2_0" mimeType="image/png">
+        <param key="offset" value="-12,82"/>
+      </asset>
+      <asset name="h_std_hrb_7470_3_0" mimeType="image/png">
+        <param key="offset" value="-17,79"/>
+      </asset>
+      <asset name="h_std_hr_7470_3_0" mimeType="image/png">
+        <param key="offset" value="-17,79"/>
+      </asset>
+      <asset name="h_std_hrb_7470_7_0" mimeType="image/png">
+        <param key="offset" value="-18,74"/>
+      </asset>
+      <asset name="h_std_hr_7470_7_0" mimeType="image/png">
+        <param key="offset" value="-18,74"/>
+      </asset>
+      <asset name="h_spk_hrb_7470_0_0" mimeType="image/png">
+        <param key="offset" value="-13,76"/>
+      </asset>
+      <asset name="h_spk_hr_7470_0_0" mimeType="image/png">
+        <param key="offset" value="-13,76"/>
+      </asset>
+      <asset name="h_spk_hrb_7470_1_0" mimeType="image/png">
+        <param key="offset" value="-14,82"/>
+      </asset>
+      <asset name="h_spk_hr_7470_1_0" mimeType="image/png">
+        <param key="offset" value="-14,82"/>
+      </asset>
+      <asset name="h_spk_hrb_7470_2_0" mimeType="image/png">
+        <param key="offset" value="-12,83"/>
+      </asset>
+      <asset name="h_spk_hr_7470_2_0" mimeType="image/png">
+        <param key="offset" value="-12,83"/>
+      </asset>
+      <asset name="h_spk_hrb_7470_3_0" mimeType="image/png">
+        <param key="offset" value="-17,80"/>
+      </asset>
+      <asset name="h_spk_hr_7470_3_0" mimeType="image/png">
+        <param key="offset" value="-17,80"/>
+      </asset>
+      <asset name="h_spk_hrb_7470_7_0" mimeType="image/png">
+        <param key="offset" value="-18,75"/>
+      </asset>
+      <asset name="h_spk_hr_7470_7_0" mimeType="image/png">
+        <param key="offset" value="-18,75"/>
+      </asset>
+      <asset name="h_lay_hrb_7470_2_0" mimeType="image/png">
+        <param key="offset" value="28,41"/>
+      </asset>
+      <asset name="h_lay_hr_7470_2_0" mimeType="image/png">
+        <param key="offset" value="28,41"/>
+      </asset>
+      <asset name="h_lsp_hrb_7470_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-119"/>
+      </asset>
+      <asset name="h_lsp_hr_7470_2_0" mimeType="image/png">
+        <param key="offset" value="-36,-119"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
