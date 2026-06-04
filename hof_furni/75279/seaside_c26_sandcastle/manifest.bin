@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="seaside_c26_sandcastle" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="seaside_c26_sandcastle_visualization" mimeType="text/xml"/>
+      <asset name="seaside_c26_sandcastle_assets" mimeType="text/xml"/>
+      <asset name="seaside_c26_sandcastle_logic" mimeType="text/xml"/>
+      <asset name="seaside_c26_sandcastle_64_sd_0_0" mimeType="image/png"/>
+      <asset name="seaside_c26_sandcastle_64_a_0_0" mimeType="image/png"/>
+      <asset name="seaside_c26_sandcastle_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
