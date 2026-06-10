@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_waist_U_nftsuspenders" version="0.1">
+    <assets>
+      <asset name="h_std_wa_7391_0_0" mimeType="image/png">
+        <param key="offset" value="-21,47"/>
+      </asset>
+      <asset name="h_std_wa_7391_1_0" mimeType="image/png">
+        <param key="offset" value="-23,46"/>
+      </asset>
+      <asset name="h_std_wa_7391_2_0" mimeType="image/png">
+        <param key="offset" value="-26,49"/>
+      </asset>
+      <asset name="h_std_wa_7391_3_0" mimeType="image/png">
+        <param key="offset" value="-24,49"/>
+      </asset>
+      <asset name="h_std_wa_7391_7_0" mimeType="image/png">
+        <param key="offset" value="-22,47"/>
+      </asset>
+      <asset name="h_std_wa_7392_0_0" mimeType="image/png">
+        <param key="offset" value="-22,46"/>
+      </asset>
+      <asset name="h_std_wa_7392_1_0" mimeType="image/png">
+        <param key="offset" value="-28,45"/>
+      </asset>
+      <asset name="h_std_wa_7392_2_0" mimeType="image/png">
+        <param key="offset" value="-27,48"/>
+      </asset>
+      <asset name="h_std_wa_7392_3_0" mimeType="image/png">
+        <param key="offset" value="-26,48"/>
+      </asset>
+      <asset name="h_std_wa_7392_7_0" mimeType="image/png">
+        <param key="offset" value="-23,46"/>
+      </asset>
+      <asset name="h_std_wa_7393_0_0" mimeType="image/png">
+        <param key="offset" value="-23,46"/>
+      </asset>
+      <asset name="h_std_wa_7393_1_0" mimeType="image/png">
+        <param key="offset" value="-24,45"/>
+      </asset>
+      <asset name="h_std_wa_7393_2_0" mimeType="image/png">
+        <param key="offset" value="-28,48"/>
+      </asset>
+      <asset name="h_std_wa_7393_3_0" mimeType="image/png">
+        <param key="offset" value="-27,48"/>
+      </asset>
+      <asset name="h_std_wa_7393_7_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_lay_wa_7391_2_0" mimeType="image/png">
+        <param key="offset" value="1,23"/>
+      </asset>
+      <asset name="h_lay_wa_7392_2_0" mimeType="image/png">
+        <param key="offset" value="0,22"/>
+      </asset>
+      <asset name="h_lay_wa_7393_2_0" mimeType="image/png">
+        <param key="offset" value="-1,22"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
