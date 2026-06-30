@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="newbie_crocodile_package" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="newbie_crocodile_package_visualization" mimeType="text/xml"/>
+      <asset name="newbie_crocodile_package_assets" mimeType="text/xml"/>
+      <asset name="newbie_crocodile_package_logic" mimeType="text/xml"/>
+      <asset name="newbie_crocodile_package_icon_a" mimeType="image/png"/>
+      <asset name="newbie_crocodile_package_64_a_0_0" mimeType="image/png"/>
+      <asset name="newbie_crocodile_package_32_a_0_0" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
