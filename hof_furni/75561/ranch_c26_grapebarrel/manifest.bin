@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="ranch_c26_grapebarrel" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ranch_c26_grapebarrel_visualization" mimeType="text/xml"/>
+      <asset name="ranch_c26_grapebarrel_assets" mimeType="text/xml"/>
+      <asset name="ranch_c26_grapebarrel_logic" mimeType="text/xml"/>
+      <asset name="ranch_c26_grapebarrel_64_sd_0_0" mimeType="image/png"/>
+      <asset name="ranch_c26_grapebarrel_64_a_0_0" mimeType="image/png"/>
+      <asset name="ranch_c26_grapebarrel_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>

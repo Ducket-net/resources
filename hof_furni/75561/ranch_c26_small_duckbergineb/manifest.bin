@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="ranch_c26_small_duckbergineb" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="ranch_c26_small_duckbergineb_visualization" mimeType="text/xml"/>
+      <asset name="ranch_c26_small_duckbergineb_assets" mimeType="text/xml"/>
+      <asset name="ranch_c26_small_duckbergineb_logic" mimeType="text/xml"/>
+      <asset name="ranch_c26_small_duckbergineb_64_sd_0_0" mimeType="image/png"/>
+      <asset name="ranch_c26_small_duckbergineb_64_a_0_0" mimeType="image/png"/>
+      <asset name="ranch_c26_small_duckbergineb_64_a_0_1" mimeType="image/png"/>
+      <asset name="ranch_c26_small_duckbergineb_64_a_0_2" mimeType="image/png"/>
+      <asset name="ranch_c26_small_duckbergineb_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
