@@ -24,14 +24,14 @@
     
 <sprite id="avatar" />
 	<sprite id="fx247_1" ink="33" member="std_fx247_1_1" directions="1">
-		<direction id="0" dz="0" />
-		<direction id="1" dz="0" />
-		<direction id="2" dz="0" />
-		<direction id="3" dz="0" />
-		<direction id="4" dz="0" />
-		<direction id="5" dz="0" />
-		<direction id="6" dz="0" />
-		<direction id="7" dz="0" />
+		<direction id="0" dz="-1" />
+		<direction id="1" dz="-1" />
+		<direction id="2" dz="-1" />
+		<direction id="3" dz="-1" />
+		<direction id="4" dz="-1" />
+		<direction id="5" dz="-1" />
+		<direction id="6" dz="-1" />
+		<direction id="7" dz="-1" />
 	</sprite>
 	<sprite id="fx247_2" member="std_fx247_2_1" directions="1">
 		<direction id="0" dz="0" />
@@ -44,14 +44,14 @@
 		<direction id="7" dz="0" />
 	</sprite>
 	<sprite id="fx247_3" ink="33" member="std_fx247_3_1" directions="1">
-		<direction id="0" dz="0" />
-		<direction id="1" dz="0" />
-		<direction id="2" dz="0" />
-		<direction id="3" dz="0" />
-		<direction id="4" dz="0" />
-		<direction id="5" dz="0" />
-		<direction id="6" dz="0" />
-		<direction id="7" dz="0" />
+		<direction id="0" dz="1" />
+		<direction id="1" dz="1" />
+		<direction id="2" dz="1" />
+		<direction id="3" dz="1" />
+		<direction id="4" dz="1" />
+		<direction id="5" dz="1" />
+		<direction id="6" dz="1" />
+		<direction id="7" dz="1" />
 	</sprite>
     
   <frame>
