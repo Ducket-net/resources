@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_mksftsword" version="0.1">
+    <assets>
+      <asset name="h_lay_ca_7621_2_0" mimeType="image/png">
+        <param key="offset" value="3,25"/>
+      </asset>
+      <asset name="h_lay_ca_7622_2_0" mimeType="image/png">
+        <param key="offset" value="36,23"/>
+      </asset>
+      <asset name="h_std_ca_7621_7_0" mimeType="image/png">
+        <param key="offset" value="-19,55"/>
+      </asset>
+      <asset name="h_std_ca_7621_3_0" mimeType="image/png">
+        <param key="offset" value="-22,60"/>
+      </asset>
+      <asset name="h_std_ca_7621_0_0" mimeType="image/png">
+        <param key="offset" value="-13,59"/>
+      </asset>
+      <asset name="h_std_ca_7621_1_0" mimeType="image/png">
+        <param key="offset" value="-26,41"/>
+      </asset>
+      <asset name="h_std_ca_7621_2_0" mimeType="image/png">
+        <param key="offset" value="-14,59"/>
+      </asset>
+      <asset name="h_std_ca_7622_7_0" mimeType="image/png">
+        <param key="offset" value="-10,71"/>
+      </asset>
+      <asset name="h_std_ca_7622_3_0" mimeType="image/png">
+        <param key="offset" value="-44,76"/>
+      </asset>
+      <asset name="h_std_ca_7622_0_0" mimeType="image/png">
+        <param key="offset" value="-5,74"/>
+      </asset>
+      <asset name="h_std_ca_7622_1_0" mimeType="image/png">
+        <param key="offset" value="-14,77"/>
+      </asset>
+      <asset name="h_std_ca_7622_2_0" mimeType="image/png">
+        <param key="offset" value="-6,74"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
