@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="face_U_nftemeraldskin2" version="0.1">
+    <assets>
+      <asset name="h_std_hd_7711_0_0" mimeType="image/png">
+        <param key="offset" value="-18,73"/>
+      </asset>
+      <asset name="h_std_hd_7711_1_0" mimeType="image/png">
+        <param key="offset" value="-18,73"/>
+      </asset>
+      <asset name="h_std_hd_7711_2_0" mimeType="image/png">
+        <param key="offset" value="-20,74"/>
+      </asset>
+      <asset name="h_std_hd_7711_3_0" mimeType="image/png">
+        <param key="offset" value="-21,74"/>
+      </asset>
+      <asset name="h_std_hd_7711_7_0" mimeType="image/png">
+        <param key="offset" value="-21,72"/>
+      </asset>
+      <asset name="h_spk_hd_7711_0_0" mimeType="image/png">
+        <param key="offset" value="-18,74"/>
+      </asset>
+      <asset name="h_spk_hd_7711_1_0" mimeType="image/png">
+        <param key="offset" value="-18,74"/>
+      </asset>
+      <asset name="h_spk_hd_7711_2_0" mimeType="image/png">
+        <param key="offset" value="-20,75"/>
+      </asset>
+      <asset name="h_spk_hd_7711_3_0" mimeType="image/png">
+        <param key="offset" value="-21,75"/>
+      </asset>
+      <asset name="h_lay_hd_7711_2_0" mimeType="image/png">
+        <param key="offset" value="20,37"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

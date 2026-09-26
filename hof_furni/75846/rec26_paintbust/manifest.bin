@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="rec26_paintbust" version="0.1">
+    <assets>
+      <asset name="index" mimeType="text/xml"/>
+      <asset name="rec26_paintbust_visualization" mimeType="text/xml"/>
+      <asset name="rec26_paintbust_assets" mimeType="text/xml"/>
+      <asset name="rec26_paintbust_logic" mimeType="text/xml"/>
+      <asset name="rec26_paintbust_64_sd_0_0" mimeType="image/png"/>
+      <asset name="rec26_paintbust_64_a_0_0" mimeType="image/png"/>
+      <asset name="rec26_paintbust_64_a_0_1" mimeType="image/png"/>
+      <asset name="rec26_paintbust_icon_a" mimeType="image/png"/>
+    </assets>
+  </library>
+</manifest>
