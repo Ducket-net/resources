@@ -22,7 +22,7 @@
 	<remove id="sh" />
 	<remove id="cp" />
     
-<sprite id="avatar" />
+	<sprite id="avatar" />
 	<sprite id="fx247_1" ink="33" member="std_fx247_1_1" directions="1">
 		<direction id="0" dz="-1" />
 		<direction id="1" dz="-1" />
@@ -54,8 +54,9 @@
 		<direction id="7" dz="1" />
 	</sprite>
     
-  <frame>
-        <bodypart id="head" dy="-23"/>
+ 	<frame>
+        <fx id="avatar" frame="0" dy="-23" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -63,8 +64,9 @@
         <fx id="fx247_2" action="Default" frame="0"/>
         <fx id="fx247_3" action="Default" frame="0"/>
 	</frame>
-        <frame>
-        <bodypart id="head" dy="-23"/>
+	<frame>
+        <fx id="avatar" frame="0" dy="-23" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -72,8 +74,9 @@
         <fx id="fx247_2" action="Default" frame="0"/>
         <fx id="fx247_3" action="Default" frame="1"/>
 	</frame>
-        <frame>
-        <bodypart id="head" dy="-24"/>
+	<frame>
+        <fx id="avatar" frame="0" dy="-24" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -81,8 +84,9 @@
         <fx id="fx247_2" action="Default" frame="1"/>
         <fx id="fx247_3" action="Default" frame="2"/>
 	</frame>
-            <frame>
-        <bodypart id="head" dy="-24"/>
+	<frame>
+        <fx id="avatar" frame="0" dy="-24" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -90,8 +94,9 @@
         <fx id="fx247_2" action="Default" frame="1"/>
         <fx id="fx247_3" action="Default" frame="3"/>
 	</frame>
-            <frame>
-        <bodypart id="head" dy="-25"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-25" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -99,8 +104,9 @@
         <fx id="fx247_2" action="Default" frame="2"/>
         <fx id="fx247_3" action="Default" frame="4"/>
 	</frame>
-        <frame>
-        <bodypart id="head" dy="-25"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-25" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -108,8 +114,9 @@
         <fx id="fx247_2" action="Default" frame="2"/>
         <fx id="fx247_3" action="Default" frame="5"/>
 	</frame>
-        <frame>
-        <bodypart id="head" dy="-24"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-24" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -117,8 +124,9 @@
         <fx id="fx247_2" action="Default" frame="3"/>
         <fx id="fx247_3" action="Default" frame="6"/>
 	</frame>
-        <frame>
-        <bodypart id="head" dy="-24"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-24" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -126,8 +134,9 @@
         <fx id="fx247_2" action="Default" frame="3"/>
         <fx id="fx247_3" action="Default" frame="7"/>
     </frame>
-        <frame>
-        <bodypart id="head" dy="-23"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-23" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -135,8 +144,9 @@
         <fx id="fx247_2" action="Default" frame="4"/>
         <fx id="fx247_3" action="Default" frame="8"/>
 	</frame>
-        <frame>
-        <bodypart id="head" dy="-23"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-23" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -144,8 +154,9 @@
         <fx id="fx247_2" action="Default" frame="4"/>
         <fx id="fx247_3" action="Default" frame="9"/>
 	</frame>
-            <frame>
-        <bodypart id="head" dy="-22"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-22" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -153,8 +164,9 @@
         <fx id="fx247_2" action="Default" frame="5"/>
         <fx id="fx247_3" action="Default" frame="10"/>
 	</frame>
-            <frame>
-        <bodypart id="head" dy="-22"/>
+    <frame>
+        <fx id="avatar" frame="0" dy="-22" />
+        <bodypart id="head" dy="0"/>
 		<bodypart id="leftarm" dy="0"/>
 		<bodypart id="rightarm" dy="0"/>
 		<bodypart id="torso" dy="0"/>
@@ -162,6 +174,4 @@
         <fx id="fx247_2" action="Default" frame="5"/>
         <fx id="fx247_3" action="Default" frame="11"/>
 	</frame>
-    
-    
 </animation>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<visualizationData type="bc_stairs_recolorable">
+  <graphics>
+    <visualization size="1" layerCount="1" angle="360">
+      <layers>
+        <layer id="0" tag="recolorable" />
+      </layers>
+    </visualization>
+    <visualization size="32" layerCount="1" angle="45">
+      <layers />
+      <directions>
+        <direction id="0" />
+        <direction id="1" />
+        <direction id="2" />
+        <direction id="3" />
+        <direction id="4" />
+        <direction id="6" />
+        <direction id="7" />
+        <direction id="5" />
+      </directions>
+      <animations />
+    </visualization>
+    <visualization size="64" layerCount="4" angle="45">
+      <layers>
+        <layer id="0" z="-1010" />
+        <layer id="1" tag="recolorable" />
+        <layer id="2" />
+        <layer id="3" z="-2100" />
+      </layers>
+      <directions>
+        <direction id="0">
+          <layer id="1" z="500" tag="recolorable" />
+          <layer id="2" z="500" />
+        </direction>
+        <direction id="1" />
+        <direction id="2" />
+        <direction id="3" />
+        <direction id="4" />
+        <direction id="6">
+          <layer id="1" z="500" tag="recolorable" />
+          <layer id="2" z="500" />
+          <layer id="3" />
+          <layer id="0" />
+        </direction>
+        <direction id="7">
+          <layer id="1" z="500" tag="recolorable" />
+          <layer id="2" z="500" />
+        </direction>
+        <direction id="5" />
+      </directions>
+      <animations />
+      <postures />
+      <gestures />
+    </visualization>
+  </graphics>
+</visualizationData>
