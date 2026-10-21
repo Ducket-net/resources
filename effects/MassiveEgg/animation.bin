@@ -24,6 +24,8 @@
 	<remove id="rc" />
 	<remove id="mcr" />
 	<remove id="ptr" />
+	<remove id="mco" />
+	<remove id="mcu" />
 	<remove id="rs" /> 
 
 	<add id="fx154_1" align="top" />

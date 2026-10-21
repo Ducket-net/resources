@@ -36,6 +36,8 @@
 	<remove id="lhs" />
 	<remove id="rhs" />
 	<remove id="cp" />
+	<remove id="mco" />
+	<remove id="mcu" />
 
 	<sprite id="fx108_1" member="std_fx108_1_1">
 		<direction id="0" dz="1" dx="-25" dy="-110"/>

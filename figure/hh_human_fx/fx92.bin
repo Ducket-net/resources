@@ -26,6 +26,8 @@
 	<remove id="rs" /> 
 	<remove id="bd" />
 	<remove id="lg" />
+	<remove id="mco" />
+	<remove id="mcu" />
 	<add id="fx92_1" blend="93" align="top" />
 	<override name="sheetwalk" override="mv">
 		<frame>

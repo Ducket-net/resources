@@ -29,6 +29,8 @@
 	<!-- Item -->
 	<remove id="ri" />
 	<remove id="li" />
+	<remove id="mco" />
+	<remove id="mcu" />
 
 	<sprite id="fx185_1" member="std_fx185_1_1" >
 		<direction id="0" dz="-1" />

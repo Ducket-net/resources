@@ -19,6 +19,8 @@
 	<remove id="mcr" />
 	<remove id="ptr" />
 	<remove id="ls" />
+	<remove id="mco" />
+	<remove id="mcu" />
 	<remove id="rs" /> 
 	<add id="fx115_1" align="top" />
 	<sprite id="fx115_2" blend="10" ink="33" member="std_fx115_2_1" directions="1">

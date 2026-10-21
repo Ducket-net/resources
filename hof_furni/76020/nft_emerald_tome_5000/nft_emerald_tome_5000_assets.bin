@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><assets>
+  <asset name="nft_emerald_tome_5000_icon_a" x="14" y="14"/>
+  <asset name="nft_emerald_tome_5000_64_sd_2_0" x="29" y="15"/>
+  <asset name="nft_emerald_tome_5000_64_a_2_0" x="29" y="63"/>
+  <asset name="nft_emerald_tome_5000_64_a_2_1" x="34" y="62"/>
+  <asset name="nft_emerald_tome_5000_64_sd_4_0" flipH="1" source="nft_emerald_tome_5000_64_sd_2_0" x="29" y="15"/>
+  <asset name="nft_emerald_tome_5000_64_a_4_0" flipH="1" source="nft_emerald_tome_5000_64_a_2_0" x="29" y="63"/>
+  <asset name="nft_emerald_tome_5000_64_a_4_1" flipH="1" source="nft_emerald_tome_5000_64_a_2_1" x="34" y="62"/>
+</assets>

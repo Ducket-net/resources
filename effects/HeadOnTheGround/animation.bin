@@ -39,6 +39,8 @@
 	<!-- Item -->
 	<remove id="ri" />
 	<remove id="li" />
+	<remove id="mco" />
+	<remove id="mcu" />
 	<frame>
 		<bodypart id="head" dy="50"/>
 		<bodypart id="leftarm" dy="0"/>
