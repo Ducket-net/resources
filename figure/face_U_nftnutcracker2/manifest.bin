@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="face_U_nftnutcracker2" version="0.1">
+    <assets>
+      <asset name="h_std_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,54"/>
+      </asset>
+      <asset name="h_std_fc_7800_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_std_fc_7800_1_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_std_fc_7800_0_0" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+      <asset name="h_lay_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="5,29"/>
+      </asset>
+      <asset name="h_spr_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,54"/>
+      </asset>
+      <asset name="h_spr_fc_7800_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_spr_fc_7800_1_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_spr_fc_7800_0_0" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+      <asset name="h_sad_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,54"/>
+      </asset>
+      <asset name="h_sad_fc_7800_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_sad_fc_7800_1_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_sad_fc_7800_0_0" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+      <asset name="h_agr_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,54"/>
+      </asset>
+      <asset name="h_agr_fc_7800_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_agr_fc_7800_1_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_agr_fc_7800_0_0" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+      <asset name="h_sml_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,54"/>
+      </asset>
+      <asset name="h_sml_fc_7800_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_sml_fc_7800_1_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_sml_fc_7800_0_0" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+      <asset name="h_spk_fc_7800_2_0" mimeType="image/png">
+        <param key="offset" value="-31,55"/>
+      </asset>
+      <asset name="h_spk_fc_7800_2_1" mimeType="image/png">
+        <param key="offset" value="-31,54"/>
+      </asset>
+      <asset name="h_spk_fc_7800_3_0" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_spk_fc_7800_1_0" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_spk_fc_7800_0_0" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+      <asset name="h_spk_fc_7800_3_1" mimeType="image/png">
+        <param key="offset" value="-24,53"/>
+      </asset>
+      <asset name="h_spk_fc_7800_1_1" mimeType="image/png">
+        <param key="offset" value="-35,57"/>
+      </asset>
+      <asset name="h_spk_fc_7800_0_1" mimeType="image/png">
+        <param key="offset" value="-41,55"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

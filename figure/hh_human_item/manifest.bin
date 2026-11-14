@@ -3,6 +3,31 @@
     <library name='hh_human_item' version='0.1'>
 
     <assets>
+        
+    <asset name="h_crr_ri_317_1_0" mimeType="image/png">
+        <param key="offset" value="-40,46"/>
+      </asset>
+      <asset name="h_crr_ri_317_2_0" mimeType="image/png">
+        <param key="offset" value="-30,43"/>
+      </asset>
+      <asset name="h_crr_ri_317_0_0" mimeType="image/png">
+        <param key="offset" value="-44,54"/>
+      </asset>
+      <asset name="h_crr_ri_317_5_0" mimeType="image/png">
+        <param key="offset" value="-7,46"/>
+      </asset>
+      <asset name="h_crr_ri_317_4_0" mimeType="image/png">
+        <param key="offset" value="1,44"/>
+      </asset>
+      <asset name="h_crr_ri_317_3_0" mimeType="image/png">
+        <param key="offset" value="-23,38"/>
+      </asset>
+      <asset name="h_crr_ri_317_6_0" mimeType="image/png">
+        <param key="offset" value="-25,21"/>
+      </asset>
+      <asset name="h_crr_ri_317_7_0" mimeType="image/png">
+        <param key="offset" value="-27,21"/>
+      </asset>
       
 	  <asset name="h_crr_ri_315_1_0" mimeType="image/png">
         <param key="offset" value="-42,51"/>

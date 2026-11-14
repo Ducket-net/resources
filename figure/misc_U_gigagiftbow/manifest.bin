@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="misc_U_gigagiftbow" version="0.1">
+    <assets>
+      <asset name="h_lay_mcu_7774_2_0" mimeType="image/png">
+        <param key="offset" value="17,30"/>
+      </asset>
+      <asset name="h_lay_mcu_7775_2_0" mimeType="image/png">
+        <param key="offset" value="-17,-2"/>
+      </asset>
+      <asset name="h_std_mco_7774_7_0" mimeType="image/png">
+        <param key="offset" value="-6,54"/>
+      </asset>
+      <asset name="h_std_mcu_7774_3_0" mimeType="image/png">
+        <param key="offset" value="-6,54"/>
+      </asset>
+      <asset name="h_std_mcu_7774_2_0" mimeType="image/png">
+        <param key="offset" value="-5,65"/>
+      </asset>
+      <asset name="h_std_mc_7774_1_0" mimeType="image/png">
+        <param key="offset" value="-8,53"/>
+      </asset>
+      <asset name="h_std_mco_7774_0_0" mimeType="image/png">
+        <param key="offset" value="-1,59"/>
+      </asset>
+      <asset name="h_std_mco_7775_7_0" mimeType="image/png">
+        <param key="offset" value="-14,47"/>
+      </asset>
+      <asset name="h_std_mcu_7775_3_0" mimeType="image/png">
+        <param key="offset" value="-14,26"/>
+      </asset>
+      <asset name="h_std_mcu_7775_2_0" mimeType="image/png">
+        <param key="offset" value="-12,33"/>
+      </asset>
+      <asset name="h_std_mc_7775_1_0" mimeType="image/png">
+        <param key="offset" value="-16,23"/>
+      </asset>
+      <asset name="h_std_mco_7775_0_0" mimeType="image/png">
+        <param key="offset" value="-3,45"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>
