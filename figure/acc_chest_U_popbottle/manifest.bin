@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><manifest>
+  <library name="acc_chest_U_popbottle" version="0.1">
+    <assets>
+      <asset name="h_std_ca_7828_7_0" mimeType="image/png">
+        <param key="offset" value="-38,47"/>
+      </asset>
+      <asset name="h_std_ca_7828_3_0" mimeType="image/png">
+        <param key="offset" value="-17,51"/>
+      </asset>
+      <asset name="h_std_ca_7828_2_0" mimeType="image/png">
+        <param key="offset" value="-19,47"/>
+      </asset>
+      <asset name="h_std_ca_7828_1_0" mimeType="image/png">
+        <param key="offset" value="-24,46"/>
+      </asset>
+      <asset name="h_std_ca_7828_0_0" mimeType="image/png">
+        <param key="offset" value="-28,45"/>
+      </asset>
+      <asset name="h_std_ca_7829_7_0" mimeType="image/png">
+        <param key="offset" value="-39,46"/>
+      </asset>
+      <asset name="h_std_ca_7829_3_0" mimeType="image/png">
+        <param key="offset" value="-18,50"/>
+      </asset>
+      <asset name="h_std_ca_7829_2_0" mimeType="image/png">
+        <param key="offset" value="-20,46"/>
+      </asset>
+      <asset name="h_std_ca_7829_1_0" mimeType="image/png">
+        <param key="offset" value="-25,45"/>
+      </asset>
+      <asset name="h_std_ca_7829_0_0" mimeType="image/png">
+        <param key="offset" value="-29,44"/>
+      </asset>
+      <asset name="h_lay_ca_7828_2_0" mimeType="image/png">
+        <param key="offset" value="1,22"/>
+      </asset>
+      <asset name="h_lay_ca_7829_2_0" mimeType="image/png">
+        <param key="offset" value="0,21"/>
+      </asset>
+    </assets>
+  </library>
+</manifest>

@@ -17,6 +17,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -27,6 +29,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-4" dd="0" />
@@ -36,6 +40,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-2" dd="0" />
@@ -45,6 +51,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -54,6 +62,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -64,6 +74,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -73,6 +85,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
@@ -82,6 +96,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
@@ -91,6 +107,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -100,6 +118,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -110,6 +130,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -119,6 +141,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-4" dd="0" />
@@ -128,6 +152,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-2" dd="0" />
@@ -137,6 +163,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -146,6 +174,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -156,6 +186,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-2" dd="0" />
@@ -165,6 +197,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-1" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-1" dd="0" />
@@ -174,6 +208,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="2" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="0" dd="0" />
@@ -185,6 +221,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -194,6 +232,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
@@ -203,6 +243,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
@@ -212,6 +254,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -221,6 +265,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -231,6 +277,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -240,6 +288,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-4" dd="0" />
@@ -249,6 +299,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-2" dd="0" />
@@ -258,6 +310,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -267,6 +321,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -277,6 +333,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -286,6 +344,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
@@ -295,6 +355,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
@@ -304,6 +366,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -313,6 +377,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -323,6 +389,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-2" dd="0" />
@@ -332,6 +400,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-1" dd="0" />
@@ -341,6 +411,8 @@
 		<bodypart id="leftarm" action="CarryItem" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="-2" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="0" dd="0" />
@@ -351,6 +423,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -360,6 +434,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-4" dd="0" />
@@ -369,6 +445,8 @@
 		<bodypart id="leftarm" action="Wave" frame="1" dx="2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="1" dx="2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-2" dd="0" />
@@ -378,6 +456,8 @@
 		<bodypart id="leftarm" action="Wave" frame="1" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="1" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -387,6 +467,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -397,6 +479,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -406,6 +490,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-4" dd="0" />
@@ -415,6 +501,8 @@
 		<bodypart id="leftarm" action="Wave" frame="1" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="1" dx="-2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-2" dd="0" />
@@ -424,6 +512,8 @@
 		<bodypart id="leftarm" action="Wave" frame="10" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="10" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -433,6 +523,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -443,6 +535,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-1" dd="0" />
@@ -452,6 +546,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-4" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-4" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-4" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-4" dd="0" />
@@ -461,6 +557,8 @@
 		<bodypart id="leftarm" action="Wave" frame="1" dx="2" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="1" dx="2" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="0" dx="2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="2" dy="-3" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="2" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="2" dy="-2" dd="0" />
@@ -470,6 +568,8 @@
 		<bodypart id="leftarm" action="Wave" frame="1" dx="0" dy="1" dd="0" />
 		<bodypart id="petl" action="Move" frame="1" dx="0" dy="1" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="1" dd="0" />
@@ -479,6 +579,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="0" dd="0" />
@@ -489,6 +591,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="0" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="0" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="0" dy="-1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="0" dy="-2" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="0" dy="-2" dd="0" />
@@ -498,6 +602,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="torso" action="Move" frame="2" dx="-2" dy="-2" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="-2" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="-1" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="-1" dd="0" />
@@ -507,6 +613,8 @@
 		<bodypart id="leftarm" action="Wave" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="petl" action="Move" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="torso" action="Default" frame="0" dx="-2" dy="0" dd="0" />
+		<bodypart id="top" action="Default" frame="0" frameSource="counter" dx="-2" dy="0" dd="0" />
+		<bodypart id="bottom" action="Default" frame="0" frameSource="counter" dx="-2" dy="0" dd="0" />
 		<bodypart id="head" action="Default" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="rightarm" action="CarryItem" frame="0" dx="-2" dy="0" dd="0" />
 		<bodypart id="petr" action="Move" frame="0" dx="-2" dy="0" dd="0" />
